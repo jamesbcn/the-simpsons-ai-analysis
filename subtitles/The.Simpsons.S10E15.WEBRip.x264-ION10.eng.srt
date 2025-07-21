@@ -1,0 +1,2170 @@
+1
+00:00:02,293 --> 00:00:06,673
+CHORUS: <i>♪ The Simpsons ♪ </i>
+
+2
+00:00:06,756 --> 00:00:09,176
+(theme music playing)
+
+3
+00:00:17,183 --> 00:00:20,023
+(bell ringing)
+
+4
+00:00:23,732 --> 00:00:25,322
+(siren blaring)
+
+5
+00:00:29,738 --> 00:00:31,358
+(beeping)
+
+6
+00:00:38,538 --> 00:00:43,538
+(playing the blues)
+
+7
+00:00:46,546 --> 00:00:48,006
+(tires screeching)
+
+8
+00:00:58,975 --> 00:00:59,925
+(honking horn)
+
+9
+00:01:04,355 --> 00:01:06,225
+D'oh! (screams)
+
+10
+00:01:10,403 --> 00:01:11,953
+(all screaming)
+
+11
+00:01:24,167 --> 00:01:27,207
+{\an8}(all singing)
+<i>♪ We're proud to be teachers ♪</i>
+
+12
+00:01:27,295 --> 00:01:30,255
+{\an8}<i>♪ Knowledge is our game ♪</i>
+
+13
+00:01:30,340 --> 00:01:33,430
+{\an8}<i>♪ But we'd sell our mothers ♪</i>
+
+14
+00:01:33,510 --> 00:01:35,300
+{\an8}<i>♪ For 15 minutes of... ♪</i>
+
+15
+00:01:35,386 --> 00:01:36,846
+{\an8}<i>♪ Fame! ♪</i>
+
+16
+00:01:36,930 --> 00:01:40,180
+{\an8}<i>♪ Not gonna teach forever ♪</i>
+
+17
+00:01:40,266 --> 00:01:41,936
+{\an8}<i>♪ Gonna give showbiz a try ♪</i>
+
+18
+00:01:42,018 --> 00:01:43,228
+{\an8}<i>♪ Try! ♪</i>
+
+19
+00:01:43,311 --> 00:01:45,021
+{\an8}I didn't think it was physically possible,
+
+20
+00:01:45,105 --> 00:01:47,145
+{\an8}but this both sucks and blows.
+
+21
+00:01:47,232 --> 00:01:50,192
+{\an8}("Shave and a Haircut" playing)
+
+22
+00:01:50,276 --> 00:01:53,276
+{\an8}<i>♪ That's fame! ♪</i>
+
+23
+00:01:53,363 --> 00:01:54,743
+{\an8}(applause)
+
+24
+00:01:56,658 --> 00:01:57,778
+{\an8}(chuckling)
+
+25
+00:01:57,867 --> 00:01:59,907
+{\an8}Whew! Mercy!
+
+26
+00:01:59,994 --> 00:02:01,044
+{\an8}Good evening.
+
+27
+00:02:01,121 --> 00:02:03,671
+{\an8}Our old friend Noah Webster
+defines laughter
+
+28
+00:02:03,748 --> 00:02:07,128
+{\an8}as the act or sound of laughing.
+
+29
+00:02:07,210 --> 00:02:09,210
+{\an8}-NELSON: Ha-ha!
+-(chuckling)
+
+30
+00:02:09,295 --> 00:02:10,795
+{\an8}Well-illustrated, Nelson.
+
+31
+00:02:10,880 --> 00:02:14,300
+{\an8}And now fasten your funny bones
+for groundskeeper--
+
+32
+00:02:14,384 --> 00:02:17,514
+{\an8}Oh, or should I say "Grinskeeper"?
+
+33
+00:02:17,595 --> 00:02:20,055
+{\an8}No, I'm sorry. Groundskeeper
+was correct. Willie!
+
+34
+00:02:20,140 --> 00:02:23,430
+{\an8}(playing "My Bonnie")
+
+35
+00:02:23,518 --> 00:02:26,148
+{\an8}How many of ya hail
+from the fair city of Edinburgh?
+
+36
+00:02:28,439 --> 00:02:30,149
+{\an8}So, have you noticed
+
+37
+00:02:30,233 --> 00:02:33,783
+{\an8}how North Edinburgh
+golfers putt like this
+
+38
+00:02:33,862 --> 00:02:37,662
+{\an8}and South Edinburgh golfers
+putt like this?
+
+39
+00:02:39,284 --> 00:02:40,244
+{\an8}(man coughs)
+
+40
+00:02:40,326 --> 00:02:41,576
+{\an8}Eh?
+
+41
+00:02:41,661 --> 00:02:43,291
+{\an8}-(bagpipe honking)
+-Eh?
+
+42
+00:02:45,039 --> 00:02:46,709
+{\an8}Oh, I see.
+
+43
+00:02:46,791 --> 00:02:49,541
+{\an8}Willie's not funny
+unless he's down on his knees
+
+44
+00:02:49,627 --> 00:02:51,957
+{\an8}scooping up your little brats' puke!
+
+45
+00:02:52,046 --> 00:02:54,376
+{\an8}(laughing)
+
+46
+00:02:54,465 --> 00:02:56,755
+{\an8}-Thank you. You've been great.
+-(applause)
+
+47
+00:02:56,843 --> 00:02:58,263
+{\an8}(mid-tempo jazz bass intro)
+
+48
+00:02:58,344 --> 00:03:00,184
+{\an8}<i>♪ You give me fever ♪</i>
+
+49
+00:03:00,263 --> 00:03:01,473
+{\an8}(pop)
+
+50
+00:03:01,556 --> 00:03:02,806
+{\an8}<i>♪ When you touch me ♪</i>
+
+51
+00:03:02,891 --> 00:03:04,811
+{\an8}<i>♪ Fever when you hold me tight ♪</i>
+
+52
+00:03:04,893 --> 00:03:06,063
+-(pop)
+-(audience members groaning)
+
+53
+00:03:06,144 --> 00:03:08,154
+<i>♪ Fever! Ha! ♪</i>
+
+54
+00:03:08,229 --> 00:03:10,769
+-Kill me.
+-(popping)
+
+55
+00:03:10,857 --> 00:03:14,397
+Well, Seymour, it seems
+we've put together a baseball team,
+
+56
+00:03:14,485 --> 00:03:17,525
+and I was wondering, who's on first?
+
+57
+00:03:17,614 --> 00:03:20,494
+Yes, not the pronoun but rather a player
+
+58
+00:03:20,575 --> 00:03:23,155
+with the unlikely name
+of "Who" is on first.
+
+59
+00:03:23,244 --> 00:03:25,124
+Yes, well, that's just great, Seymour.
+
+60
+00:03:25,205 --> 00:03:26,495
+We've been out here six seconds.
+
+61
+00:03:26,581 --> 00:03:29,211
+You've already managed
+to blow the routine.
+
+62
+00:03:29,292 --> 00:03:30,592
+(muttering) Sexless freak.
+
+63
+00:03:32,253 --> 00:03:34,463
+(laughing)
+
+64
+00:03:34,547 --> 00:03:37,337
+Well, it seems as though
+we're just about at the halfway point.
+
+65
+00:03:37,425 --> 00:03:38,755
+So why don't we call it intermission?
+
+66
+00:03:38,843 --> 00:03:40,143
+(overlapping conversations)
+
+67
+00:03:40,220 --> 00:03:41,890
+Oh! Don't go too far.
+
+68
+00:03:41,971 --> 00:03:44,181
+If you like cafeteria workers
+in Beatle wigs
+
+69
+00:03:44,265 --> 00:03:45,975
+with tennis racket guitars,
+
+70
+00:03:46,059 --> 00:03:47,849
+you won't want to miss the second half.
+
+71
+00:03:47,936 --> 00:03:50,056
+-Oh, no! No!
+-(shouting)
+
+72
+00:03:52,273 --> 00:03:53,233
+You drive. I eat.
+
+73
+00:03:54,609 --> 00:03:57,239
+Dad, you were supposed to pay
+for those snacks.
+
+74
+00:03:57,320 --> 00:03:59,530
+I saw Krabappel's butt. I paid.
+
+75
+00:04:01,115 --> 00:04:02,825
+(tires screeching, honking horns)
+
+76
+00:04:02,909 --> 00:04:04,289
+Whoopsie.
+
+77
+00:04:04,369 --> 00:04:05,619
+Hmm. This could take a minute.
+
+78
+00:04:05,703 --> 00:04:07,083
+There's an opening, Mom.
+
+79
+00:04:07,163 --> 00:04:08,543
+I don't know.
+
+80
+00:04:08,623 --> 00:04:11,213
+I hate to change lanes once I get going.
+
+81
+00:04:11,292 --> 00:04:13,132
+That's really for race car drivers.
+
+82
+00:04:13,211 --> 00:04:14,211
+Mom, to your left.
+
+83
+00:04:14,295 --> 00:04:15,835
+He's letting you in. Go!
+
+84
+00:04:15,922 --> 00:04:17,472
+-LISA: Come on, Mom!
+-HOMER: Gun it, woman.
+
+85
+00:04:17,548 --> 00:04:22,048
+No, no. As soon as I get over,
+that lane will stop moving.
+
+86
+00:04:22,136 --> 00:04:24,926
+Erma Bombeck said so,
+and Dave Barry agrees.
+
+87
+00:04:27,016 --> 00:04:29,846
+Oh! You suck, Marge.
+
+88
+00:04:29,936 --> 00:04:31,266
+(engine roaring)
+
+89
+00:04:31,354 --> 00:04:33,824
+-(honking)
+-Come on, move it, you clowns!
+
+90
+00:04:33,898 --> 00:04:36,108
+What in blazes...
+
+91
+00:04:41,531 --> 00:04:43,781
+So long, schlubs!
+
+92
+00:04:43,866 --> 00:04:46,326
+Wow. Did you see that thing, Marge?
+
+93
+00:04:46,411 --> 00:04:48,291
+So powerful, so commanding.
+
+94
+00:04:49,372 --> 00:04:51,292
+So forceful and raw.
+
+95
+00:04:51,374 --> 00:04:54,924
+It didn't ask. It just took.
+
+96
+00:04:55,003 --> 00:04:59,343
+(over PA system) <i>♪ Canyonero ♪ </i>
+
+97
+00:04:59,424 --> 00:05:00,934
+<i>♪ Canyonero ♪</i>
+
+98
+00:05:01,009 --> 00:05:04,139
+(moaning)
+
+99
+00:05:04,220 --> 00:05:06,430
+Oh, Canyonero...
+
+100
+00:05:06,514 --> 00:05:08,604
+(chuckling) Go ahead. Drool all you want.
+
+101
+00:05:08,683 --> 00:05:09,893
+You can't hurt that finish.
+
+102
+00:05:09,976 --> 00:05:12,806
+Now, rainwater,
+that'll strip it right off.
+
+103
+00:05:12,895 --> 00:05:14,515
+Ah, I shouldn't have said that.
+
+104
+00:05:14,605 --> 00:05:16,185
+Come on, Gil.
+
+105
+00:05:16,274 --> 00:05:17,864
+Hey, a red one!
+
+106
+00:05:17,942 --> 00:05:20,112
+(laughing)
+
+107
+00:05:20,194 --> 00:05:22,574
+Can I buy that? Please?
+
+108
+00:05:22,655 --> 00:05:25,025
+Well, if you-you... Dah... Wha... Really?
+
+109
+00:05:25,116 --> 00:05:28,906
+Wow! Ha! Hot dog! A sale!
+
+110
+00:05:28,995 --> 00:05:30,615
+(laughing)
+
+111
+00:05:32,206 --> 00:05:33,416
+I'll take it from here, Gil.
+
+112
+00:05:33,499 --> 00:05:36,169
+No, wait! Ah, no, you can't take my sale.
+
+113
+00:05:36,252 --> 00:05:39,172
+My wife's going to leave me
+if I don't start bringing in the green.
+
+114
+00:05:39,255 --> 00:05:42,085
+Come on. Let me have this one, Stan.
+I'm begging you.
+
+115
+00:05:42,175 --> 00:05:45,045
+Look at me. I'm begging you, Stan.
+
+116
+00:05:45,136 --> 00:05:47,096
+Mm-hmm. Let's go write this up shall we?
+
+117
+00:05:51,059 --> 00:05:53,389
+Honey, you should've seen me
+with my last customer.
+
+118
+00:05:53,478 --> 00:05:57,438
+I... No, but I came so close.
+This guy was a...
+
+119
+00:05:58,107 --> 00:05:59,777
+Whose voice is that?
+
+120
+00:05:59,859 --> 00:06:01,109
+Is that Fred?
+
+121
+00:06:01,194 --> 00:06:03,364
+Ah, you said it was over.
+
+122
+00:06:03,446 --> 00:06:04,566
+No, don't put him on.
+
+123
+00:06:04,655 --> 00:06:06,905
+It... Hello, Fred. Hi.
+
+124
+00:06:08,743 --> 00:06:11,583
+OK, you've got the undercoating,
+clear coating, rustproofing,
+
+125
+00:06:11,662 --> 00:06:14,042
+under guard spray, gravel guard XJ,
+
+126
+00:06:14,123 --> 00:06:15,333
+Vita-Seal, Repels-It
+
+127
+00:06:15,416 --> 00:06:17,286
+but if you want to protect the paint,
+
+128
+00:06:17,377 --> 00:06:19,627
+you better keep it in this tent.
+
+129
+00:06:19,712 --> 00:06:20,802
+Will do.
+
+130
+00:06:20,880 --> 00:06:22,550
+OK. Here's how your lease breaks down,
+
+131
+00:06:22,632 --> 00:06:25,842
+this is your down payment.
+Then here's your monthly.
+
+132
+00:06:25,927 --> 00:06:27,507
+And there's your weekly.
+
+133
+00:06:27,595 --> 00:06:28,885
+And that's it, right?
+
+134
+00:06:28,971 --> 00:06:31,521
+Yep. Oh, then after
+your final monthly payment,
+
+135
+00:06:31,599 --> 00:06:34,099
+there's the routine CBP,
+or crippling balloon payment.
+
+136
+00:06:34,185 --> 00:06:35,435
+But that's not for a while, right?
+
+137
+00:06:35,520 --> 00:06:36,600
+Right.
+
+138
+00:06:36,687 --> 00:06:38,057
+Sweet.
+
+139
+00:06:40,942 --> 00:06:43,242
+-Whoo! Hello!
+-Hey, baby!
+
+140
+00:06:44,987 --> 00:06:46,777
+Whoops. Oh, sorry, Homer.
+
+141
+00:06:46,864 --> 00:06:50,034
+We thought you were one of those
+hot-to-trot soccer moms.
+
+142
+00:06:50,118 --> 00:06:52,908
+Yeah, you don' see many men
+driving the "F" series.
+
+143
+00:06:52,995 --> 00:06:54,705
+Huh?
+
+144
+00:06:54,789 --> 00:06:56,869
+See? Instead of a cigarette lighter,
+
+145
+00:06:56,958 --> 00:06:59,288
+it's got a lipstick holder.
+
+146
+00:06:59,377 --> 00:07:00,337
+(gasps)
+
+147
+00:07:00,420 --> 00:07:02,800
+Ah, crap! It's a girl's car.
+
+148
+00:07:02,880 --> 00:07:04,420
+I can't drive this.
+
+149
+00:07:04,507 --> 00:07:07,217
+Oh, sure, you can, dollface.
+
+150
+00:07:07,301 --> 00:07:08,471
+-(kissing noises)
+-(chuckles)
+
+151
+00:07:08,553 --> 00:07:11,353
+Pretty thing like you
+can do whatever she wants.
+
+152
+00:07:11,431 --> 00:07:13,271
+(laughing)
+
+153
+00:07:13,349 --> 00:07:15,639
+Shut up! Screw you guys!
+
+154
+00:07:15,726 --> 00:07:17,936
+(tires screeching)
+
+155
+00:07:18,020 --> 00:07:21,940
+Lousy F series. Frilly, girly, fruity car.
+
+156
+00:07:22,024 --> 00:07:24,364
+Where's your keys?
+I'm taking your car to work.
+
+157
+00:07:24,444 --> 00:07:28,704
+You cashed in your 401(k)
+to buy that stupid Canyonero.
+
+158
+00:07:28,781 --> 00:07:30,371
+Why can't you drive it?
+
+159
+00:07:30,450 --> 00:07:31,870
+Are you saying I'm gay?
+
+160
+00:07:31,951 --> 00:07:33,291
+Because, if that's what you think,
+
+161
+00:07:33,369 --> 00:07:34,999
+then just come right out and say it.
+
+162
+00:07:35,079 --> 00:07:36,459
+I don't think you're gay.
+
+163
+00:07:36,539 --> 00:07:38,879
+I just have to do my grocery shopping.
+
+164
+00:07:38,958 --> 00:07:40,458
+Now, please, give me my keys.
+
+165
+00:07:40,543 --> 00:07:42,303
+Fine.
+
+166
+00:07:42,378 --> 00:07:45,718
+(humming)
+
+167
+00:07:45,798 --> 00:07:48,008
+-(electrical crackling)
+-(giggles)
+
+168
+00:07:48,092 --> 00:07:49,472
+-(tires screeching)
+-Ha-ha! Sucker!
+
+169
+00:07:49,552 --> 00:07:50,392
+(groans)
+
+170
+00:07:53,347 --> 00:07:54,677
+Good Lord.
+
+171
+00:07:56,642 --> 00:07:58,982
+How am I supposed to get in this beast?
+
+172
+00:08:00,021 --> 00:08:01,361
+(mechanical whirring)
+
+173
+00:08:01,439 --> 00:08:04,189
+Hmm. Well, that's a nice feature.
+
+174
+00:08:06,444 --> 00:08:08,454
+Not much headroom, though.
+
+175
+00:08:08,529 --> 00:08:09,819
+Ooh!
+
+176
+00:08:09,906 --> 00:08:12,616
+Oh, I guess I can drive it
+for a little while.
+
+177
+00:08:13,618 --> 00:08:16,158
+But, Mom, I read that sport
+utility vehicles are more likely
+
+178
+00:08:16,245 --> 00:08:18,155
+to be involved in fatal accidents.
+
+179
+00:08:18,247 --> 00:08:19,707
+Fatal to the people in the other car.
+
+180
+00:08:19,790 --> 00:08:20,630
+Let's roll.
+
+181
+00:08:20,708 --> 00:08:22,208
+Hang on, the manual says
+
+182
+00:08:22,293 --> 00:08:25,303
+I need to log on to the onboard computer.
+
+183
+00:08:25,379 --> 00:08:27,469
+M-A-R-G-E.
+
+184
+00:08:27,548 --> 00:08:28,928
+FEMALE VOICE: <i>Hello, Marge. </i>
+
+185
+00:08:29,008 --> 00:08:30,588
+<i>Where would you like to go today?</i>
+
+186
+00:08:30,676 --> 00:08:32,176
+(gasps)
+
+187
+00:08:32,261 --> 00:08:34,851
+No one has ever asked me that
+before in my life.
+
+188
+00:08:35,264 --> 00:08:36,474
+(tires screeching)
+
+189
+00:08:37,642 --> 00:08:38,812
+Well, that's a first.
+
+190
+00:08:38,893 --> 00:08:41,733
+I've never been able
+to fit 32 grocery bags
+
+191
+00:08:41,812 --> 00:08:44,022
+into one car before.
+
+192
+00:08:44,106 --> 00:08:47,236
+Eww, why is Courtney Love
+on the Wheaties box?
+
+193
+00:08:47,318 --> 00:08:49,358
+Hmm. I thought it was Sandy Duncan.
+
+194
+00:08:49,445 --> 00:08:51,065
+Uh-oh. Gridlock at 12 o'clock.
+
+195
+00:08:51,155 --> 00:08:54,445
+(horns honking)
+
+196
+00:08:57,286 --> 00:08:59,076
+Oh, crud.
+
+197
+00:08:59,163 --> 00:09:01,213
+And we're so close to the house.
+
+198
+00:09:01,290 --> 00:09:03,040
+Um, I don't want to alarm you,
+
+199
+00:09:03,125 --> 00:09:05,285
+but the ice cream's starting to go south.
+
+200
+00:09:05,378 --> 00:09:08,088
+(slurping)
+
+201
+00:09:08,172 --> 00:09:11,052
+Hmm. Mm-hmm. (gagging)
+
+202
+00:09:11,133 --> 00:09:12,433
+Hey, give me some of that.
+
+203
+00:09:12,510 --> 00:09:13,390
+(screams)
+
+204
+00:09:13,469 --> 00:09:16,179
+Mom, Bart sprayed whipped cream in my eye!
+
+205
+00:09:16,264 --> 00:09:17,394
+I did not.
+
+206
+00:09:17,473 --> 00:09:18,313
+(screams)
+
+207
+00:09:18,391 --> 00:09:19,771
+(both grunting)
+
+208
+00:09:19,850 --> 00:09:20,980
+(yelling)
+
+209
+00:09:21,060 --> 00:09:23,190
+Kids, cut it out!
+
+210
+00:09:23,271 --> 00:09:24,901
+(sighs) All right.
+
+211
+00:09:24,981 --> 00:09:25,941
+Hey!
+
+212
+00:09:26,023 --> 00:09:28,443
+Come on, Mom, just cut across the field.
+
+213
+00:09:28,526 --> 00:09:32,066
+Oh, I don't know. It doesn't seem right.
+
+214
+00:09:32,154 --> 00:09:34,284
+Huh! Do you want to spend
+your whole life doing what's right?
+
+215
+00:09:34,365 --> 00:09:36,025
+Of course not.
+
+216
+00:09:38,744 --> 00:09:39,914
+Let's do it.
+
+217
+00:09:39,996 --> 00:09:42,746
+(man singing country music)
+
+218
+00:09:42,832 --> 00:09:44,542
+(tires screeching)
+
+219
+00:09:44,625 --> 00:09:45,455
+BART: Whoa!
+
+220
+00:09:45,543 --> 00:09:47,133
+You the man, Mom!
+
+221
+00:09:47,211 --> 00:09:48,751
+Out of my way, nature!
+
+222
+00:09:48,838 --> 00:09:50,168
+(panicked chittering)
+
+223
+00:09:51,340 --> 00:09:54,300
+MARGE: <i>♪ Canyonero! ♪ </i>
+
+224
+00:09:59,890 --> 00:10:00,930
+(gasps)
+
+225
+00:10:02,310 --> 00:10:04,980
+Look at me, Lis.
+I'm Baron von Chickenpants.
+
+226
+00:10:05,062 --> 00:10:07,402
+(clucking)
+
+227
+00:10:07,481 --> 00:10:09,531
+Bart, that's tomorrow night's dinner.
+
+228
+00:10:09,609 --> 00:10:11,359
+You're tomorrow night's dinner.
+
+229
+00:10:11,444 --> 00:10:15,364
+Mom! Bart took what I said
+and turned it into an insult!
+
+230
+00:10:15,448 --> 00:10:17,118
+That's nice, dear.
+
+231
+00:10:17,199 --> 00:10:19,619
+OK, Mr. Peanut,
+you think you can keep...
+
+232
+00:10:21,454 --> 00:10:24,294
+(stammering)
+
+233
+00:10:24,373 --> 00:10:26,423
+A three-chambered peanut.
+
+234
+00:10:26,500 --> 00:10:28,210
+Marge, look what I did!
+
+235
+00:10:28,294 --> 00:10:30,174
+Come quick! Hurry!
+
+236
+00:10:30,254 --> 00:10:31,264
+Marge?
+
+237
+00:10:32,423 --> 00:10:33,553
+Marge?
+
+238
+00:10:34,967 --> 00:10:36,887
+Marge, you've been out there all morning.
+
+239
+00:10:36,969 --> 00:10:39,929
+-So?
+-So lying on the couch and eating stuff
+
+240
+00:10:40,014 --> 00:10:42,024
+isn't the same
+if you aren't around to see it.
+
+241
+00:10:42,099 --> 00:10:44,439
+I'll come watch you
+do nothing after I try out
+
+242
+00:10:44,518 --> 00:10:47,558
+my new high-intensity halogen headlights.
+
+243
+00:10:50,691 --> 00:10:52,441
+(snickering)
+
+244
+00:10:52,526 --> 00:10:55,066
+Nobody will ever cut me off again.
+
+245
+00:10:55,154 --> 00:10:57,374
+Oh, please come in.
+
+246
+00:10:57,448 --> 00:11:00,278
+Maggie smells bad,
+and the cat wants something
+
+247
+00:11:00,368 --> 00:11:01,408
+but I don't know what.
+
+248
+00:11:02,495 --> 00:11:03,825
+I'm almost done.
+
+249
+00:11:03,913 --> 00:11:06,463
+And tell Bart to get out of my purse.
+
+250
+00:11:07,833 --> 00:11:11,253
+(inaudible dialogue)
+
+251
+00:11:15,841 --> 00:11:17,681
+MARGE: SUV. Coming through.
+
+252
+00:11:17,760 --> 00:11:19,760
+Open up for Marge.
+
+253
+00:11:19,845 --> 00:11:20,885
+Thank you.
+
+254
+00:11:20,971 --> 00:11:22,891
+Thank... Whoa.
+
+255
+00:11:22,973 --> 00:11:25,733
+And daylight. Come on. Come on.
+
+256
+00:11:25,810 --> 00:11:26,810
+(horn honking)
+
+257
+00:11:26,894 --> 00:11:29,274
+Jeez, try the gas pedal, grandma.
+
+258
+00:11:29,355 --> 00:11:31,475
+It's right there next to the brake.
+
+259
+00:11:32,525 --> 00:11:35,435
+Oh, for god's sake. Go back to New Jersey.
+
+260
+00:11:39,782 --> 00:11:42,952
+(exasperated grunting)
+
+261
+00:11:43,035 --> 00:11:45,575
+-(horn honking)
+-Come on! Come on!
+
+262
+00:11:45,663 --> 00:11:47,163
+Get that corpse off the road!
+
+263
+00:11:47,248 --> 00:11:49,458
+The streets are for the living.
+
+264
+00:11:49,542 --> 00:11:50,882
+-(tires screeching)
+-(people screaming)
+
+265
+00:11:50,960 --> 00:11:53,090
+Slow down, you maniac!
+
+266
+00:11:53,170 --> 00:11:55,420
+Show some respect
+for this coffin full of bricks
+
+267
+00:11:55,506 --> 00:11:58,296
+representing a young man lost at sea!
+
+268
+00:11:59,969 --> 00:12:01,049
+Hey!
+
+269
+00:12:01,137 --> 00:12:02,467
+(siren wails)
+
+270
+00:12:03,764 --> 00:12:06,104
+Oh, great. What'd I do?
+
+271
+00:12:08,811 --> 00:12:10,191
+This better be important.
+
+272
+00:12:10,271 --> 00:12:12,571
+Can the sweet talk, Thelma and Louise.
+
+273
+00:12:12,648 --> 00:12:14,648
+You have a serious mental illness.
+
+274
+00:12:14,734 --> 00:12:17,654
+The technical term is "road rage."
+
+275
+00:12:17,737 --> 00:12:20,657
+I'll see you tomorrow morning
+at traffic school, speedy.
+
+276
+00:12:20,740 --> 00:12:23,450
+And you got exactly five seconds
+to get out of my sight.
+
+277
+00:12:23,534 --> 00:12:24,544
+LISA: Oh.
+
+278
+00:12:24,618 --> 00:12:26,328
+(tires screeching)
+
+279
+00:12:26,412 --> 00:12:29,422
+Oh, why are the pretty ones always insane?
+
+280
+00:12:34,712 --> 00:12:37,052
+OK, I assume you all know
+why you're here.
+
+281
+00:12:38,424 --> 00:12:39,514
+That's right.
+
+282
+00:12:39,592 --> 00:12:42,302
+-You're all angry sick people.
+-(grumbling)
+
+283
+00:12:42,386 --> 00:12:44,886
+But over these next eight hours,
+
+284
+00:12:44,972 --> 00:12:47,682
+you will be broken down
+to the level of infants,
+
+285
+00:12:47,767 --> 00:12:50,847
+then rebuilt as functional members of
+society,
+
+286
+00:12:50,936 --> 00:12:53,896
+then broken down again, then lunch,
+
+287
+00:12:53,981 --> 00:12:56,691
+then, if there's time, rebuilt once more.
+
+288
+00:12:56,776 --> 00:12:57,856
+All right, roll it, Lou.
+
+289
+00:13:02,239 --> 00:13:04,369
+<i>Hello. I'm Sergeant Crew,</i>
+
+290
+00:13:04,450 --> 00:13:06,080
+<i>and I'm here to talk to you about...</i>
+
+291
+00:13:06,786 --> 00:13:10,366
+<i>road... rage.</i>
+
+292
+00:13:10,456 --> 00:13:13,786
+-Duh.
+-Quiet, fatso. The sergeant's talking.
+
+293
+00:13:14,376 --> 00:13:15,376
+Go on, dear.
+
+294
+00:13:15,461 --> 00:13:18,461
+<i>In these modern hectic days of fast food,</i>
+
+295
+00:13:18,547 --> 00:13:20,967
+<i>answering machines, and one-night stands,</i>
+
+296
+00:13:21,050 --> 00:13:23,050
+<i>people are getting angrier.</i>
+
+297
+00:13:23,135 --> 00:13:25,345
+<i>Now, what you're about</i>
+<i>to see is not pretty.</i>
+
+298
+00:13:28,849 --> 00:13:30,429
+<i>Cut me off, will ya?</i>
+
+299
+00:13:30,518 --> 00:13:31,518
+<i>Yah!</i>
+
+300
+00:13:31,602 --> 00:13:32,732
+(grunting)
+
+301
+00:13:32,812 --> 00:13:34,022
+(horn honking)
+
+302
+00:13:34,104 --> 00:13:36,074
+<i>Learn to drive, dimwit!</i>
+
+303
+00:13:37,650 --> 00:13:39,820
+<i>I sentence you to kiss my ass!</i>
+
+304
+00:13:39,902 --> 00:13:42,452
+(screaming)
+
+305
+00:13:42,530 --> 00:13:44,740
+<i>Look familiar? It should.</i>
+
+306
+00:13:44,824 --> 00:13:46,914
+<i>Anger is what makes America great,</i>
+
+307
+00:13:46,992 --> 00:13:50,202
+<i>but you must find</i>
+<i>the proper outlet for your rage.</i>
+
+308
+00:13:50,287 --> 00:13:52,457
+<i>Fire a weapon at your television screen,</i>
+
+309
+00:13:52,540 --> 00:13:54,750
+<i>pick a fight with someone weaker than you,</i>
+
+310
+00:13:54,834 --> 00:13:57,964
+<i>or write a threatening letter</i>
+<i>to a celebrity.</i>
+
+311
+00:13:58,045 --> 00:14:00,205
+<i>So, when you go out for a drive,</i>
+
+312
+00:14:00,297 --> 00:14:03,757
+<i>remember to leave your murderous anger</i>
+<i>where it belongs...</i>
+
+313
+00:14:03,843 --> 00:14:04,683
+<i>at home.</i>
+
+314
+00:14:07,555 --> 00:14:08,385
+(applause)
+
+315
+00:14:08,472 --> 00:14:10,432
+And, as if that film wasn't enough,
+
+316
+00:14:10,516 --> 00:14:12,016
+we have a special guest.
+
+317
+00:14:12,101 --> 00:14:14,481
+Why, it's Curtis E. Bear--
+
+318
+00:14:14,562 --> 00:14:16,402
+The Courtesy Bear.
+
+319
+00:14:16,480 --> 00:14:18,190
+(hums)
+
+320
+00:14:18,274 --> 00:14:19,824
+For the next three hours,
+
+321
+00:14:19,900 --> 00:14:22,700
+this bear will take
+your verbal and physical abuse
+
+322
+00:14:22,778 --> 00:14:24,488
+with good nature and aplomb.
+
+323
+00:14:24,572 --> 00:14:28,032
+So, if you'll all just grab
+one of these two-by-fours...
+
+324
+00:14:28,117 --> 00:14:31,117
+Uh, Chief, can I
+at least shield my crotch?
+
+325
+00:14:31,203 --> 00:14:33,123
+Bears can't talk, Kenny.
+
+326
+00:14:33,205 --> 00:14:36,495
+-(yelling) Oh, yeah!
+-(Kenny groaning)
+
+327
+00:14:37,835 --> 00:14:40,205
+(indistinct chatter)
+
+328
+00:14:40,296 --> 00:14:42,296
+Well, Simpson, did you learn
+something today?
+
+329
+00:14:42,381 --> 00:14:44,551
+Oh, did I ever.
+
+330
+00:14:44,633 --> 00:14:46,223
+And that herbal anger rinse
+
+331
+00:14:46,302 --> 00:14:48,642
+just washed the rage right out of me.
+
+332
+00:14:49,638 --> 00:14:51,848
+Uh, remember, Midge,
+you feel the need to rage,
+
+333
+00:14:51,932 --> 00:14:53,062
+you call me, right?
+
+334
+00:14:53,142 --> 00:14:55,392
+I won't even get sexual or nothing
+
+335
+00:14:55,477 --> 00:14:56,647
+unless that's what you want.
+
+336
+00:14:57,646 --> 00:14:59,016
+But that's not what you want, right?
+
+337
+00:14:59,106 --> 00:15:00,516
+No, thanks.
+
+338
+00:15:01,567 --> 00:15:02,527
+But thanks.
+
+339
+00:15:04,653 --> 00:15:06,413
+(indistinct chatter)
+
+340
+00:15:07,031 --> 00:15:08,991
+After you, sweetheart.
+
+341
+00:15:09,074 --> 00:15:11,044
+Oh, no, you first, ma'am.
+
+342
+00:15:11,118 --> 00:15:13,538
+Well, somebody go first.
+
+343
+00:15:13,621 --> 00:15:14,661
+Well, not me.
+
+344
+00:15:14,747 --> 00:15:16,327
+I'm not going until she goes.
+
+345
+00:15:16,415 --> 00:15:18,745
+Oh, for crying out loud, I...
+
+346
+00:15:18,834 --> 00:15:21,214
+Oh, oh, oh, OK. Calm down.
+
+347
+00:15:21,295 --> 00:15:22,545
+Just think.
+
+348
+00:15:22,630 --> 00:15:25,260
+What would Curtis E. Bear do?
+
+349
+00:15:25,341 --> 00:15:26,631
+(honking)
+
+350
+00:15:26,717 --> 00:15:28,837
+Move it, I got to return this suit!
+
+351
+00:15:28,928 --> 00:15:30,348
+(tires squealing)
+
+352
+00:15:31,680 --> 00:15:32,890
+Hmm.
+
+353
+00:15:34,475 --> 00:15:36,685
+Get out of the way!
+
+354
+00:15:36,769 --> 00:15:37,899
+(tires squealing)
+
+355
+00:15:37,978 --> 00:15:40,518
+Oh, no! No!
+
+356
+00:15:40,606 --> 00:15:42,186
+(horn honking)
+
+357
+00:15:42,274 --> 00:15:45,324
+(screams)
+
+358
+00:15:45,402 --> 00:15:47,532
+-Yaaah!
+-(alarm blaring)
+
+359
+00:15:47,613 --> 00:15:49,203
+We're free! We're free!
+
+360
+00:15:50,199 --> 00:15:53,369
+Whoa. Thanks, chick dude.
+
+361
+00:15:53,452 --> 00:15:54,912
+Well, I hope you're happy, Simpson.
+
+362
+00:15:54,995 --> 00:15:56,785
+Those prisoners were one day away
+
+363
+00:15:56,872 --> 00:15:59,042
+from being completely rehabilitated.
+
+364
+00:15:59,124 --> 00:16:01,094
+I'm tearing up your license.
+
+365
+00:16:03,087 --> 00:16:05,457
+Aw, jeez. Darned laminated...
+
+366
+00:16:06,048 --> 00:16:08,048
+Would you mind? I got stubby fingers.
+
+367
+00:16:08,133 --> 00:16:09,893
+(embarrassed chuckle)
+
+368
+00:16:09,969 --> 00:16:11,639
+(groans)
+
+369
+00:16:13,847 --> 00:16:14,847
+(frustrated grunt)
+
+370
+00:16:14,932 --> 00:16:17,312
+How could they take away my license?
+
+371
+00:16:17,393 --> 00:16:19,273
+It feels like I lost a limb.
+
+372
+00:16:19,353 --> 00:16:20,733
+Well, that's a turnoff.
+
+373
+00:16:20,813 --> 00:16:23,483
+Hey, why don't you come
+to the wild animal park with us?
+
+374
+00:16:23,565 --> 00:16:26,435
+No. Your father drives like an old lady.
+
+375
+00:16:26,527 --> 00:16:28,107
+At least I've got a license.
+
+376
+00:16:28,195 --> 00:16:29,735
+(grunts)
+
+377
+00:16:29,822 --> 00:16:31,572
+(quietly): Come on, kids. I went too far.
+
+378
+00:16:33,617 --> 00:16:35,827
+-(door slams)
+-(sighs)
+
+379
+00:16:35,911 --> 00:16:37,331
+(elephant trumpets)
+
+380
+00:16:40,666 --> 00:16:43,956
+Aw, what a gyp.
+They're all just lying around.
+
+381
+00:16:44,044 --> 00:16:45,174
+Do something!
+
+382
+00:16:45,254 --> 00:16:47,724
+Bart, they're not here to entertain us.
+
+383
+00:16:47,798 --> 00:16:51,008
+I've seen plays that were
+more exciting than this.
+
+384
+00:16:51,093 --> 00:16:53,353
+Honest to god. Plays!
+
+385
+00:16:55,180 --> 00:16:58,350
+I don't want to pay four bucks to watch
+some monkey wannabe laying in the sun!
+
+386
+00:16:58,434 --> 00:17:00,604
+But, Dad, lemurs are nocturnal.
+
+387
+00:17:00,686 --> 00:17:03,606
+Don't worry, honey.
+Daddy will fix that broken animal.
+
+388
+00:17:03,689 --> 00:17:04,769
+No!
+
+389
+00:17:04,857 --> 00:17:07,567
+I'm not going to hurt him.
+I'm just going to wake him up.
+
+390
+00:17:07,651 --> 00:17:09,111
+(shrieking)
+
+391
+00:17:10,404 --> 00:17:12,074
+(shrieks)
+
+392
+00:17:12,156 --> 00:17:14,366
+(roars, growls)
+
+393
+00:17:15,701 --> 00:17:18,041
+(all growl)
+
+394
+00:17:22,124 --> 00:17:24,044
+Uh-oh. Here's your slingshot, Lisa!
+
+395
+00:17:26,211 --> 00:17:29,171
+I told them a chain-link fence
+wouldn't hold rhinos.
+
+396
+00:17:29,256 --> 00:17:30,966
+Oh, wait. No, I didn't.
+
+397
+00:17:31,050 --> 00:17:32,180
+I meant to tell them.
+
+398
+00:17:41,977 --> 00:17:43,437
+(shrieks)
+
+399
+00:17:47,900 --> 00:17:52,280
+(screaming)
+
+400
+00:17:53,322 --> 00:17:55,032
+(all screaming)
+
+401
+00:17:55,574 --> 00:17:57,584
+Don't worry, kids. I know just what to do.
+
+402
+00:17:57,659 --> 00:17:59,159
+Jumanji!
+
+403
+00:17:59,244 --> 00:18:00,504
+(roaring)
+
+404
+00:18:01,622 --> 00:18:03,832
+Does anything from
+the movies actually work?
+
+405
+00:18:04,625 --> 00:18:05,955
+(grunting)
+
+406
+00:18:08,420 --> 00:18:09,840
+Aw, nuts.
+
+407
+00:18:09,922 --> 00:18:12,672
+Isn't there anybody who can round up
+these thunder lizards?
+
+408
+00:18:12,758 --> 00:18:15,258
+Well, they'd need a pretty rugged vehicle.
+
+409
+00:18:15,344 --> 00:18:17,184
+And a heart to match.
+
+410
+00:18:17,262 --> 00:18:18,182
+Hmm.
+
+411
+00:18:18,263 --> 00:18:19,813
+I'd like to help you, Chief,
+
+412
+00:18:19,890 --> 00:18:21,520
+but my license was revoked.
+
+413
+00:18:21,600 --> 00:18:24,100
+Seems I'm full of rage.
+
+414
+00:18:25,145 --> 00:18:27,515
+Then do it for this adorable little puppy.
+
+415
+00:18:27,606 --> 00:18:29,606
+Look at the puppy, Marge.
+
+416
+00:18:29,691 --> 00:18:31,781
+That's your hat.
+
+417
+00:18:31,860 --> 00:18:33,150
+She's good, Chief.
+
+418
+00:18:33,237 --> 00:18:35,197
+Now, if you'll excuse me,
+I've got some dust
+
+419
+00:18:35,280 --> 00:18:36,370
+that needs busting.
+
+420
+00:18:37,533 --> 00:18:38,663
+(people screaming)
+
+421
+00:18:38,742 --> 00:18:40,332
+<i>This is Kent Brockman at the scene</i>
+
+422
+00:18:40,410 --> 00:18:42,500
+<i>of a level-three rhino alert.</i>
+
+423
+00:18:42,579 --> 00:18:45,709
+Authorities say there's
+no immediate danger to anyone
+
+424
+00:18:45,791 --> 00:18:48,711
+except those three luckless people
+whom we'll identify
+
+425
+00:18:48,794 --> 00:18:51,214
+once the rhinos spit out their wallets.
+
+426
+00:18:51,296 --> 00:18:52,166
+(gasps)
+
+427
+00:18:52,256 --> 00:18:54,086
+Back! Back, I say!
+
+428
+00:18:57,261 --> 00:18:58,721
+Oh, no. I'm out of popcorn.
+
+429
+00:18:58,804 --> 00:19:00,264
+Throw your peanuts!
+
+430
+00:19:00,347 --> 00:19:01,847
+You throw your peanuts.
+
+431
+00:19:01,932 --> 00:19:04,312
+(all yelling)
+
+432
+00:19:05,978 --> 00:19:07,768
+-(horn honking)
+-BART: Look, it's Mom.
+
+433
+00:19:07,855 --> 00:19:09,105
+Out of the way!
+
+434
+00:19:09,189 --> 00:19:10,439
+-(horn honking)
+-Move it or lose it!
+
+435
+00:19:10,524 --> 00:19:11,694
+Get going, you!
+
+436
+00:19:11,775 --> 00:19:13,065
+(horn honking)
+
+437
+00:19:17,281 --> 00:19:19,241
+This ought to hold them.
+
+438
+00:19:19,324 --> 00:19:20,624
+There's one missing, mate.
+
+439
+00:19:20,701 --> 00:19:23,001
+If we don't find him,
+it'll be my ass on the barbie.
+
+440
+00:19:23,078 --> 00:19:24,538
+-(grunting snorts)
+-(whimpering)
+
+441
+00:19:25,831 --> 00:19:28,171
+(horn honking)
+
+442
+00:19:28,250 --> 00:19:30,460
+Get in! Get in!
+
+443
+00:19:30,544 --> 00:19:31,674
+(grunting)
+
+444
+00:19:31,753 --> 00:19:33,423
+Come on, Homer, jump!
+
+445
+00:19:33,505 --> 00:19:34,625
+(grunts)
+
+446
+00:19:34,715 --> 00:19:39,085
+Ohh, when will Detroit build
+a sunroof for the husky gentleman?
+
+447
+00:19:39,178 --> 00:19:40,428
+-(growling)
+-(Lisa gasps)
+
+448
+00:19:40,888 --> 00:19:41,808
+(tires screeching)
+
+449
+00:19:42,472 --> 00:19:44,022
+-(growling)
+-(Homer grunting)
+
+450
+00:19:44,099 --> 00:19:47,639
+(screaming) Oh, no!
+
+451
+00:19:47,728 --> 00:19:51,978
+-(whimpering)
+-(people screaming)
+
+452
+00:19:52,065 --> 00:19:54,145
+Hey, anybody seen Homer today?
+
+453
+00:19:54,234 --> 00:19:55,944
+-(screaming)
+-There he goes.
+
+454
+00:19:56,028 --> 00:19:58,028
+Oh! Ow!
+
+455
+00:19:59,072 --> 00:20:00,282
+It's not my rhino!
+
+456
+00:20:00,782 --> 00:20:01,832
+(all scream)
+
+457
+00:20:02,242 --> 00:20:03,832
+(grunts)
+
+458
+00:20:04,536 --> 00:20:05,906
+(screams)
+
+459
+00:20:05,996 --> 00:20:07,326
+Ooh!
+
+460
+00:20:08,207 --> 00:20:10,247
+Oh, thank you, God!
+
+461
+00:20:10,334 --> 00:20:13,634
+And thank you, Port-A-John.
+You really saved my...
+
+462
+00:20:13,712 --> 00:20:14,672
+(screams)
+
+463
+00:20:14,755 --> 00:20:15,755
+Who's out there?
+
+464
+00:20:17,716 --> 00:20:18,756
+(screams)
+
+465
+00:20:18,842 --> 00:20:20,642
+Oh, I'm going to die.
+
+466
+00:20:20,719 --> 00:20:23,099
+Jesus, Allah, Buddha, I love you all!
+
+467
+00:20:24,848 --> 00:20:25,718
+(growls)
+
+468
+00:20:25,807 --> 00:20:27,177
+HOMER: Nice rhino.
+
+469
+00:20:27,267 --> 00:20:29,017
+(tires squealing)
+
+470
+00:20:33,732 --> 00:20:34,862
+(gasps)
+
+471
+00:20:35,275 --> 00:20:37,275
+Oh, no! She's not going to make it!
+
+472
+00:20:37,361 --> 00:20:40,861
+Hmm. Looks like it's time for plan B.
+
+473
+00:20:40,948 --> 00:20:42,778
+One, two,
+
+474
+00:20:42,866 --> 00:20:44,906
+three... B!
+
+475
+00:20:45,535 --> 00:20:46,535
+(shrieks)
+
+476
+00:20:51,375 --> 00:20:52,955
+(growls)
+
+477
+00:20:54,169 --> 00:20:56,839
+It's OK, Homie. You can come out now.
+
+478
+00:20:56,922 --> 00:20:58,842
+HOMER: Uh, give me a minute.
+
+479
+00:21:00,259 --> 00:21:03,009
+(rhino grunting)
+
+480
+00:21:05,055 --> 00:21:08,055
+Oh, Marge, you saved me.
+
+481
+00:21:08,141 --> 00:21:11,021
+Wow. You are so much cooler
+than Milhouse's mom.
+
+482
+00:21:11,103 --> 00:21:13,113
+Yeah, way to channel that rage, Simpson.
+
+483
+00:21:13,188 --> 00:21:15,398
+How did you know
+your plan would work, Mom?
+
+484
+00:21:15,482 --> 00:21:17,112
+Thanks for asking.
+
+485
+00:21:17,192 --> 00:21:18,862
+Well, I was watching <i>Dateline, </i>
+
+486
+00:21:18,944 --> 00:21:21,784
+and Stone Phillips said
+SUVs always roll over
+
+487
+00:21:21,863 --> 00:21:23,123
+when you turn sharply
+
+488
+00:21:23,198 --> 00:21:25,698
+and the gas tanks explode
+at the drop of a hat.
+
+489
+00:21:25,784 --> 00:21:28,794
+And she also knew,
+if a rhino sees a flame,
+
+490
+00:21:28,870 --> 00:21:31,040
+he'll instinctively try to put it out.
+
+491
+00:21:31,123 --> 00:21:32,923
+Stone Phillips again.
+
+492
+00:21:33,000 --> 00:21:35,340
+Is there anything that guy doesn't know?
+
+493
+00:21:35,419 --> 00:21:38,259
+Why, this Stone Phillips
+sounds like quite a bloke.
+
+494
+00:21:38,338 --> 00:21:40,378
+What television network is he on?
+
+495
+00:21:40,465 --> 00:21:42,425
+Why, NBC, of course.
+
+496
+00:21:42,509 --> 00:21:44,299
+NBC has lots of great shows
+
+497
+00:21:44,386 --> 00:21:46,716
+and their news and sports coverage
+can't be beat.
+
+498
+00:21:46,805 --> 00:21:49,635
+Do you think there's anything great
+on NBC right now?
+
+499
+00:21:49,725 --> 00:21:51,635
+Oh, I'm sure of it.
+
+500
+00:21:51,727 --> 00:21:55,057
+But there's only one way to find out.
+
+501
+00:21:55,147 --> 00:21:57,147
+HOMER: <i>I'd like to read</i>
+<i>the following statement,</i>
+
+502
+00:21:57,232 --> 00:21:58,862
+<i>-but I do so under...</i>
+<i>-(gun </i>cocks)
+
+503
+00:21:58,942 --> 00:22:00,402
+<i>...my own free will.</i>
+
+504
+00:22:00,485 --> 00:22:02,735
+<i>''It has come to my attention</i>
+<i>that NBC sucks.</i>
+
+505
+00:22:02,821 --> 00:22:04,321
+<i>I apologize for misleading you</i>
+
+506
+00:22:04,406 --> 00:22:07,156
+<i>and urge you to watch</i>
+<i>as many Fox shows as possible."</i>
+
+507
+00:22:07,242 --> 00:22:10,582
+<i>So, in summary, NBC bad, Fox good.</i>
+
+508
+00:22:10,662 --> 00:22:11,542
+<i>CBS great.</i>
+
+509
+00:22:11,621 --> 00:22:13,291
+-(gunshot)
+-(body thuds)
+
+510
+00:22:13,373 --> 00:22:14,713
+(gunshots)
+
+511
+00:22:16,251 --> 00:22:18,841
+(theme music playing)
+
+512
+00:22:39,858 --> 00:22:41,648
+-(gunshot)
+-(body thuds)
+
+513
+00:22:41,735 --> 00:22:43,195
+(gunshots)
+
+514
+00:22:44,821 --> 00:22:46,371
+Captioned by
+Visual Data Media Services
+

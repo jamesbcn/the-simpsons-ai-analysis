@@ -1,0 +1,2307 @@
+1
+00:00:03,086 --> 00:00:06,166
+{\an8}<i>♪ The Simpsons ♪</i>
+
+2
+00:00:09,634 --> 00:00:10,934
+D'oh!
+
+3
+00:00:11,011 --> 00:00:12,471
+(screams)
+
+4
+00:00:14,514 --> 00:00:15,894
+(all screaming)
+
+5
+00:00:26,359 --> 00:00:28,319
+{\an8}ANNOUNCER: <i>Live from</i>
+<i>Springfield Penitentiary's</i>
+
+6
+00:00:28,403 --> 00:00:31,703
+{\an8}<i>fabulous big open area</i>
+<i>in cell block "D"</i>
+
+7
+00:00:31,781 --> 00:00:35,201
+<i>it's the Krusty The Clown</i>
+<i>Prison Special.</i>
+
+8
+00:00:35,285 --> 00:00:36,865
+{\an8}<i>(cheering)</i>
+
+9
+00:00:39,122 --> 00:00:40,872
+{\an8}<i>♪ I slugged</i>
+<i>some jerk in Tahoe ♪</i>
+
+10
+00:00:40,957 --> 00:00:43,247
+{\an8}<i>♪ They gave me</i>
+<i>one to three ♪</i>
+
+11
+00:00:43,334 --> 00:00:45,134
+{\an8}<i>♪ My high-priced lawyer</i>
+<i>sprung me ♪</i>
+
+12
+00:00:45,211 --> 00:00:47,381
+{\an8}<i>♪ On a technicality ♪</i>
+
+13
+00:00:47,464 --> 00:00:49,884
+{\an8}<i>♪ I'm just visiting</i>
+<i>Springfield Prison ♪</i>
+
+14
+00:00:49,966 --> 00:00:53,716
+{\an8}<i>♪ I get to sleep</i>
+<i>at home tonight ♪</i>
+
+15
+00:00:53,803 --> 00:00:54,803
+<i>(all grumbling)</i>
+
+16
+00:00:55,972 --> 00:00:57,932
+{\an8}<i>Hey, hey, I kid.</i>
+
+17
+00:00:58,016 --> 00:00:59,846
+{\an8}<i>I kid 'cause I love.</i>
+
+18
+00:00:59,934 --> 00:01:02,854
+{\an8}<i>I tell you, the best folk</i>
+<i>in the world</i>
+
+19
+00:01:02,937 --> 00:01:04,017
+{\an8}<i>are prison folk.</i>
+
+20
+00:01:04,105 --> 00:01:05,225
+{\an8}<i>(all cheering)</i>
+
+21
+00:01:05,315 --> 00:01:07,975
+{\an8}Man, those cons
+love Krusty.
+
+22
+00:01:08,068 --> 00:01:09,358
+{\an8}Inside every
+hardened criminal
+
+23
+00:01:09,444 --> 00:01:10,994
+{\an8}beats the heart of
+a ten-year-old boy.
+
+24
+00:01:11,071 --> 00:01:12,741
+{\an8}And vice versa.
+
+25
+00:01:12,822 --> 00:01:15,582
+{\an8}Just remember, Bart,
+convicts aren't cool.
+
+26
+00:01:15,658 --> 00:01:17,038
+{\an8}They're bad people.
+
+27
+00:01:17,118 --> 00:01:19,368
+{\an8}Yeah, maybe so,
+but they get the job done.
+
+28
+00:01:19,454 --> 00:01:23,374
+{\an8}<i>Hey! Now I know where</i>
+<i>my tax dollars are going.</i>
+
+29
+00:01:23,458 --> 00:01:25,748
+{\an8}<i>-Huh?</i>
+<i>-(chuckling)</i>
+
+30
+00:01:25,835 --> 00:01:28,665
+{\an8}<i>Hey, hey,</i>
+<i>it's my old TV sidekick</i>
+
+31
+00:01:28,755 --> 00:01:30,045
+{\an8}<i>Sideshow Bob.</i>
+
+32
+00:01:30,131 --> 00:01:32,221
+{\an8}<i>Why, I haven't seen you</i>
+<i>in years.</i>
+
+33
+00:01:32,300 --> 00:01:33,890
+{\an8}<i>What have you been doing</i>
+<i>with yourself, Bob?</i>
+
+34
+00:01:33,968 --> 00:01:36,348
+{\an8}<i>Well, Krusty,</i>
+<i>as you may remember,</i>
+
+35
+00:01:36,429 --> 00:01:38,009
+{\an8}<i>after I tried to frame you</i>
+<i>for armed robbery,</i>
+
+36
+00:01:38,098 --> 00:01:40,308
+{\an8}<i>I tried to murder</i>
+<i>Selma Bouvier.</i>
+
+37
+00:01:40,391 --> 00:01:42,811
+{\an8}<i>Let's see-- I rigged</i>
+<i>the mayoral elections,</i>
+
+38
+00:01:42,894 --> 00:01:45,564
+{\an8}<i>I tried to blow up Springfield</i>
+<i>with a nuclear device,</i>
+
+39
+00:01:45,647 --> 00:01:46,937
+{\an8}<i>and I tried to kill you.</i>
+
+40
+00:01:47,023 --> 00:01:48,573
+{\an8}<i>Oh, yeah, yeah.</i>
+
+41
+00:01:48,650 --> 00:01:50,030
+{\an8}<i>And whenever I could find</i>
+<i>a spare moment,</i>
+
+42
+00:01:50,110 --> 00:01:51,610
+{\an8}<i>I've tried to murder.</i>
+
+43
+00:01:51,694 --> 00:01:52,744
+{\an8}<i>Bart Simpson.</i>
+
+44
+00:01:52,821 --> 00:01:53,821
+{\an8}(yelling)
+
+45
+00:01:56,616 --> 00:01:59,946
+{\an8}He said, "tried."
+
+46
+00:02:00,036 --> 00:02:00,996
+{\an8}Someone should
+really go up there
+
+47
+00:02:01,079 --> 00:02:03,959
+{\an8}and talk to him.
+
+48
+00:02:04,040 --> 00:02:05,000
+(sighs)
+
+49
+00:02:05,083 --> 00:02:06,173
+Whew.
+
+50
+00:02:06,251 --> 00:02:07,961
+Homer!
+
+51
+00:02:08,044 --> 00:02:12,224
+Oh,
+all those stairs...
+
+52
+00:02:12,298 --> 00:02:15,968
+Oh, you have nothing
+to worry about, honey.
+
+53
+00:02:16,052 --> 00:02:17,432
+Your mother's right,
+Bart.
+
+54
+00:02:17,512 --> 00:02:19,392
+Sure, you're the one
+who ruined
+
+55
+00:02:19,472 --> 00:02:21,722
+all of Sideshow Bob's
+criminal schemes--
+
+56
+00:02:21,808 --> 00:02:23,598
+We're very proud
+of you, by the way.
+
+57
+00:02:23,685 --> 00:02:26,975
+And sure, he's probably
+so insane with rage
+
+58
+00:02:27,063 --> 00:02:29,323
+that he'd butcher you
+horribly if he could.
+
+59
+00:02:29,399 --> 00:02:31,729
+But he's
+safely locked away.
+
+60
+00:02:31,818 --> 00:02:33,568
+In a medium-security prison.
+
+61
+00:02:33,653 --> 00:02:34,783
+-For life.
+-Unless he gets out somehow.
+
+62
+00:02:34,863 --> 00:02:35,953
+Which is impossible.
+
+63
+00:02:36,030 --> 00:02:37,620
+Or so you think,
+
+64
+00:02:37,699 --> 00:02:39,779
+except he's done it
+so many times before.
+
+65
+00:02:39,868 --> 00:02:41,198
+Thanks for trying, guys,
+
+66
+00:02:41,286 --> 00:02:43,496
+but Sideshow Bob
+wants me dead,
+
+67
+00:02:43,580 --> 00:02:44,790
+and Sideshow Bob
+
+68
+00:02:44,873 --> 00:02:47,673
+is an unstoppable
+killing machine.
+
+69
+00:02:47,750 --> 00:02:49,210
+<i>♪ I once ♪</i>
+
+70
+00:02:49,294 --> 00:02:52,054
+<i>♪ Was lost ♪</i>
+
+71
+00:02:52,130 --> 00:02:55,430
+<i>♪ But now am found ♪</i>
+
+72
+00:02:55,508 --> 00:03:01,178
+<i>♪ Was blind but now I see ♪</i>
+
+73
+00:03:03,308 --> 00:03:05,268
+Well, that was
+lovely, Robert.
+
+74
+00:03:05,351 --> 00:03:08,811
+You other cons could benefit
+from his shining example.
+
+75
+00:03:08,897 --> 00:03:10,607
+(all grumbling)
+
+76
+00:03:10,690 --> 00:03:12,360
+Now, really, Reverend,
+
+77
+00:03:12,442 --> 00:03:14,402
+your praise is going
+to get me beaten up.
+
+78
+00:03:14,485 --> 00:03:16,145
+Oh, I'm sorry, Bob,
+
+79
+00:03:16,237 --> 00:03:18,817
+but your transformation
+is truly inspiring.
+
+80
+00:03:18,907 --> 00:03:20,157
+Yes.
+
+81
+00:03:20,241 --> 00:03:22,871
+I'm a good, good man.
+
+82
+00:03:22,952 --> 00:03:25,502
+You know, it's hard to believe
+this model prisoner
+
+83
+00:03:25,580 --> 00:03:26,870
+could be the same
+monstrous fiend
+
+84
+00:03:26,956 --> 00:03:28,876
+who once ran for mayor.
+
+85
+00:03:28,958 --> 00:03:31,038
+It's a pleasure
+to have recommended you
+
+86
+00:03:31,127 --> 00:03:32,837
+for the work-release
+program.
+
+87
+00:03:32,921 --> 00:03:35,881
+Me? I'm touched.
+I really am.
+
+88
+00:03:35,965 --> 00:03:38,005
+But you'll never find
+anyone willing to hire
+
+89
+00:03:38,092 --> 00:03:40,352
+a five-time loser like me.
+
+90
+00:03:40,428 --> 00:03:42,008
+I already have.
+
+91
+00:03:47,310 --> 00:03:48,650
+Cecil?
+
+92
+00:03:48,728 --> 00:03:50,098
+Is it really you?
+
+93
+00:03:50,188 --> 00:03:51,398
+Hello, brother.
+
+94
+00:03:51,481 --> 00:03:52,571
+I'm happy to see you.
+
+95
+00:03:54,484 --> 00:03:56,034
+But it's been ten years.
+
+96
+00:03:56,110 --> 00:03:58,780
+We haven't spoken
+since the...
+
+97
+00:03:58,863 --> 00:04:00,073
+unpleasantness.
+
+98
+00:04:00,156 --> 00:04:01,406
+You mean
+Arthur Fiedler's wake?
+
+99
+00:04:01,491 --> 00:04:04,041
+No, no, no.
+I mean our falling out.
+
+100
+00:04:04,118 --> 00:04:05,038
+Oh, that.
+
+101
+00:04:05,119 --> 00:04:06,999
+That's ancient history.
+
+102
+00:04:07,080 --> 00:04:08,460
+Let's make a fresh start.
+
+103
+00:04:08,539 --> 00:04:09,829
+Come work for me.
+
+104
+00:04:09,916 --> 00:04:12,036
+But this is wonderful.
+
+105
+00:04:12,126 --> 00:04:14,296
+You do know
+I used to have a--
+
+106
+00:04:14,379 --> 00:04:15,629
+(clears throat)
+
+107
+00:04:15,713 --> 00:04:17,923
+problem with trying
+to kill people?
+
+108
+00:04:18,007 --> 00:04:19,967
+Goodness, I had no idea.
+
+109
+00:04:20,051 --> 00:04:22,181
+For, you see, I have been
+on Mars for the last decade
+
+110
+00:04:22,262 --> 00:04:25,892
+in a cave with my eyes shut
+and my fingers in my ears.
+
+111
+00:04:25,974 --> 00:04:27,314
+Touché, Cecil.
+
+112
+00:04:27,392 --> 00:04:29,312
+I'm aware
+of your felonious past,
+
+113
+00:04:29,394 --> 00:04:31,444
+but you are
+still my brother,
+
+114
+00:04:31,521 --> 00:04:33,731
+and blood is thicker
+than bread and water.
+
+115
+00:04:33,815 --> 00:04:35,975
+You don't have to worry
+about me, brother.
+
+116
+00:04:36,067 --> 00:04:37,937
+I'm all murdered out.
+
+117
+00:04:38,027 --> 00:04:39,567
+Praise the Lord.
+
+118
+00:04:49,330 --> 00:04:50,960
+(booing and yelling)
+
+119
+00:04:51,040 --> 00:04:53,170
+Get back in there!
+Get back in there!
+
+120
+00:04:53,251 --> 00:04:56,501
+How can you even think
+of releasing Sideshow Bob?
+
+121
+00:04:56,587 --> 00:04:58,667
+He's just faking it
+to get out of jail.
+
+122
+00:04:58,756 --> 00:05:00,126
+He's a maniac!
+
+123
+00:05:00,216 --> 00:05:01,966
+Bob is no maniac.
+
+124
+00:05:02,051 --> 00:05:05,141
+He explained his reasons
+for trying to kill us all.
+
+125
+00:05:05,221 --> 00:05:07,851
+And I assure you,
+they were perfectly sane.
+
+126
+00:05:07,932 --> 00:05:09,602
+Oh, you gotta be kidding!
+
+127
+00:05:09,684 --> 00:05:11,854
+My friends, please.
+
+128
+00:05:11,936 --> 00:05:14,306
+I make no secret
+of my past.
+
+129
+00:05:14,397 --> 00:05:16,357
+But isn't our system
+of justice
+
+130
+00:05:16,441 --> 00:05:19,031
+based on the idea
+that a man can change?
+
+131
+00:05:19,110 --> 00:05:20,740
+Have the boys
+check into that.
+
+132
+00:05:20,820 --> 00:05:22,200
+I know I don't deserve
+another chance,
+
+133
+00:05:22,280 --> 00:05:24,200
+but this is America.
+
+134
+00:05:24,282 --> 00:05:27,202
+And as an American,
+aren't I entitled to one?
+
+135
+00:05:27,285 --> 00:05:28,285
+MAN: Probably!
+
+136
+00:05:28,369 --> 00:05:30,119
+Can't you find it in your hearts
+
+137
+00:05:30,204 --> 00:05:33,004
+just to let me
+live and work in peace?
+
+138
+00:05:33,082 --> 00:05:34,252
+(all agreeing)
+
+139
+00:05:45,094 --> 00:05:46,224
+Don't you see
+what you've done?
+
+140
+00:05:46,304 --> 00:05:48,014
+Sideshow Bob hasn't reformed.
+
+141
+00:05:48,097 --> 00:05:49,467
+He's pure evil!
+
+142
+00:05:49,557 --> 00:05:51,927
+Oh, if only you knew
+what he was thinking.
+
+143
+00:05:58,232 --> 00:06:00,862
+<i>I hope they still make</i>
+<i>that shampoo I like.</i>
+
+144
+00:06:10,036 --> 00:06:11,826
+Now, make yourself
+at home.
+
+145
+00:06:11,913 --> 00:06:13,753
+Perhaps a glass
+of Bordeaux?
+
+146
+00:06:13,831 --> 00:06:15,211
+I have the '82
+Chateau Latour
+
+147
+00:06:15,291 --> 00:06:17,841
+and a rather indifferent
+Rausan-Segla.
+
+148
+00:06:17,919 --> 00:06:19,629
+I've been in prison,
+Cecil.
+
+149
+00:06:19,712 --> 00:06:21,302
+I'll be happy just as long
+as it doesn't taste
+
+150
+00:06:21,381 --> 00:06:23,881
+like orange drink
+fermented under a radiator.
+
+151
+00:06:23,966 --> 00:06:26,586
+That would be
+the Latour, then.
+
+152
+00:06:26,677 --> 00:06:30,597
+And God bless Mom and Dad
+and Lisa and Maggie
+
+153
+00:06:30,681 --> 00:06:33,141
+and, please, God,
+kill Sideshow Bob.
+
+154
+00:06:33,226 --> 00:06:34,346
+Bart, no!
+
+155
+00:06:34,435 --> 00:06:35,685
+It's him or me, o, Lord.
+
+156
+00:06:35,770 --> 00:06:37,110
+-(grunting)
+-Ow!
+
+157
+00:06:37,188 --> 00:06:39,728
+You can't ask God
+to kill someone.
+
+158
+00:06:39,816 --> 00:06:42,486
+Yeah! You do
+your own dirty work.
+
+159
+00:06:48,533 --> 00:06:50,453
+Well, I suppose I should
+ask you what you do
+
+160
+00:06:50,535 --> 00:06:51,945
+if I'm to be
+working with you.
+
+161
+00:06:52,036 --> 00:06:54,116
+For me, Bob. For me.
+
+162
+00:06:54,205 --> 00:06:55,865
+I am Springfield's
+
+163
+00:06:55,957 --> 00:06:58,287
+chief hydrological
+and hydrodynamical engineer.
+
+164
+00:06:58,376 --> 00:07:00,246
+Hydrological
+and hydrodynamical--
+
+165
+00:07:00,336 --> 00:07:02,256
+talk about
+running the gamut.
+
+166
+00:07:02,338 --> 00:07:04,048
+Snigger all you like, Bob.
+
+167
+00:07:04,132 --> 00:07:05,972
+Thank you.
+I believe I shall.
+
+168
+00:07:06,050 --> 00:07:07,970
+But you'll find
+one gets more respect
+
+169
+00:07:08,052 --> 00:07:10,722
+as a humble civil servant
+than as a homicidal maniac
+
+170
+00:07:10,805 --> 00:07:12,055
+or a clown's sidekick.
+
+171
+00:07:12,140 --> 00:07:14,520
+Aha! I knew it.
+
+172
+00:07:14,600 --> 00:07:17,100
+You're still angry that
+Krusty picked me instead of you.
+
+173
+00:07:17,186 --> 00:07:18,436
+I can't imagine
+what you mean.
+
+174
+00:07:18,521 --> 00:07:20,441
+Oh, come now.
+
+175
+00:07:20,523 --> 00:07:23,153
+You wanted to be Krusty 's
+sidekick since you were five!
+
+176
+00:07:23,234 --> 00:07:27,994
+What about the buffoon lessons,
+the four years at clown college?
+
+177
+00:07:28,072 --> 00:07:30,322
+I'll thank you not to refer
+to Princeton that way.
+
+178
+00:07:30,408 --> 00:07:32,288
+The point is you obviously
+still blame me
+
+179
+00:07:32,368 --> 00:07:34,198
+for what happened
+at your audition.
+
+180
+00:07:35,872 --> 00:07:37,372
+(whimpering)
+
+181
+00:07:40,668 --> 00:07:42,588
+Thanks for driving me,
+big brother.
+
+182
+00:07:42,670 --> 00:07:44,960
+These giant clown mitts
+are extremely hilarious,
+
+183
+00:07:45,047 --> 00:07:47,007
+but do make it
+difficult to shift gears.
+
+184
+00:07:47,091 --> 00:07:49,011
+That's the title of Erma Bombeck's
+latest, isn't it?
+
+185
+00:07:49,093 --> 00:07:50,473
+KRUSTY: Number 73!
+
+186
+00:07:50,553 --> 00:07:52,603
+You're next.
+Make with the laugh-laugh.
+
+187
+00:07:52,680 --> 00:07:53,680
+(drum roll, rim shot)
+
+188
+00:07:53,764 --> 00:07:55,354
+(clearing throat)
+
+189
+00:07:55,433 --> 00:07:56,683
+(meekly)
+Hey, children.
+
+190
+00:07:56,767 --> 00:07:59,437
+Meet me, Sideshow Cecil.
+
+191
+00:07:59,520 --> 00:08:01,610
+KRUSTY (imitating buzzer):
+Next.
+
+192
+00:08:01,689 --> 00:08:04,189
+Uh, I have prepared
+a pie-in-the-face take.
+
+193
+00:08:04,275 --> 00:08:06,025
+(groaning)
+
+194
+00:08:06,110 --> 00:08:07,820
+All right.
+Knock yourself out, kid.
+
+195
+00:08:07,904 --> 00:08:08,824
+Hal?
+
+196
+00:08:10,114 --> 00:08:12,124
+Ooh.
+
+197
+00:08:12,200 --> 00:08:13,950
+Free comedy tip, slick:
+
+198
+00:08:14,035 --> 00:08:17,615
+The pie gag's only funny
+when the sap's got dignity,
+
+199
+00:08:17,705 --> 00:08:19,365
+like that guy.
+
+200
+00:08:19,457 --> 00:08:22,207
+Hey, Hal, pie job for
+Lord Autumnbottom there.
+
+201
+00:08:24,504 --> 00:08:25,424
+Oh, dear.
+
+202
+00:08:25,505 --> 00:08:27,415
+(laughing)
+
+203
+00:08:27,507 --> 00:08:29,257
+(applause, laughter)
+
+204
+00:08:30,593 --> 00:08:32,303
+That guy's a genius!
+
+205
+00:08:32,386 --> 00:08:33,596
+He's gonna change the way
+
+206
+00:08:33,679 --> 00:08:35,769
+we think about
+getting hit by pies!
+
+207
+00:08:35,848 --> 00:08:38,228
+Chumley, you're hired.
+
+208
+00:08:40,686 --> 00:08:42,306
+When that pie hit your face,
+
+209
+00:08:42,396 --> 00:08:45,896
+I saw my dreams explode
+in a burst of cream and crust.
+
+210
+00:08:45,983 --> 00:08:47,363
+But I suppose
+I should thank you.
+
+211
+00:08:47,443 --> 00:08:49,613
+After all,
+it led me to my true calling.
+
+212
+00:08:49,695 --> 00:08:52,485
+Cecil, no civilization
+in history
+
+213
+00:08:52,573 --> 00:08:54,623
+has ever considered
+chief hydrological engineer
+
+214
+00:08:54,700 --> 00:08:56,120
+a calling.
+
+215
+00:08:56,202 --> 00:08:57,412
+(clearing throat)
+
+216
+00:08:57,495 --> 00:08:59,825
+Yes, yes. The Cappadocians.
+
+217
+00:08:59,914 --> 00:09:01,174
+Fine.
+
+218
+00:09:03,251 --> 00:09:04,631
+CECIL: There it is--
+the future site
+
+219
+00:09:04,710 --> 00:09:07,630
+of the Springfield
+hydroelectric dam.
+
+220
+00:09:07,713 --> 00:09:09,973
+Just the thought of all
+that raw, surging power
+
+221
+00:09:10,049 --> 00:09:11,629
+makes me wonder why the hell
+I should care.
+
+222
+00:09:11,717 --> 00:09:14,847
+Because you'll be supervising
+the construction crew.
+
+223
+00:09:14,929 --> 00:09:15,969
+Oh, great.
+
+224
+00:09:16,055 --> 00:09:17,555
+Whenever a woman
+passes by,
+
+225
+00:09:17,640 --> 00:09:19,100
+I suppose it will be my job
+to lead the hooting.
+
+226
+00:09:19,183 --> 00:09:21,853
+"Oh, yeah!
+Shake it, madam.
+
+227
+00:09:21,936 --> 00:09:23,016
+Capital knockers!"
+
+228
+00:09:23,104 --> 00:09:24,654
+Come on, Bob.
+
+229
+00:09:24,730 --> 00:09:26,400
+This is your chance to show
+the people of Springfield
+
+230
+00:09:26,482 --> 00:09:28,732
+you can hold down
+an honest job.
+
+231
+00:09:28,818 --> 00:09:31,028
+He's planning something evil--
+I know it.
+
+232
+00:09:31,112 --> 00:09:33,612
+It must have something to do
+with the town's water supply.
+
+233
+00:09:33,698 --> 00:09:35,448
+Maybe he's gonna pee
+in the river!
+
+234
+00:09:35,533 --> 00:09:37,743
+Mmm. Nah.
+That's not his style.
+
+235
+00:09:40,162 --> 00:09:41,252
+Who is that?
+
+236
+00:09:41,330 --> 00:09:43,250
+(gasps)
+Why...
+
+237
+00:09:43,332 --> 00:09:44,832
+it's Bart Simpson!
+
+238
+00:09:44,917 --> 00:09:47,587
+Hello, Bart!
+
+239
+00:09:47,670 --> 00:09:50,170
+He's just a little shy because
+I've tried to kill him so many times.
+
+240
+00:09:50,256 --> 00:09:51,166
+Oh.
+
+241
+00:09:52,675 --> 00:09:54,005
+I really must thank you
+
+242
+00:09:54,093 --> 00:09:56,683
+for this moment
+of tranquility, Edna.
+
+243
+00:09:56,762 --> 00:09:58,812
+You know, I haven't been
+on a date in six years.
+
+244
+00:09:58,889 --> 00:10:00,729
+Oh, the pleasure's
+mine, Bob.
+
+245
+00:10:00,808 --> 00:10:03,058
+It's so exciting
+to be dating a killer.
+
+246
+00:10:03,144 --> 00:10:06,314
+To be fair, I never
+successfully killed anyone.
+
+247
+00:10:06,397 --> 00:10:08,567
+Oh. I see.
+
+248
+00:10:11,068 --> 00:10:15,278
+I did once try to kill
+the world's greatest lover,
+
+249
+00:10:15,364 --> 00:10:19,084
+but then, I realized there are
+laws against suicide.
+
+250
+00:10:19,160 --> 00:10:21,410
+(giggling)
+
+251
+00:10:21,495 --> 00:10:23,455
+-You get my drift?
+-Oh, you.
+
+252
+00:10:23,539 --> 00:10:26,499
+Mrs. Krabappel, no!
+That's Sideshow Bob!
+
+253
+00:10:26,584 --> 00:10:28,384
+Well,
+that's the last time
+
+254
+00:10:28,461 --> 00:10:30,801
+I announce my dinner
+plans in class.
+
+255
+00:10:30,880 --> 00:10:34,010
+That was Edna Krabappel.
+
+256
+00:10:34,091 --> 00:10:37,641
+You only get one chance
+with Edna Krabappel.
+
+257
+00:10:37,720 --> 00:10:39,390
+I hope you're happy.
+
+258
+00:10:39,472 --> 00:10:40,562
+I won't be happy
+until I find out
+
+259
+00:10:40,640 --> 00:10:41,890
+what you're up to.
+
+260
+00:10:41,974 --> 00:10:44,104
+Wherever you go
+and whatever you do,
+
+261
+00:10:44,185 --> 00:10:46,845
+I'll be there
+watching and waiting.
+
+262
+00:10:46,937 --> 00:10:49,897
+He says that, but I bet
+he gives up pretty quickly.
+
+263
+00:10:53,778 --> 00:10:55,988
+Hello, brother.
+All's well, I trust?
+
+264
+00:10:56,072 --> 00:10:58,372
+It most certainly is not!
+
+265
+00:10:58,449 --> 00:10:59,699
+The workmen you've given me
+don't know their asses
+
+266
+00:10:59,784 --> 00:11:00,994
+from the hole in the ground
+
+267
+00:11:01,077 --> 00:11:02,327
+they accidentally
+blew yesterday.
+
+268
+00:11:02,411 --> 00:11:04,211
+Come now, you speak as if
+they were a gaggle
+
+269
+00:11:04,288 --> 00:11:06,168
+of slack-jawed yokels.
+
+270
+00:11:06,248 --> 00:11:08,328
+Mr. Terwilliger,
+come quick!
+
+271
+00:11:08,417 --> 00:11:11,747
+There's trouble down to
+the "see-ment" mixer, sir!
+
+272
+00:11:11,837 --> 00:11:13,837
+See, cousin Merl
+and me
+
+273
+00:11:13,923 --> 00:11:16,133
+was playin' fetch
+with Geech--
+
+274
+00:11:16,217 --> 00:11:18,467
+that's our old
+smellhound-- and--
+
+275
+00:11:18,552 --> 00:11:21,762
+Geech gone to heaven,
+Mr. Terwilliger.
+
+276
+00:11:21,847 --> 00:11:24,927
+Oh, cousin Merl, really!
+
+277
+00:11:25,017 --> 00:11:26,557
+Temper, temper.
+
+278
+00:11:26,644 --> 00:11:28,654
+You know cousin Merl
+ain't been quite right lately.
+
+279
+00:11:28,729 --> 00:11:29,979
+I'm telling you, Cecil,
+
+280
+00:11:30,064 --> 00:11:31,524
+I can't take
+much more of this--
+
+281
+00:11:31,607 --> 00:11:33,477
+rustic workmen who've
+turned the Sanijohn
+
+282
+00:11:33,567 --> 00:11:35,027
+into a smokehouse...
+
+283
+00:11:35,111 --> 00:11:38,821
+coveralls that don't
+quite cover all...
+
+284
+00:11:38,906 --> 00:11:40,366
+and a psychotic little boy
+
+285
+00:11:40,449 --> 00:11:41,909
+who will not stop
+hounding me!
+
+286
+00:11:41,992 --> 00:11:43,912
+This little boy right here.
+
+287
+00:11:43,994 --> 00:11:46,714
+Sometimes, I wish
+this dam would burst
+
+288
+00:11:46,789 --> 00:11:49,539
+and bury this cursed town.
+
+289
+00:11:52,962 --> 00:11:55,762
+Hey, you said we were
+going to Dairy Queen.
+
+290
+00:11:55,840 --> 00:11:58,550
+I lied. Now, help me rummage
+through Bob's trash for clues.
+
+291
+00:11:58,634 --> 00:12:01,184
+Then, I promise
+we'll go to the water slide.
+
+292
+00:12:01,262 --> 00:12:02,392
+Okay.
+
+293
+00:12:05,516 --> 00:12:06,926
+(both screaming)
+
+294
+00:12:07,017 --> 00:12:08,597
+You again!
+
+295
+00:12:08,686 --> 00:12:10,436
+Well, that's it.
+
+296
+00:12:10,521 --> 00:12:14,731
+I'm going to do what I should
+have done a long time ago.
+
+297
+00:12:14,817 --> 00:12:16,487
+(knocking)
+
+298
+00:12:17,903 --> 00:12:21,163
+Madam, your children
+are no more...
+
+299
+00:12:21,240 --> 00:12:25,200
+than a pair of
+ill-bred troublemakers.
+
+300
+00:12:25,286 --> 00:12:26,446
+Lisa, too?
+
+301
+00:12:26,537 --> 00:12:27,707
+Especially Lisa.
+
+302
+00:12:27,788 --> 00:12:30,708
+But especially Bart.
+
+303
+00:12:30,791 --> 00:12:34,551
+If he crosses me one more time,
+just once more--
+
+304
+00:12:34,628 --> 00:12:37,008
+Well, I can't be held
+responsible for my actions.
+
+305
+00:12:37,089 --> 00:12:38,259
+Well, I hope
+Bob fed you
+
+306
+00:12:38,340 --> 00:12:39,930
+'cause I ate
+your dinners.
+
+307
+00:12:40,009 --> 00:12:42,719
+I know it's hard to accept,
+Bart, but face it--
+
+308
+00:12:42,803 --> 00:12:45,313
+Sideshow Bob has changed.
+
+309
+00:12:45,389 --> 00:12:46,719
+No, he hasn't.
+
+310
+00:12:46,807 --> 00:12:48,097
+He's more the same
+than ever,
+
+311
+00:12:48,184 --> 00:12:50,234
+and I know
+where the evidence is.
+
+312
+00:12:50,311 --> 00:12:52,521
+There's only one place
+it could possibly be.
+
+313
+00:12:52,605 --> 00:12:54,355
+Bob's trailer at the
+construction site?
+
+314
+00:12:54,440 --> 00:12:56,230
+That's even better.
+Let's go there.
+
+315
+00:12:56,317 --> 00:12:57,567
+What were you thinking?
+
+316
+00:12:57,651 --> 00:12:59,241
+The haunted mine.
+
+317
+00:13:06,368 --> 00:13:08,908
+Blueprints...
+concrete invoices...
+
+318
+00:13:08,996 --> 00:13:10,786
+construction schedules...
+
+319
+00:13:10,873 --> 00:13:12,173
+If I didn't know better,
+
+320
+00:13:12,249 --> 00:13:13,789
+I'd swear Bob
+was building a dam.
+
+321
+00:13:13,876 --> 00:13:15,206
+Oh, yeah?
+
+322
+00:13:15,294 --> 00:13:17,424
+Then explain this.
+
+323
+00:13:17,505 --> 00:13:18,955
+(gasping)
+
+324
+00:13:19,048 --> 00:13:21,968
+Bart! There must be millions
+of dollars there!
+
+325
+00:13:22,051 --> 00:13:24,351
+What is Sideshow Bob
+doing with--
+
+326
+00:13:24,428 --> 00:13:25,548
+(rattling)
+
+327
+00:13:25,638 --> 00:13:27,348
+(grumbling)
+
+328
+00:13:27,431 --> 00:13:29,311
+(roaring)
+
+329
+00:13:29,391 --> 00:13:30,271
+(screaming)
+
+330
+00:13:33,854 --> 00:13:35,314
+Who left the lights on?
+
+331
+00:13:35,397 --> 00:13:38,477
+Who's in here?
+Cletus? Cousin Merl?
+
+332
+00:13:38,567 --> 00:13:39,897
+Big Hungry Joe?
+
+333
+00:13:41,946 --> 00:13:45,696
+I think he may
+have spotted us.
+
+334
+00:13:45,783 --> 00:13:46,873
+Run!
+
+335
+00:13:46,951 --> 00:13:48,791
+(gasping)
+You two.
+
+336
+00:13:50,371 --> 00:13:52,001
+Be careful.
+
+337
+00:13:52,081 --> 00:13:53,831
+There's hydroelectricity
+in there.
+
+338
+00:13:57,670 --> 00:13:58,590
+Whoops.
+
+339
+00:14:08,514 --> 00:14:11,934
+Will you children
+stop tormenting me?
+
+340
+00:14:12,017 --> 00:14:13,847
+I've done nothing wrong.
+
+341
+00:14:13,936 --> 00:14:16,016
+Give it up, Bob.
+We found the money.
+
+342
+00:14:17,481 --> 00:14:18,981
+Where did that come from?
+
+343
+00:14:19,066 --> 00:14:21,106
+I've never seen that money
+before in my life.
+
+344
+00:14:21,193 --> 00:14:23,033
+Then you must have
+had your eyes closed
+
+345
+00:14:23,112 --> 00:14:24,572
+when you embezzled it.
+
+346
+00:14:24,655 --> 00:14:27,905
+I told you, I'm not
+a criminal anymore.
+
+347
+00:14:27,992 --> 00:14:29,622
+You want to know
+what I've been up to?
+
+348
+00:14:29,702 --> 00:14:31,872
+Here's a clue
+for you, Jack.
+
+349
+00:14:31,954 --> 00:14:35,884
+100,000 tons of
+reinforced concrete.
+
+350
+00:14:41,171 --> 00:14:42,841
+My God,
+it's completely hollow.
+
+351
+00:14:42,923 --> 00:14:44,343
+What happened
+to all the concrete?
+
+352
+00:14:44,425 --> 00:14:46,255
+You cut back
+on building materials
+
+353
+00:14:46,343 --> 00:14:48,183
+and kept all the money
+for yourself.
+
+354
+00:14:48,262 --> 00:14:49,182
+That's what happened.
+
+355
+00:14:49,263 --> 00:14:50,353
+Get him, Lis.
+
+356
+00:14:52,016 --> 00:14:53,426
+But I wasn't in charge
+of the money.
+
+357
+00:14:53,517 --> 00:14:55,057
+Cecil was.
+
+358
+00:14:55,144 --> 00:14:57,064
+Now, let's stop bickering
+and get out of here.
+
+359
+00:14:57,146 --> 00:14:58,936
+This dam could collapse
+at any minute.
+
+360
+00:14:59,023 --> 00:15:02,743
+CECIL: One minute past sunrise,
+to be precise.
+
+361
+00:15:02,818 --> 00:15:03,818
+SIDESHOW BOB:
+Cecil?
+
+362
+00:15:03,903 --> 00:15:05,283
+Once I blow up the dam
+
+363
+00:15:05,362 --> 00:15:07,162
+there will be no evidence
+of missing concrete
+
+364
+00:15:07,239 --> 00:15:10,119
+and I walk away
+with 15 million.
+
+365
+00:15:10,200 --> 00:15:12,200
+But everyone will know
+you did this.
+
+366
+00:15:12,286 --> 00:15:14,076
+Perhaps...
+
+367
+00:15:14,163 --> 00:15:16,213
+or perhaps they'll blame
+the master criminal.
+
+368
+00:15:16,290 --> 00:15:18,830
+You know, the one
+who's been working at the dam
+
+369
+00:15:18,918 --> 00:15:21,088
+and has a grudge
+against Springfield.
+
+370
+00:15:21,170 --> 00:15:23,630
+I know cousin Merl has had
+his troubles with the revenuers
+
+371
+00:15:23,714 --> 00:15:25,054
+but he's hardly a master crim--
+
+372
+00:15:25,132 --> 00:15:26,802
+Oh. You're referring to me.
+
+373
+00:15:26,884 --> 00:15:28,764
+Yes. I'm framing you,
+
+374
+00:15:28,844 --> 00:15:30,724
+and I'm doing a really
+excellent job, too.
+
+375
+00:15:30,804 --> 00:15:32,434
+Wait a minute.
+
+376
+00:15:32,514 --> 00:15:34,644
+This is all because I got
+to be Krusty's sidekick
+
+377
+00:15:34,725 --> 00:15:35,935
+instead of you, isn't it?
+
+378
+00:15:36,018 --> 00:15:37,388
+Off the record, yes,
+
+379
+00:15:37,478 --> 00:15:39,558
+but officially,
+I did it for the money.
+
+380
+00:15:39,647 --> 00:15:41,017
+Speaking of which
+hand it over.
+
+381
+00:15:47,780 --> 00:15:48,700
+Ta.
+
+382
+00:15:50,574 --> 00:15:51,994
+I forgot to mention,
+
+383
+00:15:52,076 --> 00:15:53,946
+I'm planning to blow up the dam
+with you inside.
+
+384
+00:15:54,036 --> 00:15:56,326
+Well, obviously.
+
+385
+00:15:56,413 --> 00:15:57,673
+(lock clicking)
+
+386
+00:15:57,748 --> 00:15:59,118
+(grunting)
+
+387
+00:15:59,208 --> 00:16:01,878
+Oh, it's hopeless--
+utterly, utterly hopeless.
+
+388
+00:16:01,961 --> 00:16:03,841
+Oh, I see.
+
+389
+00:16:03,921 --> 00:16:06,011
+When it's one of my schemes,
+you can't foil it fast enough,
+
+390
+00:16:06,090 --> 00:16:08,340
+but when Cecil tries
+to kill you,
+
+391
+00:16:08,425 --> 00:16:11,045
+"It's hopeless-- utterly,
+utterly hopeless."
+
+392
+00:16:11,136 --> 00:16:12,176
+Well, if you kids
+aren't going to foil him,
+
+393
+00:16:12,262 --> 00:16:13,602
+I'll have to do it myself.
+
+394
+00:16:20,980 --> 00:16:23,400
+Come on, quickly now.
+
+395
+00:16:23,482 --> 00:16:26,652
+Bart, for once,
+I'm not trying to kill you.
+
+396
+00:16:26,735 --> 00:16:28,025
+I know it's an
+awkward situation,
+
+397
+00:16:28,112 --> 00:16:29,492
+and I don't like it
+any more than you do,
+
+398
+00:16:29,571 --> 00:16:31,031
+but you've got
+to trust me.
+
+399
+00:16:33,534 --> 00:16:34,834
+Ah, what the hell.
+
+400
+00:16:39,707 --> 00:16:41,077
+(gasping)
+
+401
+00:16:45,004 --> 00:16:46,014
+(screaming)
+
+402
+00:16:57,307 --> 00:16:58,177
+(coughing)
+
+403
+00:17:03,230 --> 00:17:04,610
+Let's go again.
+Let's go again.
+
+404
+00:17:04,690 --> 00:17:05,650
+No!
+
+405
+00:17:05,733 --> 00:17:06,903
+Come on, children.
+
+406
+00:17:06,984 --> 00:17:08,614
+Let's go thwart my brother.
+
+407
+00:17:11,196 --> 00:17:13,696
+<i>♪ I'm on the top</i>
+<i>of the world ♪</i>
+
+408
+00:17:13,782 --> 00:17:15,742
+<i>♪ Looking down</i>
+<i>on creation ♪</i>
+
+409
+00:17:15,826 --> 00:17:18,536
+<i>♪ And the only explanation</i>
+<i>I can find ♪</i>
+
+410
+00:17:18,620 --> 00:17:19,540
+<i>♪ Boo-boo-boo ♪</i>
+
+411
+00:17:25,711 --> 00:17:28,091
+Um, do you know
+what you're doing?
+
+412
+00:17:28,172 --> 00:17:30,382
+Lisa, you don't spend
+ten years
+
+413
+00:17:30,466 --> 00:17:32,126
+as a homicidal maniac
+without learning
+
+414
+00:17:32,217 --> 00:17:33,427
+a few things
+about dynamite.
+
+415
+00:17:35,095 --> 00:17:36,555
+Plunger? Check.
+
+416
+00:17:36,638 --> 00:17:38,348
+Hard hat? Check.
+
+417
+00:17:38,432 --> 00:17:39,892
+$15 million and a gun?
+
+418
+00:17:39,975 --> 00:17:41,475
+Checkmate.
+
+419
+00:17:41,560 --> 00:17:43,480
+Good-bye, Bob.
+
+420
+00:17:43,562 --> 00:17:46,232
+No!
+
+421
+00:17:46,315 --> 00:17:47,355
+Guess who?
+
+422
+00:17:47,441 --> 00:17:49,231
+Maris?
+
+423
+00:17:53,947 --> 00:17:54,907
+Oh!
+
+424
+00:17:56,658 --> 00:17:57,658
+Shoot.
+
+425
+00:17:59,870 --> 00:18:01,540
+Bob, look.
+
+426
+00:18:06,293 --> 00:18:08,843
+At last, I'm going to do
+what Bob never could--
+
+427
+00:18:08,921 --> 00:18:11,471
+kill Bart Simpson.
+
+428
+00:18:11,548 --> 00:18:13,178
+By throwing me off a dam?
+
+429
+00:18:13,258 --> 00:18:16,258
+Isn't that a little crude
+for a genius like you?
+
+430
+00:18:16,345 --> 00:18:18,305
+Ooh, I suppose it is.
+
+431
+00:18:18,388 --> 00:18:20,428
+If anyone asks, I'll lie.
+
+432
+00:18:20,516 --> 00:18:21,926
+(screaming)
+
+433
+00:18:23,227 --> 00:18:24,847
+Bart!
+
+434
+00:18:32,152 --> 00:18:33,782
+Bart!
+
+435
+00:18:34,988 --> 00:18:35,908
+(screaming)
+
+436
+00:18:40,994 --> 00:18:42,084
+Cecil...
+
+437
+00:18:42,162 --> 00:18:43,912
+And now, to kill you.
+
+438
+00:18:43,997 --> 00:18:45,867
+There may be a slight
+ringing in your ears.
+
+439
+00:18:45,958 --> 00:18:48,668
+Fortunately, you'll be
+nowhere near them.
+
+440
+00:18:48,752 --> 00:18:51,672
+{\an8}I guess this is it.
+Thanks, anyway.
+
+441
+00:18:51,755 --> 00:18:53,625
+You know, I could
+snip the wires.
+
+442
+00:18:53,715 --> 00:18:56,795
+We'd fall to our deaths,
+but we'd save the entire town.
+
+443
+00:18:56,885 --> 00:19:00,425
+Bart, how would you like to do
+something incredibly noble?
+
+444
+00:19:00,514 --> 00:19:02,144
+Do we have to?
+
+445
+00:19:02,224 --> 00:19:03,854
+Yes.
+
+446
+00:19:03,934 --> 00:19:04,984
+(screaming)
+
+447
+00:19:09,189 --> 00:19:10,229
+(gasping)
+
+448
+00:19:10,315 --> 00:19:12,065
+(screaming)
+
+449
+00:19:20,200 --> 00:19:22,790
+(grunts)
+
+450
+00:19:22,870 --> 00:19:25,750
+You-- You saved
+my life, Bart.
+
+451
+00:19:25,831 --> 00:19:27,541
+Yeah.
+
+452
+00:19:27,624 --> 00:19:30,044
+I guess this means you can't
+ever try to kill me again, huh?
+
+453
+00:19:30,127 --> 00:19:32,377
+Oh, I don't know about that.
+
+454
+00:19:32,462 --> 00:19:34,632
+Joking. Joking.
+
+455
+00:19:34,715 --> 00:19:36,505
+(sirens wailing)
+
+456
+00:19:41,722 --> 00:19:45,232
+You've brought shame
+to this family, Cecil.
+
+457
+00:19:45,309 --> 00:19:46,889
+Oh, I don't relish
+having to write
+
+458
+00:19:46,977 --> 00:19:48,647
+the Christmas letter
+this year.
+
+459
+00:19:48,729 --> 00:19:50,309
+Nor I to read it.
+
+460
+00:19:50,397 --> 00:19:51,767
+You know, Bob,
+all this time
+
+461
+00:19:51,857 --> 00:19:53,437
+I thought
+you were a bungler,
+
+462
+00:19:53,525 --> 00:19:56,195
+but destroying the city
+is far tougher than I thought.
+
+463
+00:19:58,655 --> 00:20:00,115
+Here's your man, chief.
+
+464
+00:20:00,199 --> 00:20:01,949
+Cecil? I think not.
+
+465
+00:20:02,034 --> 00:20:05,704
+This looks like the work
+of crazy old Sideshow Bob.
+
+466
+00:20:05,787 --> 00:20:06,997
+No, chief.
+Bob's innocent.
+
+467
+00:20:07,080 --> 00:20:08,080
+It's the truth.
+
+468
+00:20:08,165 --> 00:20:09,285
+The truth, huh?
+
+469
+00:20:09,374 --> 00:20:10,794
+That sounds
+like the testimony
+
+470
+00:20:10,876 --> 00:20:13,166
+of crazy old
+Lisa Simpson.
+
+471
+00:20:13,253 --> 00:20:15,593
+Cecil just voluntarily
+confessed, chief.
+
+472
+00:20:15,672 --> 00:20:17,132
+That's some good work, Lou.
+
+473
+00:20:17,216 --> 00:20:18,426
+You'll make sergeant
+for this.
+
+474
+00:20:18,508 --> 00:20:20,388
+Uh, I already am
+a sergeant, chief.
+
+475
+00:20:20,469 --> 00:20:22,349
+Perhaps you are,
+but I say
+
+476
+00:20:22,429 --> 00:20:24,309
+Bob goes
+back to jail.
+
+477
+00:20:24,389 --> 00:20:27,809
+But, surely--
+I mean, I caught Cecil.
+
+478
+00:20:27,893 --> 00:20:29,943
+Maybe so,
+but Lou here says
+
+479
+00:20:30,020 --> 00:20:30,980
+you were
+resisting arrest.
+
+480
+00:20:31,063 --> 00:20:32,443
+No, I didn't, chief.
+
+481
+00:20:32,522 --> 00:20:34,482
+Quiet, Lou, or I will
+bust you down to sergeant
+
+482
+00:20:34,566 --> 00:20:36,066
+so fast, it'll make
+your head spin.
+
+483
+00:20:38,403 --> 00:20:39,323
+Funny, isn't it, Lise?
+
+484
+00:20:39,404 --> 00:20:40,534
+Those people down there
+
+485
+00:20:40,614 --> 00:20:42,454
+have no idea
+how close they came
+
+486
+00:20:42,532 --> 00:20:44,282
+to complete destruction.
+
+487
+00:20:52,960 --> 00:20:55,550
+Marge, I'm going
+to look for the kids.
+
+488
+00:20:58,298 --> 00:20:59,258
+(screams)
+
+489
+00:21:03,470 --> 00:21:06,140
+I think I wet my bed.
+
+490
+00:21:07,766 --> 00:21:10,306
+But you can't do this.
+
+491
+00:21:10,394 --> 00:21:13,364
+I saved
+the children's lives!
+
+492
+00:21:13,438 --> 00:21:15,188
+I'm a hero!
+
+493
+00:21:15,274 --> 00:21:16,904
+Tell them they'll live
+to regret this.
+
+494
+00:21:16,984 --> 00:21:19,904
+You'll live to regret this.
+
+495
+00:21:19,987 --> 00:21:22,027
+Oh, thanks a lot.
+Now I look crazy.
+
+496
+00:21:23,490 --> 00:21:24,950
+There they go--
+
+497
+00:21:25,033 --> 00:21:28,083
+two criminal geniuses
+locked away together.
+
+498
+00:21:28,161 --> 00:21:30,711
+Who knows
+what diabolical schemes
+
+499
+00:21:30,789 --> 00:21:32,289
+they might concoct?
+
+500
+00:21:39,089 --> 00:21:41,129
+You give me--
+
+501
+00:21:41,216 --> 00:21:43,386
+I'm older.
+I get the top bunk.
+
+502
+00:21:43,468 --> 00:21:44,548
+Oh, poppycock.
+
+503
+00:21:44,636 --> 00:21:46,006
+I called it
+at the arraignment.
+
+504
+00:21:46,096 --> 00:21:47,096
+Get back.
+
+505
+00:21:51,059 --> 00:21:53,939
+So, when do
+they bring us the menus?
+
+506
+00:22:40,275 --> 00:22:41,485
+Shh!
+
+507
+00:22:44,571 --> 00:22:47,821
+CAPTIONS ENHANCED BY
+ROUNDABOUT ENTERTAINMENT INC.
+

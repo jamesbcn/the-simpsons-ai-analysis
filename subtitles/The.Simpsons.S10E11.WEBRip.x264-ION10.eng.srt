@@ -1,0 +1,2322 @@
+1
+00:00:02,961 --> 00:00:06,511
+<i>CHORUS: ♪ The Simpsons ♪</i>
+
+2
+00:00:09,175 --> 00:00:11,085
+(theme music playing)
+
+3
+00:00:16,891 --> 00:00:18,811
+(bell ringing)
+
+4
+00:00:23,398 --> 00:00:25,028
+(whistle blows)
+
+5
+00:00:29,863 --> 00:00:30,993
+(beeping)
+
+6
+00:00:35,660 --> 00:00:40,830
+(playing the blues)
+
+7
+00:00:46,421 --> 00:00:47,381
+(tires screeching)
+
+8
+00:00:47,464 --> 00:00:48,424
+(clanks)
+
+9
+00:00:53,094 --> 00:00:55,184
+(tires screeching)
+
+10
+00:00:58,224 --> 00:00:59,814
+(honking horn)
+
+11
+00:01:00,685 --> 00:01:01,805
+(tires screeching)
+
+12
+00:01:04,230 --> 00:01:07,730
+-D'oh! (screams)
+-(tires screeching)
+
+13
+00:01:10,445 --> 00:01:11,815
+ALL: (screaming)
+
+14
+00:01:21,790 --> 00:01:27,420
+{\an8}<i>♪ O'er the land of the free ♪</i>
+
+15
+00:01:27,504 --> 00:01:31,594
+<i>♪ And the home ♪</i>
+
+16
+00:01:32,133 --> 00:01:33,643
+{\an8}<i>♪ Home of the brave ♪</i>
+
+17
+00:01:33,718 --> 00:01:36,968
+{\an8}<i>♪ Oh, America's</i>
+<i>The home of the brave ♪</i>
+
+18
+00:01:37,055 --> 00:01:40,015
+{\an8}<i>♪ The brave,</i>
+<i>America the brave ♪</i>
+
+19
+00:01:40,100 --> 00:01:41,350
+{\an8}<i>♪ The brave ♪</i>
+
+20
+00:01:41,434 --> 00:01:44,194
+{\an8}<i>♪ Home of the brave ♪</i>
+
+21
+00:01:44,270 --> 00:01:45,730
+{\an8}Thank you, Springfield!
+
+22
+00:01:45,814 --> 00:01:47,614
+{\an8}I love you! Peace!
+
+23
+00:01:47,690 --> 00:01:50,240
+{\an8}<i>CONROY:</i>
+<i>Thank you, Cyndi Lauper.</i>
+
+24
+00:01:50,318 --> 00:01:53,448
+{\an8}<i>Just a reminder, folks. We do</i>
+<i>have a baseball game today.</i>
+
+25
+00:01:53,530 --> 00:01:54,660
+{\an8}-MAN: All right.
+-(chuckles)
+
+26
+00:01:54,739 --> 00:01:56,029
+{\an8}I am Dennis Conroy,
+
+27
+00:01:56,116 --> 00:01:58,696
+{\an8}and here come your Isotopes!
+
+28
+00:01:58,785 --> 00:02:01,655
+{\an8}-CROWD: (booing)
+-(all gasping)
+
+29
+00:02:01,746 --> 00:02:04,166
+{\an8}Let's welcome two new additions
+to the team,
+
+30
+00:02:04,249 --> 00:02:06,839
+{\an8}<i>Smash Diggins</i>
+<i>and Fishbone Walker.</i>
+
+31
+00:02:06,918 --> 00:02:08,668
+{\an8}<i>Lucky for us,</i>
+<i>they were sent down</i>
+
+32
+00:02:08,753 --> 00:02:10,963
+<i>from the Majors</i>
+<i>for drug violations.</i>
+
+33
+00:02:11,506 --> 00:02:12,836
+(crowd cheering)
+
+34
+00:02:15,135 --> 00:02:16,585
+{\an8}Oh, stupid Isotopes.
+
+35
+00:02:16,678 --> 00:02:19,598
+{\an8}Hurry up and lose
+so we can get out of here!
+
+36
+00:02:19,681 --> 00:02:22,061
+{\an8}Why do you hate
+the Isotopes so much, Dad?
+
+37
+00:02:22,142 --> 00:02:24,812
+{\an8}Because I loved them once
+and they broke my heart.
+
+38
+00:02:24,894 --> 00:02:26,604
+{\an8}Let that be a lesson
+to you, sweetie.
+
+39
+00:02:26,688 --> 00:02:28,018
+{\an8}Never love anything.
+
+40
+00:02:28,106 --> 00:02:30,396
+{\an8}-Even you?
+-Especially me.
+
+41
+00:02:30,483 --> 00:02:32,073
+{\an8}But you've got to support
+the team, Dad.
+
+42
+00:02:32,152 --> 00:02:34,402
+{\an8}They're already threatening
+to move to Moose Jaw.
+
+43
+00:02:34,487 --> 00:02:35,527
+{\an8}That's right.
+
+44
+00:02:35,613 --> 00:02:36,703
+{\an8}Like my mother always said,
+
+45
+00:02:36,781 --> 00:02:37,951
+{\an8}"You've got to stick it out
+
+46
+00:02:38,032 --> 00:02:39,412
+{\an8}even if you picked a loser..."
+
+47
+00:02:40,910 --> 00:02:42,750
+{\an8}-Hmm.
+-"...to the bitter end."
+
+48
+00:02:43,246 --> 00:02:45,076
+{\an8}<i>CONROY:</i>
+<i>First pitch of the game.</i>
+
+49
+00:02:45,165 --> 00:02:46,495
+{\an8}(screams)
+
+50
+00:02:46,583 --> 00:02:47,673
+{\an8}<i>That's a rotator cuff.</i>
+
+51
+00:02:47,750 --> 00:02:48,840
+{\an8}<i>His career is over.</i>
+
+52
+00:02:48,918 --> 00:02:50,088
+{\an8}I'm going to warm up the car.
+
+53
+00:02:50,170 --> 00:02:51,710
+{\an8}But there's only been
+one pitch.
+
+54
+00:02:51,796 --> 00:02:53,126
+{\an8}And it sucked.
+
+55
+00:02:53,214 --> 00:02:54,264
+<i>CONROY: Bases loaded,</i>
+
+56
+00:02:54,340 --> 00:02:55,760
+<i>two outs, bottom of the ninth,</i>
+
+57
+00:02:55,842 --> 00:02:57,552
+and it's do or die.
+
+58
+00:02:57,635 --> 00:02:58,795
+<i>HOMER </i>(singing):
+<i>♪ Hitler is a jerk ♪</i>
+
+59
+00:02:58,887 --> 00:02:59,887
+<i>♪ Mussolini ♪</i>
+
+60
+00:02:59,971 --> 00:03:02,471
+{\an8}That'll bring up Babe Ruth IV.
+
+61
+00:03:02,557 --> 00:03:04,307
+{\an8}<i>'Course, he's no Babe Ruth III,</i>
+
+62
+00:03:04,392 --> 00:03:06,812
+{\an8}<i>but the franchise</i>
+<i>is very excited</i>
+
+63
+00:03:06,895 --> 00:03:10,185
+<i>about this illegitimate</i>
+<i>great grand bambino!</i>
+
+64
+00:03:10,273 --> 00:03:11,943
+<i>And... what's this?</i>
+
+65
+00:03:12,025 --> 00:03:14,235
+<i>He's pointing</i>
+<i>to the right field bleachers,</i>
+
+66
+00:03:14,319 --> 00:03:16,489
+<i>probably at a dying little boy.</i>
+
+67
+00:03:16,571 --> 00:03:19,991
+-Mom, am I dying?
+-No, of course not.
+
+68
+00:03:20,074 --> 00:03:22,954
+-Is he, Mom? You can tell me.
+-No.
+
+69
+00:03:23,036 --> 00:03:24,826
+<i>CONROY: Now he's pointing</i>
+<i>to the ground.</i>
+
+70
+00:03:24,913 --> 00:03:28,043
+<i>Is he indicating a bunt?</i>
+<i>Yes, he's bunting!</i>
+
+71
+00:03:28,124 --> 00:03:31,004
+(crowd booing)
+
+72
+00:03:31,085 --> 00:03:32,625
+MARGE: Good hustle, kid!
+
+73
+00:03:32,712 --> 00:03:34,762
+<i>HOMER </i>(singing):
+<i>♪ No, it doesn't work ♪</i>
+
+74
+00:03:34,839 --> 00:03:36,879
+So who won? The losers?
+
+75
+00:03:36,966 --> 00:03:38,216
+No, they lost.
+
+76
+00:03:38,301 --> 00:03:40,221
+(chuckling) Losers.
+
+77
+00:03:40,303 --> 00:03:42,563
+But only by two points,
+and they didn't resort
+
+78
+00:03:42,639 --> 00:03:44,309
+to stealing bases
+like the other team,
+
+79
+00:03:44,390 --> 00:03:46,100
+so it's kind of a moral
+victory.
+
+80
+00:03:46,184 --> 00:03:47,774
+With a little middle relief,
+
+81
+00:03:47,852 --> 00:03:49,352
+they might even
+make the playoffs!
+
+82
+00:03:49,437 --> 00:03:51,517
+You'll be
+in your cold, cold grave
+
+83
+00:03:51,606 --> 00:03:52,896
+before that ever happens.
+
+84
+00:03:52,982 --> 00:03:53,902
+Homer, would you please
+
+85
+00:03:53,983 --> 00:03:56,823
+stop talking
+about the childrens' graves?
+
+86
+00:03:58,196 --> 00:04:01,236
+(loud chatter, cheering)
+
+87
+00:04:01,324 --> 00:04:02,454
+-MAN: Whoo!
+-(grunts)
+
+88
+00:04:02,533 --> 00:04:03,663
+What's the hubbub?
+
+89
+00:04:03,743 --> 00:04:05,333
+Did Moe finally
+blow his brains out?
+
+90
+00:04:05,411 --> 00:04:07,161
+Quiet! We're watching
+the Isotopes!
+
+91
+00:04:08,081 --> 00:04:10,171
+{\an8}Shut it off. They're losers.
+
+92
+00:04:10,250 --> 00:04:12,250
+Where you been?
+The Isotopes are on fire.
+
+93
+00:04:12,335 --> 00:04:14,455
+Yeah. That sniper
+at the all-star game
+
+94
+00:04:14,545 --> 00:04:16,255
+was a blessing in disguise.
+
+95
+00:04:16,339 --> 00:04:18,219
+Now we're
+in the championship game.
+
+96
+00:04:18,299 --> 00:04:20,049
+Championship? Hmm.
+
+97
+00:04:22,136 --> 00:04:24,096
+Whoo! 'Topes rule!
+
+98
+00:04:25,765 --> 00:04:27,095
+Well, here's a die-hard fan.
+
+99
+00:04:27,183 --> 00:04:28,433
+Sir, your beloved Isotopes
+
+100
+00:04:28,518 --> 00:04:29,848
+are about to make history.
+
+101
+00:04:29,936 --> 00:04:30,976
+Any thoughts?
+
+102
+00:04:31,062 --> 00:04:32,732
+Ah! It's a great team, Kent.
+
+103
+00:04:32,814 --> 00:04:33,984
+They never gave up hope.
+
+104
+00:04:34,315 --> 00:04:35,815
+I want to thank Jesus
+
+105
+00:04:35,900 --> 00:04:38,150
+and say "Hi"
+to my special lady, Marge.
+
+106
+00:04:38,569 --> 00:04:41,739
+We did it, baby! Whoo! Whoo!
+
+107
+00:04:41,823 --> 00:04:43,533
+The inspiring words of a fan
+
+108
+00:04:43,616 --> 00:04:46,996
+who'll always root, root,
+root for the home team,
+
+109
+00:04:47,078 --> 00:04:48,448
+even if they lose this game.
+
+110
+00:04:48,538 --> 00:04:50,328
+They lost? Those losers!
+
+111
+00:04:50,415 --> 00:04:52,455
+No, no, no.
+The game's not over.
+
+112
+00:04:52,542 --> 00:04:55,252
+Whoo! Not over! Whoo!
+
+113
+00:04:55,336 --> 00:04:57,586
+There you have it. Whoo!
+
+114
+00:04:58,423 --> 00:05:01,133
+(all cheering)
+
+115
+00:05:01,217 --> 00:05:03,047
+<i>CONROY:</i>
+<i>Bottom of the ninth, two outs.</i>
+
+116
+00:05:03,136 --> 00:05:04,846
+<i>It all comes down to this.</i>
+
+117
+00:05:04,929 --> 00:05:06,599
+<i>And here's the pitch.</i>
+
+118
+00:05:07,181 --> 00:05:10,561
+<i>Humping Hesus.</i>
+<i>He got all of that one.</i>
+
+119
+00:05:10,643 --> 00:05:14,233
+<i>It's going... going... going.</i>
+
+120
+00:05:14,314 --> 00:05:16,694
+Our technical director today
+was Stan Kadlubowski.
+
+121
+00:05:16,774 --> 00:05:19,284
+<i>It's out of here! 'Topes win!</i>
+
+122
+00:05:19,360 --> 00:05:25,200
+-(all cheering)
+-Isotopes! Come on!
+
+123
+00:05:25,283 --> 00:05:28,243
+(cheering continues)
+
+124
+00:05:28,328 --> 00:05:29,998
+(sighs)
+Nobody touched my rumaki.
+
+125
+00:05:30,079 --> 00:05:31,909
+Whoo! Rumaki!
+
+126
+00:05:31,998 --> 00:05:33,788
+-(honking)
+-Yay!
+
+127
+00:05:33,875 --> 00:05:36,915
+Isotopes! Whoo!
+
+128
+00:05:37,003 --> 00:05:38,253
+(grunts)
+
+129
+00:05:38,338 --> 00:05:40,208
+-Isotopes.
+-(grunts)
+
+130
+00:05:40,298 --> 00:05:41,918
+-Isotopes.
+-(grunts)
+
+131
+00:05:42,884 --> 00:05:43,764
+MAN: Isotopes.
+
+132
+00:05:44,260 --> 00:05:45,890
+You know what
+I'm sayin' to you, baby?
+
+133
+00:05:46,804 --> 00:05:49,774
+Hey, a baseball field.
+Batter up.
+
+134
+00:05:49,849 --> 00:05:52,519
+-(all yelling)
+-MAN: Go, baby! Steal second!
+
+135
+00:05:52,602 --> 00:05:54,192
+I think I'm going to puke!
+
+136
+00:05:54,270 --> 00:05:55,860
+-Hey, who's on first?
+-Touchdown!
+
+137
+00:05:55,938 --> 00:05:56,978
+BARNEY: Slide!
+
+138
+00:05:57,482 --> 00:05:59,032
+(tires screeching)
+
+139
+00:06:00,818 --> 00:06:04,158
+-HOMER: Safe!
+-(all cheering)
+
+140
+00:06:05,031 --> 00:06:07,121
+(cheering continues)
+
+141
+00:06:07,200 --> 00:06:08,910
+Hey, Carl. Isotopes!
+
+142
+00:06:09,369 --> 00:06:14,959
+(all groaning, grunting)
+
+143
+00:06:15,917 --> 00:06:19,337
+(drunkenly)
+<i>♪ We are the champions ♪</i>
+
+144
+00:06:19,420 --> 00:06:22,670
+<i>♪ We are the champions ♪</i>
+
+145
+00:06:22,757 --> 00:06:25,677
+<i>♪ You got mud on your face</i>
+<i>Big disgrace ♪</i>
+
+146
+00:06:25,760 --> 00:06:27,550
+-(screams)
+-Whoop! Careful.
+
+147
+00:06:29,680 --> 00:06:31,430
+(munching)
+
+148
+00:06:31,516 --> 00:06:33,846
+Wow! You look
+really hungover, Dad.
+
+149
+00:06:33,935 --> 00:06:35,645
+What did you do last night?
+
+150
+00:06:35,728 --> 00:06:38,818
+Last night? Uh, um...
+
+151
+00:06:55,164 --> 00:06:59,044
+Hmm, huh. Hello, Big Maggie.
+
+152
+00:06:59,127 --> 00:07:00,877
+Yes! Yes! Yes!
+
+153
+00:07:00,962 --> 00:07:02,712
+Someone trashed the school.
+
+154
+00:07:02,797 --> 00:07:04,167
+What the dilly-yo?
+
+155
+00:07:04,257 --> 00:07:05,167
+<i>Where this morning,</i>
+
+156
+00:07:05,258 --> 00:07:06,628
+<i>the three "Rs" stand for</i>
+
+157
+00:07:06,717 --> 00:07:08,427
+<i>"rowdiness, ransacking</i>
+
+158
+00:07:08,511 --> 00:07:10,391
+<i>and irresponsibility."</i>
+
+159
+00:07:10,471 --> 00:07:12,391
+<i>-Any suspects, chief?</i>
+<i>-None.</i>
+
+160
+00:07:12,473 --> 00:07:14,273
+<i>That's why we're</i>
+<i>jumping to the conclusion</i>
+
+161
+00:07:14,350 --> 00:07:17,020
+<i>that this was the work</i>
+<i>of no-good, punk kids.</i>
+
+162
+00:07:17,103 --> 00:07:18,443
+Kids?
+
+163
+00:07:18,521 --> 00:07:19,981
+<i>Therefore,</i>
+<i>effective immediately,</i>
+
+164
+00:07:20,064 --> 00:07:22,024
+<i>I am imposing a curfew.</i>
+
+165
+00:07:22,108 --> 00:07:25,528
+<i>Any kid caught on the street</i>
+<i>after dark will be shot,</i>
+
+166
+00:07:26,279 --> 00:07:29,659
+<i>or returned to their parents</i>
+<i>as the situation may warrant.</i>
+
+167
+00:07:29,740 --> 00:07:31,950
+-(gasps) Curfew?
+-Whoa!
+
+168
+00:07:32,034 --> 00:07:34,164
+Serves you little punks right.
+
+169
+00:07:34,245 --> 00:07:36,575
+So, maybe next time,
+you'll think before--
+
+170
+00:07:36,664 --> 00:07:38,044
+Oh, my God!
+
+171
+00:07:38,124 --> 00:07:42,254
+Look what those rotten kids
+did to my car! (crying)
+
+172
+00:07:46,799 --> 00:07:48,799
+The cops can't just
+slap a curfew on us.
+
+173
+00:07:48,885 --> 00:07:50,845
+-We have rights.
+-Sure, you do.
+
+174
+00:07:50,928 --> 00:07:53,178
+You have the right
+to remain silent.
+
+175
+00:07:53,264 --> 00:07:55,064
+(both laughing)
+
+176
+00:07:55,141 --> 00:07:56,771
+That was cold-blooded, Marge.
+
+177
+00:07:56,851 --> 00:07:58,271
+-Yeah.
+-But it's not fair.
+
+178
+00:07:58,352 --> 00:08:00,902
+Adults always blame kids
+for everything.
+
+179
+00:08:00,980 --> 00:08:02,060
+Well, if kids are so innocent,
+
+180
+00:08:02,148 --> 00:08:04,358
+{\an8}why is everything bad
+named after them?
+
+181
+00:08:04,442 --> 00:08:08,402
+{\an8}Acting childish, kidnapping,
+child abuse.
+
+182
+00:08:08,488 --> 00:08:10,158
+What about adultery?
+
+183
+00:08:10,239 --> 00:08:11,529
+Not until you're older, son.
+
+184
+00:08:12,033 --> 00:08:13,833
+(children giggling)
+
+185
+00:08:13,910 --> 00:08:14,990
+Okay, go deep!
+
+186
+00:08:17,079 --> 00:08:18,749
+Ice cream truck!
+
+187
+00:08:19,415 --> 00:08:20,365
+Hey, quit pushing!
+
+188
+00:08:20,458 --> 00:08:21,458
+I was here first!
+
+189
+00:08:21,542 --> 00:08:22,632
+Get out of my way!
+
+190
+00:08:22,710 --> 00:08:24,250
+(soft tune playing)
+
+191
+00:08:24,337 --> 00:08:26,707
+(exclaiming)
+
+192
+00:08:27,590 --> 00:08:29,130
+-(siren wailing)
+-(tires screeching)
+
+193
+00:08:29,217 --> 00:08:31,257
+<i>Achtung, babies!</i>
+
+194
+00:08:31,344 --> 00:08:33,304
+<i>Curfew is in effect.</i>
+
+195
+00:08:33,387 --> 00:08:35,517
+<i>Return to your homes,</i>
+<i>immediately.</i>
+
+196
+00:08:35,598 --> 00:08:37,518
+(screaming)
+
+197
+00:08:40,937 --> 00:08:43,227
+All right,
+let's see some IDs, boys.
+
+198
+00:08:43,773 --> 00:08:46,693
+Huh. You two scofflaws
+are violating curfew.
+
+199
+00:08:46,776 --> 00:08:48,236
+I'm taking you downtown.
+
+200
+00:08:48,569 --> 00:08:51,449
+Oh, uh, sorry to disturb you,
+Dr. Hibbert.
+
+201
+00:08:51,531 --> 00:08:53,031
+(deep voice)
+Not at all, officer.
+
+202
+00:08:53,115 --> 00:08:56,535
+(laughing like Hibbert)
+
+203
+00:08:58,204 --> 00:09:02,294
+Hah! What a beautiful night.
+Fireflies, full moon.
+
+204
+00:09:02,375 --> 00:09:04,375
+And here we are, locked inside.
+
+205
+00:09:05,127 --> 00:09:07,627
+Kids, the carnival's in town
+for one night only.
+
+206
+00:09:07,713 --> 00:09:09,803
+And they've got cotton candy
+and hats with feathers.
+
+207
+00:09:09,882 --> 00:09:11,092
+And there's no lines
+
+208
+00:09:11,175 --> 00:09:13,925
+because all the stupid kids
+have curfew, so...
+
+209
+00:09:15,012 --> 00:09:15,972
+Oh, right. Sorry.
+
+210
+00:09:16,764 --> 00:09:18,984
+(giggling)
+
+211
+00:09:19,850 --> 00:09:21,980
+-Hmm.
+-(sighs)
+
+212
+00:09:22,061 --> 00:09:24,231
+Why don't you kids play
+one of your old board games?
+
+213
+00:09:24,939 --> 00:09:27,819
+{\an8}When was the last time
+you played <i>Citizenship?</i>
+
+214
+00:09:27,900 --> 00:09:30,530
+<i>-BART: Energy Shortage.</i>
+<i>-LISA: Hippo in the House?</i>
+
+215
+00:09:30,611 --> 00:09:32,361
+{\an8}MARGE: Ooh! <i>The Game of Lent</i>.
+
+216
+00:09:32,446 --> 00:09:34,656
+Oh, can't we just go to bed?
+
+217
+00:09:34,740 --> 00:09:36,450
+It's only 5:30.
+
+218
+00:09:36,534 --> 00:09:38,494
+Fine. We'll play
+<i>Hippo in the House </i>.
+
+219
+00:09:39,704 --> 00:09:42,084
+Oh, the hippo's missing.
+
+220
+00:09:42,164 --> 00:09:43,624
+(both groaning)
+
+221
+00:09:44,458 --> 00:09:46,128
+You think that's bad?
+
+222
+00:09:46,210 --> 00:09:48,000
+I had to talk
+to my mom all night.
+
+223
+00:09:48,087 --> 00:09:51,917
+She's got problems.
+Scary problems.
+
+224
+00:09:52,008 --> 00:09:53,628
+Adults blow.
+
+225
+00:09:53,718 --> 00:09:55,598
+Yeah. Just look at them
+over there.
+
+226
+00:09:55,678 --> 00:09:58,008
+Smoking their cigarettes.
+
+227
+00:09:58,097 --> 00:09:59,517
+Drinking their coffee.
+
+228
+00:10:00,016 --> 00:10:01,886
+Scratching their big butts.
+
+229
+00:10:02,435 --> 00:10:04,845
+Your metabolism will change
+someday, too, young man.
+
+230
+00:10:05,855 --> 00:10:07,765
+(mutters, clears throat)
+
+231
+00:10:10,693 --> 00:10:13,453
+That ought to show
+little Timmy and Tammy scumbag
+
+232
+00:10:13,529 --> 00:10:15,449
+who's in charge around here.
+
+233
+00:10:15,531 --> 00:10:17,201
+Gee, chief,
+all those gears and motors
+
+234
+00:10:17,283 --> 00:10:18,783
+must have cost a fortune.
+
+235
+00:10:18,868 --> 00:10:21,038
+Well, you got to spend money
+to make money, Lou.
+
+236
+00:10:21,120 --> 00:10:22,160
+Uh-huh.
+
+237
+00:10:23,372 --> 00:10:26,132
+{\an8}(yawning) You want to
+hold it for a while?
+
+238
+00:10:26,500 --> 00:10:27,540
+Nah.
+
+239
+00:10:28,544 --> 00:10:30,094
+MARGE: (humming)
+
+240
+00:10:30,171 --> 00:10:31,461
+Marge. Kite.
+
+241
+00:10:31,547 --> 00:10:33,337
+Hey, there is one thing
+we could do.
+
+242
+00:10:33,424 --> 00:10:35,764
+-(music playing on TV)
+-(gasps) Lise, no. It's prime time!
+
+243
+00:10:35,843 --> 00:10:37,803
+<i>You robbed me of my manhood.</i>
+
+244
+00:10:37,887 --> 00:10:39,807
+<i>That's petty theft.</i>
+
+245
+00:10:39,889 --> 00:10:41,769
+(audience exclaiming)
+
+246
+00:10:41,849 --> 00:10:43,229
+<i>Don't go there.</i>
+
+247
+00:10:43,309 --> 00:10:46,599
+(audience laughing, applauding)
+
+248
+00:10:46,687 --> 00:10:48,307
+{\an8}Don't Go There
+<i>will be right back.</i>
+
+249
+00:10:48,397 --> 00:10:51,317
+-Oh, no. It won't.
+-Wait, there's a commercial.
+
+250
+00:10:51,400 --> 00:10:54,950
+(spooky music plays)
+
+251
+00:10:55,029 --> 00:10:57,069
+-Ah, oh... yeah.
+-Whoa.
+
+252
+00:10:58,532 --> 00:10:59,912
+<i>MALE NARRATOR:</i>
+<i>40 years ago,</i>
+
+253
+00:10:59,992 --> 00:11:02,162
+<i>a film appeared</i>
+<i>that was so shocking,</i>
+
+254
+00:11:02,244 --> 00:11:05,124
+<i>so terrifying, it was sealed</i>
+<i>in a concrete vault</i>
+
+255
+00:11:05,206 --> 00:11:06,416
+<i>deep beneath the earth.</i>
+
+256
+00:11:06,499 --> 00:11:09,089
+<i>But even the new management</i>
+<i>of Sony/TriStar</i>
+
+257
+00:11:09,168 --> 00:11:11,378
+<i>could not contain the pure evil</i>
+
+258
+00:11:11,462 --> 00:11:13,012
+<i>of </i>The Bloodening.
+
+259
+00:11:13,089 --> 00:11:15,719
+(woman screaming)
+
+260
+00:11:15,800 --> 00:11:17,680
+{\an8}Milhouse, do you see
+what's on channel six?
+
+261
+00:11:17,760 --> 00:11:19,890
+Uh, yeah,
+it-it's really something.
+
+262
+00:11:19,970 --> 00:11:21,430
+(gasps)
+
+263
+00:11:21,514 --> 00:11:22,724
+<i>MALE NARRATOR:</i>
+<i>A registered nurse trained</i>
+
+264
+00:11:22,807 --> 00:11:24,307
+<i>in the treatment of terror</i>
+
+265
+00:11:24,392 --> 00:11:26,352
+<i>will be on duty</i>
+<i>during the showing of...</i>
+
+266
+00:11:26,936 --> 00:11:28,476
+{\an8}The Bloodening.
+
+267
+00:11:29,063 --> 00:11:30,823
+{\an8}(evil laughter)
+
+268
+00:11:30,898 --> 00:11:32,478
+{\an8}(normal voice) <i>Now playing</i>
+<i>at the Springfield drive-in...</i>
+
+269
+00:11:32,566 --> 00:11:34,396
+{\an8}<i>after dark.</i>
+
+270
+00:11:34,485 --> 00:11:35,645
+Milhouse, spread the word.
+
+271
+00:11:35,736 --> 00:11:37,276
+We're seeing this movie,
+tonight.
+
+272
+00:11:37,363 --> 00:11:40,703
+That's right.
+We're breaking curfew.
+
+273
+00:11:41,867 --> 00:11:44,447
+(both grunting)
+
+274
+00:11:47,289 --> 00:11:48,329
+Come on.
+
+275
+00:11:50,876 --> 00:11:52,836
+(grunting)
+
+276
+00:11:53,379 --> 00:11:56,259
+-Breaking curfew, Mom!
+-WOMAN: We're out of skoal!
+
+277
+00:12:02,304 --> 00:12:05,104
+Due to the likelihood of
+fear-induced heart attacks,
+
+278
+00:12:05,182 --> 00:12:08,602
+we're offering all patrons
+million-dollar life insurance policies.
+
+279
+00:12:08,686 --> 00:12:10,646
+Life insurance? Hmm.
+
+280
+00:12:10,730 --> 00:12:12,520
+{\an8}Will I be able to borrow
+against the equity?
+
+281
+00:12:12,606 --> 00:12:15,146
+Uh, I don't know, sir.
+It comes free with the popcorn.
+
+282
+00:12:15,234 --> 00:12:16,324
+Is that air-popped?
+
+283
+00:12:16,402 --> 00:12:17,282
+MAN: Skinner!
+
+284
+00:12:17,361 --> 00:12:19,741
+-We're losing valuable make-out time.
+-WOMAN: (groans)
+
+285
+00:12:21,073 --> 00:12:23,163
+(grunts)
+
+286
+00:12:23,242 --> 00:12:25,082
+-Little help.
+-Sure.
+
+287
+00:12:25,161 --> 00:12:26,501
+(grunts)
+
+288
+00:12:27,538 --> 00:12:29,288
+-(groans)
+-(grunts)
+
+289
+00:12:29,373 --> 00:12:31,043
+-Lisa.
+-Nelson.
+
+290
+00:12:32,126 --> 00:12:34,336
+<i>CHORUS </i>(singing):
+<i>♪ Let's all go to the lobby ♪</i>
+
+291
+00:12:34,420 --> 00:12:37,670
+<i>♪ To get ourselves some drinks ♪</i>
+
+292
+00:12:44,680 --> 00:12:47,060
+<i>Get off of my moor,</i>
+<i>you mischievous weans.</i>
+
+293
+00:12:47,141 --> 00:12:49,981
+<i>Actually, we'd prefer to stay.</i>
+
+294
+00:12:51,312 --> 00:12:53,612
+<i>You're thinking about</i>
+<i>hurting us.</i>
+
+295
+00:12:54,023 --> 00:12:55,273
+(groans)
+
+296
+00:12:55,357 --> 00:12:56,397
+<i>Now you're thinking,</i>
+
+297
+00:12:56,484 --> 00:12:58,534
+<i>"How did they know</i>
+<i>what I was thinking?"</i>
+
+298
+00:12:58,611 --> 00:12:59,991
+<i>Now you're thinking,</i>
+
+299
+00:13:00,070 --> 00:13:02,910
+{\an8}<i>"I hope that's shepherd's pie</i>
+<i>in my knickers."</i>
+
+300
+00:13:02,990 --> 00:13:04,410
+(groans)
+
+301
+00:13:05,785 --> 00:13:08,285
+(screaming)
+
+302
+00:13:08,370 --> 00:13:10,210
+-Wow!
+-They showed him.
+
+303
+00:13:10,289 --> 00:13:13,709
+Man, I never liked Shakespeare
+until now.
+
+304
+00:13:14,752 --> 00:13:16,172
+<i>Right, you little blighters.</i>
+
+305
+00:13:16,253 --> 00:13:18,213
+<i>We've had quite enough</i>
+<i>of your evil mischief.</i>
+
+306
+00:13:18,297 --> 00:13:20,417
+<i>But you're the one</i>
+<i>who's been bad.</i>
+
+307
+00:13:20,508 --> 00:13:22,428
+<i>You've been sneaking puddings.</i>
+
+308
+00:13:22,510 --> 00:13:24,470
+<i>But-but, how did you know?</i>
+
+309
+00:13:24,553 --> 00:13:27,313
+<i>We know all your secrets.</i>
+
+310
+00:13:27,389 --> 00:13:29,889
+<i>-And you pilfered the poor box.</i>
+-(gasps)
+
+311
+00:13:29,975 --> 00:13:31,935
+<i>And, doctor, we know that you</i>
+<i>and the bootblack</i>
+
+312
+00:13:32,019 --> 00:13:35,189
+<i>have been rogering the fishwife</i>
+<i>in the crumpet shop.</i>
+
+313
+00:13:35,272 --> 00:13:36,862
+-(blows raspberry)
+-(gasps)
+
+314
+00:13:36,941 --> 00:13:39,491
+<i>-Lies! How dare you!</i>
+<i>-Get them! Quickly!</i>
+
+315
+00:13:40,486 --> 00:13:42,066
+<i>We can't have that.</i>
+
+316
+00:13:45,991 --> 00:13:46,991
+(gasps)
+
+317
+00:13:47,076 --> 00:13:48,156
+(gasps)
+
+318
+00:13:50,037 --> 00:13:52,407
+(grunts)
+
+319
+00:13:55,626 --> 00:13:57,836
+-Take that, you suckers!
+-Way to go!
+
+320
+00:13:57,920 --> 00:13:59,670
+In your face, fishwife.
+
+321
+00:13:59,755 --> 00:14:01,005
+(thud)
+
+322
+00:14:02,049 --> 00:14:03,839
+Enjoying the movie, kids?
+
+323
+00:14:03,926 --> 00:14:05,926
+ALL: (screaming)
+
+324
+00:14:06,011 --> 00:14:07,221
+Listen up, punks.
+
+325
+00:14:07,304 --> 00:14:09,354
+The moral of the story is,
+
+326
+00:14:09,431 --> 00:14:11,681
+the adults always win.
+
+327
+00:14:12,601 --> 00:14:13,561
+(yells)
+
+328
+00:14:15,771 --> 00:14:18,361
+Stop crying out loud, Eddie,
+you scared the hell out of me.
+
+329
+00:14:18,440 --> 00:14:22,030
+Sorry, chief. (evil chuckle)
+
+330
+00:14:24,321 --> 00:14:29,161
+KIDS: (groaning)
+
+331
+00:14:29,243 --> 00:14:31,663
+CLANCY WIGGUM: Don't forget
+to clean under the jowls.
+
+332
+00:14:31,745 --> 00:14:34,035
+That spot is club med
+for mildew.
+
+333
+00:14:35,040 --> 00:14:37,500
+And let this be
+a lesson to you.
+
+334
+00:14:37,585 --> 00:14:40,375
+Kids never learn. (grunts)
+
+335
+00:14:40,462 --> 00:14:41,632
+(tires screeching)
+
+336
+00:14:41,714 --> 00:14:44,224
+(all coughing, retching)
+
+337
+00:14:44,300 --> 00:14:45,720
+Oh, that is it.
+
+338
+00:14:45,801 --> 00:14:48,141
+I'm tired of being
+pushed around by grownups.
+
+339
+00:14:48,220 --> 00:14:49,890
+It's time to fight back!
+
+340
+00:14:49,972 --> 00:14:53,062
+ALL: Yeah! Fight back!
+
+341
+00:14:53,142 --> 00:14:55,942
+Man, if we had eye power
+like those kids in that movie,
+
+342
+00:14:56,020 --> 00:14:58,560
+we could read the adults' mind
+and tell their secrets,
+
+343
+00:14:58,647 --> 00:15:01,027
+and make them pitchfork
+each other and junk.
+
+344
+00:15:01,108 --> 00:15:03,438
+(laughing, cheering)
+
+345
+00:15:03,527 --> 00:15:06,357
+Wait! We don't need
+supernatural powers.
+
+346
+00:15:06,447 --> 00:15:08,867
+-We already know their secrets.
+-She's right.
+
+347
+00:15:08,949 --> 00:15:11,409
+Homer's done a ton of crap
+that never made the papers.
+
+348
+00:15:11,493 --> 00:15:13,623
+My mom shoplifts all the time,
+
+349
+00:15:13,704 --> 00:15:15,164
+stuff she doesn't even need.
+
+350
+00:15:15,247 --> 00:15:17,957
+My dad gets in car accidents
+on purpose.
+
+351
+00:15:18,042 --> 00:15:20,092
+Great. This is all gold.
+
+352
+00:15:20,169 --> 00:15:22,669
+MILHOUSE: We got to spread
+this stuff around.
+
+353
+00:15:22,755 --> 00:15:24,125
+Let's put it on the Internet.
+
+354
+00:15:24,214 --> 00:15:25,674
+BART:
+No, we have to reach people
+
+355
+00:15:25,758 --> 00:15:27,678
+whose opinions actually matter,
+
+356
+00:15:27,760 --> 00:15:29,510
+and I think I know how.
+
+357
+00:15:29,595 --> 00:15:30,635
+Why don't we just...
+
+358
+00:15:30,721 --> 00:15:34,771
+(chatter)
+
+359
+00:15:34,850 --> 00:15:37,060
+Attention,
+hemline and midriff monitors.
+
+360
+00:15:37,144 --> 00:15:38,194
+-(tapping)
+-Um.
+
+361
+00:15:38,270 --> 00:15:39,810
+-(squeaky sound)
+-(gasps)
+
+362
+00:15:39,897 --> 00:15:41,687
+Willie, get my Windex.
+
+363
+00:15:43,567 --> 00:15:45,947
+(snoring)
+
+364
+00:15:50,032 --> 00:15:51,242
+(cat meows)
+
+365
+00:15:52,326 --> 00:15:55,496
+200 channels,
+and nothing but cats.
+
+366
+00:16:04,713 --> 00:16:06,633
+So, Marge,
+ready for another episode
+
+367
+00:16:06,715 --> 00:16:08,425
+of <i>Don't Go There?</i>
+
+368
+00:16:08,509 --> 00:16:10,469
+I'm tired of that show,
+
+369
+00:16:10,552 --> 00:16:13,352
+but I've been hearing
+good things about <i>Talk to the Hand</i>.
+
+370
+00:16:13,806 --> 00:16:17,016
+Tom Shales says the writing
+snaps, crackles, and pops.
+
+371
+00:16:17,518 --> 00:16:19,728
+Okay, whatever takes
+my mind off my life.
+
+372
+00:16:19,812 --> 00:16:22,562
+{\an8}(theme music playing)
+<i>♪ Talk to the hand, they say... ♪</i>
+
+373
+00:16:22,648 --> 00:16:24,398
+Hey, look what I found.
+
+374
+00:16:24,817 --> 00:16:26,647
+Grandpa's old radio.
+
+375
+00:16:26,735 --> 00:16:29,605
+Oh, wouldn't it be grand
+to gather round
+
+376
+00:16:29,697 --> 00:16:31,027
+and have a listen?
+
+377
+00:16:31,115 --> 00:16:32,615
+Well, turn something on.
+
+378
+00:16:32,700 --> 00:16:33,740
+I'm starting to think.
+
+379
+00:16:34,535 --> 00:16:36,075
+(big band music)
+
+380
+00:16:36,161 --> 00:16:37,621
+(rock music)
+
+381
+00:16:38,080 --> 00:16:39,960
+<i>FRANKLIN ROOSEVELT:</i>
+<i>A date which will live...</i>
+
+382
+00:16:40,833 --> 00:16:42,083
+<i>in infamy.</i>
+
+383
+00:16:42,626 --> 00:16:45,206
+Good evening, adults.
+We interrupt this broadcast
+
+384
+00:16:45,295 --> 00:16:48,085
+to bring you
+a very special presentation.
+
+385
+00:16:48,173 --> 00:16:50,133
+Tonight's program is entitled...
+
+386
+00:16:50,217 --> 00:16:53,847
+<i>KIDS: We Know All Your Secrets.</i>
+
+387
+00:16:53,929 --> 00:16:55,349
+Boring.
+
+388
+00:16:55,431 --> 00:16:57,061
+Go back to that "infamy" guy.
+
+389
+00:16:57,433 --> 00:16:59,853
+<i>BART: Constable Wiggum</i>
+<i>likes to act tough.</i>
+
+390
+00:16:59,935 --> 00:17:01,515
+<i>But he also likes</i>
+<i>to walk the beat</i>
+
+391
+00:17:01,603 --> 00:17:03,403
+<i>in control-top pantyhose.</i>
+
+392
+00:17:03,814 --> 00:17:05,074
+(gasping)
+
+393
+00:17:05,149 --> 00:17:07,689
+Heh-heh! Well, heh,
+
+394
+00:17:07,776 --> 00:17:09,276
+it's not like that's a crime.
+
+395
+00:17:09,361 --> 00:17:10,741
+I'm afraid it is, chief.
+
+396
+00:17:10,821 --> 00:17:12,201
+-Um.
+-(handcuffs ratcheting)
+
+397
+00:17:12,281 --> 00:17:14,121
+<i>BART:</i>
+<i>And Schoolmistress Krabapple</i>
+
+398
+00:17:14,199 --> 00:17:17,369
+<i>has been stealing supplies</i>
+<i>from the school cafeteria.</i>
+
+399
+00:17:17,453 --> 00:17:20,373
+{\an8}(gasps) Edna, how could you?
+
+400
+00:17:20,456 --> 00:17:22,826
+{\an8}Don't get up.
+I'll bus my own tray.
+
+401
+00:17:25,210 --> 00:17:27,760
+<i>BART: And now we come</i>
+<i>to Mr. Homer Simpson.</i>
+
+402
+00:17:27,838 --> 00:17:28,878
+(gasps)
+
+403
+00:17:28,964 --> 00:17:30,554
+<i>Did you know, he likes to eat</i>
+
+404
+00:17:30,632 --> 00:17:32,682
+<i>out of the Flanders' garbage?</i>
+
+405
+00:17:32,760 --> 00:17:34,550
+Oh, no. Homer.
+
+406
+00:17:34,636 --> 00:17:36,306
+I have a problem.
+
+407
+00:17:36,388 --> 00:17:38,268
+<i>Tune in tomorrow and every day</i>
+
+408
+00:17:38,348 --> 00:17:39,638
+<i>until the curfew is lifted</i>
+
+409
+00:17:39,725 --> 00:17:42,135
+<i>because we'll be revealing</i>
+<i>embarrassing secrets about</i>
+
+410
+00:17:42,227 --> 00:17:43,937
+<i>Springfield's other adults.</i>
+
+411
+00:17:44,021 --> 00:17:46,231
+Well, at least
+they've already done me.
+
+412
+00:17:46,315 --> 00:17:48,185
+<i>And we have plenty more</i>
+<i>on Homer Simpson.</i>
+
+413
+00:17:48,275 --> 00:17:49,275
+D'oh!
+
+414
+00:17:49,359 --> 00:17:51,109
+I've called this meeting
+to determine
+
+415
+00:17:51,195 --> 00:17:52,985
+what to do
+about those blabbermouth kids
+
+416
+00:17:53,072 --> 00:17:55,072
+and their creepy
+English accents.
+
+417
+00:17:55,157 --> 00:17:58,287
+Hey, shut up, Mayor.
+They're telling secrets again.
+
+418
+00:17:58,368 --> 00:17:59,578
+ALL: (gasp)
+
+419
+00:17:59,661 --> 00:18:02,161
+Oh, I hope they don't reveal
+this is a comb-over.
+
+420
+00:18:02,748 --> 00:18:04,788
+<i>LISA </i>(over radio):
+<i>Our top secret tonight,</i>
+
+421
+00:18:04,875 --> 00:18:07,625
+<i>Gay divorcee Luanne Van Houten</i>
+
+422
+00:18:07,711 --> 00:18:10,461
+<i>has been cheating</i>
+<i>on her boyfriend, Pyro...</i>
+
+423
+00:18:10,547 --> 00:18:13,757
+-CROWD: (gasp)
+<i>-...with his best friend, Gyro.</i>
+
+424
+00:18:13,842 --> 00:18:16,302
+How many times
+have I fought beside you, Gyro?
+
+425
+00:18:16,386 --> 00:18:18,216
+And this is how you repay me?
+
+426
+00:18:18,639 --> 00:18:20,389
+(both grunting)
+
+427
+00:18:20,474 --> 00:18:22,944
+Pyro, Gyro, settle down.
+
+428
+00:18:23,018 --> 00:18:26,438
+Can't we shut down
+that infernal transmitter?
+
+429
+00:18:26,522 --> 00:18:28,902
+-Can't we just blow it up?
+-You go ahead, girlfriend.
+
+430
+00:18:28,982 --> 00:18:33,032
+(chattering)
+
+431
+00:18:33,112 --> 00:18:34,452
+-Settle down, people.
+-(gavel banging)
+
+432
+00:18:34,530 --> 00:18:36,780
+As we speak,
+Chief Wiggum is tracking down
+
+433
+00:18:36,865 --> 00:18:38,865
+those little squealers
+using the latest
+
+434
+00:18:38,951 --> 00:18:41,041
+in crime-fighting technology.
+
+435
+00:18:42,079 --> 00:18:44,039
+Ah, I got nothing.
+How about you, frinky?
+
+436
+00:18:44,123 --> 00:18:45,963
+I have captured the signal,
+
+437
+00:18:46,041 --> 00:18:48,711
+and am presently
+triangulating the vectors
+
+438
+00:18:48,794 --> 00:18:50,554
+and compressing the data down
+
+439
+00:18:50,629 --> 00:18:53,759
+in order to express it
+as a function of my hand.
+
+440
+00:18:53,841 --> 00:18:55,431
+They're over there.
+
+441
+00:18:58,428 --> 00:19:00,178
+And guess
+who's been practicing medicine
+
+442
+00:19:00,264 --> 00:19:01,474
+without a license?
+
+443
+00:19:01,890 --> 00:19:03,020
+(gulps)
+
+444
+00:19:03,100 --> 00:19:05,270
+That's right. Homer Simpson.
+
+445
+00:19:06,270 --> 00:19:07,770
+Freeze, you little shock jocks.
+
+446
+00:19:07,855 --> 00:19:08,895
+(guns cocking)
+
+447
+00:19:14,069 --> 00:19:15,029
+Brilliant.
+
+448
+00:19:15,112 --> 00:19:17,532
+They transduced
+amplitude modulation
+
+449
+00:19:17,614 --> 00:19:21,414
+via the concavity of that over-sized
+beverage conveyance.
+
+450
+00:19:21,493 --> 00:19:24,203
+I mean,
+that is some clever goyvin.
+
+451
+00:19:24,288 --> 00:19:26,288
+All right, you kids,
+come down now.
+
+452
+00:19:26,373 --> 00:19:27,793
+We promise, we won't kill you.
+
+453
+00:19:27,875 --> 00:19:30,285
+Speak for yourself.
+Bart, get down here!
+
+454
+00:19:30,377 --> 00:19:33,207
+I'm going to spank you
+back to the Stone Age.
+
+455
+00:19:33,297 --> 00:19:34,797
+You can't make us come down.
+
+456
+00:19:34,882 --> 00:19:37,302
+You adults are always
+giving us orders.
+
+457
+00:19:37,384 --> 00:19:39,184
+Well, you kids
+are always disobeying them.
+
+458
+00:19:39,261 --> 00:19:41,891
+Well, adults treat kids
+like children.
+
+459
+00:19:41,972 --> 00:19:44,432
+Kids treat adults
+like cash machines.
+
+460
+00:19:44,516 --> 00:19:47,186
+-Adults! Adults! Adults!
+-Kids! Kids! Kids!
+
+461
+00:19:47,269 --> 00:19:50,439
+(singing) <i>♪ Kids, you've had your fun</i>
+<i>♪ Now we've had our fill ♪</i>
+
+462
+00:19:51,481 --> 00:19:54,571
+<i>♪ Yeah, you're only here</i>
+<i>'Cause Marge forgot her pill ♪</i>
+
+463
+00:19:54,651 --> 00:19:55,691
+(sneers)
+
+464
+00:19:55,777 --> 00:19:57,277
+{\an8}<i>♪ Kids, you're all just </i>♪
+
+465
+00:19:57,362 --> 00:19:59,452
+{\an8}<i>♪ Scandalizing,</i>
+<i>vandalizing punks ♪</i>
+
+466
+00:20:00,115 --> 00:20:03,155
+<i>♪ Channel-hoppin',</i>
+<i>Ritalin-poppin' monkeys ♪</i>
+
+467
+00:20:03,243 --> 00:20:04,413
+But please don't quit
+the fan club.
+
+468
+00:20:04,494 --> 00:20:05,954
+<i>♪ Kids, I can nag and nag </i>♪
+
+469
+00:20:06,038 --> 00:20:07,708
+♪ <i>Till my hair turns blue ♪</i>
+
+470
+00:20:08,624 --> 00:20:11,924
+<i>♪ Kids, you bum my smokes</i>
+<i>And don't say thank you ♪</i>
+
+471
+00:20:12,878 --> 00:20:15,088
+<i>♪ Why can't you be</i>
+<i>like we are? ♪</i>
+
+472
+00:20:16,173 --> 00:20:17,933
+<i>♪ Oh, what a bunch of brats ♪</i>
+
+473
+00:20:18,342 --> 00:20:20,932
+<i>♪ We ought to drown you</i>
+<i>just like cats ♪</i>
+
+474
+00:20:21,011 --> 00:20:22,101
+(cat meows)
+
+475
+00:20:22,179 --> 00:20:24,809
+<i>♪ Adults, you run our lives </i>♪
+
+476
+00:20:24,890 --> 00:20:26,600
+♪ <i>Like you're Colonel Klink ♪</i>
+
+477
+00:20:26,683 --> 00:20:30,813
+<i>♪ Adults, you strut around</i>
+<i>like your farts don't stink ♪</i>
+
+478
+00:20:30,896 --> 00:20:33,316
+<i>♪ Adults, you're such a</i>
+<i>drooling, snoring ♪</i>
+
+479
+00:20:33,398 --> 00:20:35,228
+<i>♪ Boozing, boring bunch ♪</i>
+
+480
+00:20:35,317 --> 00:20:38,487
+<i>♪ Surly, meanie,</i>
+<i>Three-martini lunchers ♪</i>
+
+481
+00:20:38,570 --> 00:20:39,910
+I just ate a thumbtack.
+
+482
+00:20:40,405 --> 00:20:43,075
+<i>♪ Adults, they're always</i>
+<i>telling us to-- ♪</i>
+
+483
+00:20:43,158 --> 00:20:44,198
+Shut your traps!
+
+484
+00:20:45,160 --> 00:20:48,460
+<i>♪ Eh, we're fed up</i>
+<i>with all of you whippersnaps ♪</i>
+
+485
+00:20:49,248 --> 00:20:51,538
+<i>♪ We're tryin' to get</i>
+<i>some sleep here ♪</i>
+
+486
+00:20:51,625 --> 00:20:53,585
+<i>♪ It's almost 6:15 ♪</i>
+
+487
+00:20:53,669 --> 00:20:54,799
+<i>♪ What's the matter with ♪</i>
+
+488
+00:20:54,878 --> 00:20:55,918
+<i>♪ Don't you treat us like ♪</i>
+
+489
+00:20:56,004 --> 00:20:57,054
+<i>♪ Can't you just lay off ♪</i>
+
+490
+00:20:57,130 --> 00:20:58,260
+<i>♪ We're sick of all of you ♪</i>
+
+491
+00:20:58,340 --> 00:21:04,180
+ADULTS: <i>♪ Kids...</i>
+<i>to... day... ♪</i>
+
+492
+00:21:06,640 --> 00:21:09,600
+We're going to teach
+all you rugrats a lesson.
+
+493
+00:21:09,685 --> 00:21:11,135
+Oh, yeah? (blows raspberry)
+
+494
+00:21:11,228 --> 00:21:13,858
+What can you old people
+do to us?
+
+495
+00:21:13,939 --> 00:21:16,689
+-Yeah, you old fogies.
+-Buzz off, you old buzzards.
+
+496
+00:21:16,775 --> 00:21:19,145
+(chatter)
+
+497
+00:21:19,236 --> 00:21:20,606
+...iron you.
+
+498
+00:21:20,696 --> 00:21:24,316
+<i>This is Kent Brockman</i>
+<i>reporting from my own home</i>
+
+499
+00:21:24,408 --> 00:21:25,988
+<i>in accordance</i>
+<i>with a new curfew</i>
+
+500
+00:21:26,076 --> 00:21:28,116
+<i>for anyone under 70.</i>
+
+501
+00:21:28,203 --> 00:21:31,043
+-(growls) I can't believe that passed.
+-(Homer speaking inaudibly)
+
+502
+00:21:31,123 --> 00:21:34,633
+I warned you guys that seniors
+always vote in record numbers.
+
+503
+00:21:34,710 --> 00:21:38,210
+<i>The controversial measure</i>
+<i>passed by a single vote.</i>
+
+504
+00:21:38,297 --> 00:21:40,757
+Um, you really
+should have voted, Homer.
+
+505
+00:21:40,841 --> 00:21:42,801
+Pfft. It wouldn't have made
+a difference.
+
+506
+00:21:42,884 --> 00:21:45,554
+Lights out, you punk kids!
+
+507
+00:21:47,931 --> 00:21:51,391
+Yay! We took back the night!
+
+508
+00:21:52,352 --> 00:21:53,402
+MAN: Hey, fellas!
+
+509
+00:21:53,895 --> 00:21:55,515
+Hey, you wanna stop
+with the kicking?
+
+510
+00:21:55,605 --> 00:21:57,395
+<i>My pills are in that can.</i>
+
+511
+00:21:58,108 --> 00:21:59,228
+<i>Good gravy.</i>
+
+512
+00:21:59,776 --> 00:22:01,236
+<i>I don't kick your things.</i>
+
+513
+00:22:02,237 --> 00:22:04,067
+<i>When you're trying</i>
+<i>to breathe on the machine,</i>
+
+514
+00:22:04,156 --> 00:22:05,946
+<i>do I go up and kick it?</i>
+
+515
+00:22:06,033 --> 00:22:08,043
+<i>Oh, now, look at that.</i>
+<i>It went down the sewer.</i>
+
+516
+00:22:08,118 --> 00:22:10,248
+{\an8}<i>You're happy?</i>
+<i>I'm gonna sue now.</i>
+
+517
+00:22:10,329 --> 00:22:12,039
+{\an8}<i>Now it's time for the lawyers.</i>
+
+518
+00:22:12,748 --> 00:22:14,578
+(theme music playing)
+
+519
+00:22:40,817 --> 00:22:41,937
+Shh.
+
+520
+00:22:42,027 --> 00:22:44,737
+<i>MAN: Don't tell me to shush,</i>
+<i>you stupid lady!</i>
+
+521
+00:22:45,155 --> 00:22:47,155
+{\an8}Captioned by
+Visual Data Media Services
+

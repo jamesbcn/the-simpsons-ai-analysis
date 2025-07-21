@@ -1,0 +1,2352 @@
+1
+00:00:03,336 --> 00:00:05,376
+<i>♪ The Simpsons ♪</i>
+
+2
+00:00:08,925 --> 00:00:11,085
+(bell ringing)
+
+3
+00:00:14,681 --> 00:00:15,641
+D'oh!
+
+4
+00:00:15,724 --> 00:00:18,144
+-Aah!
+-(tires screech)
+
+5
+00:00:35,452 --> 00:00:38,002
+{\an8}<i>Brought to you by: I.L.G.</i>
+
+6
+00:00:38,079 --> 00:00:40,789
+{\an8}<i>Selling your body's</i>
+<i>chemicals after you die.</i>
+
+7
+00:00:40,874 --> 00:00:42,714
+{\an8}<i>And by:</i>
+
+8
+00:00:42,792 --> 00:00:44,962
+{\an8}<i>A subsidiary of I.L.G.</i>
+
+9
+00:00:45,045 --> 00:00:46,295
+{\an8}<i>Oh, hi.</i>
+
+10
+00:00:46,379 --> 00:00:48,419
+{\an8}<i>I didn't hear you come in.</i>
+
+11
+00:00:48,506 --> 00:00:50,256
+{\an8}<i>Welcome to my home.</i>
+
+12
+00:00:52,802 --> 00:00:56,182
+{\an8}<i>Say, did I hear some carolers?</i>
+
+13
+00:00:56,264 --> 00:00:58,484
+{\an8}<i>♪ Rum-pa-pum-pum ♪</i>
+
+14
+00:00:58,558 --> 00:01:01,558
+{\an8}<i>♪ Come, they told me... ♪</i>
+
+15
+00:01:01,644 --> 00:01:04,314
+{\an8}<i>Hey, it's respected</i>
+<i>private citizen</i>
+
+16
+00:01:04,397 --> 00:01:06,147
+{\an8}<i>Tom Landry.</i>
+
+17
+00:01:06,232 --> 00:01:08,322
+{\an8}<i>And South American</i>
+<i>sensation</i>
+
+18
+00:01:08,401 --> 00:01:11,071
+{\an8}<i>shoo... shi... sha...</i>
+
+19
+00:01:11,154 --> 00:01:12,744
+{\an8}<i>shoo... sha... she...</i>
+
+20
+00:01:12,822 --> 00:01:15,332
+{\an8}<i>shu... shu... boy.</i>
+
+21
+00:01:15,408 --> 00:01:17,038
+{\an8}<i>ANNOUNCER:</i>
+<i>Now, stay tuned</i>
+
+22
+00:01:17,118 --> 00:01:20,038
+{\an8}<i>for a video Christmas card</i>
+<i>from Tupac Shakur.</i>
+
+23
+00:01:20,121 --> 00:01:22,371
+{\an8}Hey, I thought
+Krusty was Jewish.
+
+24
+00:01:22,457 --> 00:01:24,747
+{\an8}Christmas is a time when
+people of all religions
+
+25
+00:01:24,834 --> 00:01:26,754
+{\an8}come together to
+worship Jesus Christ.
+
+26
+00:01:32,967 --> 00:01:35,467
+{\an8}<i>-Boring!</i>
+<i>-Boring!</i>
+
+27
+00:01:38,807 --> 00:01:40,727
+{\an8}<i>BOTH:</i>
+<i>HELP!</i>
+
+28
+00:01:40,809 --> 00:01:41,939
+{\an8}<i>You want excitement?!</i>
+
+29
+00:01:42,018 --> 00:01:44,268
+{\an8}<i>Shove this up your stocking!</i>
+
+30
+00:01:45,647 --> 00:01:47,517
+{\an8}Whoa!
+
+31
+00:01:53,947 --> 00:01:55,697
+{\an8}Hmm. That looks entertaining.
+
+32
+00:01:55,782 --> 00:01:57,282
+{\an8}(gurgling)
+Oh yeah...
+
+33
+00:01:57,367 --> 00:02:00,537
+{\an8}<i>So tell your folks:</i>
+<i>"Buy me: Bonestorm!</i>
+
+34
+00:02:00,620 --> 00:02:02,580
+{\an8}<i>or go to hell!"</i>
+
+35
+00:02:03,915 --> 00:02:05,625
+{\an8}Buy me Bonestorm
+or go to hell!
+
+36
+00:02:05,708 --> 00:02:06,708
+{\an8}Bart!
+
+37
+00:02:06,793 --> 00:02:08,093
+{\an8}Young man,
+in this house
+
+38
+00:02:08,169 --> 00:02:09,799
+{\an8}we use a little
+word called "please."
+
+39
+00:02:09,879 --> 00:02:11,589
+{\an8}It's the coolest
+video game ever.
+
+40
+00:02:11,673 --> 00:02:13,093
+{\an8}I'm sorry, honey
+
+41
+00:02:13,174 --> 00:02:16,304
+{\an8}but those games cost
+up to and including $70.
+
+42
+00:02:16,386 --> 00:02:18,716
+{\an8}And they're violent and they
+distract you from your schoolwork.
+
+43
+00:02:18,805 --> 00:02:20,345
+{\an8}Those are all good points,
+but the problem is
+
+44
+00:02:20,431 --> 00:02:22,601
+{\an8}they don't result
+in me getting the game.
+
+45
+00:02:22,684 --> 00:02:23,814
+{\an8}I know how you feel, Bart.
+
+46
+00:02:23,893 --> 00:02:25,193
+{\an8}When I was your age,
+
+47
+00:02:25,270 --> 00:02:26,600
+{\an8}I wanted an electric
+football game
+
+48
+00:02:26,688 --> 00:02:27,978
+{\an8}more than anything
+in the world.
+
+49
+00:02:28,064 --> 00:02:30,114
+{\an8}And my parents
+bought it for me
+
+50
+00:02:30,191 --> 00:02:32,781
+{\an8}and it was the happiest day
+of my life.
+
+51
+00:02:34,112 --> 00:02:35,702
+{\an8}Well, good night.
+
+52
+00:02:35,780 --> 00:02:38,280
+Oh, I'll never get that game.
+
+53
+00:02:38,366 --> 00:02:40,536
+Tuck-in time.
+
+54
+00:02:40,618 --> 00:02:45,208
+<i>♪ All aboard the sleepy train</i>
+<i>to visit Mother Goose ♪</i>
+
+55
+00:02:45,290 --> 00:02:47,960
+<i>♪ Barty's stop is Snoozy Lane ♪</i>
+
+56
+00:02:48,042 --> 00:02:51,212
+<i>♪ To rest his sweet caboose ♪</i>
+
+57
+00:02:51,296 --> 00:02:53,296
+Mom, I'm not
+a little kid anymore.
+
+58
+00:02:53,381 --> 00:02:55,381
+Tuck-in time is lame.
+
+59
+00:02:55,466 --> 00:02:57,716
+Well, if loving my kids
+is lame,
+
+60
+00:02:57,802 --> 00:03:00,602
+then I guess
+I'm just a big lame.
+
+61
+00:03:00,680 --> 00:03:03,220
+Mom, it's lame to be proud
+of being lame.
+
+62
+00:03:03,308 --> 00:03:06,188
+Well, life is like
+a box of chocolates.
+
+63
+00:03:06,269 --> 00:03:07,689
+Mom! No, Mom!
+
+64
+00:03:07,770 --> 00:03:10,110
+(clanking)
+
+65
+00:03:10,190 --> 00:03:11,190
+.. what you're gonna get.
+
+66
+00:03:11,274 --> 00:03:12,154
+(clanking)
+
+67
+00:03:16,696 --> 00:03:18,656
+Ninety-nine cents!
+
+68
+00:03:20,074 --> 00:03:21,624
+I want to buy a copy
+of Bonestorm.
+
+69
+00:03:21,701 --> 00:03:23,161
+Here's 99 cents.
+
+70
+00:03:23,244 --> 00:03:24,204
+(sighs)
+
+71
+00:03:24,287 --> 00:03:25,207
+Allow me to summarize
+
+72
+00:03:25,288 --> 00:03:26,788
+the proposed transaction.
+
+73
+00:03:26,873 --> 00:03:29,173
+You wish to purchase Bonestorm
+for 99 cents.
+
+74
+00:03:29,250 --> 00:03:32,670
+Net profit to me:
+negative $59.
+
+75
+00:03:32,754 --> 00:03:34,304
+Oh, oh, please take my $59.
+
+76
+00:03:34,380 --> 00:03:35,670
+I don't want it.
+
+77
+00:03:35,757 --> 00:03:36,667
+It's yours.
+
+78
+00:03:36,758 --> 00:03:38,088
+Eh, eh, eh.
+
+79
+00:03:38,176 --> 00:03:40,136
+Seeing as we are unfamiliar
+with sarcasm
+
+80
+00:03:40,220 --> 00:03:43,770
+I shall close the register
+at this point and state
+
+81
+00:03:43,848 --> 00:03:45,768
+that 99 cents
+is the rental price.
+
+82
+00:03:45,850 --> 00:03:48,390
+Oh. Then may I please
+rent it, please?
+
+83
+00:03:48,478 --> 00:03:49,768
+You may not.
+I am all out.
+
+84
+00:03:49,854 --> 00:03:51,194
+Though I do have
+a surprising abundance
+
+85
+00:03:51,272 --> 00:03:53,482
+of Lee Carvallo's
+Putting Challenge.
+
+86
+00:03:53,566 --> 00:03:55,396
+Oh.
+
+87
+00:03:58,321 --> 00:04:00,491
+(lasers, explosions)
+
+88
+00:04:00,573 --> 00:04:02,243
+Milhouse has Bonestorm!
+
+89
+00:04:04,285 --> 00:04:05,865
+This is great!
+
+90
+00:04:05,954 --> 00:04:08,004
+And all I've done
+is enter my name--
+
+91
+00:04:08,081 --> 00:04:09,251
+Thrillhouse.
+
+92
+00:04:11,376 --> 00:04:14,206
+Say, cool dude,
+can I play too?
+
+93
+00:04:14,295 --> 00:04:16,795
+Uh, it's only
+a one-player game.
+
+94
+00:04:16,881 --> 00:04:19,341
+Then how come it says
+"second player score"?
+
+95
+00:04:19,425 --> 00:04:21,755
+Mom, Bart's swearing!
+
+96
+00:04:21,844 --> 00:04:23,394
+-No, no.
+-Hey. What the hell?
+
+97
+00:04:23,471 --> 00:04:25,101
+-Out, right now.
+-Damn it, I wasn't swearing.
+
+98
+00:04:25,181 --> 00:04:26,101
+Out!
+
+99
+00:04:30,019 --> 00:04:31,309
+Hmm.
+
+100
+00:04:31,396 --> 00:04:34,356
+Maybe if I stand next
+to the games looking sad
+
+101
+00:04:34,440 --> 00:04:37,070
+someone will feel sorry for me
+and buy me one.
+
+102
+00:04:49,497 --> 00:04:50,707
+Gavin, don't you
+
+103
+00:04:50,790 --> 00:04:52,080
+already have
+this game?
+
+104
+00:04:52,166 --> 00:04:53,786
+No, Mom, you idiot.
+
+105
+00:04:53,876 --> 00:04:56,206
+I have Bloodstorm
+and Bonesquad
+
+106
+00:04:56,296 --> 00:04:58,416
+and Bloodstorm II, stupid.
+
+107
+00:04:58,506 --> 00:04:59,796
+Oh, I'm sorry, honey.
+
+108
+00:04:59,882 --> 00:05:01,302
+We'll take a Bonestorm.
+
+109
+00:05:01,384 --> 00:05:03,474
+Get two. I'm not sharing
+with Caitlin.
+
+110
+00:05:06,431 --> 00:05:10,061
+That must be the happiest kid
+in the world.
+
+111
+00:05:10,143 --> 00:05:11,353
+Psst. Hey, Simpson.
+
+112
+00:05:11,436 --> 00:05:13,096
+Check this out.
+
+113
+00:05:14,439 --> 00:05:16,649
+Look what I got!
+
+114
+00:05:16,733 --> 00:05:18,443
+It's the kind I like.
+
+115
+00:05:18,526 --> 00:05:20,566
+Are you guys
+shoplifting?
+
+116
+00:05:20,653 --> 00:05:23,073
+Four-finger discount,
+dude.
+
+117
+00:05:23,156 --> 00:05:25,736
+Shoplifting is
+a victimless crime
+
+118
+00:05:25,825 --> 00:05:28,325
+like punching someone
+in the dark.
+
+119
+00:05:28,411 --> 00:05:31,041
+(both laughing)
+
+120
+00:05:46,679 --> 00:05:48,849
+Go ahead-a, Bart.
+
+121
+00:05:48,931 --> 00:05:50,891
+Take-a the Bonestorm.
+
+122
+00:05:50,975 --> 00:05:52,885
+The store,
+she so rich.
+
+123
+00:05:52,977 --> 00:05:54,477
+She'll-a never notice.
+
+124
+00:05:54,562 --> 00:05:56,402
+Duh, it's the
+company's fault
+
+125
+00:05:56,481 --> 00:05:58,111
+for making you
+want it so much.
+
+126
+00:05:58,191 --> 00:05:59,481
+Don't do it, son.
+
+127
+00:05:59,567 --> 00:06:02,027
+How's the game going
+to help your putting?
+
+128
+00:06:02,111 --> 00:06:03,031
+Just take it!
+
+129
+00:06:03,112 --> 00:06:04,032
+Take it! Take it!
+
+130
+00:06:04,113 --> 00:06:04,993
+Take it!
+
+131
+00:06:22,048 --> 00:06:23,298
+I'm outside.
+
+132
+00:06:23,383 --> 00:06:24,513
+I got away with it.
+
+133
+00:06:24,592 --> 00:06:25,472
+I'm free.
+
+134
+00:06:28,388 --> 00:06:31,218
+Sir, would you open
+your coat, please?
+
+135
+00:06:31,307 --> 00:06:35,227
+Uh, I don't think this is
+the kind of coat that opens.
+
+136
+00:06:35,311 --> 00:06:37,401
+Please step back
+in the store, sir.
+
+137
+00:06:37,480 --> 00:06:38,400
+(swallows)
+
+138
+00:06:38,481 --> 00:06:39,941
+(clucking tongue)
+
+139
+00:06:40,024 --> 00:06:42,324
+That boy's parents
+must have made
+
+140
+00:06:42,402 --> 00:06:43,822
+some terrible mistakes.
+
+141
+00:06:43,903 --> 00:06:45,283
+Shut up, Mom!
+
+142
+00:06:49,575 --> 00:06:50,865
+Ho-ho-ho!
+
+143
+00:06:50,952 --> 00:06:53,082
+Here you go, little fella.
+
+144
+00:06:53,162 --> 00:06:54,542
+No, no, not for him.
+
+145
+00:06:54,622 --> 00:06:56,752
+Oh... I see.
+
+146
+00:07:17,061 --> 00:07:19,061
+<i>Hi, I'm Troy McClure.</i>
+
+147
+00:07:19,147 --> 00:07:21,727
+<i>You might remember me from</i>
+<i>such public service videos</i>
+
+148
+00:07:21,816 --> 00:07:24,396
+<i>as "Designated Drivers--</i>
+<i>The Life-Saving Nerds"</i>
+
+149
+00:07:24,485 --> 00:07:27,275
+<i>and "Phony Tornado Alarms</i>
+<i>Reduce Readiness".</i>
+
+150
+00:07:27,363 --> 00:07:30,243
+<i>I'm here today to give you</i>
+<i>the skinny on shoplifting</i>
+
+151
+00:07:30,324 --> 00:07:31,994
+<i>thereby completing</i>
+<i>my plea bargain</i>
+
+152
+00:07:32,076 --> 00:07:34,246
+<i>with the good people at</i>
+<i>Foot Locker of Beverly Hills.</i>
+
+153
+00:07:34,328 --> 00:07:37,418
+<i>Shoplifting began here</i>
+<i>in ancient Phoenicia.</i>
+
+154
+00:07:37,498 --> 00:07:40,328
+<i>Thieves would literally lift</i>
+<i>the corner of a shop</i>
+
+155
+00:07:40,418 --> 00:07:43,248
+<i>in order to snatch</i>
+<i>the sweet, sweet olives within.</i>
+
+156
+00:07:43,337 --> 00:07:45,967
+<i>Oh, Sheheqazaramesh,</i>
+<i>will you ever learn?</i>
+
+157
+00:07:46,048 --> 00:07:49,008
+<i>Flash forward</i>
+<i>to ancient Babylonia...</i>
+
+158
+00:07:49,093 --> 00:07:50,603
+All right, show's over.
+
+159
+00:07:50,678 --> 00:07:52,098
+E-excuse me?
+
+160
+00:07:52,180 --> 00:07:53,930
+You think you're
+pretty smart, don't you?
+
+161
+00:07:54,015 --> 00:07:55,305
+No.
+
+162
+00:07:55,391 --> 00:07:56,481
+Don't smart off
+to me, smart guy.
+
+163
+00:07:56,559 --> 00:07:57,769
+I could pay for the game.
+
+164
+00:07:57,852 --> 00:07:59,232
+I'll pay for it.
+
+165
+00:07:59,312 --> 00:08:01,612
+That kind of mush
+might fly at Lamps Plus
+
+166
+00:08:01,689 --> 00:08:03,439
+but don't peddle it here.
+
+167
+00:08:03,524 --> 00:08:05,444
+If I wanted smoke
+blown up my ass
+
+168
+00:08:05,526 --> 00:08:06,816
+I'd be at home
+with a pack of cigarettes
+
+169
+00:08:06,903 --> 00:08:08,573
+and a short length of hose.
+
+170
+00:08:08,654 --> 00:08:09,664
+(nervous chuckle)
+
+171
+00:08:09,739 --> 00:08:11,199
+That's it, Mr. Comedian.
+
+172
+00:08:11,282 --> 00:08:13,032
+I'm calling your parents.
+
+173
+00:08:13,117 --> 00:08:14,037
+(gasps)
+
+174
+00:08:14,118 --> 00:08:16,038
+(telephone beeps)
+
+175
+00:08:16,120 --> 00:08:18,040
+Hello, Mr. and Mrs. Simpson?
+
+176
+00:08:18,122 --> 00:08:19,962
+This is Detective Don Brodka
+
+177
+00:08:20,041 --> 00:08:22,171
+from Try-N-Save security.
+
+178
+00:08:22,251 --> 00:08:24,421
+That's right, Don Brodka.
+
+179
+00:08:24,504 --> 00:08:26,964
+Your son Bart has been
+caught shoplifting.
+
+180
+00:08:27,048 --> 00:08:28,298
+Uh-huh.
+
+181
+00:08:28,382 --> 00:08:31,842
+Yeah, it's a shame,
+I know, but, well...
+
+182
+00:08:31,928 --> 00:08:33,798
+try and have
+a merry Christmas.
+
+183
+00:08:33,888 --> 00:08:35,428
+They weren't home. Uh-huh.
+
+184
+00:08:35,515 --> 00:08:37,975
+But I left a message on
+their answering machine.
+
+185
+00:08:38,059 --> 00:08:39,099
+That's right.
+
+186
+00:08:39,185 --> 00:08:40,385
+Um, okay.
+
+187
+00:08:40,478 --> 00:08:42,188
+I've really, really,
+learned my lesson.
+
+188
+00:08:42,271 --> 00:08:43,481
+Can I please go now?
+
+189
+00:08:43,564 --> 00:08:44,824
+Yeah, get out
+of my sight.
+
+190
+00:08:46,150 --> 00:08:47,070
+Hey, kid.
+
+191
+00:08:47,151 --> 00:08:48,821
+One more thing.
+
+192
+00:08:48,903 --> 00:08:51,073
+If you ever set foot
+in this store again
+
+193
+00:08:51,155 --> 00:08:53,865
+you'll be spending Christmas
+in Juvenile Hall.
+
+194
+00:08:53,950 --> 00:08:54,870
+Capice?
+
+195
+00:08:56,619 --> 00:08:57,909
+Well, do you understand?
+
+196
+00:08:57,995 --> 00:08:59,825
+Everything except capice.
+
+197
+00:09:06,963 --> 00:09:09,303
+Lousy stinking piece of crap.
+
+198
+00:09:09,382 --> 00:09:11,092
+Got to change
+that answering machine tape.
+
+199
+00:09:11,175 --> 00:09:12,585
+Oh God, I got
+to change that tape!
+
+200
+00:09:14,554 --> 00:09:15,764
+Got to change Maggie.
+
+201
+00:09:15,846 --> 00:09:17,386
+Dear God, we got
+to change Maggie!
+
+202
+00:09:24,230 --> 00:09:27,530
+Hmm, we didn't have a message
+when we left.
+
+203
+00:09:27,608 --> 00:09:29,068
+How very odd.
+
+204
+00:09:29,151 --> 00:09:30,441
+<i>♪ Hello, muddah ♪</i>
+
+205
+00:09:30,528 --> 00:09:33,068
+<i>♪ Hello, faddah ♪</i>
+
+206
+00:09:33,155 --> 00:09:36,485
+<i>♪ Here I am at</i>
+<i>Camp Granada... ♪</i>
+
+207
+00:09:36,576 --> 00:09:40,076
+Marge, is Lisa
+at Camp Granada?
+
+208
+00:09:40,162 --> 00:09:42,082
+(chuckling)
+
+209
+00:09:42,164 --> 00:09:43,584
+Now to put this tape
+
+210
+00:09:43,666 --> 00:09:45,916
+where no one
+will ever listen to it.
+
+211
+00:09:47,962 --> 00:09:49,962
+Homer, didn't
+you get any milk?
+
+212
+00:09:50,047 --> 00:09:51,417
+All I see is egg nog.
+
+213
+00:09:51,507 --> 00:09:53,127
+'Tis the season,
+Marge.
+
+214
+00:09:53,217 --> 00:09:55,757
+We only get 30
+sweet, noggy days
+
+215
+00:09:55,845 --> 00:09:57,465
+then the government
+takes it away again.
+
+216
+00:09:57,555 --> 00:09:58,925
+(gasping)
+
+217
+00:09:59,015 --> 00:10:01,095
+I think I'm having chest pains.
+
+218
+00:10:01,183 --> 00:10:04,153
+(whistling)
+
+219
+00:10:04,228 --> 00:10:06,188
+-Bart, get your suit on.
+-What for?
+
+220
+00:10:06,272 --> 00:10:08,862
+We're getting our
+Christmas picture taken.
+
+221
+00:10:08,941 --> 00:10:10,361
+You lucked out,
+Marge, my man
+
+222
+00:10:10,443 --> 00:10:12,993
+'cause I'm in
+a smiling mood today.
+
+223
+00:10:13,070 --> 00:10:13,990
+(laughs)
+
+224
+00:10:14,071 --> 00:10:15,701
+Well good, so get ready
+
+225
+00:10:15,781 --> 00:10:18,121
+and before you know it
+we'll be at the Try-N-Save.
+
+226
+00:10:18,200 --> 00:10:19,540
+Try-N-Save?
+
+227
+00:10:19,619 --> 00:10:21,329
+(loud whistle)
+
+228
+00:10:21,412 --> 00:10:23,622
+Oh, my teapots
+are ready.
+
+229
+00:10:23,706 --> 00:10:26,076
+If you ever set foot
+in this store again
+
+230
+00:10:26,167 --> 00:10:27,667
+you'll be spending
+Christmas
+
+231
+00:10:27,752 --> 00:10:29,002
+in Juvenile Hall...
+
+232
+00:10:29,086 --> 00:10:31,206
+Juvenile Hall...
+Juvenile Hall...
+
+233
+00:10:31,297 --> 00:10:32,797
+(cell door slams)
+
+234
+00:10:32,882 --> 00:10:34,972
+MAN:
+Stand behind the yellow line!
+
+235
+00:10:35,051 --> 00:10:37,091
+You will now receive
+your Christmas presents
+
+236
+00:10:37,178 --> 00:10:40,308
+donated by the Port Authority
+lost and found office.
+
+237
+00:10:40,389 --> 00:10:43,139
+Pass your chit to Santa
+to receive your gift!
+
+238
+00:10:43,225 --> 00:10:46,145
+If you do not have a chit,
+you will not receive a gift.
+
+239
+00:10:46,228 --> 00:10:50,858
+Wow, the March 8th
+newspaper.
+
+240
+00:10:50,941 --> 00:10:53,941
+Cool! A book of carpet samples.
+
+241
+00:10:54,028 --> 00:10:55,988
+Come on, new bike.
+
+242
+00:10:58,949 --> 00:11:00,869
+Oh, a soiled wig.
+
+243
+00:11:00,951 --> 00:11:03,041
+(garbled) <i>Merry Christmas</i>
+<i>and a Happy New Year.</i>
+
+244
+00:11:04,705 --> 00:11:05,995
+(gulping)
+
+245
+00:11:06,082 --> 00:11:07,632
+MARGE: Bart, what's
+taking so long?
+
+246
+00:11:07,708 --> 00:11:09,588
+If you're having that problem
+with your zipper
+
+247
+00:11:09,669 --> 00:11:10,999
+I can send your father up.
+
+248
+00:11:11,087 --> 00:11:12,457
+Oh, no, I'm not.
+
+249
+00:11:13,964 --> 00:11:15,764
+What's the matter
+with your face?
+
+250
+00:11:15,841 --> 00:11:18,181
+Is that a fake nose?
+
+251
+00:11:18,260 --> 00:11:19,890
+Are you wearing
+chin putty?
+
+252
+00:11:19,970 --> 00:11:23,140
+I don't have to listen
+to these wild allegations.
+
+253
+00:11:26,519 --> 00:11:28,599
+Please, Bart,
+no more pranks.
+
+254
+00:11:28,688 --> 00:11:30,018
+It would mean
+so much to me
+
+255
+00:11:30,106 --> 00:11:31,856
+if we could have
+
+256
+00:11:31,941 --> 00:11:33,781
+just one nice
+family photo.
+
+257
+00:11:38,280 --> 00:11:39,280
+Hey!
+
+258
+00:11:39,365 --> 00:11:41,195
+I don't remember
+saying that!
+
+259
+00:11:42,785 --> 00:11:45,115
+Uh-oh, almost forgot
+to lock the doors.
+
+260
+00:11:46,288 --> 00:11:48,248
+(moaning)
+
+261
+00:11:50,000 --> 00:11:51,250
+I hope you're going
+
+262
+00:11:51,335 --> 00:11:52,915
+to the Valley Vista
+Try-N-Save, kid
+
+263
+00:11:53,003 --> 00:11:55,673
+'cause you don't want
+to come to my store.
+
+264
+00:11:55,756 --> 00:11:57,546
+Cat-feesh?
+
+265
+00:12:04,682 --> 00:12:06,142
+So we're just going to do this photo
+and get out, right?
+
+266
+00:12:06,225 --> 00:12:07,305
+Ba-da-bing, ba-da-boom.
+
+267
+00:12:07,393 --> 00:12:08,773
+I want to look
+at the pets
+
+268
+00:12:08,853 --> 00:12:10,153
+and write things
+on the typewriters
+
+269
+00:12:10,229 --> 00:12:11,269
+and see if the new
+dictionaries are in!
+
+270
+00:12:11,355 --> 00:12:12,305
+Okay.
+
+271
+00:12:12,398 --> 00:12:13,898
+I want to price some
+flip-flops
+
+272
+00:12:13,983 --> 00:12:15,483
+and smell the new tires
+
+273
+00:12:15,568 --> 00:12:17,278
+and consult the pharmacist
+for some free medical advice.
+
+274
+00:12:17,361 --> 00:12:19,611
+Sure, we're going
+to have a great day.
+
+275
+00:12:19,697 --> 00:12:21,027
+Ba-da-bing, ba-da-boom.
+
+276
+00:12:21,115 --> 00:12:22,315
+Right, Bart?
+
+277
+00:12:22,408 --> 00:12:23,578
+Bart?
+
+278
+00:12:23,659 --> 00:12:24,579
+What's wrong, honey?
+
+279
+00:12:24,660 --> 00:12:26,370
+Uh-oh!
+
+280
+00:12:26,454 --> 00:12:29,214
+Somebody's
+got tired little legs.
+
+281
+00:12:29,290 --> 00:12:30,620
+(grunts)
+
+282
+00:12:35,504 --> 00:12:38,174
+Mmm, wonder where
+the flip-flops are...
+
+283
+00:12:38,257 --> 00:12:39,257
+Menswear?
+
+284
+00:12:39,341 --> 00:12:40,801
+Maybe it's sporting goods?
+
+285
+00:12:40,885 --> 00:12:42,255
+Wait, no, sleepwear.
+
+286
+00:12:42,344 --> 00:12:44,604
+Oh, probably, better living.
+
+287
+00:12:44,680 --> 00:12:46,180
+(loud sigh)
+
+288
+00:12:46,265 --> 00:12:48,175
+-(alarms blaring)
+-(scared shudder)
+
+289
+00:12:48,267 --> 00:12:50,387
+Oh, Homie,
+look at that watch.
+
+290
+00:12:50,478 --> 00:12:52,808
+I've always wanted
+a watch like that.
+
+291
+00:12:52,897 --> 00:12:57,487
+Well, maybe someone
+will give you one for Christmas.
+
+292
+00:12:57,568 --> 00:12:59,108
+<i>Now she'll really be surprised</i>
+
+293
+00:12:59,195 --> 00:13:01,105
+<i>when she opens</i>
+<i>that ironing board cover.</i>
+
+294
+00:13:05,493 --> 00:13:08,663
+{\an8}HOMER: Pfft, must have been
+a pretty slow century.
+
+295
+00:13:12,333 --> 00:13:13,333
+(gasps)
+
+296
+00:13:13,417 --> 00:13:14,587
+The store detective!
+
+297
+00:13:14,668 --> 00:13:16,378
+Hey, Ansel Adams,
+let's go!
+
+298
+00:13:16,462 --> 00:13:17,762
+Take the photo!
+
+299
+00:13:17,838 --> 00:13:19,548
+Wait, wait! I don't want
+Maggie's face
+
+300
+00:13:19,632 --> 00:13:22,052
+hidden behind
+that pacifier!
+
+301
+00:13:22,134 --> 00:13:23,014
+(whimpering)
+
+302
+00:13:24,136 --> 00:13:25,466
+Don't worry, mama.
+
+303
+00:13:25,554 --> 00:13:26,814
+I can put a smile
+on baby's face.
+
+304
+00:13:26,889 --> 00:13:28,019
+Okay, sugarplum
+
+305
+00:13:28,098 --> 00:13:31,598
+it's time to meet
+Mr. Funny-voice.
+
+306
+00:13:31,685 --> 00:13:33,095
+(high-pitched voice)
+Hello, aluh...
+
+307
+00:13:33,187 --> 00:13:34,687
+(normal voice)
+Oh, it's just air.
+
+308
+00:13:36,982 --> 00:13:38,322
+Well, come on.
+Hurry up.
+
+309
+00:13:38,400 --> 00:13:40,280
+Okay, people.
+One, two, three.
+
+310
+00:13:42,446 --> 00:13:44,066
+I thought I told you:
+
+311
+00:13:44,156 --> 00:13:46,326
+No returns for
+busted merchandise.
+
+312
+00:13:46,408 --> 00:13:47,988
+What are you doing to my son?
+
+313
+00:13:48,077 --> 00:13:51,077
+I'm afraid your son
+broke the 11th commandment.
+
+314
+00:13:51,163 --> 00:13:52,923
+Thou shalt not steal.
+
+315
+00:13:52,998 --> 00:13:54,418
+That's crazy.
+
+316
+00:13:54,500 --> 00:13:55,420
+Bart's not
+a shoplifter.
+
+317
+00:13:55,501 --> 00:13:56,961
+He's just a little boy.
+
+318
+00:13:57,044 --> 00:13:59,424
+Oh, sure, now he's
+just a little boy
+
+319
+00:13:59,505 --> 00:14:01,085
+stealing little toys.
+
+320
+00:14:01,173 --> 00:14:03,433
+But someday he'll
+be a grown man
+
+321
+00:14:03,509 --> 00:14:06,469
+stealing stadiums
+and... quarries.
+
+322
+00:14:06,554 --> 00:14:08,104
+My son may not
+be perfect
+
+323
+00:14:08,180 --> 00:14:10,720
+but I know in my heart
+he's not a shoplifter.
+
+324
+00:14:12,810 --> 00:14:14,310
+Fine! Play the tape.
+
+325
+00:14:14,395 --> 00:14:16,805
+Then everyone can see
+you've got the wrong boy.
+
+326
+00:14:18,232 --> 00:14:19,532
+Wait!
+
+327
+00:14:19,608 --> 00:14:21,238
+Mom, I don't want
+you to see this.
+
+328
+00:14:22,945 --> 00:14:24,105
+I did it.
+
+329
+00:14:28,325 --> 00:14:31,535
+LISA: Bart, I wouldn't have
+expected this even from you!
+
+330
+00:14:31,620 --> 00:14:33,330
+My son's a thief.
+
+331
+00:14:33,414 --> 00:14:35,214
+Oh, Bart.
+
+332
+00:14:41,005 --> 00:14:42,875
+Stealing?! How could you?!
+
+333
+00:14:42,965 --> 00:14:44,965
+Haven't you learned
+anything from that guy
+
+334
+00:14:45,050 --> 00:14:48,430
+who gives those sermons at church--
+captain what's-his-name?
+
+335
+00:14:48,512 --> 00:14:50,972
+We live in a
+society of laws!
+
+336
+00:14:51,056 --> 00:14:52,346
+Why do you
+think I took you
+
+337
+00:14:52,433 --> 00:14:54,103
+to all those Police
+Academy movies?
+
+338
+00:14:54,184 --> 00:14:55,564
+For fun?!
+
+339
+00:14:55,644 --> 00:14:57,524
+Well, I didn't hear
+anybody laughing!
+
+340
+00:14:57,605 --> 00:14:58,975
+Did you?!
+
+341
+00:14:59,064 --> 00:15:01,444
+Except at that guy
+who made sound effects.
+
+342
+00:15:01,525 --> 00:15:02,645
+(blubbering Doppler effect)
+
+343
+00:15:02,735 --> 00:15:03,645
+(muffled zooming)
+
+344
+00:15:03,736 --> 00:15:04,986
+(blows raspberry)
+
+345
+00:15:05,070 --> 00:15:06,280
+Honk, honk!
+
+346
+00:15:06,363 --> 00:15:08,373
+(imitates explosion)
+
+347
+00:15:08,449 --> 00:15:09,869
+(laughs)
+
+348
+00:15:09,950 --> 00:15:11,160
+Where was I?
+
+349
+00:15:11,243 --> 00:15:13,333
+Oh, yeah.
+Stay out of my booze.
+
+350
+00:15:13,412 --> 00:15:17,122
+Mom, I'm really sorry.
+
+351
+00:15:17,207 --> 00:15:18,497
+I know you are.
+
+352
+00:15:18,584 --> 00:15:20,344
+Is there anything
+I can do?
+
+353
+00:15:20,419 --> 00:15:22,339
+I don't know.
+
+354
+00:15:22,421 --> 00:15:24,551
+Why don't you
+go to bed?
+
+355
+00:15:24,632 --> 00:15:25,932
+Okay.
+
+356
+00:15:34,433 --> 00:15:36,233
+(sighs despondently)
+
+357
+00:15:36,310 --> 00:15:38,350
+Man, I thought Mom was going
+to scream me stupid.
+
+358
+00:15:38,437 --> 00:15:40,017
+She didn't even
+raise her voice.
+
+359
+00:15:40,105 --> 00:15:42,515
+I admit I haven't known
+Mom as long as you have
+
+360
+00:15:42,608 --> 00:15:44,358
+but I know when
+she's really upset.
+
+361
+00:15:44,443 --> 00:15:45,573
+Her heart won't
+just wipe clean
+
+362
+00:15:45,653 --> 00:15:47,493
+like this bathroom
+counter top.
+
+363
+00:15:47,571 --> 00:15:49,201
+It absorbs everything
+that touches it
+
+364
+00:15:49,281 --> 00:15:52,371
+like this bathroom rug.
+
+365
+00:15:52,451 --> 00:15:54,371
+Really? You think
+this might be
+
+366
+00:15:54,453 --> 00:15:56,873
+one of those
+forever-type things?
+
+367
+00:15:56,956 --> 00:15:58,536
+(muffled):
+I don't know.
+
+368
+00:15:58,624 --> 00:16:01,294
+(squishing)
+
+369
+00:16:01,377 --> 00:16:04,047
+MARGE:
+<i>♪ Lisa's on the sleepy train ♪</i>
+
+370
+00:16:04,129 --> 00:16:06,379
+<i>♪ To rest her weary head ♪</i>
+
+371
+00:16:06,465 --> 00:16:08,875
+<i>♪ Her ticket is a candy cane ♪</i>
+
+372
+00:16:08,968 --> 00:16:11,468
+<i>♪ Made out of gingerbread ♪</i>
+
+373
+00:16:11,553 --> 00:16:12,473
+(Lisa giggles)
+
+374
+00:16:12,554 --> 00:16:13,564
+LISA:
+Good night, Mom.
+
+375
+00:16:13,639 --> 00:16:15,389
+Good night,
+sweetheart.
+
+376
+00:16:15,474 --> 00:16:17,104
+(footsteps approaching)
+
+377
+00:16:17,184 --> 00:16:18,484
+Oh, great.
+
+378
+00:16:18,560 --> 00:16:21,400
+The tuck-in express
+is right on time.
+
+379
+00:16:23,232 --> 00:16:24,362
+Good night.
+
+380
+00:16:29,571 --> 00:16:30,991
+I figured out
+the boy's punishment.
+
+381
+00:16:31,073 --> 00:16:32,573
+First, he's grounded.
+
+382
+00:16:32,658 --> 00:16:35,038
+No leaving the house,
+not even for school.
+
+383
+00:16:35,119 --> 00:16:36,619
+Second, no eggnog.
+
+384
+00:16:36,704 --> 00:16:38,964
+In fact, no nog period.
+
+385
+00:16:39,039 --> 00:16:42,169
+And third, absolutely
+no stealing for three months.
+
+386
+00:16:42,251 --> 00:16:43,841
+I always thought
+I understood
+
+387
+00:16:43,919 --> 00:16:45,089
+my special little guy
+
+388
+00:16:45,170 --> 00:16:46,460
+but somewhere
+along the road
+
+389
+00:16:46,547 --> 00:16:48,257
+his hand slipped away
+
+390
+00:16:48,340 --> 00:16:49,430
+from mine.
+
+391
+00:16:49,508 --> 00:16:51,428
+Ah, what are you gonna do?
+
+392
+00:16:53,262 --> 00:16:54,762
+(groans softly)
+
+393
+00:16:54,847 --> 00:16:57,517
+He's not my little
+baby anymore.
+
+394
+00:16:57,599 --> 00:17:00,269
+Maybe I mother him too much.
+
+395
+00:17:08,902 --> 00:17:10,152
+(yawns)
+
+396
+00:17:12,740 --> 00:17:15,490
+Hey, Mom, you
+didn't wake me up.
+
+397
+00:17:15,576 --> 00:17:17,826
+Here's your
+hot chocolate.
+
+398
+00:17:17,911 --> 00:17:20,121
+You didn't put
+my marshmallow in.
+
+399
+00:17:20,205 --> 00:17:22,615
+I think you're old enough
+to do it yourself now.
+
+400
+00:17:22,708 --> 00:17:25,418
+Okay. I can handle that.
+
+401
+00:17:33,218 --> 00:17:34,138
+Hey!
+
+402
+00:17:34,219 --> 00:17:35,759
+Give me a slice.
+
+403
+00:17:37,556 --> 00:17:39,636
+Milhouse, do you ever worry
+
+404
+00:17:39,725 --> 00:17:42,135
+that your Mom
+might stop loving you?
+
+405
+00:17:42,227 --> 00:17:44,267
+What? I'm more worried
+about piranhas.
+
+406
+00:17:44,354 --> 00:17:46,234
+Did you see that movie
+
+407
+00:17:46,315 --> 00:17:48,525
+where they sent a nuclear submarine
+to fight the piranhas
+
+408
+00:17:48,609 --> 00:17:50,439
+and one of them swims
+right down the periscope
+
+409
+00:17:50,527 --> 00:17:52,487
+and bites the guy in the eye,
+and he goes:
+
+410
+00:17:52,571 --> 00:17:54,031
+(screams)
+
+411
+00:17:54,114 --> 00:17:56,164
+and that old lady
+told him it would happen?!
+
+412
+00:17:56,241 --> 00:17:58,991
+Yeah. That was pretty good.
+
+413
+00:17:59,078 --> 00:18:00,328
+How come you're not
+playing Bonestorm?
+
+414
+00:18:00,412 --> 00:18:02,122
+Ah, it got boring.
+
+415
+00:18:02,206 --> 00:18:03,956
+I'm really into
+this cup and ball now.
+
+416
+00:18:04,041 --> 00:18:06,841
+Whoa! Wow! Whoa-ho-ho!
+
+417
+00:18:06,919 --> 00:18:08,169
+Man, you never know
+
+418
+00:18:08,253 --> 00:18:11,303
+which way this crazy
+ball's going to go.
+
+419
+00:18:11,381 --> 00:18:12,591
+Yeah, right. You're just
+trying to trick me
+
+420
+00:18:12,674 --> 00:18:13,594
+because you don't
+want me playing
+
+421
+00:18:13,675 --> 00:18:14,965
+with your video game.
+
+422
+00:18:15,052 --> 00:18:17,432
+Here. Go ahead.
+
+423
+00:18:17,513 --> 00:18:19,063
+No. Let me try
+the cup and ball.
+
+424
+00:18:19,139 --> 00:18:20,349
+Get your own!
+
+425
+00:18:20,432 --> 00:18:22,022
+Come on, don't be
+a cup-and-ball hog.
+
+426
+00:18:22,101 --> 00:18:23,521
+Hey, give it!
+That's my --
+
+427
+00:18:23,602 --> 00:18:24,732
+Milhouse, come on!
+Give me the cup and ball.
+
+428
+00:18:24,812 --> 00:18:26,112
+Cup and ball hog!
+Oink, oink!
+
+429
+00:18:26,188 --> 00:18:28,978
+Mom! Bart's smoking!
+
+430
+00:18:29,066 --> 00:18:30,186
+All right. Out, out.
+
+431
+00:18:30,275 --> 00:18:31,395
+Go, go, go, go.
+
+432
+00:18:31,485 --> 00:18:32,815
+Miss Milhouse, what are
+you...
+
+433
+00:18:32,903 --> 00:18:33,903
+Okay, okay, okay.
+
+434
+00:18:33,987 --> 00:18:35,357
+I won't bug Milhouse
+
+435
+00:18:35,447 --> 00:18:38,077
+but, well...
+Mrs. Van Houten
+
+436
+00:18:38,158 --> 00:18:40,578
+this is going to
+sound kind of dumb
+
+437
+00:18:40,661 --> 00:18:44,791
+but can I hang out with you
+while you do Mom stuff?
+
+438
+00:18:51,213 --> 00:18:53,303
+Who are Dan
+and Sherry Adler?
+
+439
+00:18:53,382 --> 00:18:54,472
+Just friends of ours.
+
+440
+00:18:54,550 --> 00:18:56,800
+Oh. And who is Warren Burke?
+
+441
+00:18:56,885 --> 00:18:58,845
+Oh, he used to tune our piano
+
+442
+00:18:58,929 --> 00:19:00,809
+before we got rid of it.
+
+443
+00:19:00,889 --> 00:19:02,679
+He grew up
+in Mechanicsburg.
+
+444
+00:19:02,766 --> 00:19:05,346
+-Oh, really?
+-Mm.
+
+445
+00:19:05,435 --> 00:19:07,095
+Tell me I'm good.
+
+446
+00:19:08,397 --> 00:19:10,437
+(Marge laughing)
+
+447
+00:19:10,524 --> 00:19:12,324
+Oh, hey, that's Mom!
+
+448
+00:19:12,401 --> 00:19:14,071
+She's happy again.
+
+449
+00:19:16,780 --> 00:19:18,950
+You guys made a snowman family?
+
+450
+00:19:19,032 --> 00:19:20,492
+Check it out, boy.
+
+451
+00:19:20,576 --> 00:19:23,826
+It's like looking
+into a living snow mirror.
+
+452
+00:19:23,912 --> 00:19:25,582
+Why didn't you
+wait for me?
+
+453
+00:19:25,664 --> 00:19:27,254
+I didn't think
+you'd mind.
+
+454
+00:19:27,332 --> 00:19:30,342
+I figured you were getting
+a little too old for this.
+
+455
+00:19:30,419 --> 00:19:31,339
+But you can still make one.
+
+456
+00:19:31,420 --> 00:19:32,340
+There's some snow left
+
+457
+00:19:32,421 --> 00:19:34,011
+under the car.
+
+458
+00:19:48,562 --> 00:19:50,312
+(moans)
+
+459
+00:19:50,397 --> 00:19:51,977
+Stupid family.
+
+460
+00:19:52,065 --> 00:19:53,525
+Hey, Simpson.
+
+461
+00:19:53,609 --> 00:19:55,989
+Look what I swiped
+from Try-N-Save.
+
+462
+00:19:56,069 --> 00:19:59,069
+It's a replacement tire
+for a wheelbarrow.
+
+463
+00:19:59,156 --> 00:20:00,156
+Huh.
+
+464
+00:20:00,240 --> 00:20:01,580
+I knew you'd like it.
+
+465
+00:20:01,658 --> 00:20:03,198
+(laughs)
+
+466
+00:20:05,662 --> 00:20:08,082
+Everybody thinks
+I'm the black sheep.
+
+467
+00:20:08,165 --> 00:20:11,165
+Well, I'll show them
+what a black sheep can do.
+
+468
+00:20:16,465 --> 00:20:17,625
+Mom...
+
+469
+00:20:17,716 --> 00:20:20,216
+this fake snow
+is making me dizzy.
+
+470
+00:20:20,302 --> 00:20:21,722
+We're almost finished.
+
+471
+00:20:21,803 --> 00:20:24,473
+There's just a
+little bit of green left.
+
+472
+00:20:24,556 --> 00:20:26,176
+(humming)
+
+473
+00:20:26,266 --> 00:20:27,596
+There you are.
+
+474
+00:20:27,684 --> 00:20:29,984
+You can help me
+spray the cookies.
+
+475
+00:20:30,062 --> 00:20:31,562
+Are you hiding something?
+
+476
+00:20:31,647 --> 00:20:33,517
+What do you have
+under your jacket?
+
+477
+00:20:33,607 --> 00:20:34,517
+Nothing.
+
+478
+00:20:34,608 --> 00:20:35,778
+Oh, Bart. Not again!
+
+479
+00:20:35,859 --> 00:20:36,989
+Give it to me.
+
+480
+00:20:37,069 --> 00:20:38,529
+I told you,
+I don't have anything.
+
+481
+00:20:38,612 --> 00:20:40,532
+You can't hide from me
+in this house, Bart.
+
+482
+00:20:40,614 --> 00:20:43,994
+I spend 23 hours
+a day here.
+
+483
+00:20:45,118 --> 00:20:47,198
+(laughing)
+
+484
+00:20:47,287 --> 00:20:48,577
+Get him, Ma.
+
+485
+00:20:48,664 --> 00:20:51,174
+There's no place
+left to run, Bart.
+
+486
+00:20:51,250 --> 00:20:52,290
+Hand it over.
+
+487
+00:20:53,585 --> 00:20:55,375
+Oh, Bart.
+
+488
+00:20:55,462 --> 00:20:58,092
+I can't believe you did this.
+
+489
+00:20:59,675 --> 00:21:01,635
+I wanted to surprise you
+for Christmas.
+
+490
+00:21:01,718 --> 00:21:06,268
+Oh, sweetie, this is the best
+present a mother could get!
+
+491
+00:21:06,348 --> 00:21:08,728
+(loud smooching)
+
+492
+00:21:08,809 --> 00:21:11,479
+I love you so much!
+
+493
+00:21:11,561 --> 00:21:13,311
+My little bitty Barty!
+
+494
+00:21:14,564 --> 00:21:16,284
+Mom!
+
+495
+00:21:20,654 --> 00:21:22,454
+Since I got
+my present early
+
+496
+00:21:22,531 --> 00:21:24,701
+I think you should get
+yours early too.
+
+497
+00:21:24,783 --> 00:21:26,293
+Bart got a present early?!
+
+498
+00:21:26,368 --> 00:21:28,538
+Then I should get a present early!
+I want a present!
+
+499
+00:21:28,620 --> 00:21:29,750
+Lisa, you have to wait.
+
+500
+00:21:29,830 --> 00:21:31,160
+(groans)
+
+501
+00:21:31,248 --> 00:21:33,958
+Okay. This is
+the worst Christmas ever.
+
+502
+00:21:34,042 --> 00:21:35,842
+Now I know you
+love video games
+
+503
+00:21:35,919 --> 00:21:39,209
+and I asked the clerk
+which is the one every boy wants.
+
+504
+00:21:39,298 --> 00:21:40,168
+You got me...
+
+505
+00:21:43,719 --> 00:21:44,759
+(stifled groan)
+
+506
+00:21:44,845 --> 00:21:47,345
+Oh... yeah!
+
+507
+00:21:48,890 --> 00:21:50,560
+Thanks, Mom!
+
+508
+00:22:00,986 --> 00:22:04,486
+{\an8}<i>(halting cadence): Welcome</i>
+<i>to Lee Carvallo's Putting Challenge.</i>
+
+509
+00:22:04,573 --> 00:22:05,913
+{\an8}<i>I am Carvallo.</i>
+
+510
+00:22:05,991 --> 00:22:07,531
+{\an8}<i>Now, choose a club.</i>
+
+511
+00:22:07,617 --> 00:22:08,657
+{\an8}<i>(beep)</i>
+
+512
+00:22:08,744 --> 00:22:10,624
+{\an8}<i>You have chosen a three wood.</i>
+
+513
+00:22:10,704 --> 00:22:12,504
+{\an8}<i>May I suggest a putter?</i>
+
+514
+00:22:12,581 --> 00:22:13,501
+{\an8}<i>(beep)</i>
+
+515
+00:22:13,582 --> 00:22:14,792
+{\an8}<i>Three wood.</i>
+
+516
+00:22:14,875 --> 00:22:17,085
+{\an8}<i>Now, enter the force</i>
+<i>of your swing.</i>
+
+517
+00:22:17,169 --> 00:22:19,499
+{\an8}<i>I suggest feather touch.</i>
+
+518
+00:22:19,588 --> 00:22:20,588
+{\an8}<i>(three beeps)</i>
+
+519
+00:22:20,672 --> 00:22:22,632
+{\an8}<i>You have entered "power drive."</i>
+
+520
+00:22:22,716 --> 00:22:26,006
+{\an8}<i>Now, push 7-8-7 to swing.</i>
+
+521
+00:22:26,094 --> 00:22:27,684
+{\an8}<i>(three beeps)</i>
+
+522
+00:22:33,560 --> 00:22:35,810
+{\an8}<i>Ball is in parking lot.</i>
+
+523
+00:22:35,896 --> 00:22:38,566
+{\an8}<i>Would you like to play again?</i>
+
+524
+00:22:38,648 --> 00:22:40,858
+{\an8}<i>-(beep)</i>
+<i>-You have selected "no."</i>
+
+525
+00:22:41,902 --> 00:22:43,402
+Shh!
+
+526
+00:22:46,073 --> 00:22:49,283
+{\an8}CAPTIONS ENHANCED BY
+ROUNDABOUT ENTERTAINMENT INC.
+

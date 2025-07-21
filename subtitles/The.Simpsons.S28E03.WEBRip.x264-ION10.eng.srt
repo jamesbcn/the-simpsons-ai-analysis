@@ -1,0 +1,2204 @@
+1
+00:00:02,836 --> 00:00:06,206
+<i>CHOIR:</i>
+<i>♪ The Simpsons ♪</i>
+
+2
+00:00:06,297 --> 00:00:08,797
+{\an8}HOMER:
+Come on, Marge, where's dinner?
+
+3
+00:00:08,883 --> 00:00:10,303
+{\an8}What's the holdup in there?
+
+4
+00:00:10,385 --> 00:00:12,715
+{\an8}<i>♪ Pot-pot-pot-pot pot pies! ♪</i>
+
+5
+00:00:12,804 --> 00:00:14,314
+{\an8}A pie for Bart...
+
+6
+00:00:14,389 --> 00:00:15,639
+{\an8}Come on, put them down already.
+
+7
+00:00:15,724 --> 00:00:16,894
+{\an8}...a veggie pie for Lisa...
+
+8
+00:00:16,975 --> 00:00:18,635
+{\an8}Why do you have to describe everything?
+
+9
+00:00:18,727 --> 00:00:20,187
+{\an8}...a baby pie for Maggie.
+
+10
+00:00:20,270 --> 00:00:21,650
+{\an8}The pies know who they're for.
+
+11
+00:00:21,730 --> 00:00:23,690
+{\an8}-A dog pie for Santa's Little Helper.
+-What? The dog...
+
+12
+00:00:23,773 --> 00:00:24,983
+{\an8}The dog before me?
+
+13
+00:00:25,066 --> 00:00:26,986
+{\an8}Now, be sure to cut it open first
+
+14
+00:00:27,068 --> 00:00:28,648
+{\an8}so the pie has time to cool.
+
+15
+00:00:28,737 --> 00:00:30,407
+{\an8}(screams) I'm done.
+
+16
+00:00:30,488 --> 00:00:33,408
+{\an8}I know you're in a hurry to go to the bar
+to watch football,
+
+17
+00:00:33,491 --> 00:00:35,791
+{\an8}but first I want you
+to put the kids to bed.
+
+18
+00:00:35,869 --> 00:00:36,829
+{\an8}(groans loudly)
+
+19
+00:00:36,911 --> 00:00:38,121
+{\an8}(strains, grunts)
+
+20
+00:00:38,204 --> 00:00:41,424
+{\an8}"Everything after the tornado
+was a dream. The end."
+
+21
+00:00:42,917 --> 00:00:44,167
+{\an8}(tires screech)
+
+22
+00:00:44,252 --> 00:00:45,422
+{\an8}<i>ANNOUNCER: Going into halftime,</i>
+
+23
+00:00:45,503 --> 00:00:48,343
+{\an8}<i>it's Springfield Atoms 7,</i>
+<i>Boston Americans 10.</i>
+
+24
+00:00:48,423 --> 00:00:51,183
+{\an8}Oh, come on, we cannot lose again
+
+25
+00:00:51,259 --> 00:00:53,929
+{\an8}to those no-good Boston cheaters!
+
+26
+00:00:54,012 --> 00:00:56,392
+{\an8}I-I can't stand that
+pretty-boy quarterback.
+
+27
+00:00:56,473 --> 00:00:58,143
+{\an8}Thinks he's so handsome,
+
+28
+00:00:58,224 --> 00:01:00,274
+{\an8}just 'cause he's drop-dead gorgeous.
+
+29
+00:01:00,351 --> 00:01:02,851
+{\an8}The only reason Boston wins
+is because they cheat!
+
+30
+00:01:02,937 --> 00:01:04,687
+{\an8}Listening in on our team's headsets,
+
+31
+00:01:04,773 --> 00:01:06,023
+{\an8}fattening our cheerleaders.
+
+32
+00:01:06,107 --> 00:01:07,567
+{\an8}You know, for three games last year,
+
+33
+00:01:07,650 --> 00:01:09,860
+{\an8}Boston used a volleyball painted brown.
+
+34
+00:01:09,944 --> 00:01:11,824
+{\an8}(Boston accent)
+That was never proven,
+
+35
+00:01:11,905 --> 00:01:13,815
+{\an8}you Springfield screw-job.
+
+36
+00:01:13,907 --> 00:01:15,487
+{\an8}Ugh, Boston fans.
+
+37
+00:01:15,575 --> 00:01:18,325
+{\an8}In town for
+the Dennis Lehane book tour.
+
+38
+00:01:18,411 --> 00:01:21,581
+{\an8}Go kiss a Kennedy, you rule-
+breaking cranberry squeezers!
+
+39
+00:01:21,664 --> 00:01:22,834
+{\an8}We don't cheat.
+
+40
+00:01:22,916 --> 00:01:24,996
+{\an8}We won 12 division titles in ten years,
+
+41
+00:01:25,085 --> 00:01:26,375
+{\an8}fair and square.
+
+42
+00:01:26,461 --> 00:01:30,171
+{\an8}You dorks are just jealous
+of all our championship rings.
+
+43
+00:01:30,256 --> 00:01:33,006
+{\an8}ALL:
+Mwah! Mwah! Mwah! Mwah! Mwah!
+
+44
+00:01:33,093 --> 00:01:34,263
+You're the one who's jealous.
+
+45
+00:01:34,344 --> 00:01:36,764
+I only wish
+I could be as jealous as you.
+
+46
+00:01:36,846 --> 00:01:38,346
+Geez, Jay, this place has got
+
+47
+00:01:38,431 --> 00:01:40,061
+more knobs than a hardware store.
+
+48
+00:01:40,141 --> 00:01:42,191
+I hate this town.
+
+49
+00:01:42,268 --> 00:01:44,348
+So don't I. Friggin' doorknobs.
+
+50
+00:01:44,437 --> 00:01:46,187
+-(laughter)
+-Automatic.
+
+51
+00:01:46,272 --> 00:01:47,822
+BOTH:
+Mwah, mwah, mwah.
+
+52
+00:01:49,234 --> 00:01:50,154
+<i>ANNOUNCER:</i>
+<i>It's fourth and long,</i>
+
+53
+00:01:50,235 --> 00:01:52,525
+<i>the Americans' last chance</i>
+<i>for a miracle.</i>
+
+54
+00:01:52,612 --> 00:01:54,612
+Come on, Springfield, put it away!
+
+55
+00:01:54,697 --> 00:01:57,027
+We're gonna win one.
+We're finally gonna win one!
+
+56
+00:01:57,117 --> 00:01:58,787
+<i>ANNOUNCER:</i>
+<i>The QB handsomely takes the snap,</i>
+
+57
+00:01:58,868 --> 00:02:00,368
+<i>sexily steps back to pass,</i>
+
+58
+00:02:00,453 --> 00:02:02,543
+<i>and with God-given good looks,</i>
+<i>fires it downfield!</i>
+
+59
+00:02:02,622 --> 00:02:04,252
+<i>But there's no one there to receive it!</i>
+
+60
+00:02:04,332 --> 00:02:05,252
+(groaning)
+
+61
+00:02:05,333 --> 00:02:06,963
+(scoffs) Nice pass.
+
+62
+00:02:07,043 --> 00:02:09,843
+What a first-ballot hall-of-fame loser.
+
+63
+00:02:09,921 --> 00:02:12,051
+<i>ANNOUNCER: But the ball is caught</i>
+<i>by the Americans' mascot,</i>
+
+64
+00:02:12,132 --> 00:02:13,382
+<i>Flappy the Flag!</i>
+
+65
+00:02:13,466 --> 00:02:15,216
+<i>Flappy running unopposed into the end zone</i>
+
+66
+00:02:15,301 --> 00:02:17,851
+<i>for a surely illegal touchdown.</i>
+
+67
+00:02:17,929 --> 00:02:19,759
+Throwing to the mascot?
+
+68
+00:02:19,848 --> 00:02:23,598
+<i>After further review,</i>
+<i>Flappy the Flag is listed</i>
+
+69
+00:02:23,685 --> 00:02:27,515
+<i>on the Americans' 53-man roster</i>
+<i>and reported eligible.</i>
+
+70
+00:02:27,605 --> 00:02:29,355
+{\an8}<i>The result of the play is a touchdown.</i>
+
+71
+00:02:29,440 --> 00:02:30,440
+{\an8}<i>(crowd cheering)</i>
+
+72
+00:02:30,525 --> 00:02:32,895
+<i>ANNOUNCER: Once again,</i>
+<i>the Americans found a way to win.</i>
+
+73
+00:02:32,986 --> 00:02:35,946
+<i>(chuckles) Oh, that'll put a smile</i>
+<i>on Coach Bonderchuck's face.</i>
+
+74
+00:02:36,030 --> 00:02:38,530
+(crowd cheering)
+
+75
+00:02:38,616 --> 00:02:40,486
+-(cheering)
+-Oh, not again!
+
+76
+00:02:40,577 --> 00:02:42,867
+They cheated! You cheated!
+
+77
+00:02:42,954 --> 00:02:45,294
+Did not.
+You got to cover the mascot.
+
+78
+00:02:45,373 --> 00:02:47,173
+Use your noggin. Play smart.
+
+79
+00:02:47,250 --> 00:02:48,750
+Flappy's on the roster.
+
+80
+00:02:48,835 --> 00:02:50,705
+(chanting)
+On the roster!
+
+81
+00:02:50,795 --> 00:02:54,295
+On the roster! On the roster!
+
+82
+00:02:54,382 --> 00:02:56,182
+On the roster, my butt.
+
+83
+00:02:56,259 --> 00:02:58,429
+Once again, those Boston cheaters
+
+84
+00:02:58,511 --> 00:03:00,431
+think the rules don't apply to them.
+
+85
+00:03:00,513 --> 00:03:02,723
+And they're so smug about winning.
+
+86
+00:03:02,807 --> 00:03:05,347
+If I ever won anything,
+I wouldn't be smug about it.
+
+87
+00:03:05,435 --> 00:03:07,515
+I'd be class all the way,
+
+88
+00:03:07,604 --> 00:03:10,694
+like Mark Harmon-- pure American elegance.
+
+89
+00:03:10,773 --> 00:03:13,613
+I tell ya, the next Boston fan I see,
+
+90
+00:03:13,693 --> 00:03:15,203
+I'm just gonna lose it.
+
+91
+00:03:15,278 --> 00:03:16,908
+Lose it so hard.
+
+92
+00:03:16,988 --> 00:03:18,198
+And-- What the...?!
+
+93
+00:03:19,449 --> 00:03:20,949
+What is... How could...
+
+94
+00:03:21,034 --> 00:03:23,624
+That hat! Your head!
+
+95
+00:03:23,703 --> 00:03:24,953
+That team.
+
+96
+00:03:25,038 --> 00:03:26,958
+My son!
+
+97
+00:03:27,040 --> 00:03:28,710
+Hey, Dad, caught the game last night.
+
+98
+00:03:28,791 --> 00:03:30,211
+Tough loss for your guys.
+
+99
+00:03:30,293 --> 00:03:31,963
+Guess we just wanted it more.
+
+100
+00:03:32,045 --> 00:03:33,875
+(sarcastically)
+Oh, am I in the right house?
+
+101
+00:03:33,963 --> 00:03:35,633
+Because no one in my house
+
+102
+00:03:35,715 --> 00:03:40,425
+would ever be caught <i>dead</i>
+wearing Boston Americans gear.
+
+103
+00:03:40,511 --> 00:03:42,101
+Dead!
+
+104
+00:03:42,180 --> 00:03:43,310
+I feel ya, Homer.
+
+105
+00:03:43,389 --> 00:03:44,719
+Sucks to be a loser.
+
+106
+00:03:44,807 --> 00:03:47,227
+Unlike the six-time
+Mega-Bowl champion
+
+107
+00:03:47,310 --> 00:03:48,600
+Boston Americans.
+
+108
+00:03:48,686 --> 00:03:50,266
+Mwah! (smooches)
+
+109
+00:03:50,355 --> 00:03:51,645
+Ring, ring, ring.
+
+110
+00:03:51,731 --> 00:03:52,901
+(frustrated grunts)
+
+111
+00:03:52,982 --> 00:03:54,322
+Give me that hat.
+
+112
+00:03:55,318 --> 00:03:57,148
+(Homer growls)
+
+113
+00:03:57,237 --> 00:03:59,107
+(grunting, snorting)
+
+114
+00:04:00,198 --> 00:04:01,778
+Olé!
+
+115
+00:04:03,117 --> 00:04:06,197
+(sighs) Your father never
+could resist an "olé."
+
+116
+00:04:06,287 --> 00:04:08,037
+Eh, he'll run out of steam soon.
+
+117
+00:04:08,122 --> 00:04:10,672
+(Homer groaning)
+
+118
+00:04:12,126 --> 00:04:14,706
+(laughing)
+
+119
+00:04:14,796 --> 00:04:16,046
+Get in.
+
+120
+00:04:16,130 --> 00:04:18,010
+(Milhouse and Nelson scream)
+
+121
+00:04:18,091 --> 00:04:19,131
+(gulps)
+
+122
+00:04:19,217 --> 00:04:20,757
+Look around, son.
+
+123
+00:04:20,843 --> 00:04:22,473
+This is your hometown.
+
+124
+00:04:22,553 --> 00:04:25,603
+And the Springfield Atoms
+are your hometown team--
+
+125
+00:04:25,682 --> 00:04:27,772
+since 2003, when we stole them
+
+126
+00:04:27,850 --> 00:04:29,810
+in the middle of the night
+from Portland.
+
+127
+00:04:29,894 --> 00:04:32,064
+What kind of life
+can you have here
+
+128
+00:04:32,146 --> 00:04:33,896
+as a Boston fan?
+
+129
+00:04:33,982 --> 00:04:34,982
+See?
+
+130
+00:04:35,066 --> 00:04:37,236
+Why are you wearing
+that Boston hat?
+
+131
+00:04:37,318 --> 00:04:39,238
+This is Atoms country, bro!
+
+132
+00:04:39,320 --> 00:04:43,240
+I would pluck out my own eyes
+if I did not have a call-back
+
+133
+00:04:43,324 --> 00:04:46,494
+for a web-only
+Olive Garden commercial.
+
+134
+00:04:49,414 --> 00:04:51,254
+They're just trying to hat-shame me.
+
+135
+00:04:51,332 --> 00:04:54,502
+Face it, Dad,
+Boston is the Bart Simpson of cities.
+
+136
+00:04:54,585 --> 00:04:56,455
+All those awesome Southies
+in <i>The Departed,</i>
+
+137
+00:04:56,546 --> 00:04:58,256
+those are my people.
+
+138
+00:04:58,339 --> 00:05:01,589
+People? The dog and the baby
+are your people.
+
+139
+00:05:01,676 --> 00:05:04,926
+(sighs) It all goes back
+to the Boston Tea Party,
+
+140
+00:05:05,013 --> 00:05:07,473
+a prank so kick-ass it started a country.
+
+141
+00:05:07,557 --> 00:05:08,677
+(tires screech)
+
+142
+00:05:08,766 --> 00:05:10,636
+Come on, pal, what do you say?
+
+143
+00:05:10,727 --> 00:05:13,857
+Just lose the hat.
+For your old man.
+
+144
+00:05:15,857 --> 00:05:18,277
+Nope, I think I'll stick
+with the bad boys.
+
+145
+00:05:20,528 --> 00:05:23,818
+Get it off before God sees.
+
+146
+00:05:23,906 --> 00:05:26,576
+(whimpering)
+
+147
+00:05:26,659 --> 00:05:27,989
+(groans) Oh!
+
+148
+00:05:31,372 --> 00:05:34,172
+And the people from Boston
+are so obnoxious.
+
+149
+00:05:34,250 --> 00:05:37,170
+They think their stupid city
+has the best everything:
+
+150
+00:05:37,253 --> 00:05:39,513
+bands, comedians, chowder,
+
+151
+00:05:39,589 --> 00:05:42,429
+their so-called cream pies,
+which are actually cakes.
+
+152
+00:05:42,508 --> 00:05:44,088
+-And there's...
+-Why don't you let me
+
+153
+00:05:44,177 --> 00:05:46,597
+take your mind off your problems?
+
+154
+00:05:46,679 --> 00:05:48,309
+And what's with Aerosmith?
+
+155
+00:05:48,389 --> 00:05:50,099
+That's not how you spell "arrow."
+
+156
+00:05:50,183 --> 00:05:51,353
+The... oh.
+
+157
+00:05:51,434 --> 00:05:54,194
+(both moaning)
+
+158
+00:05:54,270 --> 00:05:55,360
+(confused grunting)
+
+159
+00:05:58,274 --> 00:05:59,444
+(whimpering)
+
+160
+00:05:59,525 --> 00:06:00,395
+Oh, no.
+
+161
+00:06:03,738 --> 00:06:05,108
+Do your job, Homer.
+
+162
+00:06:05,198 --> 00:06:06,818
+(Homer screams)
+
+163
+00:06:08,242 --> 00:06:09,372
+Bart, you're my son.
+
+164
+00:06:09,452 --> 00:06:11,332
+There's no neck tattoo so crass,
+
+165
+00:06:11,412 --> 00:06:13,752
+no gender reassignment too ambiguous
+
+166
+00:06:13,831 --> 00:06:15,331
+that I would not love you.
+
+167
+00:06:15,416 --> 00:06:18,286
+Which is why I must show you
+the error of your ways,
+
+168
+00:06:18,378 --> 00:06:22,548
+even if it means dragging
+this family all the way to hell.
+
+169
+00:06:24,217 --> 00:06:26,297
+A vacation to Boston?
+
+170
+00:06:26,386 --> 00:06:28,546
+{\an8}No, not a vay-cation,
+
+171
+00:06:28,638 --> 00:06:30,258
+{\an8}a hate-cation!
+
+172
+00:06:30,348 --> 00:06:33,308
+Where you experience
+the worst a place has to offer,
+
+173
+00:06:33,393 --> 00:06:35,443
+and then say, "Told ya!"
+
+174
+00:06:35,520 --> 00:06:39,070
+Hate-watching, hate-voting
+and now a hate-cation?
+
+175
+00:06:39,148 --> 00:06:41,858
+Why can't everyone just enjoy
+things they like?
+
+176
+00:06:41,943 --> 00:06:43,903
+Because things you like don't fill you
+
+177
+00:06:43,986 --> 00:06:46,606
+with delicious, delicious rage.
+
+178
+00:06:46,697 --> 00:06:48,027
+Hmm, I'm gonna love this trip.
+
+179
+00:06:48,116 --> 00:06:50,026
+I'm gonna love it right in your face.
+
+180
+00:06:50,118 --> 00:06:52,658
+That's it, build it up in your head.
+
+181
+00:06:52,745 --> 00:06:55,705
+High hopes just make
+the hate-cation stronger.
+
+182
+00:06:55,790 --> 00:06:56,670
+You're crazy.
+
+183
+00:06:56,749 --> 00:06:58,709
+Boston can't be that bad.
+
+184
+00:07:02,255 --> 00:07:03,505
+(horns honking)
+
+185
+00:07:03,589 --> 00:07:06,679
+I've never loved hating anything so much!
+
+186
+00:07:06,759 --> 00:07:08,889
+(Boston accent)
+Move your garbage car!
+
+187
+00:07:08,970 --> 00:07:11,720
+I got to get to the packy
+before the Bs drop puck!
+
+188
+00:07:12,640 --> 00:07:15,060
+Told ya!
+
+189
+00:07:21,566 --> 00:07:25,026
+See, boy? Notice how Bostonians
+aren't exactly ugly,
+
+190
+00:07:25,111 --> 00:07:27,411
+but they're not sexy either.
+
+191
+00:07:27,488 --> 00:07:30,988
+Homer, your negative attitude
+is ruining this hate-cation.
+
+192
+00:07:31,075 --> 00:07:32,735
+So, what to hate first?
+
+193
+00:07:32,827 --> 00:07:33,787
+The Freedom Trail?
+
+194
+00:07:33,870 --> 00:07:35,960
+The touch tank
+at the New England Aquarium?
+
+195
+00:07:36,038 --> 00:07:37,288
+Ooh, that could blow.
+
+196
+00:07:37,373 --> 00:07:38,833
+I want to go to Southie.
+
+197
+00:07:38,916 --> 00:07:42,336
+That part of town has
+the towniest townies of any town.
+
+198
+00:07:42,420 --> 00:07:44,590
+(scoffs) You think your
+Bostonians are so great?
+
+199
+00:07:44,672 --> 00:07:47,092
+Watch as your beloved hooligans
+
+200
+00:07:47,175 --> 00:07:49,545
+tear your innocent father limb from limb
+
+201
+00:07:49,635 --> 00:07:52,345
+with just the slightest provocation.
+
+202
+00:07:53,806 --> 00:07:57,136
+Listen up, you clam-gargling tea-tossers!
+
+203
+00:07:57,226 --> 00:08:00,346
+Fenway is a terrible ballpark!
+
+204
+00:08:00,438 --> 00:08:01,648
+Dad, don't!
+
+205
+00:08:01,731 --> 00:08:03,691
+Out of my way, ladies.
+You're blocking my shot.
+
+206
+00:08:03,774 --> 00:08:06,824
+The seats at Fenway Park are too narrow,
+
+207
+00:08:06,903 --> 00:08:09,743
+and many of them face center field!
+
+208
+00:08:09,822 --> 00:08:14,292
+It's not charming, it's a teardown!
+
+209
+00:08:14,368 --> 00:08:15,368
+(Boston accent)
+The bobbleheads!
+
+210
+00:08:15,453 --> 00:08:16,623
+They're tippin'!
+
+211
+00:08:16,704 --> 00:08:18,294
+(Boston accent)
+Kid, mind the cart!
+
+212
+00:08:18,372 --> 00:08:19,922
+-The what?
+-The cart!
+
+213
+00:08:19,999 --> 00:08:21,629
+The cot?
+
+214
+00:08:21,709 --> 00:08:22,839
+Cot!
+
+215
+00:08:22,919 --> 00:08:26,709
+(grunting)
+
+216
+00:08:26,797 --> 00:08:27,917
+No, don't struggle!
+
+217
+00:08:28,007 --> 00:08:29,877
+It only makes them bobble harder.
+
+218
+00:08:29,967 --> 00:08:31,927
+They keep coming.
+Bobblehead Steven Wright,
+
+219
+00:08:32,011 --> 00:08:35,601
+bobblehead Aimee Mann,
+bobblehead Bell Biv DeVoe!
+
+220
+00:08:35,681 --> 00:08:37,601
+The vibrations are killing him!
+
+221
+00:08:37,683 --> 00:08:38,943
+Don't worry, sweetheart,
+
+222
+00:08:39,018 --> 00:08:40,308
+I'm a doctor.
+
+223
+00:08:40,394 --> 00:08:42,234
+I'm also a doctor, kid.
+
+224
+00:08:42,313 --> 00:08:44,403
+(groaning)
+
+225
+00:08:44,482 --> 00:08:46,652
+Mm, so many doctors.
+
+226
+00:08:46,734 --> 00:08:49,204
+He's got a Pedro lodged in his airway.
+
+227
+00:08:49,278 --> 00:08:50,448
+(Homer gasps)
+
+228
+00:08:50,530 --> 00:08:51,950
+He'll be fine, ma'am.
+
+229
+00:08:52,031 --> 00:08:54,871
+And because of our state's
+super-socialized health care,
+
+230
+00:08:54,951 --> 00:08:58,001
+no matter how much your husband
+abuses his body,
+
+231
+00:08:58,079 --> 00:09:00,079
+someone else will pay for it.
+
+232
+00:09:00,164 --> 00:09:02,504
+What a relief for women
+with hot-tempered,
+
+233
+00:09:02,583 --> 00:09:04,503
+accident-prone husbands.
+
+234
+00:09:04,585 --> 00:09:06,495
+Oh, yeah,
+we got a whole surgical center
+
+235
+00:09:06,587 --> 00:09:09,587
+for injuries from falling off
+icy roofs and gutters.
+
+236
+00:09:09,674 --> 00:09:11,264
+BOTH: Ooh.
+
+237
+00:09:13,594 --> 00:09:17,064
+While the doctors pull tiny
+Bruins helmets out of your skin,
+
+238
+00:09:17,139 --> 00:09:19,979
+Lisa and I are going to explore
+The Hub on our own.
+
+239
+00:09:20,059 --> 00:09:22,229
+Remember, this is a hate-cation.
+
+240
+00:09:22,311 --> 00:09:23,851
+You better go someplace bad.
+
+241
+00:09:23,938 --> 00:09:26,358
+Isn't Mayor Quimby
+from somewhere around here?
+
+242
+00:09:27,900 --> 00:09:31,070
+(all muttering with thick accents)
+
+243
+00:09:33,739 --> 00:09:35,659
+People are so fit here.
+
+244
+00:09:35,741 --> 00:09:38,831
+Everyone looks like they're
+in a financial services ad.
+
+245
+00:09:38,911 --> 00:09:42,331
+Free sunscreen? So progressive.
+
+246
+00:09:42,415 --> 00:09:44,375
+Do you vaccinate your children?
+
+247
+00:09:44,458 --> 00:09:45,498
+Of course.
+
+248
+00:09:45,585 --> 00:09:48,415
+But not <i>stupid </i>progressive.
+
+249
+00:09:48,504 --> 00:09:51,344
+-(low buzzing)
+-What's that buzzing noise?
+
+250
+00:09:51,424 --> 00:09:54,304
+(gasps) It's-- It's nerds!
+
+251
+00:09:54,385 --> 00:09:58,255
+They've got every
+recognized species of nerd!
+
+252
+00:09:58,347 --> 00:09:59,557
+A jester-hatted ferret preener!
+
+253
+00:09:59,640 --> 00:10:01,480
+A Wild West-afarian!
+
+254
+00:10:01,559 --> 00:10:03,229
+A <i>Magic: The Gathering </i>gathering!
+
+255
+00:10:03,311 --> 00:10:04,521
+Oculus rifters!
+
+256
+00:10:04,604 --> 00:10:07,114
+Yo-yo guys. Yo-yo girls!
+
+257
+00:10:07,189 --> 00:10:09,189
+A chain mail ping pong player.
+
+258
+00:10:09,275 --> 00:10:10,395
+(giggles, squeals)
+
+259
+00:10:10,484 --> 00:10:12,364
+So much education.
+
+260
+00:10:12,445 --> 00:10:14,355
+If they did a <i>Real Housewives</i> here,
+
+261
+00:10:14,447 --> 00:10:16,447
+it would be a total snooze.
+
+262
+00:10:16,532 --> 00:10:18,532
+Ah, it's like heaven for people
+
+263
+00:10:18,618 --> 00:10:20,698
+who don't believe in heaven.
+
+264
+00:10:20,786 --> 00:10:23,036
+HOMER:
+What the crap is this BS?
+
+265
+00:10:23,122 --> 00:10:25,752
+What? I thought you'd want
+to try candlepin bowling.
+
+266
+00:10:27,793 --> 00:10:30,553
+Hey, McCarthy, nice half-Worcester.
+
+267
+00:10:30,630 --> 00:10:32,380
+Get bent, McDonald.
+
+268
+00:10:32,465 --> 00:10:34,465
+A lot of wood to work with out there.
+
+269
+00:10:34,550 --> 00:10:35,970
+(sputters) Boston.
+
+270
+00:10:36,052 --> 00:10:38,222
+They even found a way to mess up bowling.
+
+271
+00:10:38,304 --> 00:10:39,394
+Just try it.
+
+272
+00:10:39,472 --> 00:10:40,562
+(groans)
+
+273
+00:10:40,640 --> 00:10:42,310
+Eh, all right.
+
+274
+00:10:44,685 --> 00:10:45,725
+(grunts)
+
+275
+00:10:47,146 --> 00:10:49,726
+None of the usual pain in my knees, back,
+
+276
+00:10:49,815 --> 00:10:52,225
+wrist, shoulder, neck, and chest.
+
+277
+00:10:54,904 --> 00:10:56,324
+(grunts)
+
+278
+00:10:58,157 --> 00:11:00,157
+(groans) One pin standing.
+
+279
+00:11:00,242 --> 00:11:01,492
+Story of my life.
+
+280
+00:11:01,577 --> 00:11:03,077
+Whoa there, pal.
+
+281
+00:11:03,162 --> 00:11:05,162
+Don't forget your third ball.
+
+282
+00:11:05,247 --> 00:11:06,327
+Hold on, wait.
+
+283
+00:11:06,415 --> 00:11:07,955
+Wait. Hold on.
+
+284
+00:11:08,042 --> 00:11:09,042
+Wait.
+
+285
+00:11:10,211 --> 00:11:11,251
+What?
+
+286
+00:11:11,337 --> 00:11:13,337
+This is candlepin bowling.
+
+287
+00:11:13,422 --> 00:11:14,592
+You get three.
+
+288
+00:11:14,674 --> 00:11:16,844
+Hmm? Hmm.
+
+289
+00:11:16,926 --> 00:11:18,426
+(grunts)
+
+290
+00:11:23,933 --> 00:11:25,943
+(gasps) Three balls.
+
+291
+00:11:26,018 --> 00:11:28,768
+I see it all so clearly now.
+
+292
+00:11:28,854 --> 00:11:30,614
+What, Dad? What is it?
+
+293
+00:11:30,690 --> 00:11:33,440
+This regional bowling
+with its one extra roll
+
+294
+00:11:33,526 --> 00:11:37,276
+has knocked my misguided hate
+into the gutter.
+
+295
+00:11:37,363 --> 00:11:38,283
+Mwah!
+
+296
+00:11:38,364 --> 00:11:40,874
+I like Boston!
+
+297
+00:11:40,950 --> 00:11:43,620
+Dad, you and me are real
+father-son Southies, now.
+
+298
+00:11:43,703 --> 00:11:45,623
+Just like Ben and Casey Affleck.
+
+299
+00:11:45,705 --> 00:11:49,455
+Son, show me everything
+this town has to offer.
+
+300
+00:11:50,710 --> 00:11:52,710
+("The Man in Me" by Bob Dylan playing)
+
+301
+00:11:52,795 --> 00:11:54,625
+<i>♪ Ooh ooh ooh ♪</i>
+
+302
+00:11:54,714 --> 00:11:57,384
+<i>♪ La la la la la la la la la ♪</i>
+
+303
+00:11:57,466 --> 00:11:58,716
+<i>♪ Ooh ♪</i>
+
+304
+00:11:58,801 --> 00:12:00,141
+<i>♪ La la la la la ♪</i>
+
+305
+00:12:00,219 --> 00:12:01,299
+<i>♪ La la la la ♪</i>
+
+306
+00:12:01,387 --> 00:12:03,467
+<i>♪ La la la la la la la ♪</i>
+
+307
+00:12:04,473 --> 00:12:06,523
+<i>♪ La la la la ♪</i>
+
+308
+00:12:06,600 --> 00:12:09,150
+<i>♪ Ooh ooh ooh ♪</i>
+
+309
+00:12:09,228 --> 00:12:11,148
+<i>♪ La la la ♪</i>
+
+310
+00:12:11,230 --> 00:12:13,150
+<i>-♪ Ooh ♪</i>
+<i>-♪ La la la la la la la la... ♪</i>
+
+311
+00:12:15,067 --> 00:12:15,897
+(gulps)
+
+312
+00:12:15,985 --> 00:12:17,315
+You know, for a cake,
+
+313
+00:12:17,403 --> 00:12:20,823
+this Boston cream pie isn't so bad.
+
+314
+00:12:20,906 --> 00:12:22,826
+Look at them. So innocent.
+
+315
+00:12:22,908 --> 00:12:24,738
+Not Bart, but go on.
+
+316
+00:12:24,827 --> 00:12:25,907
+Homer,
+
+317
+00:12:25,995 --> 00:12:28,075
+I never dared dream
+about living somewhere
+
+318
+00:12:28,164 --> 00:12:31,254
+that values education,
+with great health care,
+
+319
+00:12:31,333 --> 00:12:34,173
+and everyone's outdoorsy
+but still pallid.
+
+320
+00:12:34,253 --> 00:12:35,423
+If it weren't crazy,
+
+321
+00:12:35,504 --> 00:12:37,844
+I'd say we should be
+raising our kids here.
+
+322
+00:12:37,923 --> 00:12:40,013
+But no. No, no. That's crazy!
+
+323
+00:12:40,092 --> 00:12:41,682
+Is it?
+
+324
+00:12:41,761 --> 00:12:44,761
+(gasps) But I never thought you,
+of all people...
+
+325
+00:12:44,847 --> 00:12:48,227
+Honey, this could be the chance
+we never thought we'd get.
+
+326
+00:12:48,309 --> 00:12:51,939
+The chance to knock down
+all of life's pins.
+
+327
+00:12:52,021 --> 00:12:54,691
+Are you saying
+what I think you're saying?
+
+328
+00:12:54,774 --> 00:12:59,454
+I am.
+Fate is offering us a third ball.
+
+329
+00:12:59,528 --> 00:13:02,068
+Do you mean it?
+Are we going to move to Boston?
+
+330
+00:13:02,156 --> 00:13:05,526
+I knew I didn't pay this month's
+mortgage for a reason.
+
+331
+00:13:05,618 --> 00:13:07,038
+(both sigh)
+
+332
+00:13:07,119 --> 00:13:08,119
+(kisses)
+
+333
+00:13:12,291 --> 00:13:13,711
+<i>(St. Elsewhere</i> theme playing)
+
+334
+00:13:22,134 --> 00:13:23,844
+We did it! We really did it!
+
+335
+00:13:23,928 --> 00:13:25,638
+We made a life change.
+
+336
+00:13:25,721 --> 00:13:28,721
+I love these colonial quilts on the wall.
+
+337
+00:13:28,808 --> 00:13:31,058
+Now, I can take a nap standing up.
+
+338
+00:13:37,650 --> 00:13:38,820
+Check it out, kid.
+
+339
+00:13:38,901 --> 00:13:40,491
+This movie's my life now.
+
+340
+00:13:42,822 --> 00:13:44,702
+You want to rob the Harvard Coop?
+
+341
+00:13:44,782 --> 00:13:46,912
+Why don't we just break into Fort Knox?
+
+342
+00:13:46,992 --> 00:13:49,542
+These snobs think Mass Ave.
+belongs to them.
+
+343
+00:13:49,620 --> 00:13:51,620
+It's our Ave.
+
+344
+00:13:56,836 --> 00:13:59,756
+Whoa! I got to get one of those
+"X" necklaces to kiss.
+
+345
+00:14:01,423 --> 00:14:04,053
+This is all happening so fast.
+
+346
+00:14:04,134 --> 00:14:05,764
+Can we really afford to live in a city
+
+347
+00:14:05,845 --> 00:14:07,715
+with a symphony and a Pops?
+
+348
+00:14:07,805 --> 00:14:09,215
+(laughing)
+Don't worry, baby.
+
+349
+00:14:09,306 --> 00:14:12,726
+I have a line on a sweet
+safety inspector gig.
+
+350
+00:14:12,810 --> 00:14:14,940
+Very sweet.
+
+351
+00:14:25,030 --> 00:14:27,410
+<i>HOMER (over P.A.):</i>
+<i>Can I get a test on batch six?</i>
+
+352
+00:14:28,450 --> 00:14:30,740
+I'm finally living my dream
+
+353
+00:14:30,828 --> 00:14:33,578
+of never not being around
+batches of candy.
+
+354
+00:14:33,664 --> 00:14:35,084
+And unlike the nuclear plant,
+
+355
+00:14:35,165 --> 00:14:38,455
+if I screw up, no one gets hurt.
+
+356
+00:14:38,544 --> 00:14:40,674
+(screaming)
+
+357
+00:14:41,839 --> 00:14:43,469
+Are you sure
+we have to go to school here?
+
+358
+00:14:43,549 --> 00:14:45,429
+I sort of thought I'd go
+straight to running numbers
+
+359
+00:14:45,509 --> 00:14:46,639
+for the Irish mob.
+
+360
+00:14:46,719 --> 00:14:48,849
+Our school is in the heart
+of what they once called
+
+361
+00:14:48,929 --> 00:14:49,969
+The Combat Zone.
+
+362
+00:14:50,055 --> 00:14:51,805
+The Combat Zone! Yes!
+
+363
+00:14:51,891 --> 00:14:53,181
+Combat rules!
+
+364
+00:14:53,267 --> 00:14:54,687
+BART: Charter what?
+
+365
+00:14:54,768 --> 00:14:56,768
+Here's my classroom.
+
+366
+00:14:58,022 --> 00:15:00,362
+The teacher
+is Doris Kearns Goodwin.
+
+367
+00:15:00,441 --> 00:15:04,491
+Today, we explore Lincoln's 1861
+suspension of habeas corpus,
+
+368
+00:15:04,570 --> 00:15:07,450
+using dried macaroni
+and pipe cleaners.
+
+369
+00:15:07,531 --> 00:15:08,871
+(gasps excitedly)
+
+370
+00:15:10,451 --> 00:15:12,041
+Huh, now to get sent to detention.
+
+371
+00:15:12,119 --> 00:15:14,199
+That's where I'll meet
+my future bank-robbing crew.
+
+372
+00:15:19,376 --> 00:15:20,786
+(all gasping)
+
+373
+00:15:20,878 --> 00:15:22,918
+Ha! How do you like them marbles?
+
+374
+00:15:23,005 --> 00:15:25,335
+Bart, we have a place for kids like you.
+
+375
+00:15:25,424 --> 00:15:26,684
+Bring it on.
+
+376
+00:15:28,552 --> 00:15:30,892
+(choir humming
+"I'm Shipping Up to Boston")
+
+377
+00:15:30,971 --> 00:15:32,891
+BART: Kids singing?
+
+378
+00:15:32,973 --> 00:15:34,983
+(humming continues)
+
+379
+00:15:37,811 --> 00:15:39,231
+What the hell?
+
+380
+00:15:39,313 --> 00:15:42,573
+Like you, these kids are gifted
+with exceptional energy.
+
+381
+00:15:42,650 --> 00:15:45,240
+Which they've channeled into a cappella.
+
+382
+00:15:45,319 --> 00:15:47,069
+<i>♪ I'm shipping up to Boston ♪</i>
+
+383
+00:15:47,154 --> 00:15:48,164
+<i>♪ Whoa! ♪</i>
+
+384
+00:15:48,238 --> 00:15:49,408
+(softly)
+<i>Departed.</i>
+
+385
+00:15:49,490 --> 00:15:50,820
+These are the bad kids?
+
+386
+00:15:50,908 --> 00:15:52,908
+There's not a Wahlberg in the bunch.
+
+387
+00:15:52,993 --> 00:15:55,083
+I've never felt more like I fit in.
+
+388
+00:15:55,162 --> 00:15:57,542
+People think Boston's
+all Southies and hooligans.
+
+389
+00:15:57,623 --> 00:16:00,173
+But it's really teachers, Ph.D. students,
+
+390
+00:16:00,250 --> 00:16:02,250
+doctors, innovators, philanthropists.
+
+391
+00:16:02,336 --> 00:16:04,506
+It's like living in a giant classroom.
+
+392
+00:16:04,588 --> 00:16:06,418
+And every day is a new test.
+
+393
+00:16:06,507 --> 00:16:08,427
+(groaning)
+
+394
+00:16:08,509 --> 00:16:10,009
+(thunder claps)
+
+395
+00:16:12,763 --> 00:16:14,603
+Theater?
+
+396
+00:16:14,682 --> 00:16:16,772
+Colleges?
+
+397
+00:16:16,850 --> 00:16:18,770
+Culture?
+
+398
+00:16:21,605 --> 00:16:22,605
+Oh, Pauly,
+
+399
+00:16:22,690 --> 00:16:23,520
+if you could have known that
+
+400
+00:16:23,607 --> 00:16:25,357
+Boston was gonna turn out so wussy,
+
+401
+00:16:25,442 --> 00:16:27,612
+you never would have warned anybody.
+
+402
+00:16:28,612 --> 00:16:31,242
+Listen, my brother, and you shall see,
+
+403
+00:16:31,323 --> 00:16:34,623
+this is a town not for you, but for me.
+
+404
+00:16:34,702 --> 00:16:36,202
+(screaming)
+
+405
+00:16:37,621 --> 00:16:39,121
+Hey, but what about Grampa?
+
+406
+00:16:39,206 --> 00:16:41,206
+He lives a thousand miles away.
+
+407
+00:16:41,291 --> 00:16:42,251
+Great point.
+
+408
+00:16:42,334 --> 00:16:43,544
+Nobody tell him where we went.
+
+409
+00:16:43,627 --> 00:16:46,167
+Bart, you haven't touched your clambake.
+
+410
+00:16:46,255 --> 00:16:47,375
+What's wrong?
+
+411
+00:16:47,464 --> 00:16:50,384
+This place is all P.C. brainiacs
+and Subaru owners
+
+412
+00:16:50,467 --> 00:16:52,047
+wearing fleece vests.
+
+413
+00:16:52,136 --> 00:16:53,886
+It's nothing at all
+like <i>The Departed.</i>
+
+414
+00:16:53,971 --> 00:16:56,311
+Oh, honey, I know it's a big change.
+
+415
+00:16:56,390 --> 00:17:00,060
+But someday you'll understand
+that providing our family
+
+416
+00:17:00,144 --> 00:17:01,404
+with a better life...
+
+417
+00:17:01,478 --> 00:17:03,558
+Something I've never been able to do.
+
+418
+00:17:03,647 --> 00:17:06,437
+...is the most important thing
+in the world.
+
+419
+00:17:06,525 --> 00:17:08,775
+We've been given a third ball.
+
+420
+00:17:08,861 --> 00:17:10,991
+Let's not throw it away.
+
+421
+00:17:11,071 --> 00:17:13,241
+(groans)
+
+422
+00:17:13,323 --> 00:17:14,583
+Same to you.
+
+423
+00:17:14,658 --> 00:17:16,828
+No one likes feeling out of place.
+
+424
+00:17:16,910 --> 00:17:18,950
+That's how I felt back in Springfield.
+
+425
+00:17:19,038 --> 00:17:21,248
+{\an8}But I sucked it up for eight years.
+
+426
+00:17:21,331 --> 00:17:23,331
+{\an8}Now it's your turn.
+
+427
+00:17:30,716 --> 00:17:32,926
+(grunts)
+
+428
+00:17:33,010 --> 00:17:33,930
+(gasps)
+
+429
+00:17:35,179 --> 00:17:36,179
+Yes! Finally.
+
+430
+00:17:36,263 --> 00:17:39,023
+A Southie crew pulling a job.
+
+431
+00:17:39,099 --> 00:17:41,099
+I finally took that
+spin class with Miranda.
+
+432
+00:17:41,185 --> 00:17:43,095
+I was sweatin' so friggin' hard.
+
+433
+00:17:43,187 --> 00:17:45,107
+Hey, try this pressed juice, kid.
+
+434
+00:17:45,189 --> 00:17:47,779
+Ginger, cayenne...
+wicked cleanse, pal.
+
+435
+00:17:47,858 --> 00:17:49,358
+Come on. Donny, Tommy,
+
+436
+00:17:49,443 --> 00:17:51,323
+these solar laptops for Rwandans
+
+437
+00:17:51,403 --> 00:17:53,703
+ain't gonna donate themselves.
+
+438
+00:17:54,615 --> 00:17:57,655
+It's time for me to ship out of Boston.
+
+439
+00:17:59,078 --> 00:18:00,538
+What a gorgeous day.
+
+440
+00:18:00,621 --> 00:18:02,331
+I hope it never ends.
+
+441
+00:18:02,414 --> 00:18:04,584
+So don't I.
+
+442
+00:18:04,666 --> 00:18:07,796
+You know, guys, I've picked out
+the perfect Boston activity
+
+443
+00:18:07,878 --> 00:18:09,418
+to help celebrate our move.
+
+444
+00:18:09,505 --> 00:18:11,335
+-(marching band playing)
+-Ooh, a parade.
+
+445
+00:18:11,423 --> 00:18:13,093
+Not just any parade.
+
+446
+00:18:14,176 --> 00:18:16,006
+HOMER:
+The Boston Americans?
+
+447
+00:18:17,346 --> 00:18:19,676
+CROWD (chanting):
+Bonk! Bonk! Bonk!
+
+448
+00:18:21,433 --> 00:18:24,483
+{\an8}It's a state holiday because the league
+overturned the coach's suspension
+
+449
+00:18:24,561 --> 00:18:26,731
+{\an8}for using magnets
+to affect the coin toss.
+
+450
+00:18:26,814 --> 00:18:28,824
+{\an8}Pretty cool way to celebrate
+our new hometown.
+
+451
+00:18:28,899 --> 00:18:30,229
+{\an8}Right, Dad?
+
+452
+00:18:30,317 --> 00:18:35,107
+{\an8}(forced) As a Bostonian,
+I definitely support my team.
+
+453
+00:18:37,825 --> 00:18:39,615
+{\an8}Hey, Bonk! Can we get a picture?
+
+454
+00:18:39,701 --> 00:18:41,831
+Hell to the derrr, little bro!
+
+455
+00:18:41,912 --> 00:18:44,252
+(grunting)
+
+456
+00:18:44,331 --> 00:18:46,211
+Come on, Homer, put on the hat.
+
+457
+00:18:46,291 --> 00:18:49,001
+I can support my hometown team
+without putting on a hat.
+
+458
+00:18:49,086 --> 00:18:51,876
+Hats go on your head!
+
+459
+00:18:51,964 --> 00:18:54,724
+If you're gonna live in Boston,
+you got to wear the hat.
+
+460
+00:18:56,176 --> 00:18:57,256
+(winces)
+
+461
+00:18:57,344 --> 00:18:58,434
+Okay.
+
+462
+00:18:58,512 --> 00:18:59,722
+(grunting, blowing)
+
+463
+00:19:03,725 --> 00:19:05,555
+You did this on purpose.
+
+464
+00:19:05,644 --> 00:19:07,604
+My future is at stake.
+
+465
+00:19:07,688 --> 00:19:09,768
+So don't is mine.
+
+466
+00:19:09,857 --> 00:19:13,107
+(struggling)
+It's... just... a... hat.
+
+467
+00:19:13,193 --> 00:19:14,283
+You can do it, Homie.
+
+468
+00:19:14,361 --> 00:19:15,861
+Think of the candlepins.
+
+469
+00:19:15,946 --> 00:19:18,366
+This is our extra ball!
+
+470
+00:19:18,448 --> 00:19:21,868
+A... better... life.
+
+471
+00:19:21,952 --> 00:19:23,202
+(yells)
+
+472
+00:19:23,287 --> 00:19:25,287
+(all gasping)
+
+473
+00:19:27,666 --> 00:19:29,246
+(quacking)
+
+474
+00:19:29,334 --> 00:19:30,674
+Derrr?!
+
+475
+00:19:31,628 --> 00:19:32,628
+Stupid cheaters!
+
+476
+00:19:32,713 --> 00:19:34,013
+You cheat,
+
+477
+00:19:34,089 --> 00:19:36,089
+you flip out
+when people say you cheat,
+
+478
+00:19:36,175 --> 00:19:37,215
+and everybody knows
+
+479
+00:19:37,301 --> 00:19:39,931
+you're nothing but a big bunch
+of cheaters!
+
+480
+00:19:40,012 --> 00:19:42,722
+{\an8}(Moe chuckling)
+
+481
+00:19:42,806 --> 00:19:44,466
+You made us leave that lovely city
+
+482
+00:19:44,558 --> 00:19:46,808
+rather than just put on a stupid hat.
+
+483
+00:19:46,894 --> 00:19:48,314
+It wasn't even fitted.
+
+484
+00:19:48,395 --> 00:19:50,975
+(sighs)
+I just couldn't wear the hat.
+
+485
+00:19:51,064 --> 00:19:52,864
+Well, I'm still mad at you.
+
+486
+00:19:52,941 --> 00:19:55,571
+I never even got to experience
+one of those Boston winters
+
+487
+00:19:55,652 --> 00:19:57,152
+everyone raves about.
+
+488
+00:19:57,237 --> 00:19:59,817
+Come on, baby,
+we could never escape our problems
+
+489
+00:19:59,907 --> 00:20:01,407
+by moving somewhere else.
+
+490
+00:20:01,491 --> 00:20:04,621
+Our problems are <i>who</i> we are,
+not where we are.
+
+491
+00:20:04,703 --> 00:20:06,583
+Well... maybe.
+
+492
+00:20:06,663 --> 00:20:08,793
+The traffic was pretty annoying.
+
+493
+00:20:08,874 --> 00:20:11,174
+Not to mention the unspoken racism.
+
+494
+00:20:11,251 --> 00:20:13,841
+It wasn't that unspoken.
+
+495
+00:20:15,172 --> 00:20:16,512
+At least someone in this family
+
+496
+00:20:16,590 --> 00:20:18,430
+is happy about where they came from.
+
+497
+00:20:19,593 --> 00:20:21,643
+Oh, don't worry, Lisa.
+
+498
+00:20:21,720 --> 00:20:23,810
+You'll get back to Boston someday.
+
+499
+00:20:23,889 --> 00:20:25,519
+What are you talking about?
+
+500
+00:20:25,599 --> 00:20:26,929
+I never left.
+
+501
+00:20:27,017 --> 00:20:29,227
+I'm in Boston now.
+
+502
+00:20:31,104 --> 00:20:32,614
+Welcome home, Lisa.
+
+503
+00:20:32,689 --> 00:20:34,359
+Class is about to start.
+
+504
+00:20:34,441 --> 00:20:36,441
+(classical music playing)
+
+505
+00:20:37,402 --> 00:20:38,822
+Eh.
+
+506
+00:20:52,084 --> 00:20:54,004
+{\an8}(choir humming
+"I'm Shipping Up to Boston")
+
+507
+00:21:16,108 --> 00:21:18,278
+{\an8}<i>♪ I'm shipping up to Boston ♪</i>
+
+508
+00:21:18,360 --> 00:21:20,110
+{\an8}<i>♪ Shipping up, shipping up ♪</i>
+
+509
+00:21:20,195 --> 00:21:23,025
+{\an8}<i>♪ I'm shipping up to Boston ♪</i>
+
+510
+00:21:23,115 --> 00:21:24,865
+{\an8}<i>♪ Shipping up to Boston, whoa ♪</i>
+
+511
+00:21:24,950 --> 00:21:26,830
+{\an8}<i>♪ I'm shipping up to Boston ♪</i>
+
+512
+00:21:26,910 --> 00:21:29,290
+{\an8}<i>♪ Yeah ♪</i>
+
+513
+00:21:29,371 --> 00:21:31,041
+{\an8}<i>♪ Shipping up to Boston ♪</i>
+
+514
+00:21:31,123 --> 00:21:32,043
+{\an8}<i>♪ Whoa! ♪</i>
+
+515
+00:21:32,124 --> 00:21:33,214
+<i>Departed!</i>
+
+516
+00:21:37,921 --> 00:21:39,971
+{\an8}Subtitled by E. Jaeger
+

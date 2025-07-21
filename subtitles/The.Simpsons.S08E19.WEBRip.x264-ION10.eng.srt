@@ -1,0 +1,2431 @@
+1
+00:00:03,044 --> 00:00:06,724
+<i>♪ The Simpsons ♪</i>
+
+2
+00:00:06,798 --> 00:00:07,758
+(tires screech)
+
+3
+00:00:09,676 --> 00:00:10,926
+D'oh!
+
+4
+00:00:11,011 --> 00:00:12,511
+-Ahh!
+-(tires screech)
+
+5
+00:00:15,140 --> 00:00:16,100
+(popping)
+
+6
+00:00:26,860 --> 00:00:28,900
+{\an8}SKINNER (on PA):
+<i>And finally,</i>
+
+7
+00:00:28,987 --> 00:00:31,357
+{\an8}<i>the bake sale to raise money</i>
+<i>for the car wash</i>
+
+8
+00:00:31,448 --> 00:00:35,038
+{\an8}<i>has been canceled</i>
+<i>due to confusion.</i>
+
+9
+00:00:35,118 --> 00:00:37,038
+{\an8}<i>Well, that concludes</i>
+<i>this morning's announcements.</i>
+
+10
+00:00:37,120 --> 00:00:40,670
+{\an8}<i>I'm Seymour Skinner,</i>
+<i>and stand by to resume learning</i>
+
+11
+00:00:40,749 --> 00:00:43,169
+{\an8}<i>in five, four, three...</i>
+
+12
+00:00:43,251 --> 00:00:46,211
+{\an8}Oh! It's hard enough
+to keep the kids awake
+
+13
+00:00:46,296 --> 00:00:47,256
+{\an8}without you, Seymour.
+
+14
+00:00:51,926 --> 00:00:52,836
+{\an8}(all gasping)
+
+15
+00:00:52,927 --> 00:00:54,007
+{\an8}Mrs. Krabappel,
+
+16
+00:00:54,095 --> 00:00:56,055
+{\an8}I also have
+an announcement to make.
+
+17
+00:00:56,139 --> 00:00:57,139
+{\an8}Can't it wait
+till I retire?
+
+18
+00:00:57,223 --> 00:00:58,643
+{\an8}(clears throat)
+
+19
+00:00:58,725 --> 00:01:01,055
+{\an8}I want one and all
+to join me in celebrating
+
+20
+00:01:01,144 --> 00:01:03,274
+{\an8}the anniversary
+of my portentous birth.
+
+21
+00:01:03,354 --> 00:01:04,274
+{\an8}Here you are, Nelson.
+
+22
+00:01:04,355 --> 00:01:05,855
+{\an8}A birthday party?
+
+23
+00:01:05,940 --> 00:01:08,030
+{\an8}(blows raspberry)
+
+24
+00:01:08,109 --> 00:01:09,319
+{\an8}Here you are, Nelson.
+
+25
+00:01:09,402 --> 00:01:11,322
+{\an8}(blows raspberry)
+
+26
+00:01:11,404 --> 00:01:12,664
+{\an8}Here you are, Nelson.
+
+27
+00:01:12,739 --> 00:01:14,119
+{\an8}I said...
+(blows raspberry)
+
+28
+00:01:14,199 --> 00:01:16,119
+{\an8}(engine revving)
+
+29
+00:01:16,201 --> 00:01:17,121
+{\an8}All right, men.
+
+30
+00:01:17,202 --> 00:01:18,412
+{\an8}Get ready to blast off.
+
+31
+00:01:18,495 --> 00:01:19,405
+{\an8}Whoo!
+
+32
+00:01:19,496 --> 00:01:20,906
+{\an8}We're in orbit now.
+
+33
+00:01:20,997 --> 00:01:23,077
+What's that?
+A call from the president?
+
+34
+00:01:23,166 --> 00:01:24,246
+Hello?
+
+35
+00:01:24,334 --> 00:01:26,044
+(imitating Nixon):
+Ah, yes.
+
+36
+00:01:26,127 --> 00:01:29,127
+Let me just say this
+about that.
+
+37
+00:01:29,214 --> 00:01:30,304
+Okay, Mr. President.
+
+38
+00:01:30,381 --> 00:01:32,091
+{\an8}Bart, this is boring.
+
+39
+00:01:34,636 --> 00:01:35,926
+{\an8}I guess we could go
+to Martin's party.
+
+40
+00:01:36,012 --> 00:01:37,392
+{\an8}I don't know.
+
+41
+00:01:37,472 --> 00:01:38,522
+{\an8}If we're seen there,
+it'll definitely take
+
+42
+00:01:38,598 --> 00:01:40,308
+{\an8}our social standing
+down a notch.
+
+43
+00:01:40,391 --> 00:01:41,981
+{\an8}We're at what now?
+Three?
+
+44
+00:01:42,060 --> 00:01:43,310
+{\an8}Three and a half.
+
+45
+00:01:43,394 --> 00:01:45,274
+{\an8}We get beat up,
+but we get an explanation.
+
+46
+00:01:45,355 --> 00:01:49,225
+{\an8}(continues imitating Nixon)
+Beautiful colors. Never has--
+
+47
+00:01:49,317 --> 00:01:51,147
+Mayday! Mayday!
+
+48
+00:01:51,236 --> 00:01:52,526
+<i>♪♪</i>
+
+49
+00:01:57,700 --> 00:01:58,740
+Hmm.
+
+50
+00:02:01,037 --> 00:02:02,367
+Bart!
+
+51
+00:02:02,455 --> 00:02:04,415
+Uh, Mrs. K.
+Hey, it's Saturday.
+
+52
+00:02:04,499 --> 00:02:06,079
+Your powers are useless
+against me.
+
+53
+00:02:06,167 --> 00:02:09,247
+Relax. I'm just here to have
+fun like everybody else.
+
+54
+00:02:09,337 --> 00:02:11,127
+Don't think of me
+as a teacher.
+
+55
+00:02:11,214 --> 00:02:12,344
+Okay.
+
+56
+00:02:12,423 --> 00:02:14,303
+So...
+
+57
+00:02:14,384 --> 00:02:16,474
+Mm-hmm.
+
+58
+00:02:16,553 --> 00:02:18,303
+(nervous laughter)
+
+59
+00:02:18,388 --> 00:02:20,268
+(sighing)
+
+60
+00:02:20,348 --> 00:02:21,268
+Excuse me.
+
+61
+00:02:25,937 --> 00:02:26,857
+(pitiful whimpering)
+
+62
+00:02:28,148 --> 00:02:31,728
+(crying)
+Mama!
+
+63
+00:02:31,818 --> 00:02:34,488
+Hey, Houdini, why don't you
+saw Martin in half?
+
+64
+00:02:34,571 --> 00:02:37,161
+Oh, I'm not the kind of magician
+who does tricks.
+
+65
+00:02:37,240 --> 00:02:38,530
+I'm a math-e-magician.
+
+66
+00:02:38,616 --> 00:02:39,526
+(all groaning)
+
+67
+00:02:39,617 --> 00:02:41,077
+Oh, man.
+
+68
+00:02:41,161 --> 00:02:43,291
+Now, prepare to marvel
+at the mysteries of the universe
+
+69
+00:02:43,371 --> 00:02:46,421
+as I make this remainder
+disappear.
+
+70
+00:02:46,499 --> 00:02:47,379
+(chuckling)
+
+71
+00:02:49,127 --> 00:02:51,707
+But seven goes
+into 28 four times.
+
+72
+00:02:51,796 --> 00:02:54,466
+Uh-- this is a magic seven!
+
+73
+00:02:54,549 --> 00:02:57,009
+(children chattering)
+
+74
+00:03:01,472 --> 00:03:02,852
+Edna!
+
+75
+00:03:02,932 --> 00:03:04,272
+Seymour.
+
+76
+00:03:04,350 --> 00:03:05,350
+Mind if I sit down?
+
+77
+00:03:05,435 --> 00:03:06,765
+Hmph! It's a free country.
+
+78
+00:03:06,853 --> 00:03:08,313
+I...
+I don't follow you.
+
+79
+00:03:08,396 --> 00:03:10,186
+Oh, just sit down,
+Seymour.
+
+80
+00:03:10,273 --> 00:03:13,943
+It might be nice to talk
+to a grownup for a change.
+
+81
+00:03:14,027 --> 00:03:16,817
+Well, this party is certainly
+a break in my routine.
+
+82
+00:03:16,905 --> 00:03:18,945
+You know, normally
+I spend my Saturdays
+
+83
+00:03:19,032 --> 00:03:21,242
+carefully laying out my clothes
+for the following week.
+
+84
+00:03:21,326 --> 00:03:24,866
+Then I stroll down to the car wash
+to see if Gus is there.
+
+85
+00:03:24,954 --> 00:03:26,794
+Oh, yeah. You've got
+to keep busy.
+
+86
+00:03:26,873 --> 00:03:29,543
+I collect matchbooks
+from glamorous nightclubs.
+
+87
+00:03:29,626 --> 00:03:30,996
+It's amazing.
+
+88
+00:03:31,085 --> 00:03:33,705
+It you just write to them
+and ask them nicely...
+
+89
+00:03:36,382 --> 00:03:37,382
+Is this...
+
+90
+00:03:37,467 --> 00:03:39,007
+How you imagined
+your life, Edna?
+
+91
+00:03:39,093 --> 00:03:42,563
+Well, yes, but then,
+I was a very depressed child.
+
+92
+00:03:42,639 --> 00:03:44,429
+To poor decisions.
+
+93
+00:03:44,515 --> 00:03:46,265
+Hear, hear.
+
+94
+00:03:46,351 --> 00:03:48,391
+WOMAN:
+Seymour! I told you
+
+95
+00:03:48,478 --> 00:03:50,228
+not to play
+in the neighbor's yard.
+
+96
+00:03:50,313 --> 00:03:51,273
+It's a party,
+Mother.
+
+97
+00:03:51,356 --> 00:03:53,066
+I was invited.
+
+98
+00:03:53,149 --> 00:03:54,439
+Well...
+
+99
+00:03:54,525 --> 00:03:56,945
+Then I must've been
+invited, too.
+
+100
+00:03:57,028 --> 00:03:58,818
+Help me, Edna.
+
+101
+00:04:02,075 --> 00:04:04,655
+I know where we can hole up
+for a while.
+
+102
+00:04:07,455 --> 00:04:10,665
+(crying)
+
+103
+00:04:10,750 --> 00:04:12,460
+That's it.
+Looking good.
+
+104
+00:04:12,543 --> 00:04:13,843
+Getting warm.
+
+105
+00:04:13,920 --> 00:04:17,300
+Uh... I feel queasy.
+
+106
+00:04:17,382 --> 00:04:18,302
+Don't stop, Milhouse.
+
+107
+00:04:18,383 --> 00:04:19,633
+You're so close.
+
+108
+00:04:19,717 --> 00:04:20,967
+I got to barf.
+
+109
+00:04:22,512 --> 00:04:24,432
+Where's the bathroom?
+
+110
+00:04:24,514 --> 00:04:27,184
+(kids screaming)
+
+111
+00:04:27,267 --> 00:04:29,307
+(all moaning and groaning)
+
+112
+00:04:29,394 --> 00:04:32,444
+Oh, my tummy!
+
+113
+00:04:32,522 --> 00:04:35,402
+I told you we should've served
+cake instead of oysters.
+
+114
+00:04:35,483 --> 00:04:37,283
+I'm ruined!
+
+115
+00:04:37,360 --> 00:04:39,150
+Ha-ha!
+
+116
+00:04:39,237 --> 00:04:41,197
+(groaning)
+
+117
+00:04:41,281 --> 00:04:42,491
+(siren wails)
+
+118
+00:04:46,369 --> 00:04:48,079
+(Lisa groaning)
+
+119
+00:04:48,162 --> 00:04:49,872
+Bart, how come
+you're not sick?
+
+120
+00:04:49,956 --> 00:04:51,866
+Eh! I gave my oysters
+to the cat.
+
+121
+00:04:51,958 --> 00:04:54,248
+(retching)
+
+122
+00:04:54,335 --> 00:04:55,335
+Hey, why'd you eat them?
+
+123
+00:04:55,420 --> 00:04:56,590
+I thought
+you were a vegetarian.
+
+124
+00:04:56,671 --> 00:04:58,761
+I didn't. I just
+wanted to leave.
+
+125
+00:04:58,840 --> 00:05:00,010
+(fake groaning)
+
+126
+00:05:01,634 --> 00:05:03,054
+More tea, Edna?
+
+127
+00:05:03,136 --> 00:05:05,346
+What kind of little boy
+has a tea set?
+
+128
+00:05:05,430 --> 00:05:08,220
+Hmm! I think we both
+know the answer to that.
+
+129
+00:05:08,308 --> 00:05:09,638
+A lucky boy.
+
+130
+00:05:09,726 --> 00:05:11,936
+You know, Seymour,
+
+131
+00:05:12,020 --> 00:05:14,900
+there's an innocence about you
+that can be quite charming.
+
+132
+00:05:14,981 --> 00:05:18,941
+Oh! Well, I've always admired
+your tart honesty
+
+133
+00:05:19,027 --> 00:05:22,067
+and ability to be personally offended
+by broad social trends.
+
+134
+00:05:22,155 --> 00:05:23,485
+Oh, really?
+
+135
+00:05:23,573 --> 00:05:24,953
+Mm-hmm. Very much.
+
+136
+00:05:25,033 --> 00:05:26,123
+And your laugh.
+
+137
+00:05:26,200 --> 00:05:27,740
+You mean, "Ha"?
+
+138
+00:05:27,827 --> 00:05:30,537
+Mm-hmm. That's the one
+that makes me feel...
+
+139
+00:05:30,621 --> 00:05:32,421
+(breathing heavily)
+
+140
+00:05:32,498 --> 00:05:34,788
+Oh, boy.
+(clears throat)
+
+141
+00:05:34,876 --> 00:05:36,786
+You have a breath mint
+I could borrow?
+
+142
+00:05:36,878 --> 00:05:38,798
+I've got
+some menthol cigarettes.
+
+143
+00:05:38,880 --> 00:05:40,720
+Oh, the heck with it.
+
+144
+00:05:58,524 --> 00:06:01,114
+BART: You are never going to guess
+what I saw at Martin's party
+
+145
+00:06:01,194 --> 00:06:03,074
+after you guys left.
+
+146
+00:06:03,154 --> 00:06:04,164
+You know that playhouse?
+Well, I--
+
+147
+00:06:04,238 --> 00:06:05,568
+-Good gravy!
+-Oh, thank you.
+
+148
+00:06:05,656 --> 00:06:08,076
+It's just brown and water.
+
+149
+00:06:08,159 --> 00:06:09,949
+So I looked in the window
+and there it was.
+
+150
+00:06:10,036 --> 00:06:12,206
+The grossest sight
+I have ever...
+
+151
+00:06:12,288 --> 00:06:14,168
+SKINNER (on PA):
+<i>Bart Simpson, report to</i>
+
+152
+00:06:14,248 --> 00:06:15,208
+<i>the principal's office</i>
+<i>immediately.</i>
+
+153
+00:06:15,291 --> 00:06:17,881
+Now, Bart... son...
+
+154
+00:06:17,960 --> 00:06:19,800
+I don't know
+what you think you saw
+
+155
+00:06:19,879 --> 00:06:21,839
+but, let me assure you...
+
+156
+00:06:21,923 --> 00:06:23,383
+What Seymour... Oh...
+
+157
+00:06:23,466 --> 00:06:25,086
+What Principal Skinner
+means to say, Bart,
+
+158
+00:06:25,176 --> 00:06:26,966
+is that sometimes
+a little boy's imagination
+
+159
+00:06:27,053 --> 00:06:28,053
+can run away with him.
+
+160
+00:06:28,137 --> 00:06:30,217
+That's the best
+you can do?
+
+161
+00:06:30,306 --> 00:06:32,346
+You could have at least said
+you were giving her C.P.R.
+
+162
+00:06:32,433 --> 00:06:33,773
+or rehearsing a play.
+
+163
+00:06:33,851 --> 00:06:36,401
+Is it too late
+to say that?
+
+164
+00:06:36,479 --> 00:06:37,439
+Mm-hmm.
+
+165
+00:06:37,522 --> 00:06:38,822
+(clears throat)
+
+166
+00:06:38,898 --> 00:06:39,978
+We're just a little concerned.
+
+167
+00:06:40,066 --> 00:06:41,316
+If people were to find out
+
+168
+00:06:41,401 --> 00:06:42,741
+the principal
+was dating a teacher,
+
+169
+00:06:42,819 --> 00:06:45,069
+they might see it as
+a conflict of interest.
+
+170
+00:06:45,154 --> 00:06:46,114
+(laughs)
+
+171
+00:06:46,197 --> 00:06:47,817
+And...
+There are those
+
+172
+00:06:47,907 --> 00:06:49,527
+who might try to use it
+against us
+
+173
+00:06:49,617 --> 00:06:50,537
+for their own advantage.
+
+174
+00:06:50,618 --> 00:06:51,538
+Like me, for one.
+
+175
+00:06:51,619 --> 00:06:54,579
+Like you, for...
+
+176
+00:06:54,664 --> 00:06:57,674
+Bart, if life has taught me
+one lesson repeatedly,
+
+177
+00:06:57,750 --> 00:06:59,420
+it's to know
+when I'm beaten.
+
+178
+00:06:59,502 --> 00:07:00,712
+Let's talk deal.
+
+179
+00:07:09,429 --> 00:07:10,639
+(grunts)
+
+180
+00:07:12,974 --> 00:07:14,354
+As you know, Bart,
+
+181
+00:07:14,434 --> 00:07:16,274
+your permanent record
+will one day disqualify you
+
+182
+00:07:16,352 --> 00:07:18,352
+from all but the hottest
+and noisiest jobs.
+
+183
+00:07:18,438 --> 00:07:19,688
+What do you say, son?
+
+184
+00:07:19,772 --> 00:07:21,272
+You keep our secret,
+
+185
+00:07:21,357 --> 00:07:22,897
+and some other student
+can inherit your gloomy
+
+186
+00:07:22,984 --> 00:07:23,864
+windblown future.
+
+187
+00:07:25,486 --> 00:07:26,486
+Deal.
+
+188
+00:07:28,531 --> 00:07:31,781
+This is a great day
+for forbidden love.
+
+189
+00:07:36,747 --> 00:07:38,787
+Mmm. This dessert
+is exquisite.
+
+190
+00:07:38,875 --> 00:07:39,785
+What do you call it?
+
+191
+00:07:39,876 --> 00:07:40,876
+Applesauce.
+
+192
+00:07:40,960 --> 00:07:43,670
+(chuckles)
+Oh, of course.
+
+193
+00:07:43,754 --> 00:07:46,344
+I'm sorry. I don't get out
+to restaurants much.
+
+194
+00:07:46,424 --> 00:07:48,724
+That's okay.
+I don't entertain much.
+
+195
+00:07:48,801 --> 00:07:52,141
+Usually it's just soup
+for one, salad for one,
+
+196
+00:07:52,221 --> 00:07:53,511
+wine for three.
+
+197
+00:07:53,598 --> 00:07:55,178
+(laughs) You know,
+I always thought
+
+198
+00:07:55,266 --> 00:07:57,636
+I'd fall for a woman
+just like Mother...
+
+199
+00:07:57,727 --> 00:07:59,267
+even though
+I didn't want to.
+
+200
+00:07:59,353 --> 00:08:01,613
+And now that I haven't,
+
+201
+00:08:01,689 --> 00:08:04,229
+I've discovered what
+true happiness can be, Edna.
+
+202
+00:08:06,527 --> 00:08:09,107
+Seymour, swallow
+that applesauce
+
+203
+00:08:09,197 --> 00:08:10,777
+and kiss me.
+
+204
+00:08:10,865 --> 00:08:13,195
+I'm afraid I already swallowed
+it while you were talking.
+
+205
+00:08:16,287 --> 00:08:17,407
+Mmm...
+
+206
+00:08:17,497 --> 00:08:18,407
+(Edna giggling)
+
+207
+00:08:18,498 --> 00:08:19,668
+Mmm...
+
+208
+00:08:22,293 --> 00:08:24,963
+Good morning, students.
+Way to go there, Wendell.
+
+209
+00:08:25,046 --> 00:08:27,626
+There's Ralph--
+He knows the score.
+
+210
+00:08:27,715 --> 00:08:29,625
+Jimbo,
+how's that hat today?
+
+211
+00:08:29,717 --> 00:08:31,837
+Janie, Janie, bo-phaney!
+
+212
+00:08:31,928 --> 00:08:34,968
+The only way to survive
+a deadly blaze is...
+
+213
+00:08:35,056 --> 00:08:37,426
+Oh, heck, life's too short
+for fire safety.
+
+214
+00:08:37,517 --> 00:08:39,057
+Let's go outside
+and pick wild flowers.
+
+215
+00:08:39,143 --> 00:08:42,273
+(cheering)
+
+216
+00:08:42,355 --> 00:08:43,975
+SKINNER (on PA): <i>Bart Simpson to</i>
+<i>the principal's office.</i>
+
+217
+00:08:44,065 --> 00:08:45,605
+<i>Post haste.</i>
+
+218
+00:08:45,691 --> 00:08:48,071
+<i>(Skinner humming</i>
+<i>"Eine kleine nacht musik")</i>
+
+219
+00:08:51,739 --> 00:08:53,989
+Bart, so good to see you.
+
+220
+00:08:54,075 --> 00:08:55,365
+I have a little favor
+to ask you.
+
+221
+00:08:55,451 --> 00:08:56,491
+I'd like you
+to give this note
+
+222
+00:08:56,577 --> 00:08:57,697
+to Edna when you
+get back to class.
+
+223
+00:08:57,787 --> 00:09:00,037
+I don't think
+I have to tell you
+
+224
+00:09:00,122 --> 00:09:01,502
+it's for her eyes only.
+
+225
+00:09:08,506 --> 00:09:11,676
+<i>"Dear Edna"--</i>
+<i>(mumbling)</i>
+
+226
+00:09:11,759 --> 00:09:14,219
+(sing-song)
+I hear reading.
+
+227
+00:09:34,740 --> 00:09:36,410
+Do you think
+anyone saw us?
+
+228
+00:09:36,492 --> 00:09:39,292
+No. It went
+just as we planned.
+
+229
+00:09:39,370 --> 00:09:41,460
+Except they confiscated
+my thermos of cola at the door.
+
+230
+00:09:41,539 --> 00:09:43,119
+Ohh--
+
+231
+00:09:43,207 --> 00:09:45,837
+Skinner, Krabappel,
+what are you two doing here?
+
+232
+00:09:45,918 --> 00:09:46,918
+Superintendent Chalmers!
+
+233
+00:09:47,003 --> 00:09:48,303
+Uh, why, we're--
+
+234
+00:09:48,379 --> 00:09:50,379
+We're, uh, on a, uh--
+
+235
+00:09:50,464 --> 00:09:53,134
+-a-- what do you call-- field trip.
+-Uh, with a student.
+
+236
+00:09:53,217 --> 00:09:55,547
+-Yes! He's, uh...
+-He's purchasing refreshments
+
+237
+00:09:55,636 --> 00:09:57,926
+-in the lobby.
+-I'll go get him right now.
+
+238
+00:09:58,014 --> 00:09:59,524
+(whispering)
+Car keys, car keys, car keys.
+
+239
+00:10:08,441 --> 00:10:11,321
+(sleepily) Stop pushing me.
+What's going on?
+
+240
+00:10:11,402 --> 00:10:13,112
+Just enjoy the movie.
+It has Tom Berenger.
+
+241
+00:10:19,410 --> 00:10:21,750
+You think they actually
+filmed this in Atlanta?
+
+242
+00:10:21,829 --> 00:10:23,459
+I don't know.
+
+243
+00:10:23,539 --> 00:10:24,919
+I don't think
+it's important.
+
+244
+00:10:24,999 --> 00:10:26,039
+Yeah.
+
+245
+00:10:26,125 --> 00:10:27,415
+(honking)
+
+246
+00:10:32,381 --> 00:10:34,431
+Mother doesn't approve
+of me dating,
+
+247
+00:10:34,508 --> 00:10:36,888
+so I need you to keep
+her busy for a few hours
+
+248
+00:10:36,969 --> 00:10:38,639
+while Edna and I sneak out.
+
+249
+00:10:40,139 --> 00:10:41,809
+(door slams)
+
+250
+00:10:41,891 --> 00:10:43,931
+Oh, I can't take
+much more of this.
+
+251
+00:10:44,018 --> 00:10:45,808
+I collect
+pictures of cakes
+
+252
+00:10:45,895 --> 00:10:47,855
+that I clip out
+of the magazines.
+
+253
+00:10:47,938 --> 00:10:49,938
+It all started in 1941
+
+254
+00:10:50,024 --> 00:10:53,654
+when Good Housekeeping featured
+a photo of a lovely cake.
+
+255
+00:10:53,736 --> 00:10:56,656
+{\an8}You wouldn't happen to have any
+real cakes around here, would you?
+
+256
+00:10:56,739 --> 00:10:59,279
+Oh, my no.
+I don't care for cake. Too sweet.
+
+257
+00:10:59,367 --> 00:11:02,867
+Now, this is called
+a Lady Baltimore cake.
+
+258
+00:11:02,953 --> 00:11:04,913
+At my age, I don't have
+much saliva left
+
+259
+00:11:04,997 --> 00:11:06,367
+so you'll have
+to lick my thumb
+
+260
+00:11:06,457 --> 00:11:08,537
+before
+I can turn the page.
+
+261
+00:11:08,626 --> 00:11:10,166
+Oh, can't I just turn
+the page for you?
+
+262
+00:11:10,252 --> 00:11:11,502
+No!
+
+263
+00:11:11,587 --> 00:11:13,377
+But you can pick out
+any picture
+
+264
+00:11:13,464 --> 00:11:15,384
+you want to take home
+with you.
+
+265
+00:11:15,466 --> 00:11:17,086
+Okay.
+That one.
+
+266
+00:11:17,176 --> 00:11:18,086
+-No!
+-Ow!
+
+267
+00:11:18,177 --> 00:11:19,387
+You can't have that one!
+
+268
+00:11:19,470 --> 00:11:20,970
+That's a coconut cake!
+
+269
+00:11:21,055 --> 00:11:22,255
+(pencils scratching paper)
+
+270
+00:11:24,016 --> 00:11:26,306
+Bart Simpson!
+
+271
+00:11:26,394 --> 00:11:29,404
+How many times do I have
+to tell you no talking!
+
+272
+00:11:29,480 --> 00:11:30,980
+Report
+to the principal's office!
+
+273
+00:11:31,065 --> 00:11:32,435
+But-but I wasn't...
+
+274
+00:11:32,525 --> 00:11:34,275
+-And here, take this with you.
+-(groans)
+
+275
+00:11:34,360 --> 00:11:37,490
+Mrs. Krabappel,
+Bart has something
+
+276
+00:11:37,571 --> 00:11:38,531
+he wants to say to you.
+
+277
+00:11:38,614 --> 00:11:39,824
+-I won't say it!
+-Bart!
+
+278
+00:11:39,907 --> 00:11:42,197
+(groans)
+Oh...
+
+279
+00:11:43,661 --> 00:11:46,581
+I love you,
+Edna Krabappel.
+
+280
+00:11:46,664 --> 00:11:48,584
+(children laughing)
+
+281
+00:11:48,666 --> 00:11:50,876
+(chanting)
+Bart's going to marry the teacher.
+
+282
+00:11:50,960 --> 00:11:53,050
+Where are you
+registered, Simpson?
+
+283
+00:11:53,129 --> 00:11:54,589
+(groans)
+
+284
+00:11:54,672 --> 00:11:55,592
+Thank you, Bart.
+
+285
+00:11:55,673 --> 00:11:56,593
+That was very sweet.
+
+286
+00:11:56,674 --> 00:11:58,844
+You may sit down now.
+
+287
+00:11:58,926 --> 00:12:00,676
+They're not going
+to get away with this.
+
+288
+00:12:00,761 --> 00:12:03,561
+I'm going to step out
+for a few minutes, class.
+
+289
+00:12:03,639 --> 00:12:04,519
+Martin,
+you're in charge.
+
+290
+00:12:06,267 --> 00:12:07,517
+Now, Bart, uh...
+
+291
+00:12:07,601 --> 00:12:08,851
+(coughs)
+
+292
+00:12:08,936 --> 00:12:11,356
+You must promise not
+to fall in love with me.
+
+293
+00:12:11,439 --> 00:12:13,819
+(children laughing)
+
+294
+00:12:13,899 --> 00:12:15,689
+Now, Martin's scoring
+off me.
+
+295
+00:12:15,776 --> 00:12:17,066
+Oh, that is it.
+
+296
+00:12:17,153 --> 00:12:18,573
+Listen up, everybody!
+
+297
+00:12:18,654 --> 00:12:20,034
+Follow me!
+
+298
+00:12:23,325 --> 00:12:24,575
+What's going on, huh?
+
+299
+00:12:24,660 --> 00:12:26,620
+What's happening,
+Simpson?
+
+300
+00:12:26,704 --> 00:12:27,754
+Where are we going,
+anyway?
+
+301
+00:12:29,248 --> 00:12:30,458
+Okay, crew...
+
+302
+00:12:30,541 --> 00:12:32,591
+Set your faces to stunned.
+
+303
+00:12:34,962 --> 00:12:36,842
+(all gasp)
+
+304
+00:12:40,926 --> 00:12:43,426
+Um...
+
+305
+00:12:43,512 --> 00:12:45,392
+Um...
+
+306
+00:12:45,473 --> 00:12:46,353
+School dismissed.
+
+307
+00:12:48,768 --> 00:12:50,228
+And then Bart
+opened the door
+
+308
+00:12:50,311 --> 00:12:51,981
+and Principal Skinner
+and Mrs. Krabappel
+
+309
+00:12:52,062 --> 00:12:53,362
+were kissing!
+
+310
+00:12:53,439 --> 00:12:54,979
+-(gasps)
+-And swearing.
+
+311
+00:12:55,065 --> 00:12:56,775
+Father, Uncle Apu,
+
+312
+00:12:56,859 --> 00:12:58,989
+a teacher was in the closet
+with the principal
+
+313
+00:12:59,069 --> 00:13:01,069
+and he had as many arms
+as Vishnu
+
+314
+00:13:01,155 --> 00:13:02,905
+and they were
+all very busy.
+
+315
+00:13:02,990 --> 00:13:04,660
+-(gasps)
+-Wow.
+
+316
+00:13:04,742 --> 00:13:06,832
+I was in the library,
+at the time,
+
+317
+00:13:06,911 --> 00:13:08,411
+but Janie told me
+that Principal Skinner
+
+318
+00:13:08,496 --> 00:13:09,866
+and Bart's teacher, Mrs...
+
+319
+00:13:09,955 --> 00:13:10,865
+What's her name?
+
+320
+00:13:10,956 --> 00:13:11,866
+Krabappel?
+
+321
+00:13:11,957 --> 00:13:13,287
+Yeah, Krabappel.
+
+322
+00:13:13,375 --> 00:13:14,915
+They were naked
+in the closet together.
+
+323
+00:13:15,002 --> 00:13:16,712
+Oh, my goodness!
+
+324
+00:13:16,796 --> 00:13:18,166
+Wait a minute.
+
+325
+00:13:18,255 --> 00:13:20,375
+Bart's teacher
+is named "Krabappel"?
+
+326
+00:13:20,466 --> 00:13:22,636
+I've been calling her
+"Crandall."
+
+327
+00:13:22,718 --> 00:13:25,048
+Why didn't someone tell me?
+
+328
+00:13:25,137 --> 00:13:28,267
+Oh, I've been making
+an idiot out of myself!
+
+329
+00:13:28,349 --> 00:13:30,559
+Mrs. Krabappel
+and Principal Skinner
+
+330
+00:13:30,643 --> 00:13:32,273
+were in the closet
+making babies,
+
+331
+00:13:32,353 --> 00:13:33,943
+and I saw one of the babies,
+
+332
+00:13:34,021 --> 00:13:36,321
+and the baby looked at me.
+
+333
+00:13:36,398 --> 00:13:38,068
+Baby looked at you?
+
+334
+00:13:38,150 --> 00:13:40,610
+Sara, get me
+Superintendent Chalmers.
+
+335
+00:13:42,530 --> 00:13:44,280
+-Thank you, Sara.
+-Hmm.
+
+336
+00:13:45,950 --> 00:13:48,490
+-Skinner!
+-Uh, Superintendent Chalmers.
+
+337
+00:13:48,577 --> 00:13:51,537
+The whole town's in an uproar
+about your sleazy shenanigans.
+
+338
+00:13:51,622 --> 00:13:53,212
+Now, I'm going to
+give you a choice.
+
+339
+00:13:53,290 --> 00:13:57,090
+You can give up this tawdry
+fulfilling relationship
+
+340
+00:13:57,169 --> 00:13:58,959
+or you two will be
+out of here so fast
+
+341
+00:13:59,046 --> 00:14:00,166
+your mortarboards
+will spin.
+
+342
+00:14:00,256 --> 00:14:02,546
+And where is
+your mortarboard anyway?
+
+343
+00:14:02,633 --> 00:14:03,933
+Uh... Right here, sir.
+
+344
+00:14:05,135 --> 00:14:07,345
+So, what'll it be, Seymour?
+
+345
+00:14:07,429 --> 00:14:09,679
+Well...
+
+346
+00:14:09,765 --> 00:14:13,305
+I'm sorry, but, uh, I can't
+give up the woman I love.
+
+347
+00:14:13,394 --> 00:14:16,524
+Well, then I'm afraid
+you leave me no choice.
+
+348
+00:14:16,605 --> 00:14:18,855
+I want you out
+of the building by 3:00.
+
+349
+00:14:18,941 --> 00:14:22,241
+-You're fired. Edna, too.
+-(gasps)
+
+350
+00:14:25,197 --> 00:14:28,487
+Well, it's going to be hard
+to say good-bye to all of you.
+
+351
+00:14:28,576 --> 00:14:30,326
+We've had a lot
+of fun together.
+
+352
+00:14:33,247 --> 00:14:35,707
+Nelson, Nelson, Nelson.
+
+353
+00:14:35,791 --> 00:14:37,591
+How many kids
+have you beaten up this year?
+
+354
+00:14:37,668 --> 00:14:38,918
+I don't know-- 50.
+
+355
+00:14:39,003 --> 00:14:41,763
+Ah, 50.
+
+356
+00:14:41,839 --> 00:14:44,049
+Where does the time go?
+
+357
+00:14:47,136 --> 00:14:49,426
+You, uh, you wanted to see me,
+Principal Skinner?
+
+358
+00:14:49,513 --> 00:14:51,773
+Mm-mm.
+It's Mr. Skinner now.
+
+359
+00:14:51,849 --> 00:14:53,389
+I'm just a man.
+
+360
+00:14:53,475 --> 00:14:56,305
+Bart, I want to apologize
+for the awkward position
+
+361
+00:14:56,395 --> 00:14:57,935
+Edna and I put you in.
+
+362
+00:14:58,022 --> 00:15:00,612
+Your-- Your help made
+our love possible.
+
+363
+00:15:00,691 --> 00:15:02,031
+I don't know
+what we'll do without you.
+
+364
+00:15:03,652 --> 00:15:05,202
+Well, so long.
+
+365
+00:15:08,657 --> 00:15:09,827
+Wait a second!
+
+366
+00:15:09,909 --> 00:15:11,159
+You don't have to leave
+just because
+
+367
+00:15:11,243 --> 00:15:13,203
+Superintendent Chalmers
+told you to.
+
+368
+00:15:13,287 --> 00:15:14,197
+What are you getting at?
+
+369
+00:15:14,288 --> 00:15:15,498
+You spent your whole life
+
+370
+00:15:15,581 --> 00:15:17,331
+following orders--
+from your mother
+
+371
+00:15:17,416 --> 00:15:19,626
+the army,
+Superintendent Chalmers...
+
+372
+00:15:19,710 --> 00:15:23,050
+Just this once, man,
+stand up for yourself.
+
+373
+00:15:23,130 --> 00:15:24,130
+Okay, Bart.
+
+374
+00:15:24,214 --> 00:15:25,134
+Let's go, Seymour.
+
+375
+00:15:25,215 --> 00:15:26,875
+Okay, Edna.
+
+376
+00:15:26,967 --> 00:15:29,257
+Uh... No, wait!
+
+377
+00:15:29,345 --> 00:15:31,005
+We're not going anywhere.
+
+378
+00:15:31,096 --> 00:15:33,386
+I'm going to do what Bart
+should have told me to do
+
+379
+00:15:33,474 --> 00:15:34,984
+a long time ago.
+
+380
+00:15:38,687 --> 00:15:40,057
+Attention, Springfield.
+
+381
+00:15:40,147 --> 00:15:42,607
+We have barricaded ourselves
+in the school
+
+382
+00:15:42,691 --> 00:15:46,031
+and are not coming down
+until our demands are met.
+
+383
+00:15:46,111 --> 00:15:48,611
+Willie hears you.
+Willie don't care.
+
+384
+00:15:48,697 --> 00:15:51,407
+Obviously, you two
+have no experience
+
+385
+00:15:51,492 --> 00:15:52,742
+causing a scene.
+
+386
+00:15:57,665 --> 00:15:59,035
+I'll be right there.
+
+387
+00:15:59,124 --> 00:16:00,294
+All right people,
+
+388
+00:16:00,376 --> 00:16:01,666
+we've got
+an escaped octopus
+
+389
+00:16:01,752 --> 00:16:02,672
+on the roof
+of Springfield Elementary.
+
+390
+00:16:02,753 --> 00:16:03,673
+Let's roll.
+
+391
+00:16:03,754 --> 00:16:04,634
+Two cameras.
+
+392
+00:16:07,299 --> 00:16:09,299
+So, once again,
+I've been had.
+
+393
+00:16:09,385 --> 00:16:11,505
+But an even more
+interesting story
+
+394
+00:16:11,595 --> 00:16:14,255
+has developed high atop
+this two-story school:
+
+395
+00:16:14,348 --> 00:16:15,718
+A love story.
+
+396
+00:16:15,808 --> 00:16:17,768
+Skinner,
+get off of my school.
+
+397
+00:16:17,851 --> 00:16:20,691
+No.
+You get off of my school.
+
+398
+00:16:20,771 --> 00:16:22,611
+Homer,
+Bart's up there!
+
+399
+00:16:22,690 --> 00:16:24,270
+Give me that!
+
+400
+00:16:24,358 --> 00:16:26,938
+Bart,
+this is your father!
+
+401
+00:16:27,027 --> 00:16:30,697
+Do you know
+where the remote is?
+
+402
+00:16:30,781 --> 00:16:32,621
+I looked
+all over the house.
+
+403
+00:16:32,700 --> 00:16:34,910
+Did you check
+your pocket?
+
+404
+00:16:36,286 --> 00:16:37,406
+It was--
+
+405
+00:16:37,496 --> 00:16:38,496
+It was in my pocket.
+
+406
+00:16:46,046 --> 00:16:48,006
+Fine.
+Stay in the school.
+
+407
+00:16:48,090 --> 00:16:49,840
+We don't want you
+to come out.
+
+408
+00:16:49,925 --> 00:16:50,875
+BART: You got it.
+
+409
+00:16:50,968 --> 00:16:52,548
+Damn.
+All right, boys,
+
+410
+00:16:52,636 --> 00:16:53,966
+roll up the sound truck.
+
+411
+00:16:54,054 --> 00:16:55,764
+We'll blast them out
+with music.
+
+412
+00:16:58,684 --> 00:17:00,234
+(feeedback squeals)
+
+413
+00:17:00,310 --> 00:17:03,110
+(melodic acoustic piano
+playing "Embraceable you")
+
+414
+00:17:12,406 --> 00:17:14,526
+<i>♪ Embrace me, my sweet... ♪</i>
+
+415
+00:17:14,616 --> 00:17:17,786
+Oh, Edna, I hope
+this siege never ends.
+
+416
+00:17:17,870 --> 00:17:20,410
+Seymour, you're heaven
+in hush puppies.
+
+417
+00:17:20,497 --> 00:17:21,667
+Oh...
+
+418
+00:17:21,749 --> 00:17:23,669
+Turn the music off!
+
+419
+00:17:23,751 --> 00:17:26,341
+Ha! It's working
+like a charm, boys.
+
+420
+00:17:26,420 --> 00:17:27,760
+Now cut the power
+and hit them with the lights.
+
+421
+00:17:30,299 --> 00:17:34,139
+<i>♪ ...Irreplaceable you ♪</i>
+
+422
+00:17:35,971 --> 00:17:39,271
+<i>♪ Just one look at you ♪</i>
+
+423
+00:17:39,349 --> 00:17:42,309
+<i>♪ My heart grew tipsy... ♪</i>
+
+424
+00:17:42,394 --> 00:17:43,524
+Ugh!
+
+425
+00:17:50,027 --> 00:17:52,987
+-(ringing)
+-I'll get it.
+
+426
+00:17:53,072 --> 00:17:56,122
+-Talk to me.
+-You have got to end this thing, Seymour.
+
+427
+00:17:56,200 --> 00:17:58,950
+We're not coming down
+until our jobs are reinstated
+
+428
+00:17:59,036 --> 00:18:01,076
+and you acknowledge
+and celebrate our love.
+
+429
+00:18:01,163 --> 00:18:03,623
+No one would like to celebrate
+your love more than I
+
+430
+00:18:03,707 --> 00:18:05,287
+but I'm a public servant
+
+431
+00:18:05,375 --> 00:18:07,795
+and not permitted to use
+my own judgment in any way.
+
+432
+00:18:07,878 --> 00:18:10,128
+Then let us take our case
+directly to the towns people.
+
+433
+00:18:10,214 --> 00:18:12,174
+Oh, yeah, that'll be
+real productive.
+
+434
+00:18:12,257 --> 00:18:13,337
+Who do you want
+to talk to first?
+
+435
+00:18:13,425 --> 00:18:15,005
+The guy in the bumblebee suit
+
+436
+00:18:15,094 --> 00:18:16,354
+or the one with the bone
+through his hair?
+
+437
+00:18:16,428 --> 00:18:18,388
+My opinions
+are as valid
+
+438
+00:18:18,472 --> 00:18:19,772
+as the next man's!
+
+439
+00:18:19,848 --> 00:18:21,978
+Yeah, all right.
+Just come on down.
+
+440
+00:18:22,059 --> 00:18:24,189
+Well... This is it.
+
+441
+00:18:24,269 --> 00:18:25,399
+What are you going to do?
+
+442
+00:18:25,479 --> 00:18:26,979
+I'm going to go out there
+
+443
+00:18:27,064 --> 00:18:28,944
+and tell every man,
+woman and child
+
+444
+00:18:29,024 --> 00:18:30,904
+that I love
+Edna krabappel.
+
+445
+00:18:30,984 --> 00:18:32,364
+Well, that's nice,
+
+446
+00:18:32,444 --> 00:18:33,404
+but first you got to grab
+their attention.
+
+447
+00:18:33,487 --> 00:18:35,277
+And I think I know how.
+
+448
+00:18:37,324 --> 00:18:40,204
+I have a bomb.
+
+449
+00:18:40,285 --> 00:18:43,115
+ALL:
+(gasping and murmuring)
+
+450
+00:18:43,205 --> 00:18:44,245
+Hey, wait a minute.
+
+451
+00:18:44,331 --> 00:18:46,211
+Those are hot dogs.
+
+452
+00:18:46,291 --> 00:18:47,631
+Armour hot dogs.
+
+453
+00:18:47,709 --> 00:18:50,749
+What kind of man wears
+Armour hot dogs?
+
+454
+00:18:50,838 --> 00:18:52,208
+It was a good idea, Bart,
+
+455
+00:18:52,297 --> 00:18:54,377
+but it's just not working.
+
+456
+00:18:54,466 --> 00:18:56,886
+Just speak
+from the heart, Seymour.
+
+457
+00:18:56,969 --> 00:18:59,049
+Tell them how we brought
+a little happiness
+
+458
+00:18:59,138 --> 00:19:00,678
+into each other's lives.
+
+459
+00:19:00,764 --> 00:19:03,854
+Ask them why they're forcing
+two dedicated people
+
+460
+00:19:03,934 --> 00:19:06,314
+to choose between their
+careers and their hearts.
+
+461
+00:19:06,395 --> 00:19:07,975
+Excuse me, Edna.
+
+462
+00:19:08,063 --> 00:19:10,903
+I don't think we're talking
+about love here.
+
+463
+00:19:10,983 --> 00:19:13,113
+We're talking about s-e-x
+
+464
+00:19:13,193 --> 00:19:16,203
+in front
+of the c-h-i-l-d-r-e-n.
+
+465
+00:19:16,280 --> 00:19:17,410
+Sex Cauldron?
+
+466
+00:19:17,489 --> 00:19:19,199
+I thought they closed
+that place down.
+
+467
+00:19:19,283 --> 00:19:21,203
+What are you people
+talking about?
+
+468
+00:19:21,285 --> 00:19:23,405
+My child told me
+you two were having sex
+
+469
+00:19:23,495 --> 00:19:24,825
+in the school janitor's
+closet.
+
+470
+00:19:24,913 --> 00:19:26,923
+You know, "Making babies"?
+
+471
+00:19:26,999 --> 00:19:28,459
+Yes, illicit sex.
+
+472
+00:19:28,542 --> 00:19:30,252
+Doing it! It! It!
+
+473
+00:19:30,335 --> 00:19:32,415
+Sordid public sexual
+congress!
+
+474
+00:19:32,504 --> 00:19:34,094
+This is absurd.
+
+475
+00:19:34,173 --> 00:19:36,343
+I did not have relations
+in that closet,
+
+476
+00:19:36,425 --> 00:19:38,425
+and the fact is,
+I haven't...
+
+477
+00:19:38,510 --> 00:19:40,300
+Uh...
+
+478
+00:19:40,387 --> 00:19:43,267
+(crickets chirping)
+
+479
+00:19:43,348 --> 00:19:45,638
+Yes?
+
+480
+00:19:45,726 --> 00:19:47,596
+Seymour, I think
+you'd better tell them.
+
+481
+00:19:47,686 --> 00:19:50,306
+It's the only way
+to clear our names.
+
+482
+00:19:53,025 --> 00:19:54,435
+(sighs)
+
+483
+00:19:54,526 --> 00:19:56,486
+Well, everyone,
+the fact is
+
+484
+00:19:56,570 --> 00:20:00,320
+I haven't ever
+had relations.
+
+485
+00:20:00,407 --> 00:20:01,277
+I am a virgin.
+
+486
+00:20:04,411 --> 00:20:05,501
+Ha-ha!
+
+487
+00:20:05,579 --> 00:20:07,499
+(all murmuring)
+
+488
+00:20:09,750 --> 00:20:11,460
+Hey, does this mean
+
+489
+00:20:11,543 --> 00:20:13,343
+that Mrs. Krabappel
+is a virgin, too?
+
+490
+00:20:13,420 --> 00:20:14,550
+KRABAPPEL:
+Ha!
+
+491
+00:20:14,630 --> 00:20:16,340
+Well, Seymour,
+it's clear
+
+492
+00:20:16,423 --> 00:20:18,053
+you've been falsely accused
+
+493
+00:20:18,133 --> 00:20:22,353
+because no one...
+anywhere... ever...
+
+494
+00:20:22,429 --> 00:20:25,519
+Would pretend to be
+a 44-year-old virgin.
+
+495
+00:20:25,599 --> 00:20:26,929
+Oh, that's for sure.
+
+496
+00:20:27,017 --> 00:20:29,647
+I'm, I'm inclined to agree.
+
+497
+00:20:29,728 --> 00:20:32,308
+Ugh! I'll never look
+at him the same again.
+
+498
+00:20:32,397 --> 00:20:34,147
+That was more than
+I wanted to know.
+
+499
+00:20:34,233 --> 00:20:35,483
+(clears throat)
+
+500
+00:20:35,567 --> 00:20:37,527
+Okay, well, um,
+Edna, Seymour,
+
+501
+00:20:37,611 --> 00:20:41,071
+in light of these, uh...
+uh... revelations
+
+502
+00:20:41,156 --> 00:20:43,696
+I, uh, suppose we,
+uh... overreacted.
+
+503
+00:20:43,784 --> 00:20:45,164
+Do we have our jobs back?
+
+504
+00:20:45,244 --> 00:20:47,374
+What?
+Oh, yes, yes, yes. Sure.
+
+505
+00:20:47,454 --> 00:20:49,754
+Just, uh, you know,
+keep the lewdness to a minimum.
+
+506
+00:20:57,464 --> 00:20:58,674
+I'm out of here.
+
+507
+00:20:58,757 --> 00:21:00,797
+Skinny, Krabby,
+catch you later.
+
+508
+00:21:00,884 --> 00:21:02,344
+Uh, hold on, Bart.
+
+509
+00:21:02,427 --> 00:21:04,217
+May we have
+a word with you?
+
+510
+00:21:04,304 --> 00:21:05,474
+We want to thank you
+for helping us
+
+511
+00:21:05,555 --> 00:21:06,555
+through
+a difficult period.
+
+512
+00:21:06,640 --> 00:21:08,140
+Oh, no problemo.
+
+513
+00:21:08,225 --> 00:21:09,345
+So, I guess now
+you'll be getting married
+
+514
+00:21:09,434 --> 00:21:11,234
+or something, huh?
+
+515
+00:21:11,311 --> 00:21:14,361
+Well, actually, Seymour and I
+have decided to break up.
+
+516
+00:21:14,439 --> 00:21:15,649
+Huh?
+
+517
+00:21:15,732 --> 00:21:17,322
+We can't continue on like this,
+
+518
+00:21:17,401 --> 00:21:19,321
+trying to build a private
+relationship in public--
+
+519
+00:21:19,403 --> 00:21:21,283
+The whole town
+watching our every move
+
+520
+00:21:21,363 --> 00:21:22,663
+with a fine-tooth comb.
+
+521
+00:21:22,739 --> 00:21:24,409
+Mm-hmm. I'm used
+to humiliation
+
+522
+00:21:24,491 --> 00:21:26,201
+but not in front
+of a crowd that size.
+
+523
+00:21:26,285 --> 00:21:28,405
+But you seemed
+like such a good couple.
+
+524
+00:21:28,495 --> 00:21:31,455
+Bart, when you get
+a little older
+
+525
+00:21:31,540 --> 00:21:33,420
+you're going to learn
+that, sometimes, romances
+
+526
+00:21:33,500 --> 00:21:35,920
+don't turn out exactly
+the way you'd like them to.
+
+527
+00:21:36,003 --> 00:21:37,133
+Hmm...
+
+528
+00:21:39,464 --> 00:21:41,764
+That's why I love
+elementary school, Edna:
+
+529
+00:21:41,842 --> 00:21:44,222
+The children believe
+anything you tell them.
+
+530
+00:21:45,679 --> 00:21:47,389
+(chuckling)
+
+531
+00:21:47,472 --> 00:21:50,312
+(both laughing)
+
+532
+00:21:50,392 --> 00:21:51,522
+(cork popping)
+
+533
+00:21:51,601 --> 00:21:53,151
+KRABAPPEL:
+Whoo! Oh, Seymour...
+
+534
+00:21:59,276 --> 00:22:01,356
+♪♪
+
+535
+00:22:39,691 --> 00:22:40,781
+Shh!
+
+536
+00:22:43,820 --> 00:22:47,030
+{\an8}CAPTIONS ENHANCED BY
+ROUNDABOUT ENTERTAINMENT INC.
+

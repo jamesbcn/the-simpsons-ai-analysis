@@ -1,0 +1,2042 @@
+1
+00:00:03,003 --> 00:00:06,213
+<i>-CHOIR: ♪ The Simpsons ♪</i>
+-Take that, kite-eating tree.
+
+2
+00:00:10,260 --> 00:00:12,100
+(exclaiming)
+
+3
+00:00:16,558 --> 00:00:18,518
+(school bell ringing)
+
+4
+00:00:21,146 --> 00:00:22,226
+Morning!
+
+5
+00:00:23,189 --> 00:00:25,649
+-(whistle blows)
+-(yells)
+
+6
+00:00:30,447 --> 00:00:31,777
+(beeping)
+
+7
+00:00:36,411 --> 00:00:39,041
+(playing the blues)
+
+8
+00:00:40,206 --> 00:00:43,536
+(playing the blues)
+
+9
+00:00:44,377 --> 00:00:46,127
+(tires screeching)
+
+10
+00:00:48,256 --> 00:00:49,466
+-(horn honking)
+-(exclaiming)
+
+11
+00:00:50,341 --> 00:00:51,891
+(tires screeching)
+
+12
+00:00:53,678 --> 00:00:54,638
+D'oh!
+
+13
+00:00:54,721 --> 00:00:55,761
+(tires screeching)
+
+14
+00:00:55,847 --> 00:00:57,427
+(groans)
+
+15
+00:00:58,516 --> 00:01:00,516
+(jaunty melody playing)
+
+16
+00:01:04,481 --> 00:01:05,691
+(horn ooh-gahs)
+
+17
+00:01:07,442 --> 00:01:09,282
+(upbeat orchestral melody playing)
+
+18
+00:01:19,662 --> 00:01:21,712
+<i>♪ ♪</i>
+
+19
+00:01:28,880 --> 00:01:31,550
+<i>♪ ♪</i>
+
+20
+00:01:38,223 --> 00:01:40,273
+<i>♪ ♪</i>
+
+21
+00:01:47,107 --> 00:01:48,567
+(sighing, groaning)
+
+22
+00:01:48,650 --> 00:01:49,820
+(laughing)
+
+23
+00:01:59,911 --> 00:02:02,081
+<i>HOMER:</i>
+<i>♪ Go to sleep ♪</i>
+
+24
+00:02:02,163 --> 00:02:04,003
+<i>♪ Little Marge ♪</i>
+
+25
+00:02:04,082 --> 00:02:06,042
+<i>♪ Close your eyes ♪</i>
+
+26
+00:02:06,126 --> 00:02:07,996
+<i>♪ Start to yawn ♪</i>
+
+27
+00:02:08,086 --> 00:02:13,796
+{\an8}<i>♪ You will wake up</i>
+<i>with the dawn ♪</i>
+
+28
+00:02:13,883 --> 00:02:14,973
+{\an8}(sucking)
+
+29
+00:02:15,051 --> 00:02:18,261
+{\an8}<i>♪ Dawn... ♪</i>
+
+30
+00:02:18,346 --> 00:02:19,256
+{\an8}(sucking)
+
+31
+00:02:19,347 --> 00:02:22,267
+{\an8}<i>♪ Dawn... ♪</i>
+
+32
+00:02:22,934 --> 00:02:25,734
+{\an8}<i>♪ Dawn... ♪</i>
+
+33
+00:02:25,812 --> 00:02:26,862
+{\an8}Large fries.
+
+34
+00:02:26,938 --> 00:02:28,438
+{\an8}Yes, sir.
+
+35
+00:02:28,523 --> 00:02:29,653
+{\an8}<i>♪ Dawn... ♪</i>
+
+36
+00:02:29,732 --> 00:02:31,532
+{\an8}(sucking)
+
+37
+00:02:33,903 --> 00:02:35,823
+{\an8}MARGE (loudly):
+Did you get the baby to sleep?
+
+38
+00:02:35,905 --> 00:02:37,195
+{\an8}-(sucking)
+-D'oh!
+
+39
+00:02:38,324 --> 00:02:39,624
+{\an8}Oh, no.
+
+40
+00:02:39,701 --> 00:02:41,371
+{\an8}Oh, I can't read that again.
+
+41
+00:02:41,452 --> 00:02:43,002
+{\an8}I hate to see
+a wolf get punished
+
+42
+00:02:43,079 --> 00:02:45,789
+{\an8}for having normal appetites.
+
+43
+00:02:45,874 --> 00:02:47,794
+{\an8}I'll tell you a story
+that'll put you to sleep.
+
+44
+00:02:47,876 --> 00:02:49,626
+{\an8}It's one your mother told me.
+
+45
+00:02:49,711 --> 00:02:52,761
+{\an8}Luann Van Houten
+uses flavored Crisco
+
+46
+00:02:52,839 --> 00:02:55,589
+{\an8}instead of butter
+for shortbread cookies.
+
+47
+00:02:55,675 --> 00:02:59,385
+{\an8}(yawning)
+Which is, apparently, flakier,
+
+48
+00:02:59,470 --> 00:03:02,060
+{\an8}but at what cost?
+
+49
+00:03:02,140 --> 00:03:04,390
+{\an8}(yawning)
+And she... (muttering)
+
+50
+00:03:04,475 --> 00:03:07,305
+{\an8}(snoring)
+
+51
+00:03:07,395 --> 00:03:09,185
+{\an8}(Homer muttering)
+
+52
+00:03:09,272 --> 00:03:10,442
+{\an8}HOMER: Wh...? Huh?
+
+53
+00:03:10,523 --> 00:03:11,653
+{\an8}What the... ?
+
+54
+00:03:11,733 --> 00:03:14,823
+{\an8}Okay, sweetie, I got a story
+about another little girl
+
+55
+00:03:14,903 --> 00:03:17,703
+{\an8}who got lost in the woods,
+but it wasn't a girl,
+
+56
+00:03:17,780 --> 00:03:19,280
+{\an8}and it wasn't the woods.
+
+57
+00:03:19,365 --> 00:03:20,525
+{\an8}(sucking)
+
+58
+00:03:20,617 --> 00:03:22,117
+{\an8}Suck, suck, indeed.
+
+59
+00:03:22,202 --> 00:03:24,042
+{\an8}And it all happened
+once upon a time,
+
+60
+00:03:24,120 --> 00:03:25,290
+{\an8}before you were born,
+
+61
+00:03:25,371 --> 00:03:26,921
+{\an8}and my chances for a man cave
+
+62
+00:03:26,998 --> 00:03:28,628
+{\an8}went out the window.
+
+63
+00:03:28,708 --> 00:03:29,998
+{\an8}(sucking)
+
+64
+00:03:36,216 --> 00:03:39,336
+{\an8}Bless you all for sacrificing
+your Saturday afternoon
+
+65
+00:03:39,427 --> 00:03:42,177
+{\an8}to help us clean up skid row.
+
+66
+00:03:42,263 --> 00:03:44,723
+{\an8}When God came for Sunday,
+I said nothing.
+
+67
+00:03:44,807 --> 00:03:47,307
+{\an8}Now he comes for Saturday.
+
+68
+00:03:47,393 --> 00:03:49,773
+{\an8}Homer Simpson, it's one thing
+to moan and groan on the bus,
+
+69
+00:03:49,854 --> 00:03:51,524
+{\an8}but in front of these unfortunates,
+
+70
+00:03:51,606 --> 00:03:54,106
+{\an8}well, (scoffs)
+that just curls my 'stache.
+
+71
+00:03:56,027 --> 00:03:57,817
+Hey, Flanders,
+why don't you take some advice
+
+72
+00:03:57,904 --> 00:03:59,704
+from your Bible and zip it?
+
+73
+00:03:59,781 --> 00:04:01,531
+Oh, where does the Bible
+say "zip it"?
+
+74
+00:04:01,616 --> 00:04:04,576
+It's the first thing
+the burning bush said to Moses.
+
+75
+00:04:04,661 --> 00:04:06,621
+Thank you for teaching us Scripture.
+
+76
+00:04:06,704 --> 00:04:08,714
+Thank you.
+
+77
+00:04:12,627 --> 00:04:14,247
+You know, all this helping others
+
+78
+00:04:14,337 --> 00:04:17,337
+is giving me
+the most satisfying feeling ever.
+
+79
+00:04:17,423 --> 00:04:20,053
+So satisfying.
+
+80
+00:04:20,134 --> 00:04:21,724
+Uh, Lenny...
+
+81
+00:04:21,803 --> 00:04:23,353
+Oh, huh.
+
+82
+00:04:23,429 --> 00:04:24,599
+I get why they do it.
+
+83
+00:04:24,681 --> 00:04:25,641
+Totally get it.
+
+84
+00:04:25,723 --> 00:04:27,273
+(whimpers)
+
+85
+00:04:27,350 --> 00:04:31,480
+Hey, Carl, you want to buy
+all my stuff for five dollars?
+
+86
+00:04:31,562 --> 00:04:33,232
+(dog howling in distance)
+
+87
+00:04:33,314 --> 00:04:35,824
+{\an8}Well, thank you all for spending the day
+
+88
+00:04:35,900 --> 00:04:38,990
+{\an8}thinking of others
+instead of yourselves.
+
+89
+00:04:39,070 --> 00:04:41,070
+Saturday.
+It was a Saturday.
+
+90
+00:04:41,155 --> 00:04:44,275
+Now, a reward
+to the most selfless cleaner:
+
+91
+00:04:44,367 --> 00:04:47,117
+a family vacation
+to the Grand Canyon.
+
+92
+00:04:47,203 --> 00:04:49,663
+The winner: Ned Flanders.
+
+93
+00:04:49,747 --> 00:04:51,747
+Surprise, surprise.
+
+94
+00:04:51,833 --> 00:04:54,503
+The guy that did the best job wins.
+
+95
+00:04:54,585 --> 00:04:55,915
+{\an8}NED: Mm-hmm!
+
+96
+00:04:56,004 --> 00:04:58,384
+{\an8}But this gift certificate
+is for two families.
+
+97
+00:04:58,464 --> 00:05:00,934
+Hey, Reverend, we'd love it
+if you and Helen would join us.
+
+98
+00:05:01,009 --> 00:05:03,049
+Um... uh... uh...
+
+99
+00:05:03,970 --> 00:05:05,010
+Mm...
+
+100
+00:05:05,096 --> 00:05:06,716
+Of course we'd love to join you,
+
+101
+00:05:06,806 --> 00:05:08,216
+but I've noticed that you and Homer
+
+102
+00:05:08,308 --> 00:05:10,228
+haven't been
+the friendliest "neighboreenos,"
+
+103
+00:05:10,310 --> 00:05:12,850
+if you get my diddly.
+
+104
+00:05:12,937 --> 00:05:16,187
+Uh, well, Ned, I think
+the Lord would want you
+
+105
+00:05:16,274 --> 00:05:18,614
+to take the Simpsons
+on this trip.
+
+106
+00:05:18,693 --> 00:05:19,573
+Our Lord?
+
+107
+00:05:19,652 --> 00:05:21,492
+Yes. Our Lord.
+
+108
+00:05:21,571 --> 00:05:24,071
+For would it not
+indeed be glorious,
+
+109
+00:05:24,157 --> 00:05:25,827
+if in visiting a natural chasm,
+
+110
+00:05:25,908 --> 00:05:29,158
+two quarrelsome neighbors
+would bridge the chasm
+
+111
+00:05:29,245 --> 00:05:31,655
+of their own discord.
+
+112
+00:05:31,748 --> 00:05:34,538
+Well, I guess if Job
+could accept his burdens.
+
+113
+00:05:34,625 --> 00:05:36,085
+Um, in America,
+
+114
+00:05:36,169 --> 00:05:38,549
+it's pronounced "job," Flanders.
+
+115
+00:05:38,629 --> 00:05:40,009
+(laughing) We can settle it
+when we're zipped up
+
+116
+00:05:40,089 --> 00:05:41,469
+together in a sleeping bag.
+
+117
+00:05:41,549 --> 00:05:42,679
+(groans)
+
+118
+00:05:42,759 --> 00:05:43,929
+Welcome aboard.
+
+119
+00:05:44,010 --> 00:05:45,760
+Oh, oh, we'd love to go,
+
+120
+00:05:45,845 --> 00:05:49,385
+but is it such a good idea
+to travel with another family?
+
+121
+00:05:49,474 --> 00:05:52,394
+It's fun.
+We travel with the Hibberts all the time.
+
+122
+00:05:52,477 --> 00:05:54,897
+We ran into you once,
+in Cincinnati.
+
+123
+00:05:54,979 --> 00:05:56,149
+And we had dinner.
+
+124
+00:05:56,230 --> 00:05:57,900
+We slid our tables together.
+
+125
+00:05:57,982 --> 00:06:01,442
+We were in a booth
+we could not get out of.
+
+126
+00:06:02,362 --> 00:06:04,202
+(groaning sadly)
+
+127
+00:06:04,280 --> 00:06:05,700
+Homie, we should go.
+
+128
+00:06:05,782 --> 00:06:08,412
+You and Ned
+need to learn to get along.
+
+129
+00:06:08,493 --> 00:06:10,793
+You said the same thing
+about me and Bart.
+
+130
+00:06:10,870 --> 00:06:14,080
+No. The judge said the same
+thing about you and Bart.
+
+131
+00:06:14,165 --> 00:06:16,575
+Judges.
+If they were any good, they'd be lawyers.
+
+132
+00:06:16,667 --> 00:06:17,787
+Okay, we'll go.
+
+133
+00:06:17,877 --> 00:06:19,087
+But if Flanders gets so annoying
+
+134
+00:06:19,170 --> 00:06:20,510
+that I can't take it anymore,
+
+135
+00:06:20,588 --> 00:06:22,628
+the code word is "octopus."
+
+136
+00:06:22,715 --> 00:06:24,085
+Can it be something else?
+
+137
+00:06:24,175 --> 00:06:26,675
+I don't like things
+with hidden beaks.
+
+138
+00:06:26,761 --> 00:06:29,181
+Octopus or nothing.
+
+139
+00:06:29,263 --> 00:06:30,853
+Okay.
+
+140
+00:06:30,932 --> 00:06:32,642
+So we took eight-year-old Bart,
+
+141
+00:06:32,725 --> 00:06:34,885
+and six-year-old Lisa.
+
+142
+00:06:34,977 --> 00:06:36,597
+After ten hours of driving,
+
+143
+00:06:36,687 --> 00:06:39,687
+I finally saw
+the most glorious site.
+
+144
+00:06:39,774 --> 00:06:41,404
+(engine revs, tires screech)
+
+145
+00:06:42,068 --> 00:06:44,278
+(groaning)
+
+146
+00:06:44,362 --> 00:06:48,662
+HOMER:
+Ah... ah... ah...
+
+147
+00:06:48,741 --> 00:06:50,871
+Ah... ah...
+
+148
+00:06:50,952 --> 00:06:55,832
+Ahhh...
+
+149
+00:06:55,915 --> 00:06:57,245
+(growls)
+
+150
+00:06:57,333 --> 00:06:58,753
+Ah, ah, ah...
+
+151
+00:06:58,835 --> 00:07:04,005
+Ah... oh... oh, oh, yeah.
+
+152
+00:07:04,090 --> 00:07:08,300
+Ah... ah... yeah.
+
+153
+00:07:08,386 --> 00:07:10,046
+(hums)
+
+154
+00:07:10,138 --> 00:07:11,808
+(loud swallowing)
+
+155
+00:07:11,889 --> 00:07:14,309
+(whimpering)
+
+156
+00:07:14,392 --> 00:07:15,562
+Ah.
+
+157
+00:07:15,643 --> 00:07:17,483
+MARGE:
+Oh.
+
+158
+00:07:17,562 --> 00:07:20,232
+It's like Disneyland for thin people.
+
+159
+00:07:20,314 --> 00:07:23,154
+{\an8}Did you know that the Grand Canyon
+was created by erosion?
+
+160
+00:07:23,234 --> 00:07:25,744
+{\an8}And before 1871,
+it was called Big Canyon?
+
+161
+00:07:25,820 --> 00:07:26,990
+{\an8}Okay, that's it.
+
+162
+00:07:27,071 --> 00:07:28,201
+{\an8}We're on vacation.
+
+163
+00:07:28,281 --> 00:07:30,411
+{\an8}-(crying)
+-Why, you little...
+
+164
+00:07:30,491 --> 00:07:32,661
+(rattling)
+
+165
+00:07:32,743 --> 00:07:33,913
+(both grunting)
+
+166
+00:07:37,373 --> 00:07:40,133
+(both laughing)
+
+167
+00:07:41,836 --> 00:07:43,456
+Whoa.
+
+168
+00:07:43,546 --> 00:07:46,296
+Keep 'em coming, boy.
+
+169
+00:07:46,382 --> 00:07:47,552
+Oh, ooh.
+
+170
+00:07:47,633 --> 00:07:49,183
+That one stung me.
+(laughing)
+
+171
+00:07:49,260 --> 00:07:50,430
+Ow.
+
+172
+00:07:50,511 --> 00:07:51,431
+That's enough.
+
+173
+00:07:51,512 --> 00:07:53,142
+HOMER AND BART:
+Aw.
+
+174
+00:07:53,222 --> 00:07:55,272
+{\an8}We're here to enjoy ourselves.
+
+175
+00:07:55,349 --> 00:07:57,439
+{\an8}If you just turn your head slightly,
+
+176
+00:07:57,518 --> 00:07:59,978
+{\an8}I think you'll be
+pleasantly surprised.
+
+177
+00:08:00,062 --> 00:08:01,652
+{\an8}-No time.
+-Homer.
+
+178
+00:08:01,731 --> 00:08:05,401
+{\an8}(Grofé's "Sunrise" from
+<i>The Grand Canyon Suite</i> playing)
+
+179
+00:08:05,485 --> 00:08:07,815
+{\an8}HOMER:
+Wow. Wow.
+
+180
+00:08:07,904 --> 00:08:11,664
+And they say we're running out of room
+for our garbage.
+
+181
+00:08:11,741 --> 00:08:13,031
+(shudders)
+
+182
+00:08:13,117 --> 00:08:16,247
+<i>NED:</i>
+<i>♪ Go tell it on the mountain ♪</i>
+
+183
+00:08:16,329 --> 00:08:19,749
+{\an8}<i>♪ Over the hills and everywhere ♪</i>
+
+184
+00:08:19,832 --> 00:08:22,672
+{\an8}<i>♪ Go tell it on the mountain ♪</i>
+
+185
+00:08:22,752 --> 00:08:26,712
+<i>♪ That Jesus Christ is born ♪</i>
+
+186
+00:08:26,797 --> 00:08:29,007
+<i>♪ Born, born, born, born ♪</i>
+
+187
+00:08:29,091 --> 00:08:31,931
+<i>♪ Go tell it on the mountain ♪</i>
+
+188
+00:08:32,011 --> 00:08:33,181
+Octopus. Octopus.
+
+189
+00:08:33,262 --> 00:08:34,512
+Oct-ar-pus.
+
+190
+00:08:34,597 --> 00:08:36,217
+A vacation with Flanders?
+
+191
+00:08:36,307 --> 00:08:39,267
+That's like telling you
+a bedtime story without a beer.
+
+192
+00:08:44,315 --> 00:08:46,105
+(sighs)
+Now, where were we?
+
+193
+00:08:51,030 --> 00:08:53,120
+-Thank you, ma'am.
+-Eh.
+
+194
+00:08:53,950 --> 00:08:55,660
+-Thank you.
+-Eh.
+
+195
+00:08:57,912 --> 00:09:00,252
+Mm-hmm.
+
+196
+00:09:00,331 --> 00:09:01,921
+<i>Am I such a terrible mother</i>
+
+197
+00:09:01,999 --> 00:09:03,579
+<i>that my son doesn't even know</i>
+
+198
+00:09:03,668 --> 00:09:05,548
+<i>to say thank you to a waitress?</i>
+
+199
+00:09:05,628 --> 00:09:08,048
+Come on, honey.
+What do you say?
+
+200
+00:09:08,130 --> 00:09:10,630
+You want me to lie and say
+I'm thankful for chicken and veg
+
+201
+00:09:10,716 --> 00:09:13,136
+when I wanted whiskey-battered
+bourbon bangers?
+
+202
+00:09:13,219 --> 00:09:15,719
+Just say thank you.
+
+203
+00:09:15,805 --> 00:09:17,305
+My boy never said thank you.
+
+204
+00:09:17,390 --> 00:09:18,890
+Now he's on death row.
+
+205
+00:09:18,975 --> 00:09:20,515
+(electricity crackles)
+
+206
+00:09:20,601 --> 00:09:22,191
+Was on death row.
+
+207
+00:09:23,312 --> 00:09:26,652
+(faint snoring)
+
+208
+00:09:26,732 --> 00:09:28,402
+(snoring)
+
+209
+00:09:31,028 --> 00:09:34,238
+Daddy, when will the noise stop?
+
+210
+00:09:34,323 --> 00:09:36,413
+Hmm. Take these.
+
+211
+00:09:38,411 --> 00:09:40,371
+Ugh. Those were earplugs.
+
+212
+00:09:40,454 --> 00:09:42,164
+(boys groan)
+
+213
+00:09:45,251 --> 00:09:47,591
+<i>♪ ♪</i>
+
+214
+00:09:50,590 --> 00:09:54,090
+Wow, I never thought there'd be something
+I'd want to stare at longer
+
+215
+00:09:54,176 --> 00:09:56,346
+than that car wreck on the way here.
+
+216
+00:09:56,429 --> 00:09:59,219
+We've got to hurry before
+they run out of mules.
+
+217
+00:09:59,307 --> 00:10:01,347
+Ooh. Is that what they're
+serving for breakfast?
+
+218
+00:10:01,434 --> 00:10:02,854
+(Marge groans)
+
+219
+00:10:02,935 --> 00:10:04,055
+HOMER:
+How about donkeys?
+
+220
+00:10:04,145 --> 00:10:05,305
+MARGE:
+No.
+
+221
+00:10:09,275 --> 00:10:11,025
+Huh? That's odd.
+
+222
+00:10:11,110 --> 00:10:13,780
+Enjoying your moon view, Homer?
+
+223
+00:10:13,863 --> 00:10:14,953
+Why you little...
+
+224
+00:10:15,031 --> 00:10:16,411
+Two can play at that game.
+
+225
+00:10:16,490 --> 00:10:18,120
+(squeaking)
+
+226
+00:10:18,200 --> 00:10:20,580
+(groaning)
+
+227
+00:10:22,788 --> 00:10:24,538
+-(Bart laughing)
+-Stupid kid.
+
+228
+00:10:24,624 --> 00:10:27,044
+So embarrassing.
+
+229
+00:10:27,126 --> 00:10:28,746
+I'm a little nervous
+
+230
+00:10:28,836 --> 00:10:31,046
+with all these waivers
+we have to sign.
+
+231
+00:10:31,130 --> 00:10:33,130
+Marge, this is a national park.
+
+232
+00:10:33,215 --> 00:10:36,045
+People are completely safe here.
+
+233
+00:10:43,559 --> 00:10:44,939
+Now let's do my favorite thing:
+
+234
+00:10:45,019 --> 00:10:46,769
+go downhill.
+
+235
+00:10:46,854 --> 00:10:48,904
+Whoa. You're 180?
+
+236
+00:10:48,981 --> 00:10:50,821
+My blood pressure is.
+
+237
+00:10:50,900 --> 00:10:53,490
+Okay.
+Uh, let's get you a mule, dude.
+
+238
+00:10:54,320 --> 00:10:55,280
+Oh...
+
+239
+00:10:55,363 --> 00:10:57,243
+(loud braying)
+
+240
+00:10:59,158 --> 00:11:00,488
+Get me El Gordo.
+
+241
+00:11:00,576 --> 00:11:02,446
+Gordo here used to carry
+
+242
+00:11:02,536 --> 00:11:04,406
+200-pound granite blocks
+
+243
+00:11:04,497 --> 00:11:05,787
+up from the canyon.
+
+244
+00:11:06,707 --> 00:11:10,037
+(Gordo groaning)
+
+245
+00:11:10,127 --> 00:11:12,207
+(Grofé's "On the Trail" from
+<i>The Grand Canyon Suite</i> playing)
+
+246
+00:11:16,133 --> 00:11:18,553
+This has got to be
+the most beautiful thing
+
+247
+00:11:18,636 --> 00:11:21,136
+we've ever stole from the Indians.
+
+248
+00:11:21,222 --> 00:11:23,432
+(engines roaring)
+
+249
+00:11:25,476 --> 00:11:26,596
+What is that?
+
+250
+00:11:26,686 --> 00:11:28,056
+A billionaires' retreat.
+
+251
+00:11:28,145 --> 00:11:29,355
+Yeah, the heads of America's
+
+252
+00:11:29,438 --> 00:11:31,148
+most powerful media companies
+
+253
+00:11:31,232 --> 00:11:32,822
+have come to enjoy nature.
+
+254
+00:11:34,068 --> 00:11:37,028
+DRIVER:
+Put up the cell phone tower.
+
+255
+00:11:37,113 --> 00:11:38,993
+MAN:
+I said I wanted a Tom Cruise type,
+
+256
+00:11:39,073 --> 00:11:40,413
+not Tom Cruise.
+
+257
+00:11:40,491 --> 00:11:42,791
+DRIVER:
+Burn down the cell phone tower.
+
+258
+00:11:44,704 --> 00:11:47,084
+I can't stand rich people.
+
+259
+00:11:49,750 --> 00:11:50,790
+Can I name my mule?
+
+260
+00:11:50,876 --> 00:11:52,036
+We prefer you don't.
+
+261
+00:11:52,128 --> 00:11:53,208
+Is there a name for this trail?
+
+262
+00:11:53,295 --> 00:11:54,335
+I'm sure there is.
+
+263
+00:11:54,422 --> 00:11:55,512
+Is this a fun job?
+
+264
+00:11:55,589 --> 00:11:56,669
+Not at the moment.
+
+265
+00:11:56,757 --> 00:11:57,877
+Do you count as a grownup?
+
+266
+00:11:57,967 --> 00:11:59,087
+My parents don't think so.
+
+267
+00:11:59,176 --> 00:12:00,296
+You're a grownup to me.
+
+268
+00:12:00,386 --> 00:12:01,466
+Thanks.
+
+269
+00:12:01,554 --> 00:12:03,064
+Here, have a piece of the canyon.
+
+270
+00:12:03,139 --> 00:12:04,559
+Are you sure it's okay?
+
+271
+00:12:04,640 --> 00:12:06,770
+Hey, it only makes the canyon grander.
+
+272
+00:12:07,810 --> 00:12:09,810
+BOTH:
+Aah! Aah!
+
+273
+00:12:09,895 --> 00:12:11,015
+Aah!
+
+274
+00:12:11,105 --> 00:12:12,935
+I don't know where
+your son gets it, Marge.
+
+275
+00:12:13,023 --> 00:12:14,483
+I'm only going to say this once,
+
+276
+00:12:14,567 --> 00:12:16,527
+but I think you're
+a little checked out.
+
+277
+00:12:16,610 --> 00:12:17,860
+(echoing)
+Checked out. Checked out.
+
+278
+00:12:17,945 --> 00:12:20,195
+Checked out. Checked out.
+Checked out.
+
+279
+00:12:20,281 --> 00:12:21,531
+Checked out. Checked out.
+
+280
+00:12:21,615 --> 00:12:23,195
+Checked out.
+
+281
+00:12:23,284 --> 00:12:25,914
+Well, your kids aren't exactly perfect.
+
+282
+00:12:25,995 --> 00:12:27,655
+Yay! We can improve.
+
+283
+00:12:27,747 --> 00:12:30,457
+Let's think about it quietly.
+
+284
+00:12:31,459 --> 00:12:33,129
+(groans)
+
+285
+00:12:33,210 --> 00:12:35,130
+(sniffing)
+
+286
+00:12:35,212 --> 00:12:37,802
+Boy, I bet that mustache
+smells really bad, huh?
+
+287
+00:12:37,882 --> 00:12:39,222
+Oh, don't you rip on my lip strip.
+
+288
+00:12:39,300 --> 00:12:40,760
+(sniffs)
+
+289
+00:12:40,843 --> 00:12:43,353
+I smell candles
+and-and pew polish.
+
+290
+00:12:43,429 --> 00:12:44,929
+We're near a church.
+
+291
+00:12:45,014 --> 00:12:47,354
+(sniffs)
+Catholic, if I don't miss my guess.
+
+292
+00:12:47,433 --> 00:12:49,813
+(organ playing)
+
+293
+00:12:53,105 --> 00:12:54,565
+Hmm.
+
+294
+00:12:54,648 --> 00:12:55,898
+A little Popeish for my taste,
+
+295
+00:12:55,983 --> 00:12:57,823
+but I did come here for adventure.
+
+296
+00:12:57,902 --> 00:13:00,072
+Geez, Flanders,
+you find God in everything.
+
+297
+00:13:00,154 --> 00:13:01,454
+God is in everything.
+
+298
+00:13:01,530 --> 00:13:03,120
+He's omnipresent.
+
+299
+00:13:03,199 --> 00:13:05,159
+You mean, if I check
+into the Omni Hotel right now,
+
+300
+00:13:05,242 --> 00:13:06,372
+he's there?
+
+301
+00:13:06,452 --> 00:13:08,122
+As a matter of fact, he is.
+
+302
+00:13:08,204 --> 00:13:11,044
+Then, from now on, we're staying
+at the Hyatt Regency.
+
+303
+00:13:11,123 --> 00:13:12,333
+You're banned there, Dad.
+
+304
+00:13:12,416 --> 00:13:14,536
+Not as Hagwar Swanson.
+
+305
+00:13:14,627 --> 00:13:17,457
+{\an8}(with Scandinavian accent)
+I love this country.
+
+306
+00:13:19,048 --> 00:13:20,298
+(shudders)
+
+307
+00:13:20,382 --> 00:13:22,472
+Are you sure this is safe?
+
+308
+00:13:22,551 --> 00:13:25,101
+Totally. You're with State Farm, right?
+
+309
+00:13:26,597 --> 00:13:27,717
+Where's our guide?
+
+310
+00:13:27,807 --> 00:13:29,137
+Where's the trail?
+
+311
+00:13:30,142 --> 00:13:32,192
+(squawking)
+
+312
+00:13:32,269 --> 00:13:34,729
+(humming)
+
+313
+00:13:36,357 --> 00:13:38,977
+Aw.
+
+314
+00:13:39,068 --> 00:13:40,778
+(shrieks)
+Big Maggie.
+
+315
+00:13:40,861 --> 00:13:42,071
+I'd like to hear the rest.
+
+316
+00:13:42,154 --> 00:13:44,074
+I still have my piece
+of the canyon.
+
+317
+00:13:45,908 --> 00:13:46,868
+Ugh.
+
+318
+00:13:46,951 --> 00:13:48,041
+(growls)
+
+319
+00:13:48,118 --> 00:13:50,538
+Okay. It was looking rough...
+
+320
+00:13:52,623 --> 00:13:54,293
+Oh, no bars.
+
+321
+00:13:54,375 --> 00:13:55,705
+You mean, on your phone?
+
+322
+00:13:55,793 --> 00:13:56,963
+Hey, you're right.
+
+323
+00:13:57,044 --> 00:13:58,754
+Oh, more bad news.
+
+324
+00:13:58,838 --> 00:14:02,168
+Oh, most of the food
+was on the guide's mule.
+
+325
+00:14:02,258 --> 00:14:03,798
+I sure am glad somebody
+
+326
+00:14:03,884 --> 00:14:06,894
+packed all this whitefish salad.
+
+327
+00:14:06,971 --> 00:14:08,181
+I'm willing to eat some.
+
+328
+00:14:08,264 --> 00:14:10,524
+And if I die, you know it's bad.
+
+329
+00:14:10,599 --> 00:14:13,849
+Homer, it's time for you and me
+to go out and get help.
+
+330
+00:14:13,936 --> 00:14:16,146
+Please be careful,
+Uncle Ned.
+
+331
+00:14:16,230 --> 00:14:17,360
+I will, Bart.
+
+332
+00:14:17,439 --> 00:14:18,689
+Please, please be careful.
+
+333
+00:14:18,774 --> 00:14:20,284
+Don't worry.
+
+334
+00:14:20,359 --> 00:14:22,699
+If you don't come back,
+I'll be so sad.
+
+335
+00:14:22,778 --> 00:14:24,488
+Excuse me?
+What about over here?
+
+336
+00:14:24,572 --> 00:14:25,822
+Right.
+
+337
+00:14:27,616 --> 00:14:30,536
+(grunts)
+Please, please be careful.
+
+338
+00:14:30,619 --> 00:14:31,869
+(braying)
+
+339
+00:14:31,954 --> 00:14:33,254
+Please.
+
+340
+00:14:33,330 --> 00:14:34,870
+Let's go, Flanders.
+
+341
+00:14:41,046 --> 00:14:42,796
+(groans)
+
+342
+00:14:42,882 --> 00:14:44,552
+(whining)
+
+343
+00:14:44,633 --> 00:14:46,763
+Oh, no. The poor thing
+gets night terrors.
+
+344
+00:14:46,844 --> 00:14:50,064
+I forgot to say,
+"God bless the mailman."
+
+345
+00:14:50,139 --> 00:14:51,809
+He's not awake,
+but he's not asleep.
+
+346
+00:14:51,891 --> 00:14:53,521
+Do your kids get these?
+
+347
+00:14:53,601 --> 00:14:55,561
+I will now that I know
+what they are.
+
+348
+00:14:55,644 --> 00:14:57,734
+Other kids say
+I'm in their nightmares.
+
+349
+00:14:57,813 --> 00:15:00,323
+I'm not your puppet, Bart.
+I'm not.
+
+350
+00:15:00,399 --> 00:15:03,609
+(grunting)
+
+351
+00:15:05,362 --> 00:15:07,322
+You ever seen stars this bright,
+Homer?
+
+352
+00:15:07,406 --> 00:15:09,526
+Blessed is the beauty of our Lord.
+
+353
+00:15:09,617 --> 00:15:11,617
+<i>♪ ♪</i>
+
+354
+00:15:16,624 --> 00:15:19,294
+(sighs)
+
+355
+00:15:19,376 --> 00:15:23,876
+(gunshots)
+
+356
+00:15:23,964 --> 00:15:25,224
+(clicking)
+
+357
+00:15:27,635 --> 00:15:30,095
+Amen. Listen, Flanders.
+
+358
+00:15:30,179 --> 00:15:31,969
+This trip has given me
+time to think.
+
+359
+00:15:32,056 --> 00:15:33,516
+If I die here,
+
+360
+00:15:33,599 --> 00:15:36,059
+you're welcome to live
+in my carcass for warmth.
+
+361
+00:15:36,143 --> 00:15:37,313
+I'm not living in your carcass.
+
+362
+00:15:37,394 --> 00:15:38,564
+Oh, come on.
+
+363
+00:15:38,646 --> 00:15:40,606
+You make it sound
+like a bad thing.
+
+364
+00:15:40,689 --> 00:15:41,979
+Look, we're saved!
+
+365
+00:15:42,066 --> 00:15:43,896
+We just go down there,
+get some food and help
+
+366
+00:15:43,984 --> 00:15:45,904
+returning to civilization.
+
+367
+00:15:45,986 --> 00:15:48,026
+<i>GUARD (over megaphone):</i>
+<i>Attention, people talking.</i>
+
+368
+00:15:48,113 --> 00:15:50,533
+<i>Unless you are here</i>
+<i>to dispose of our poop,</i>
+
+369
+00:15:50,616 --> 00:15:53,826
+<i>we will start shooting</i>
+<i>in five minutes.</i>
+
+370
+00:15:56,789 --> 00:15:58,499
+(dance music playing)
+
+371
+00:15:58,582 --> 00:16:01,752
+(animals screeching)
+
+372
+00:16:03,921 --> 00:16:06,221
+How is that even camping?
+
+373
+00:16:06,298 --> 00:16:07,628
+'Tis easier for a camel
+
+374
+00:16:07,716 --> 00:16:09,796
+to pass through
+the eye of a needle
+
+375
+00:16:09,885 --> 00:16:12,215
+than a rich man
+to get into heaven.
+
+376
+00:16:12,304 --> 00:16:14,014
+(sighs)
+Sometimes I just don't get it.
+
+377
+00:16:14,098 --> 00:16:16,098
+What I'm saying is,
+the eye of the needle
+
+378
+00:16:16,183 --> 00:16:17,943
+is very small, and a camel...
+
+379
+00:16:18,018 --> 00:16:19,268
+No. I mean down there.
+
+380
+00:16:19,353 --> 00:16:20,853
+They have everything
+we need to survive,
+
+381
+00:16:20,938 --> 00:16:22,148
+but they won't share.
+
+382
+00:16:22,231 --> 00:16:24,271
+Maybe if I look through
+these binoculars one more time,
+
+383
+00:16:24,358 --> 00:16:25,988
+I'll-I'll see something better.
+
+384
+00:16:29,238 --> 00:16:30,568
+(gasps)
+
+385
+00:16:30,656 --> 00:16:32,986
+We've got to go in
+and steal what we need.
+
+386
+00:16:33,075 --> 00:16:34,985
+Well, thou shalt not steal.
+
+387
+00:16:35,077 --> 00:16:36,537
+But if I don't steal, that's coveting.
+
+388
+00:16:36,620 --> 00:16:37,870
+That's bad, too.
+
+389
+00:16:37,955 --> 00:16:39,865
+Look, Flanders,
+we tried things your way,
+
+390
+00:16:39,957 --> 00:16:41,167
+and it failed.
+
+391
+00:16:41,250 --> 00:16:42,460
+Now let's try mine.
+
+392
+00:16:42,543 --> 00:16:43,753
+Okay.
+
+393
+00:16:43,836 --> 00:16:45,206
+W-Wait!
+
+394
+00:16:45,295 --> 00:16:46,955
+We never did things my way.
+
+395
+00:16:47,047 --> 00:16:49,337
+Too late. (voice fading)
+I'm already rolling downhill.
+
+396
+00:16:50,926 --> 00:16:52,336
+Ow, sharp rock.
+
+397
+00:16:52,428 --> 00:16:53,928
+Ooh, cactus!
+
+398
+00:16:54,013 --> 00:16:55,313
+(screams)
+More scorpions.
+
+399
+00:16:55,389 --> 00:16:57,269
+Is that all you can do? Sting?
+
+400
+00:16:57,349 --> 00:16:59,309
+(yells)
+Now they're pinching.
+
+401
+00:17:00,936 --> 00:17:03,766
+(whispering)
+Easy, Flanders, don't make a sound.
+
+402
+00:17:03,856 --> 00:17:05,016
+-Okay, here.
+-(Ned grunting)
+
+403
+00:17:05,107 --> 00:17:06,107
+Come on, take this.
+
+404
+00:17:06,191 --> 00:17:07,571
+(both grunting)
+
+405
+00:17:07,651 --> 00:17:08,861
+Oh, I got it.
+
+406
+00:17:08,944 --> 00:17:10,284
+Oh, it's heavy.
+
+407
+00:17:10,362 --> 00:17:12,742
+(brays)
+
+408
+00:17:12,823 --> 00:17:14,533
+(whispers)
+Ready to go.
+
+409
+00:17:14,616 --> 00:17:16,286
+(gunshots)
+
+410
+00:17:16,368 --> 00:17:18,038
+Uh, we're too heavy.
+
+411
+00:17:18,120 --> 00:17:19,540
+Toss off what we don't need.
+
+412
+00:17:19,621 --> 00:17:21,541
+(grunting)
+
+413
+00:17:21,623 --> 00:17:22,793
+(gunshot)
+
+414
+00:17:22,875 --> 00:17:26,125
+Fine.
+We can do without salad forks.
+
+415
+00:17:26,211 --> 00:17:27,211
+Whoo-hoo!
+
+416
+00:17:30,716 --> 00:17:33,006
+<i>♪ No sugar tonight for the coffee ♪</i>
+
+417
+00:17:33,093 --> 00:17:35,393
+<i>♪ No sugar tonight for their tea ♪</i>
+
+418
+00:17:35,471 --> 00:17:38,271
+<i>♪ We took all their fancy cheeses ♪</i>
+
+419
+00:17:38,348 --> 00:17:40,558
+<i>♪ And their tasty charcuterie ♪</i>
+
+420
+00:17:40,642 --> 00:17:42,642
+(growls)
+
+421
+00:17:43,937 --> 00:17:46,107
+Trout solo!
+
+422
+00:17:46,190 --> 00:17:48,400
+<i>♪ Ba-da-ta-da-da-da-da-da-da ♪</i>
+
+423
+00:17:48,484 --> 00:17:51,034
+<i>♪ Ba-da-ta-da-da-da ♪</i>
+
+424
+00:17:51,111 --> 00:17:53,451
+<i>♪ Da-da-da-da-da-da-da-da ♪</i>
+
+425
+00:17:53,530 --> 00:17:55,950
+<i>♪ Da-da-da-da</i>
+<i>da-da-da ♪</i>
+
+426
+00:17:56,033 --> 00:17:58,583
+<i>(together)</i>
+<i>♪ Ba-da-da-da-da-da-da-da ♪</i>
+
+427
+00:17:58,660 --> 00:18:01,370
+<i>-♪ Ba-da-da-da-da-da ♪</i>
+<i>-♪ Ba-da-dee-doo-da-da ♪</i>
+
+428
+00:18:01,455 --> 00:18:04,365
+Grand Canyon! Yeah!
+
+429
+00:18:05,709 --> 00:18:06,999
+(air whooshing)
+
+430
+00:18:13,967 --> 00:18:16,387
+You know, Homer,
+we make a good team.
+
+431
+00:18:16,470 --> 00:18:17,510
+Homer?
+
+432
+00:18:24,686 --> 00:18:26,436
+HOMER:
+Breakfast time.
+
+433
+00:18:26,522 --> 00:18:28,442
+Come and get it!
+
+434
+00:18:28,524 --> 00:18:30,444
+(echoing)
+Come and get it!
+
+435
+00:18:30,526 --> 00:18:31,936
+Come and...
+
+436
+00:18:32,027 --> 00:18:34,357
+Ugh. Not again.
+
+437
+00:18:34,446 --> 00:18:36,196
+Tablecloths.
+
+438
+00:18:36,281 --> 00:18:37,491
+Caviar.
+
+439
+00:18:37,574 --> 00:18:38,664
+Bacon!
+
+440
+00:18:38,742 --> 00:18:39,872
+(munching)
+
+441
+00:18:39,952 --> 00:18:41,872
+Bacon.
+
+442
+00:18:41,954 --> 00:18:46,384
+No, this was before
+Lisa was a vegetarian.
+
+443
+00:18:46,458 --> 00:18:50,418
+That's right.
+I had the arteries of a 20-year-old.
+
+444
+00:18:53,674 --> 00:18:55,684
+I'm gonna miss you, pal.
+
+445
+00:18:58,512 --> 00:19:00,682
+(neighs)
+
+446
+00:19:07,437 --> 00:19:08,727
+(chuckles)
+
+447
+00:19:08,814 --> 00:19:10,024
+Well, Homer,
+
+448
+00:19:10,107 --> 00:19:11,437
+you think this
+will be one of those vacations
+
+449
+00:19:11,525 --> 00:19:13,395
+where the friendship we made
+will last forever,
+
+450
+00:19:13,485 --> 00:19:15,855
+or start eroding the minute
+we enter our cars?
+
+451
+00:19:15,946 --> 00:19:19,026
+Flanders, like all friendships
+between men,
+
+452
+00:19:19,116 --> 00:19:22,196
+in the end,
+it's up to our wives.
+
+453
+00:19:22,286 --> 00:19:23,536
+Mm-hmm.
+
+454
+00:19:32,629 --> 00:19:34,629
+NED:
+That was a nice story, Homer.
+
+455
+00:19:34,715 --> 00:19:36,425
+You know,
+sometimes I wish this
+
+456
+00:19:36,508 --> 00:19:38,178
+(chuckles)
+grand canyon between us,
+
+457
+00:19:38,260 --> 00:19:39,720
+uh, wasn't so large.
+
+458
+00:19:39,803 --> 00:19:40,803
+The offer still stands.
+
+459
+00:19:40,888 --> 00:19:42,178
+You can live in my carcass.
+
+460
+00:19:42,264 --> 00:19:44,144
+There's room in my legs
+for the boys.
+
+461
+00:19:44,224 --> 00:19:46,194
+Maybe we could just
+store old clothes in you.
+
+462
+00:19:46,268 --> 00:19:47,478
+I'd like that.
+
+463
+00:19:47,561 --> 00:19:49,861
+And you know what, Flanders?
+
+464
+00:19:49,938 --> 00:19:52,068
+I think we owe you guys a trip.
+
+465
+00:19:52,149 --> 00:19:54,109
+<i>♪ ♪</i>
+
+466
+00:20:01,241 --> 00:20:03,161
+Always wanted to visit
+the postcard museum.
+
+467
+00:20:03,243 --> 00:20:04,413
+Thank you.
+
+468
+00:20:04,494 --> 00:20:06,124
+My pleasure.
+
+469
+00:20:06,205 --> 00:20:08,365
+I wonder if they sell postcards
+in the gift shop.
+
+470
+00:20:08,457 --> 00:20:09,957
+We don't.
+
+471
+00:20:10,042 --> 00:20:12,712
+{\an8}(Grofé's <i>Grand Canyon Suite</i> playing)
+
+472
+00:20:55,420 --> 00:20:57,260
+Shh!
+
+473
+00:21:01,301 --> 00:21:03,261
+Subtitled by B. Everdene
+

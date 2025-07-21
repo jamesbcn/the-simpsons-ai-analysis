@@ -1,0 +1,2239 @@
+1
+00:00:01,251 --> 00:00:02,251
+(theme music playing)
+
+2
+00:00:03,003 --> 00:00:06,513
+<i>♪ The Simpsons ♪</i>
+
+3
+00:00:16,891 --> 00:00:18,561
+(bell ringing)
+
+4
+00:00:23,857 --> 00:00:25,147
+(whistle blowing)
+
+5
+00:00:30,113 --> 00:00:30,993
+(beeping)
+
+6
+00:00:35,160 --> 00:00:37,700
+(playing the blues)
+
+7
+00:00:37,787 --> 00:00:39,287
+(jazzy solo)
+
+8
+00:00:46,337 --> 00:00:47,297
+(tires screeching)
+
+9
+00:00:47,630 --> 00:00:48,470
+(chimes)
+
+10
+00:00:53,011 --> 00:00:53,851
+(tires screeching)
+
+11
+00:00:58,892 --> 00:00:59,732
+(honking horn)
+
+12
+00:01:04,147 --> 00:01:05,017
+D'oh!
+
+13
+00:01:05,106 --> 00:01:05,936
+(screams)
+
+14
+00:01:08,693 --> 00:01:09,993
+(all yelling)
+
+15
+00:01:23,500 --> 00:01:25,040
+(loud chattering)
+
+16
+00:01:25,126 --> 00:01:27,416
+{\an8}Hey, hey. Settle down, children.
+
+17
+00:01:27,504 --> 00:01:30,424
+{\an8}Now, who's ever wondered
+how the post office works?
+
+18
+00:01:31,925 --> 00:01:32,755
+No one?
+
+19
+00:01:33,134 --> 00:01:35,514
+{\an8}I did until we came here last year.
+
+20
+00:01:35,595 --> 00:01:38,005
+{\an8}Ah, yes. Last year.
+
+21
+00:01:38,098 --> 00:01:39,308
+{\an8}Anyway, look.
+
+22
+00:01:39,390 --> 00:01:42,480
+{\an8}Here comes our guide
+for the day, Postmaster Bill.
+
+23
+00:01:42,560 --> 00:01:45,110
+{\an8}(chuckling) Howdy, partners.
+
+24
+00:01:45,188 --> 00:01:47,148
+{\an8}Welcome to your post office.
+
+25
+00:01:47,232 --> 00:01:49,732
+{\an8}Wow! It's ours? (grunts)
+
+26
+00:01:51,444 --> 00:01:52,284
+{\an8}SKINNER: Bart!
+
+27
+00:01:52,362 --> 00:01:53,612
+{\an8}Be with you in a minute.
+
+28
+00:01:53,947 --> 00:01:56,317
+{\an8}This is the lobby where customers come
+
+29
+00:01:56,407 --> 00:01:58,537
+{\an8}for all their postalistic needs.
+
+30
+00:01:59,035 --> 00:02:01,655
+<i>Legends Of Comedy, </i>my tuches.
+
+31
+00:02:01,746 --> 00:02:04,536
+What has fatty Arbuckle done
+that I haven't done?
+
+32
+00:02:04,624 --> 00:02:06,964
+{\an8}This machine reads zip codes.
+
+33
+00:02:07,043 --> 00:02:10,213
+{\an8}These five digits tell us
+where to direct your mail.
+
+34
+00:02:10,296 --> 00:02:11,876
+{\an8}But it's nine digits now.
+
+35
+00:02:11,965 --> 00:02:13,585
+{\an8}What's the point
+of these other four numbers?
+
+36
+00:02:13,675 --> 00:02:16,005
+{\an8}Those are citizen relocation codes.
+
+37
+00:02:16,094 --> 00:02:18,564
+{\an8}With any luck, we'll never need 'em.
+
+38
+00:02:20,140 --> 00:02:22,020
+She's on to us.
+Should I flood the chamber?
+
+39
+00:02:22,100 --> 00:02:23,640
+Not yet. Let's get some lunch.
+
+40
+00:02:23,977 --> 00:02:27,107
+{\an8}Well, children, any questions
+for Postmaster Bill?
+
+41
+00:02:27,772 --> 00:02:29,612
+{\an8}You ever gone on a killing spree?
+
+42
+00:02:29,691 --> 00:02:32,991
+{\an8}(chuckling) No, no.
+
+43
+00:02:33,069 --> 00:02:35,449
+{\an8}The day of the gun-toting,
+disgruntled postman
+
+44
+00:02:35,530 --> 00:02:38,490
+{\an8}shooting up the place
+went out with the Macarena.
+
+45
+00:02:38,575 --> 00:02:41,575
+{\an8}Well, I'm just glad
+I work at an elementary school.
+
+46
+00:02:42,162 --> 00:02:45,542
+{\an8}And this is where
+our employees gather to unwind
+
+47
+00:02:45,623 --> 00:02:48,383
+{\an8}after a hard day of serving the public.
+
+48
+00:02:49,919 --> 00:02:52,009
+-Bingo! Birthday card!
+-Graduation!
+
+49
+00:02:52,088 --> 00:02:53,258
+Ding, ding, ding! Wedding.
+
+50
+00:02:53,339 --> 00:02:55,339
+(cheering)
+
+51
+00:02:55,425 --> 00:02:57,925
+{\an8}(chuckling, groans)
+
+52
+00:02:58,511 --> 00:03:01,101
+{\an8}I'm sure you all heard
+of the dead letter office.
+
+53
+00:03:01,181 --> 00:03:03,601
+Well, as a souvenir of your visit
+
+54
+00:03:03,683 --> 00:03:05,103
+{\an8}you can each help yourself
+
+55
+00:03:05,185 --> 00:03:07,475
+{\an8}to one piece of undeliverable mail.
+
+56
+00:03:07,562 --> 00:03:09,192
+(cheering)
+
+57
+00:03:09,272 --> 00:03:10,152
+RALPH: I'll take you.
+
+58
+00:03:10,231 --> 00:03:11,821
+(children shouting)
+
+59
+00:03:13,860 --> 00:03:15,320
+{\an8}(barking)
+
+60
+00:03:15,403 --> 00:03:16,913
+I got some dog food.
+
+61
+00:03:16,988 --> 00:03:19,618
+I got my letter to Santa.
+
+62
+00:03:19,699 --> 00:03:21,369
+A coupon book?
+
+63
+00:03:21,451 --> 00:03:23,491
+What am I gonna do
+with this piece of junk?
+
+64
+00:03:23,578 --> 00:03:24,618
+Happy birthday, Dad.
+
+65
+00:03:24,704 --> 00:03:25,584
+Wow!
+
+66
+00:03:25,914 --> 00:03:28,334
+A Val-U-Qual coupon book.
+
+67
+00:03:28,416 --> 00:03:30,956
+Let's see.
+Ten percent off carpet cleaning.
+
+68
+00:03:31,044 --> 00:03:31,924
+Ten! (gasps)
+
+69
+00:03:32,003 --> 00:03:35,553
+Two pizzas for the price of one
+at Doughy's!
+
+70
+00:03:35,632 --> 00:03:37,972
+Doughy's has terrible pizza.
+
+71
+00:03:38,051 --> 00:03:40,011
+Yeah, but there's two!
+
+72
+00:03:40,345 --> 00:03:43,095
+Ooh, free foot pain analysis.
+
+73
+00:03:43,181 --> 00:03:45,521
+Oh, Marge, that's just a trick
+to get you in there,
+
+74
+00:03:45,600 --> 00:03:47,270
+so they can cure your foot pain.
+
+75
+00:03:47,352 --> 00:03:50,442
+I guess. (moans softly)
+
+76
+00:03:50,521 --> 00:03:52,731
+See you, kids. Me and my Val-U-Qual book
+
+77
+00:03:52,815 --> 00:03:56,525
+are gonna paint the town red with savings.
+
+78
+00:03:56,611 --> 00:03:57,991
+I'll start with a couple of pizzas,
+
+79
+00:03:58,071 --> 00:04:00,531
+then a complimentary tango lesson,
+
+80
+00:04:00,615 --> 00:04:04,575
+and I'll cap it off
+with a smooth, refreshing colonic.
+
+81
+00:04:04,661 --> 00:04:05,661
+Um, Dad...
+
+82
+00:04:05,745 --> 00:04:08,575
+<i>♪ Do you like pina colonic ♪</i>
+
+83
+00:04:08,665 --> 00:04:10,785
+<i>♪ And getting caught In the rain? ♪</i>
+
+84
+00:04:10,875 --> 00:04:13,085
+<i>♪ Passing out in the ocean... ♪</i>
+
+85
+00:04:15,463 --> 00:04:19,343
+Now this wheel balancing is free, right?
+
+86
+00:04:19,425 --> 00:04:22,135
+Oh, you betcha. Absolutely.
+
+87
+00:04:22,220 --> 00:04:24,560
+Eh... uh-oh. Wait a minute.
+
+88
+00:04:24,889 --> 00:04:27,179
+These tires won't take a balance.
+
+89
+00:04:27,267 --> 00:04:28,097
+They won't?
+
+90
+00:04:28,184 --> 00:04:30,104
+Nah, nah, no. You hear that clunk?
+
+91
+00:04:30,186 --> 00:04:31,016
+No.
+
+92
+00:04:31,104 --> 00:04:33,274
+Well, that tells me
+you need four new tires.
+
+93
+00:04:33,356 --> 00:04:34,976
+-Really?
+-Yeah.
+
+94
+00:04:35,066 --> 00:04:37,436
+Legally, I can't even let you
+drive out of here on these.
+
+95
+00:04:37,527 --> 00:04:40,067
+Oh, please, can't you let me
+slide this time?
+
+96
+00:04:40,154 --> 00:04:43,834
+Gee, I'd really like to,
+but if my boss found out...
+
+97
+00:04:43,908 --> 00:04:45,238
+Hey, what's going on over here?
+
+98
+00:04:45,326 --> 00:04:47,826
+Were you gonna let this man
+drive out of here on unsafe tires?
+
+99
+00:04:47,912 --> 00:04:49,252
+No, boss. I swear.
+
+100
+00:04:49,330 --> 00:04:51,250
+Uh, that's it. You're fired!
+
+101
+00:04:51,332 --> 00:04:53,752
+No. Wait. This is all my fault.
+
+102
+00:04:53,835 --> 00:04:55,915
+Oh, if I could only turn back the clock
+
+103
+00:04:56,004 --> 00:04:58,134
+and buy four new tires.
+
+104
+00:05:00,508 --> 00:05:03,758
+(muzak playing)
+
+105
+00:05:09,225 --> 00:05:10,435
+Oh.
+
+106
+00:05:12,353 --> 00:05:14,153
+Ooh, I know that look. (giggles)
+
+107
+00:05:14,230 --> 00:05:16,070
+You came in for the free wheel balance
+
+108
+00:05:16,149 --> 00:05:18,319
+and now it's costing you 500 simoleans.
+
+109
+00:05:18,401 --> 00:05:19,901
+Six with the tip.
+
+110
+00:05:19,986 --> 00:05:21,356
+Hey, you got off easy.
+
+111
+00:05:21,446 --> 00:05:22,656
+I just came in to use the phone
+
+112
+00:05:22,739 --> 00:05:25,029
+and they got me for the whole
+road king package...
+
+113
+00:05:25,116 --> 00:05:28,326
+alignment, shocks, armor all, stem lube.
+
+114
+00:05:28,411 --> 00:05:30,411
+(chuckling) Stem lube.
+
+115
+00:05:30,496 --> 00:05:34,076
+Even I didn't fall for that
+although winter is coming.
+
+116
+00:05:34,167 --> 00:05:38,167
+Man, we are a couple of
+grade A suckers. (chuckles)
+
+117
+00:05:38,254 --> 00:05:39,514
+Wally Kogen.
+
+118
+00:05:39,589 --> 00:05:41,339
+Hey, I know you.
+
+119
+00:05:41,424 --> 00:05:43,264
+We were in the same pyramid scheme.
+
+120
+00:05:43,343 --> 00:05:44,843
+Oh, don't remind me.
+
+121
+00:05:44,927 --> 00:05:47,557
+Friends helping friends, my ass.
+
+122
+00:05:47,972 --> 00:05:50,022
+Say, you want to grab a beer
+while we're waiting?
+
+123
+00:05:50,099 --> 00:05:50,929
+Yeah.
+
+124
+00:05:51,017 --> 00:05:53,057
+I'm getting tired of them
+pointing and laughing at us.
+
+125
+00:05:53,144 --> 00:05:55,194
+(all laughing)
+
+126
+00:05:57,190 --> 00:06:00,440
+COMMENTATOR: <i>The road to the Super Bowl</i>
+<i>is long and pointless.</i>
+
+127
+00:06:00,526 --> 00:06:02,276
+<i>I mean, when you think about it...</i>
+
+128
+00:06:02,362 --> 00:06:03,742
+(chuckles)
+
+129
+00:06:03,821 --> 00:06:05,201
+Football's so great.
+
+130
+00:06:05,531 --> 00:06:07,581
+COMMENTATOR: <i>But now,</i>
+<i>the two conference champs</i>
+
+131
+00:06:07,658 --> 00:06:09,738
+<i>must survive a harrowing bye week</i>
+
+132
+00:06:09,827 --> 00:06:11,037
+<i>that no one enjoys.</i>
+
+133
+00:06:18,461 --> 00:06:21,801
+Bye weeks. Bronko Nagurski
+didn't get no bye weeks,
+
+134
+00:06:21,881 --> 00:06:23,051
+and now he's dead.
+
+135
+00:06:24,008 --> 00:06:25,388
+Well, maybe they're a good thing.
+
+136
+00:06:25,468 --> 00:06:27,298
+Yeah, how about that Super Bowl?
+
+137
+00:06:27,387 --> 00:06:28,217
+You going this year?
+
+138
+00:06:28,304 --> 00:06:29,604
+Me? Nah.
+
+139
+00:06:29,680 --> 00:06:33,060
+(gasps) Unless there's a coupon
+for it! Nah.
+
+140
+00:06:33,142 --> 00:06:35,732
+Well, I run the Springfield Travel Agency.
+
+141
+00:06:36,229 --> 00:06:38,609
+{\an8}We've got a charter bus
+going down to the game.
+
+142
+00:06:38,689 --> 00:06:40,569
+You help us fill it,
+you can ride for free.
+
+143
+00:06:40,650 --> 00:06:43,650
+Homer Simpson at the Super Bowl?
+
+144
+00:06:44,612 --> 00:06:45,612
+(crowd cheering)
+
+145
+00:06:45,696 --> 00:06:46,526
+Dang.
+
+146
+00:06:46,614 --> 00:06:49,164
+That was my last quarterback.
+Now what am I gonna do?
+
+147
+00:06:49,617 --> 00:06:50,447
+You.
+
+148
+00:06:50,910 --> 00:06:52,450
+-Me?
+-Yeah, you.
+
+149
+00:06:52,537 --> 00:06:54,037
+Get your hand off my wife's leg.
+
+150
+00:06:54,122 --> 00:06:54,962
+Sorry.
+
+151
+00:06:56,999 --> 00:06:58,419
+It's a deal.
+
+152
+00:06:58,501 --> 00:07:01,631
+Hey, Moe, you wanna come with me and Wally
+to the Super Bowl?
+
+153
+00:07:01,712 --> 00:07:03,972
+Oh, absolutely. My favorite team's in it!
+
+154
+00:07:04,048 --> 00:07:06,048
+The Atlanta Falcons.
+
+155
+00:07:06,801 --> 00:07:09,721
+Yeah, every since I was a boy,
+I've always loved
+
+156
+00:07:09,804 --> 00:07:11,264
+the Atlanta Falcons.
+
+157
+00:07:11,347 --> 00:07:13,177
+Yeah, they're good
+but I wouldn't count out the...
+
+158
+00:07:13,599 --> 00:07:14,729
+Denver Broncos.
+
+159
+00:07:15,101 --> 00:07:18,311
+Yeah, I hear that President... Clinton
+
+160
+00:07:18,396 --> 00:07:21,476
+is gonna be watching
+with his wife... Hillary.
+
+161
+00:07:24,694 --> 00:07:25,534
+Come on, Lenny,
+
+162
+00:07:25,611 --> 00:07:27,781
+I need four more guys
+to fill my Super Bowl bus.
+
+163
+00:07:27,864 --> 00:07:28,704
+What do you say?
+
+164
+00:07:28,781 --> 00:07:30,741
+-LENNY (whining): <i>Nah.</i>
+-Come on...
+
+165
+00:07:30,825 --> 00:07:33,195
+-LENNY (whining): <i>Nah.</i>
+-Come on!
+
+166
+00:07:33,286 --> 00:07:35,906
+-LENNY (whining): <i>Nah.</i>
+-Oh, come on.
+
+167
+00:07:35,997 --> 00:07:37,247
+-LENNY: <i>Ah...</i>
+-Yes!
+
+168
+00:07:37,790 --> 00:07:40,750
+Now that Lenny's in
+Carl will fall like a domino.
+
+169
+00:07:40,835 --> 00:07:43,375
+I'm so happy you're going to the big game.
+
+170
+00:07:43,463 --> 00:07:47,973
+My dream has always been
+to see the Bolshoi Ballet.
+
+171
+00:07:48,050 --> 00:07:50,300
+Yeah, yeah. Do we have
+any pencils that work?
+
+172
+00:07:50,386 --> 00:07:53,096
+Wow, you've signed up
+quite a few people, Dad...
+
+173
+00:07:53,181 --> 00:07:55,141
+the Sea Captain, Bumblebee man,
+
+174
+00:07:55,224 --> 00:07:57,604
+comic-book guy, the squeaky-voiced teen...
+
+175
+00:07:57,685 --> 00:07:59,055
+Yeah, it's a good group.
+
+176
+00:08:01,481 --> 00:08:02,901
+I gotta hand it to you, Homer.
+
+177
+00:08:02,982 --> 00:08:04,322
+It's really a good group.
+
+178
+00:08:04,400 --> 00:08:06,570
+Yeah. Not a dame in sight.
+
+179
+00:08:06,652 --> 00:08:08,492
+Oh, thank God.
+
+180
+00:08:08,571 --> 00:08:10,241
+Now we can stop holding it in.
+
+181
+00:08:10,323 --> 00:08:14,083
+(all sighing)
+
+182
+00:08:15,536 --> 00:08:17,406
+All aboard for Miami.
+
+183
+00:08:17,497 --> 00:08:18,327
+(all groaning)
+
+184
+00:08:18,414 --> 00:08:20,544
+I don't know if I can last that long.
+
+185
+00:08:22,627 --> 00:08:25,707
+Super Bowl, please, and step on it!
+
+186
+00:08:25,796 --> 00:08:28,336
+(all cheering)
+
+187
+00:08:28,424 --> 00:08:29,264
+Hey, wait up.
+
+188
+00:08:29,342 --> 00:08:31,682
+Ah, crap. It's that pip-squeak Rudy.
+
+189
+00:08:31,761 --> 00:08:33,261
+(panting)
+
+190
+00:08:33,888 --> 00:08:35,098
+What is it, Rudy?
+
+191
+00:08:35,181 --> 00:08:36,181
+Can I come, too?
+
+192
+00:08:36,265 --> 00:08:37,425
+Forget it, kid.
+
+193
+00:08:37,517 --> 00:08:39,887
+You're too small to go to the Super Bowl.
+
+194
+00:08:39,977 --> 00:08:42,057
+But what I lack in size,
+I make up for in...
+
+195
+00:08:43,022 --> 00:08:45,112
+obnoxiousness. (grunts)
+
+196
+00:08:45,191 --> 00:08:47,861
+(all cheering)
+
+197
+00:08:52,490 --> 00:08:53,700
+("Wild Weekend" by NRBQ playing)
+
+198
+00:08:53,783 --> 00:08:55,413
+<i>♪ Hey, boys it's a wild weekend ♪</i>
+
+199
+00:08:55,493 --> 00:08:56,333
+-(raucous laughter)
+-Whoo!
+
+200
+00:08:56,410 --> 00:08:59,160
+<i>♪ We did it then and we'll do it again ♪</i>
+
+201
+00:08:59,247 --> 00:09:03,037
+Well, sports fans, I see
+you've located the beer supply,
+
+202
+00:09:03,125 --> 00:09:06,125
+so let's all enjoy it in moderation.
+
+203
+00:09:06,212 --> 00:09:07,132
+MAN: Boo!
+
+204
+00:09:07,713 --> 00:09:09,803
+Hey, don't make me come back there.
+
+205
+00:09:10,216 --> 00:09:12,636
+Seriously, now, if you have any questions,
+
+206
+00:09:12,718 --> 00:09:15,178
+just ask our team leader, Homer Simpson.
+
+207
+00:09:15,263 --> 00:09:17,853
+(singing drunkenly)
+
+208
+00:09:17,932 --> 00:09:20,392
+Or me. Be-- Better ask me.
+
+209
+00:09:23,271 --> 00:09:24,111
+(sighs)
+
+210
+00:09:24,188 --> 00:09:27,398
+It's so nice to have
+a peaceful weekend together.
+
+211
+00:09:27,483 --> 00:09:29,033
+Yeah, I'm bored, too.
+
+212
+00:09:29,110 --> 00:09:30,240
+Mm-hmm.
+
+213
+00:09:30,319 --> 00:09:32,949
+Hey, why don't we do
+one of those craft kits
+
+214
+00:09:33,030 --> 00:09:34,450
+Aunt Patty always gives us?
+
+215
+00:09:36,534 --> 00:09:40,004
+Hmm... ooh, how about Paint-By-Numbers?
+
+216
+00:09:40,079 --> 00:09:41,869
+It's so rigid and uncreative.
+
+217
+00:09:41,956 --> 00:09:43,286
+{\an8}OK.
+
+218
+00:09:43,374 --> 00:09:44,884
+{\an8}Oh, Leather Craft.
+
+219
+00:09:44,959 --> 00:09:47,549
+{\an8}Oh! Those poor, helpless cows.
+
+220
+00:09:48,004 --> 00:09:49,714
+{\an8}Mm-hmm. What about Clay?
+
+221
+00:09:49,797 --> 00:09:51,877
+{\an8}You got any problem with Clay?
+
+222
+00:09:51,966 --> 00:09:54,086
+Hey, what's this? (blows)
+
+223
+00:09:54,176 --> 00:09:56,716
+"Vincent Price's Egg Magic."
+
+224
+00:09:56,804 --> 00:09:58,684
+Well, what are we waiting for?
+
+225
+00:10:00,057 --> 00:10:02,137
+Keep-away Lovejoy's collar.
+
+226
+00:10:03,269 --> 00:10:05,399
+(all laughing)
+
+227
+00:10:05,479 --> 00:10:07,269
+Now look what you've done.
+
+228
+00:10:07,356 --> 00:10:08,606
+All right, all right,
+
+229
+00:10:08,691 --> 00:10:11,651
+you guys have had way too much booze.
+
+230
+00:10:11,736 --> 00:10:13,066
+Last call.
+
+231
+00:10:13,154 --> 00:10:14,614
+(clamoring)
+
+232
+00:10:16,782 --> 00:10:18,742
+Come on, come on, give me an excuse.
+
+233
+00:10:21,203 --> 00:10:24,123
+Pro player stadium, Super Bowl.
+
+234
+00:10:24,206 --> 00:10:27,036
+(all cheering)
+
+235
+00:10:32,298 --> 00:10:33,168
+(bleating)
+
+236
+00:10:33,257 --> 00:10:34,927
+(chuckles) I'm sorry.
+
+237
+00:10:35,009 --> 00:10:37,509
+The guys made kind of a mess
+in your bathroom.
+
+238
+00:10:37,595 --> 00:10:38,925
+What bathroom?
+
+239
+00:10:39,013 --> 00:10:42,313
+Uh, OK, fellas, enjoy the pre-game fun.
+
+240
+00:10:42,391 --> 00:10:44,231
+I don't wanna be a panicky Pete,
+
+241
+00:10:44,310 --> 00:10:46,850
+but it's Sunday and I haven't
+been to church yet.
+
+242
+00:10:46,937 --> 00:10:50,067
+No problem. The NFL's got you covered.
+
+243
+00:10:50,149 --> 00:10:52,359
+...and that the wandering Oakland Raiders
+
+244
+00:10:52,443 --> 00:10:53,903
+may someday find a home.
+
+245
+00:10:54,236 --> 00:10:57,656
+Lord, hear our prayer.
+Can I get an amen to that?
+
+246
+00:10:57,740 --> 00:10:58,870
+ALL: Amen.
+
+247
+00:11:00,034 --> 00:11:02,504
+Cool! The NFL's oldest surviving player.
+
+248
+00:11:02,578 --> 00:11:05,868
+I'm 53 years young.
+
+249
+00:11:06,207 --> 00:11:07,167
+Ugh.
+
+250
+00:11:07,667 --> 00:11:08,497
+MAN: Whoo!
+
+251
+00:11:08,584 --> 00:11:09,884
+Hey, Troy Aikman.
+
+252
+00:11:10,920 --> 00:11:12,880
+So, Ned, you like dune buggies?
+
+253
+00:11:12,963 --> 00:11:15,303
+Well... (giggles) not my cup of...
+
+254
+00:11:15,383 --> 00:11:16,513
+Sure, you do.
+
+255
+00:11:16,592 --> 00:11:18,182
+Everyone likes dune buggies.
+
+256
+00:11:21,472 --> 00:11:22,642
+(grunts)
+
+257
+00:11:22,723 --> 00:11:24,563
+Great spiral, Daniel.
+
+258
+00:11:25,393 --> 00:11:26,693
+Man, that hurts.
+
+259
+00:11:26,769 --> 00:11:28,149
+Excuse me. Coming through.
+
+260
+00:11:28,229 --> 00:11:29,359
+Friends of Dan Marino.
+
+261
+00:11:29,438 --> 00:11:31,358
+OK, Dan, fire away.
+
+262
+00:11:31,440 --> 00:11:35,190
+(scoffs) I'm Dan's manager. This is Dan.
+
+263
+00:11:35,277 --> 00:11:36,397
+Go long, son.
+
+264
+00:11:36,487 --> 00:11:37,317
+Yes, sir.
+
+265
+00:11:40,991 --> 00:11:42,951
+(whimpering)
+
+266
+00:11:43,035 --> 00:11:45,155
+I'm catching a pass from Dan Marino.
+
+267
+00:11:45,246 --> 00:11:46,536
+This is the greatest moment of my--
+
+268
+00:11:46,622 --> 00:11:48,962
+Whoo-hoo! Homer Simpson with a pick!
+
+269
+00:11:49,041 --> 00:11:51,631
+Hey, Bubba, Hacksaw, get that moron.
+
+270
+00:11:52,211 --> 00:11:53,251
+(growling)
+
+271
+00:11:53,337 --> 00:11:54,917
+Uh-oh. Lateral to Bart!
+
+272
+00:11:55,005 --> 00:11:56,005
+(growling)
+
+273
+00:11:56,090 --> 00:11:57,340
+(screams)
+
+274
+00:11:57,425 --> 00:11:58,505
+-(cracking)
+-HOMER: My spine.
+
+275
+00:12:03,139 --> 00:12:06,479
+Oh, honey, that is egg-ceptional.
+
+276
+00:12:06,559 --> 00:12:08,729
+(giggling)
+
+277
+00:12:08,811 --> 00:12:11,651
+OK, now we just have to stick
+the feet on.
+
+278
+00:12:11,731 --> 00:12:14,731
+Right. Now... hmm.
+
+279
+00:12:14,817 --> 00:12:18,107
+Lisa, I don't want to alarm you
+but I'm not finding any.
+
+280
+00:12:18,195 --> 00:12:19,905
+{\an8}But it clearly says feet included.
+
+281
+00:12:19,989 --> 00:12:21,119
+They have to be here.
+
+282
+00:12:21,198 --> 00:12:23,158
+No, nothing.
+
+283
+00:12:23,617 --> 00:12:25,117
+I can't believe Vincent Price
+
+284
+00:12:25,202 --> 00:12:27,252
+would lend his name
+to such a shoddy product.
+
+285
+00:12:27,329 --> 00:12:28,659
+Now what do we do?
+
+286
+00:12:28,748 --> 00:12:29,998
+Let's call the company.
+
+287
+00:12:30,082 --> 00:12:32,332
+Mom, this was made in 1967.
+
+288
+00:12:32,418 --> 00:12:33,788
+They're probably out of business.
+
+289
+00:12:33,878 --> 00:12:35,668
+Well, we'll just see.
+
+290
+00:12:35,755 --> 00:12:39,175
+Murray Hill, 5-9-2-3-2.
+
+291
+00:12:39,258 --> 00:12:40,628
+(telephone ringing)
+
+292
+00:12:40,718 --> 00:12:42,928
+VINCENT (over telephone):
+<i>Hello. This is Vincent Price.</i>
+
+293
+00:12:43,012 --> 00:12:44,722
+(gasps) It's Vincent Price.
+
+294
+00:12:44,805 --> 00:12:46,015
+I thought he was dead.
+
+295
+00:12:46,098 --> 00:12:49,098
+VINCENT: <i>You should know</i>
+<i>the grave could never tame me.</i>
+
+296
+00:12:49,185 --> 00:12:50,595
+<i>(ghoulish laugh)</i>
+
+297
+00:12:50,686 --> 00:12:54,896
+Oh, Mr. Price, I loved you
+in the <i>Abominable Doct--</i>
+
+298
+00:12:54,982 --> 00:12:56,862
+VINCENT: <i>If you are calling</i>
+<i>about the missing feet,</i>
+
+299
+00:12:56,942 --> 00:12:59,402
+<i>leave your address</i>
+<i>and the replacement feet</i>
+
+300
+00:12:59,487 --> 00:13:02,527
+<i>will be rushed to you by my grandson Jody.</i>
+
+301
+00:13:02,615 --> 00:13:04,325
+<i>And now, I must return</i>
+
+302
+00:13:04,408 --> 00:13:06,578
+<i>to the sweet embrace of the crypt,</i>
+
+303
+00:13:06,660 --> 00:13:07,790
+<i>but I'll be back.</i>
+
+304
+00:13:07,870 --> 00:13:09,790
+<i>(ghoulish laugh)</i>
+
+305
+00:13:09,872 --> 00:13:11,922
+So, is he alive or not?
+
+306
+00:13:11,999 --> 00:13:15,999
+-(beep)
+-742 Evergreen Terrace, Springfield.
+
+307
+00:13:16,086 --> 00:13:17,166
+Oh, hiya, Maude.
+
+308
+00:13:17,254 --> 00:13:18,264
+Come on in.
+
+309
+00:13:21,550 --> 00:13:23,890
+Who needs tickets? Tickets right here.
+
+310
+00:13:23,969 --> 00:13:24,799
+How about you, slick?
+
+311
+00:13:24,887 --> 00:13:27,637
+Scalping tickets to the Super Bowl.
+
+312
+00:13:27,723 --> 00:13:29,433
+Have you no shame, sir?
+
+313
+00:13:29,517 --> 00:13:31,187
+I should give you a royal caning.
+
+314
+00:13:31,268 --> 00:13:34,438
+(cheering in agreement)
+
+315
+00:13:34,522 --> 00:13:36,772
+Hey, hey, I'm just trying to make
+an honest buck.
+
+316
+00:13:36,857 --> 00:13:40,187
+Ah, get lost, you bloodsucking parasite.
+
+317
+00:13:40,277 --> 00:13:42,027
+Wally and I have all the tickets we need.
+
+318
+00:13:42,488 --> 00:13:46,198
+Uh, sorry, fellas,
+but these tickets are counterfeit.
+
+319
+00:13:46,283 --> 00:13:48,163
+-What?
+-Counterfeit?
+
+320
+00:13:48,244 --> 00:13:49,954
+Yeah, see, the hologram's missing,
+
+321
+00:13:50,037 --> 00:13:52,667
+and there's no such team as The Spungos,
+
+322
+00:13:52,748 --> 00:13:56,588
+and finally, these seem to be
+printed on some sort of cracker.
+
+323
+00:13:57,002 --> 00:13:58,752
+Stop eating our tickets!
+
+324
+00:13:58,838 --> 00:14:01,758
+Oh, how could I fall for fake tickets?
+
+325
+00:14:02,216 --> 00:14:04,466
+Gee, the fellas are gonna be crestfallen.
+
+326
+00:14:04,844 --> 00:14:07,514
+Yes, if by "crestfallen,"
+you mean "kill us."
+
+327
+00:14:07,596 --> 00:14:08,716
+Listen, let me talk to them.
+
+328
+00:14:08,806 --> 00:14:10,056
+Maybe I can smooth this over.
+
+329
+00:14:10,432 --> 00:14:12,142
+(sweetly) My friends...
+
+330
+00:14:12,226 --> 00:14:13,636
+They don't have the tickets!
+
+331
+00:14:13,727 --> 00:14:14,937
+-Kill 'em!
+-(all shouting)
+
+332
+00:14:15,020 --> 00:14:16,560
+Please, my friends... Ow!
+
+333
+00:14:16,647 --> 00:14:18,477
+All right! I'll get you into the game!
+
+334
+00:14:20,359 --> 00:14:23,739
+Excuse me, uh... Mr. Scalper, sir.
+
+335
+00:14:23,821 --> 00:14:25,531
+Have I told you that I love you?
+
+336
+00:14:25,614 --> 00:14:26,494
+Forget it.
+
+337
+00:14:26,574 --> 00:14:28,874
+You'll just hurt me like all the others.
+
+338
+00:14:28,951 --> 00:14:31,411
+OK, Moe, I believe
+you had me by the throat.
+
+339
+00:14:31,495 --> 00:14:33,575
+Reverend Lovejoy was working the body.
+
+340
+00:14:33,664 --> 00:14:35,374
+Wait. Dad, look.
+
+341
+00:14:36,917 --> 00:14:38,247
+Hello.
+
+342
+00:14:38,335 --> 00:14:40,205
+Gentlemen, I have an idea.
+
+343
+00:14:42,756 --> 00:14:43,916
+(grunts) Run!
+
+344
+00:14:44,008 --> 00:14:46,298
+(cheering and hooting)
+
+345
+00:14:46,927 --> 00:14:48,007
+-OFFICER: Get back here!
+-(whistling)
+
+346
+00:14:48,095 --> 00:14:50,175
+We can still make the kickoff!
+
+347
+00:14:50,264 --> 00:14:51,814
+Here comes the kick!
+
+348
+00:14:51,891 --> 00:14:55,271
+(yell crescendos)
+
+349
+00:14:55,352 --> 00:14:56,402
+Ow!
+
+350
+00:14:56,478 --> 00:14:58,228
+Yay!
+
+351
+00:14:58,314 --> 00:15:00,614
+As a doctor, I'd say he's had enough...
+
+352
+00:15:00,983 --> 00:15:02,863
+but as a football fan...
+
+353
+00:15:02,943 --> 00:15:06,073
+-(yell crescendos)
+-Aaah!
+
+354
+00:15:07,740 --> 00:15:10,200
+(wind whistling)
+
+355
+00:15:21,003 --> 00:15:22,173
+(honks)
+
+356
+00:15:22,254 --> 00:15:26,884
+(ZZ Top's "Legs" playing)
+
+357
+00:15:38,312 --> 00:15:39,272
+MAN: <i>The church...</i>
+
+358
+00:15:39,355 --> 00:15:41,685
+<i>we've made a few changes.</i>
+
+359
+00:15:43,525 --> 00:15:46,105
+These Super Bowl commercials are weird.
+
+360
+00:15:46,195 --> 00:15:48,605
+MAN: <i>Just about ready</i>
+<i>for the second quarter here in Miami.</i>
+
+361
+00:15:48,697 --> 00:15:49,567
+I tell you, Pat,
+
+362
+00:15:49,657 --> 00:15:51,947
+that wild first quarter
+blew out my telestrator,
+
+363
+00:15:52,034 --> 00:15:53,704
+and now the fans are screaming for more.
+
+364
+00:15:53,786 --> 00:15:55,656
+(screaming)
+
+365
+00:15:55,746 --> 00:15:57,156
+Let us out of here!
+
+366
+00:15:57,247 --> 00:15:58,917
+Relax, Simpson, relax.
+
+367
+00:15:58,999 --> 00:16:00,919
+A little-known fact about jail cells
+
+368
+00:16:01,001 --> 00:16:04,631
+is they always have one phony bar
+for, like, emergencies.
+
+369
+00:16:05,172 --> 00:16:08,632
+Real, real, real, real, real.
+
+370
+00:16:08,717 --> 00:16:10,927
+So, by the process of elimination,
+
+371
+00:16:11,011 --> 00:16:12,301
+this one is the fake.
+
+372
+00:16:13,263 --> 00:16:15,723
+(yells) Ah, that's painful.
+
+373
+00:16:15,808 --> 00:16:17,638
+(crowd cheering on TV)
+
+374
+00:16:17,726 --> 00:16:20,556
+Ah, nuts. That sounds like a touchdown.
+
+375
+00:16:20,646 --> 00:16:21,766
+(all groaning)
+
+376
+00:16:21,855 --> 00:16:23,725
+No, no, no. I know my roars,
+
+377
+00:16:23,816 --> 00:16:26,186
+and that was most definitely a safety.
+
+378
+00:16:26,276 --> 00:16:27,356
+(groaning)
+
+379
+00:16:27,444 --> 00:16:28,284
+Man.
+
+380
+00:16:28,362 --> 00:16:30,822
+Gosh, fellas, to see you all stuck in here
+
+381
+00:16:30,906 --> 00:16:33,616
+when even guys in China
+can watch all the action
+
+382
+00:16:33,701 --> 00:16:36,001
+from their town squares or what have you,
+
+383
+00:16:36,078 --> 00:16:39,248
+well, I just feel pretty doggone bad.
+
+384
+00:16:39,331 --> 00:16:41,211
+If they were electing
+a president of Dumbville,
+
+385
+00:16:41,291 --> 00:16:42,961
+I'd have to nominate me.
+
+386
+00:16:43,043 --> 00:16:44,093
+You got my vote.
+
+387
+00:16:44,169 --> 00:16:45,749
+Oh, we're never going to get out of...
+
+388
+00:16:46,755 --> 00:16:48,125
+Psst! Cleaning lady!
+
+389
+00:16:48,549 --> 00:16:49,839
+Would you let us out of here?
+
+390
+00:16:49,925 --> 00:16:52,505
+Me? I'm Dolly Parton.
+
+391
+00:16:52,594 --> 00:16:54,224
+I didn't ask for your life story,
+just the key.
+
+392
+00:16:54,304 --> 00:16:58,184
+Young man, where I come from,
+the South, folks say "please,"
+
+393
+00:16:58,267 --> 00:17:00,187
+and besides, I got to go sing a medley
+
+394
+00:17:00,269 --> 00:17:01,849
+with Rob Lowe and Stomp.
+
+395
+00:17:02,521 --> 00:17:03,401
+Dolly, wait!
+
+396
+00:17:03,480 --> 00:17:04,480
+Wally?
+
+397
+00:17:04,565 --> 00:17:06,395
+You know Dolly Parton?
+
+398
+00:17:06,483 --> 00:17:08,743
+Yeah. I book a lot of package tours
+to Dollywood
+
+399
+00:17:08,819 --> 00:17:10,069
+and Euro-Dollywood.
+
+400
+00:17:10,154 --> 00:17:11,074
+That's in Alabama.
+
+401
+00:17:11,155 --> 00:17:12,525
+Wally Kogen,
+
+402
+00:17:12,614 --> 00:17:15,284
+what are you doing in Super Bowl jail?
+
+403
+00:17:15,367 --> 00:17:17,037
+Ask her if she'll go out with me.
+
+404
+00:17:17,119 --> 00:17:19,199
+We had a little ticket snafu.
+
+405
+00:17:19,288 --> 00:17:21,498
+Do you think you can bust
+old Wally and his pals
+
+406
+00:17:21,582 --> 00:17:22,422
+out of the pokey?
+
+407
+00:17:22,499 --> 00:17:23,919
+Well, I do have
+
+408
+00:17:24,001 --> 00:17:26,301
+some of my extra-strength makeup remover.
+
+409
+00:17:26,378 --> 00:17:27,588
+Uh, shield your eyes.
+
+410
+00:17:29,465 --> 00:17:31,255
+(sizzling)
+
+411
+00:17:32,301 --> 00:17:34,091
+(all cheering)
+
+412
+00:17:34,178 --> 00:17:35,678
+Oh, thanks, Miss Parton.
+
+413
+00:17:35,763 --> 00:17:37,513
+Oh, way to go, Dolly.
+
+414
+00:17:37,598 --> 00:17:38,428
+-Thanks, babe.
+-Will you go out with me?
+
+415
+00:17:38,515 --> 00:17:40,015
+Ooh, look at the time.
+
+416
+00:17:40,100 --> 00:17:42,060
+I better scoot to that halftime show.
+
+417
+00:17:42,144 --> 00:17:43,274
+See y'all.
+
+418
+00:17:44,688 --> 00:17:47,018
+Oh, man, that's gonna be some show.
+
+419
+00:17:47,608 --> 00:17:50,738
+Who's ready for some football?
+
+420
+00:17:50,819 --> 00:17:52,489
+Football!
+
+421
+00:17:52,571 --> 00:17:53,821
+(cheering)
+
+422
+00:17:53,906 --> 00:17:55,366
+("Song 2" by Blur playing)
+
+423
+00:18:00,996 --> 00:18:03,416
+Hey, Homer, we've been running around
+cheering for an hour.
+
+424
+00:18:03,499 --> 00:18:04,499
+Where the hell's the game?
+
+425
+00:18:04,583 --> 00:18:06,793
+-Yeah, where's the game?
+-BART: Yeah, where's the game?
+
+426
+00:18:06,877 --> 00:18:08,497
+You guys are following me?
+
+427
+00:18:08,587 --> 00:18:10,377
+I was following Flanders.
+
+428
+00:18:11,548 --> 00:18:12,968
+Hey, look what I found.
+
+429
+00:18:14,885 --> 00:18:15,925
+Whoo-hoo!
+
+430
+00:18:16,011 --> 00:18:18,721
+(crowd cheering)
+
+431
+00:18:20,724 --> 00:18:21,564
+Hey.
+
+432
+00:18:23,227 --> 00:18:25,097
+-Hey, somebody just scored.
+-HOMER: In a minute.
+
+433
+00:18:25,187 --> 00:18:28,107
+(all chattering)
+
+434
+00:18:28,190 --> 00:18:29,270
+(helicopter whirring)
+
+435
+00:18:29,358 --> 00:18:31,398
+HOMER: Hey, it's the beer copter!
+
+436
+00:18:37,783 --> 00:18:38,783
+What the bloody hell?
+
+437
+00:18:38,867 --> 00:18:42,367
+Hit the road, gramps.
+This is a private sky box.
+
+438
+00:18:42,454 --> 00:18:44,714
+I'm Rupert Murdoch,
+the billionaire tyrant,
+
+439
+00:18:44,790 --> 00:18:46,420
+and this is my sky box.
+
+440
+00:18:46,500 --> 00:18:48,790
+If you're Rupert Murdoch, prove it.
+
+441
+00:18:48,877 --> 00:18:50,747
+(whispering)
+
+442
+00:18:51,505 --> 00:18:53,335
+(20th Century Fox Fanfare)
+
+443
+00:18:53,882 --> 00:18:55,592
+CROWD: Hi, Rupert!
+
+444
+00:18:55,676 --> 00:18:57,176
+ALL: Uh-oh.
+
+445
+00:18:57,261 --> 00:18:58,641
+Well, I'm convinced.
+
+446
+00:18:58,720 --> 00:19:00,220
+Tell you what, Mr. Murdoch,
+
+447
+00:19:00,305 --> 00:19:01,805
+let's just split the difference.
+
+448
+00:19:01,890 --> 00:19:04,270
+The boys and I will just
+crouch here quietly
+
+449
+00:19:04,351 --> 00:19:05,731
+and take it easy on the snacks...
+
+450
+00:19:05,811 --> 00:19:06,691
+Silence!
+
+451
+00:19:08,021 --> 00:19:09,021
+Seize them!
+
+452
+00:19:09,106 --> 00:19:11,436
+(terrified yelling)
+
+453
+00:19:13,735 --> 00:19:15,645
+Oi! Oi! Oi! Oi! Oi! Oi!
+
+454
+00:19:15,737 --> 00:19:17,867
+(crowd cheering)
+
+455
+00:19:17,948 --> 00:19:19,488
+The game! We're so close.
+
+456
+00:19:19,575 --> 00:19:21,115
+Follow me, boys!
+
+457
+00:19:21,201 --> 00:19:24,251
+We're finally going to the Super... Ow!
+
+458
+00:19:24,329 --> 00:19:26,039
+We did it! We're number one!
+
+459
+00:19:26,123 --> 00:19:27,003
+We're rich!
+
+460
+00:19:27,082 --> 00:19:28,252
+How does it feel?
+
+461
+00:19:28,333 --> 00:19:29,423
+Did you ever stop believing?
+
+462
+00:19:29,501 --> 00:19:30,881
+Does this suit make me look fat?
+
+463
+00:19:32,212 --> 00:19:34,212
+Players and VIPs only.
+
+464
+00:19:34,298 --> 00:19:35,968
+(reporters groaning)
+
+465
+00:19:36,049 --> 00:19:38,339
+(cheering)
+
+466
+00:19:38,427 --> 00:19:39,637
+I can't believe it!
+
+467
+00:19:39,720 --> 00:19:41,850
+We're actually in the winning locker room.
+
+468
+00:19:41,930 --> 00:19:44,140
+Whoo! I'm going to Disneyland.
+
+469
+00:19:44,224 --> 00:19:46,444
+Really? Cause I'm a travel agent
+
+470
+00:19:46,518 --> 00:19:48,648
+and I've heard nothing but bad things.
+
+471
+00:19:49,771 --> 00:19:51,021
+(grunting)
+
+472
+00:19:54,151 --> 00:19:55,491
+(phone ringing)
+
+473
+00:19:55,569 --> 00:19:56,399
+Y'ello.
+
+474
+00:19:56,486 --> 00:19:58,276
+Uh, hello, this is President Clinton.
+
+475
+00:19:58,363 --> 00:19:59,623
+Hey, how you doing?
+
+476
+00:19:59,698 --> 00:20:01,488
+You know, your determination and grit
+
+477
+00:20:01,575 --> 00:20:04,075
+under extreme pressure are an inspiration.
+
+478
+00:20:04,453 --> 00:20:06,163
+The whole country is proud of you.
+
+479
+00:20:06,246 --> 00:20:08,116
+Well, it's about time.
+
+480
+00:20:08,207 --> 00:20:10,457
+And on behalf of America, I'd like to--
+
+481
+00:20:10,542 --> 00:20:11,422
+Ow!
+
+482
+00:20:11,501 --> 00:20:13,551
+(laughing) Oh! All right, Lovejoy.
+
+483
+00:20:13,629 --> 00:20:14,759
+You're gonna get it.
+
+484
+00:20:14,838 --> 00:20:16,378
+Hello? Hello?
+
+485
+00:20:16,465 --> 00:20:17,965
+I command you to answer me!
+
+486
+00:20:18,050 --> 00:20:19,090
+Hello?
+
+487
+00:20:19,551 --> 00:20:21,761
+Al, do you have to do that right now?
+
+488
+00:20:24,848 --> 00:20:27,428
+What are you gonna do
+with your Super Bowl ring, Carl?
+
+489
+00:20:27,517 --> 00:20:28,937
+I'll probably give it to my wife.
+
+490
+00:20:29,019 --> 00:20:30,149
+It's our anniversary today.
+
+491
+00:20:30,229 --> 00:20:31,649
+ALL: Ah!
+
+492
+00:20:31,730 --> 00:20:33,150
+Dad, that doesn't belong to you.
+
+493
+00:20:33,232 --> 00:20:35,532
+But this might be my last chance
+to win one.
+
+494
+00:20:35,609 --> 00:20:38,529
+Well, we sure put together
+a heck of a trip, Homer.
+
+495
+00:20:38,612 --> 00:20:40,112
+Ever thought about being a travel agent?
+
+496
+00:20:40,197 --> 00:20:42,567
+Wally, I'd be lying if I said I hadn't.
+
+497
+00:20:42,658 --> 00:20:45,868
+Cause you can really "go places"
+in the travel business.
+
+498
+00:20:45,953 --> 00:20:47,123
+(laughs)
+
+499
+00:20:47,204 --> 00:20:48,714
+Feel free to use that one.
+
+500
+00:20:48,789 --> 00:20:49,669
+What one?
+
+501
+00:20:52,960 --> 00:20:55,250
+Well, John, what did you think
+of tonight's episode?
+
+502
+00:20:55,337 --> 00:20:56,257
+I loved it.
+
+503
+00:20:56,338 --> 00:20:58,838
+The last-minute addition
+of Wally Kogen to the lineup
+
+504
+00:20:58,924 --> 00:21:01,434
+was a bit of a gamble,
+but it really paid off.
+
+505
+00:21:01,510 --> 00:21:03,890
+Marge and Lisa painting eggs?
+
+506
+00:21:03,971 --> 00:21:04,811
+Did that work for you?
+
+507
+00:21:04,888 --> 00:21:06,178
+Oh, big time.
+
+508
+00:21:06,265 --> 00:21:08,765
+They came off the bench with a huge effort
+
+509
+00:21:08,850 --> 00:21:11,980
+that allowed Homer and Bart
+to make some significant gains.
+
+510
+00:21:12,062 --> 00:21:13,312
+Did it strike you as odd
+
+511
+00:21:13,397 --> 00:21:15,727
+that in a Super Bowl show
+with Dolly Parton,
+
+512
+00:21:15,816 --> 00:21:17,936
+we didn't see any football or singing?
+
+513
+00:21:18,026 --> 00:21:19,606
+I hadn't thought about it, Pat,
+
+514
+00:21:19,695 --> 00:21:21,735
+but in retrospect,
+it was kind of a rip-off.
+
+515
+00:21:21,822 --> 00:21:23,952
+What a way to treat the loyal fans
+
+516
+00:21:24,032 --> 00:21:27,042
+who put up with so much nonsense
+from this franchise.
+
+517
+00:21:27,119 --> 00:21:28,579
+Any final thoughts?
+
+518
+00:21:28,662 --> 00:21:29,662
+Nah, I'm too mad.
+
+519
+00:21:29,746 --> 00:21:30,826
+Let's get the heck out of here.
+
+520
+00:21:32,499 --> 00:21:33,959
+All aboard, boys.
+
+521
+00:21:34,042 --> 00:21:35,962
+I've been waiting for you.
+
+522
+00:21:36,461 --> 00:21:38,551
+Now, I'll tell you.
+That doesn't make a lick of sense.
+
+523
+00:21:38,630 --> 00:21:40,760
+I know. Just get on the bus.
+
+524
+00:21:40,841 --> 00:21:41,841
+(gears grinding)
+
+525
+00:21:41,925 --> 00:21:43,675
+VINCENT: Where's that infernal clutch?
+
+526
+00:21:44,303 --> 00:21:46,263
+Wait, wait. I'll get it.
+
+527
+00:21:46,638 --> 00:21:48,218
+JODY: Give it some gas, Grandpa.
+
+528
+00:21:48,307 --> 00:21:50,767
+VINCENT: Oh, quiet, Jody.
+You're not helping.
+
+529
+00:21:51,143 --> 00:21:52,393
+(gears grinding)
+
+530
+00:21:52,477 --> 00:21:54,187
+(rock music)
+
+531
+00:21:57,816 --> 00:22:00,736
+(theme music playing)
+
+532
+00:22:38,565 --> 00:22:39,435
+RUPERT MURDOCH: Silence!
+
+533
+00:22:42,778 --> 00:22:44,818
+{\an8}Captioned by
+Visual Data Media Services
+

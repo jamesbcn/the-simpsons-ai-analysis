@@ -1,0 +1,1734 @@
+﻿1
+00:00:02,919 --> 00:00:06,296
+<i>♪ The Simpsons ♪</i>
+
+2
+00:00:06,297 --> 00:00:09,383
+{\an8}[announcer] <i>It's the final lap
+at the Springfield Little Grand Prix,</i>
+
+3
+00:00:09,384 --> 00:00:12,302
+{\an8}<i>and the karts are tighter
+than a royal corgi's collar</i>
+
+4
+00:00:12,303 --> 00:00:14,430
+{\an8}<i>as they head into Lard Lad Turn!</i>
+
+5
+00:00:14,431 --> 00:00:15,598
+{\an8}[engines revving]
+
+6
+00:00:17,934 --> 00:00:19,268
+{\an8}<i>We have contact!</i>
+
+7
+00:00:19,269 --> 00:00:24,565
+{\an8}<i>Things are looking bloody grim for
+the rising star of KF-1, Kids Formula One,</i>
+
+8
+00:00:24,566 --> 00:00:25,734
+{\an8}<i>Lisa Simpson.</i>
+
+9
+00:00:26,484 --> 00:00:27,609
+{\an8}<i>Simpson spins out.</i>
+
+10
+00:00:27,610 --> 00:00:28,610
+{\an8}[all gasp]
+
+11
+00:00:28,611 --> 00:00:29,696
+{\an8}[tires squeal]
+
+12
+00:00:32,073 --> 00:00:33,782
+{\an8}[announcer] <i>Look at that icy calm.</i>
+
+13
+00:00:33,783 --> 00:00:38,078
+{\an8}<i>Clearly this pre-tween dynamo
+has never felt a modicum of unease</i>
+
+14
+00:00:38,079 --> 00:00:41,041
+{\an8}<i>in any automobile.</i>
+
+15
+00:00:41,791 --> 00:00:44,793
+{\an8}Dad, you're gonna hit the median!
+
+16
+00:00:44,794 --> 00:00:46,795
+{\an8}- All part of the plan.
+- [tires squeal]
+
+17
+00:00:46,796 --> 00:00:48,381
+{\an8}[Lisa screaming]
+
+18
+00:00:52,469 --> 00:00:54,970
+{\an8}[screaming]
+
+19
+00:00:54,971 --> 00:00:56,973
+{\an8}Bart, soccer practice. Go, go, go!
+
+20
+00:00:57,724 --> 00:00:58,724
+{\an8}[Bart] Whoa!
+
+21
+00:00:58,725 --> 00:01:02,061
+{\an8}Goal!
+
+22
+00:01:02,062 --> 00:01:05,231
+{\an8}Dad, please.
+You don't have to hurry like this.
+
+23
+00:01:06,441 --> 00:01:08,692
+{\an8}Cut me off? I cut you off!
+
+24
+00:01:08,693 --> 00:01:11,780
+{\an8}- [engine revs]
+- He didn't cut you off! He's just driving!
+
+25
+00:01:12,572 --> 00:01:17,744
+{\an8}Hope you like brakes
+because today it's all-you-can-eat, baby!
+
+26
+00:01:18,578 --> 00:01:19,579
+{\an8}[Lisa] Ah!
+
+27
+00:01:20,080 --> 00:01:25,292
+{\an8}Dad, stop brake checking him! [grunting]
+
+28
+00:01:25,293 --> 00:01:27,712
+{\an8}Speed bump, sweetie.
+We're gonna get a little air.
+
+29
+00:01:28,838 --> 00:01:30,089
+[groans]
+
+30
+00:01:30,090 --> 00:01:31,508
+[tires squeal]
+
+31
+00:01:32,759 --> 00:01:35,552
+Argh. I hate when we're early.
+
+32
+00:01:35,553 --> 00:01:39,932
+Mr. and Mrs. Simpson, as you know,
+Lisa has been feeling a lack of control,
+
+33
+00:01:39,933 --> 00:01:42,392
+which feeds her generalized anxiety.
+
+34
+00:01:42,393 --> 00:01:44,853
+I know. I know it's getting worse.
+
+35
+00:01:44,854 --> 00:01:48,273
+Her twitch jumped eyes.
+She used to be a righty.
+
+36
+00:01:48,274 --> 00:01:50,777
+Where will it jump next? [groans]
+
+37
+00:01:51,277 --> 00:01:53,905
+Mom, do you have to do that now?
+
+38
+00:01:54,531 --> 00:01:56,031
+I knit when I'm worried.
+
+39
+00:01:56,032 --> 00:02:01,411
+Marge is our family designated worrier,
+which frees me up to be the cool dad.
+
+40
+00:02:01,412 --> 00:02:04,082
+Plus, I get some awesome worry swag.
+
+41
+00:02:05,291 --> 00:02:07,876
+Marge made this when Bart
+swallowed a nine-volt battery,
+
+42
+00:02:07,877 --> 00:02:10,004
+and I had to track it with a stud finder.
+
+43
+00:02:12,340 --> 00:02:15,175
+Well... [clears throat]
+...I asked you both here today
+
+44
+00:02:15,176 --> 00:02:19,680
+because Lisa made a significant
+breakthrough at her last session.
+
+45
+00:02:19,681 --> 00:02:21,932
+Oh, that's wonderful.
+
+46
+00:02:21,933 --> 00:02:26,603
+Doctor, I can't thank you enough.
+[whimpers] This is such a relief.
+
+47
+00:02:26,604 --> 00:02:30,107
+Lisa, whatever it is
+that's causing your anxiety,
+
+48
+00:02:30,108 --> 00:02:32,943
+we will walk through hell to fix it.
+
+49
+00:02:32,944 --> 00:02:36,113
+Well, Mr. Simpson, it's your driving.
+
+50
+00:02:36,114 --> 00:02:40,200
+What did you just say to me?
+
+51
+00:02:40,201 --> 00:02:42,035
+[sizzles]
+
+52
+00:02:42,036 --> 00:02:46,832
+Well, Dad, you know, you can be
+a little aggressive behind the wheel.
+
+53
+00:02:46,833 --> 00:02:49,251
+I drive at the speed of traffic!
+
+54
+00:02:49,252 --> 00:02:51,545
+You can at least listen to Doctor...
+
+55
+00:02:51,546 --> 00:02:53,213
+Lenny thinks I drive cool!
+
+56
+00:02:53,214 --> 00:02:56,884
+Everything is always my fault!
+Well, two can play at that game.
+
+57
+00:02:56,885 --> 00:03:01,096
+I say you're a terrible driver!
+I'm much faster than you!
+
+58
+00:03:01,097 --> 00:03:02,806
+[groans, grunts]
+
+59
+00:03:02,807 --> 00:03:04,474
+- [tires squeal]
+- [horn honks]
+
+60
+00:03:04,475 --> 00:03:06,727
+Doctor, I'm so sorry about...
+
+61
+00:03:06,728 --> 00:03:07,812
+[phone rings]
+
+62
+00:03:08,646 --> 00:03:12,399
+<i>You have some nerve putting
+these thoughts in my daughter's head!</i>
+
+63
+00:03:12,400 --> 00:03:16,737
+Mr. Simpson, can we please continue
+this conversation when you're not driving?
+
+64
+00:03:16,738 --> 00:03:18,280
+[siren wailing]
+
+65
+00:03:18,281 --> 00:03:20,991
+<i>Go around! Go around!</i>
+
+66
+00:03:20,992 --> 00:03:22,452
+- [screams]
+- [tires screech]
+
+67
+00:03:24,037 --> 00:03:25,120
+[Lisa, Marge scream]
+
+68
+00:03:25,121 --> 00:03:26,955
+Did you flip over?
+
+69
+00:03:26,956 --> 00:03:29,167
+<i>I'm not the one on trial here.</i>
+
+70
+00:03:30,335 --> 00:03:32,044
+<i>Your trial is in two weeks.</i>
+
+71
+00:03:32,045 --> 00:03:34,713
+<i>Hey, Doc. Great work with Ralphie.</i>
+
+72
+00:03:34,714 --> 00:03:37,841
+<i>We can keep aluminum foil
+in the house again.</i>
+
+73
+00:03:37,842 --> 00:03:40,136
+<i>Uh, we'll pick this up later.</i>
+
+74
+00:03:40,929 --> 00:03:42,596
+[groaning]
+
+75
+00:03:42,597 --> 00:03:44,514
+Doctor, what can we do?
+
+76
+00:03:44,515 --> 00:03:46,517
+Well, I have one idea.
+
+77
+00:03:48,811 --> 00:03:51,605
+Here, we practice immersion therapy.
+
+78
+00:03:51,606 --> 00:03:53,690
+We expose patients to their phobias,
+
+79
+00:03:53,691 --> 00:03:56,736
+so their habituated response
+can decrease over time.
+
+80
+00:03:58,196 --> 00:03:59,446
+[barking]
+
+81
+00:03:59,447 --> 00:04:02,157
+Monsters. Monsters all. [groans]
+
+82
+00:04:02,158 --> 00:04:05,160
+So, he's afraid of germs on toilet seats?
+
+83
+00:04:05,161 --> 00:04:07,622
+No... [sighs]
+...he's afraid of rotisserie chicken.
+
+84
+00:04:08,289 --> 00:04:12,334
+Lisa, if we can use this exposure
+treatment to get you comfortable in cars,
+
+85
+00:04:12,335 --> 00:04:14,836
+that might help you overcome
+your other anxieties.
+
+86
+00:04:14,837 --> 00:04:17,214
+Okay, I'll do whatever it takes.
+
+87
+00:04:17,215 --> 00:04:20,133
+Well, I must warn you, it won't be fun.
+
+88
+00:04:20,134 --> 00:04:22,136
+{\an8}[cheering]
+
+89
+00:04:25,306 --> 00:04:26,765
+By driving a go-kart,
+
+90
+00:04:26,766 --> 00:04:30,477
+you can feel a measure of control
+in your relationship with motor vehicles.
+
+91
+00:04:30,478 --> 00:04:32,854
+I don't wanna drive!
+Just put me back on the pills.
+
+92
+00:04:32,855 --> 00:04:35,732
+No, wait. No pills.
+They make me feel nothing.
+
+93
+00:04:35,733 --> 00:04:37,401
+But my room has never been cleaner.
+
+94
+00:04:37,402 --> 00:04:40,028
+But I never laugh!
+But there's a calm in that.
+
+95
+00:04:40,029 --> 00:04:42,906
+But the sound
+of the grass growing is loud!
+
+96
+00:04:42,907 --> 00:04:47,703
+Lisa! It's going to be all right.
+Take a breath, and give it a little gas.
+
+97
+00:04:47,704 --> 00:04:51,332
+No, I am not doing this.
+I am putting my foot down.
+
+98
+00:04:53,918 --> 00:04:56,753
+See? I could've killed a tire!
+
+99
+00:04:56,754 --> 00:04:58,922
+[sighs] Well, we tried.
+
+100
+00:04:58,923 --> 00:05:00,132
+I am outta here.
+
+101
+00:05:00,133 --> 00:05:02,467
+Gonna get this back
+to the starting area and...
+
+102
+00:05:02,468 --> 00:05:03,553
+[engine revs]
+
+103
+00:05:04,387 --> 00:05:07,307
+Ooh. That wasn't so bad.
+
+104
+00:05:07,932 --> 00:05:10,600
+[chuckles] Whoo! Zippy!
+
+105
+00:05:10,601 --> 00:05:12,894
+We can try other approaches.
+
+106
+00:05:12,895 --> 00:05:15,063
+They're making up
+new therapies all the time.
+
+107
+00:05:15,064 --> 00:05:18,150
+[sighs] I really hoped
+this one would work.
+
+108
+00:05:18,151 --> 00:05:19,860
+It's working!
+
+109
+00:05:19,861 --> 00:05:21,862
+I'm finally in control.
+
+110
+00:05:21,863 --> 00:05:23,905
+[gasps] Doctor, you cured her!
+
+111
+00:05:23,906 --> 00:05:25,699
+We don't like to use the word "cure."
+
+112
+00:05:25,700 --> 00:05:28,118
+[laughs]
+
+113
+00:05:28,119 --> 00:05:29,536
+But I'm okay with "miracle."
+
+114
+00:05:29,537 --> 00:05:31,164
+Whoo-hoo!
+
+115
+00:05:34,459 --> 00:05:37,461
+{\an8}[announcer] <i>Johann Von Schwarzvalder III
+cuts that turn</i>
+
+116
+00:05:37,462 --> 00:05:40,798
+{\an8}<i>sharper than his mother cuts the crusts
+off his egg and cress sandwiches.</i>
+
+117
+00:05:42,383 --> 00:05:44,761
+{\an8}<i>He might hit 30 miles an hour!</i>
+
+118
+00:05:46,387 --> 00:05:49,557
+<i>One small slipup means
+a playdate with disaster.</i>
+
+119
+00:05:51,142 --> 00:05:52,810
+{\an8}<i>Unsupervised!</i>
+
+120
+00:05:56,439 --> 00:05:59,901
+<i>Kids Formula One: Karts of Thunder!</i>
+
+121
+00:06:00,485 --> 00:06:03,987
+<i>Episode five: "Leadfoot Lisa."</i>
+
+122
+00:06:03,988 --> 00:06:06,281
+{\an8}After dominating local races,
+
+123
+00:06:06,282 --> 00:06:12,746
+{\an8}Lisa Simpson will make her debut in KF-1,
+the top international go-kart circuit.
+
+124
+00:06:12,747 --> 00:06:16,541
+<i>For the first time, race fans worldwide
+will be able to witness</i>
+
+125
+00:06:16,542 --> 00:06:19,419
+<i>Lisa's steely confidence on the track.</i>
+
+126
+00:06:19,420 --> 00:06:20,879
+I can't wait to get out there.
+
+127
+00:06:20,880 --> 00:06:24,591
+For me, it's not about winning or losing,
+it's about control.
+
+128
+00:06:24,592 --> 00:06:27,928
+I used to be this big bundle
+of worry and anxiety.
+
+129
+00:06:27,929 --> 00:06:30,847
+<i>But on the track,
+the world is going so fast,</i>
+
+130
+00:06:30,848 --> 00:06:33,600
+<i>yet I am in complete command.</i>
+
+131
+00:06:33,601 --> 00:06:36,436
+<i>The stillness at the center of power.</i>
+
+132
+00:06:36,437 --> 00:06:37,646
+I feel it everywhere.
+
+133
+00:06:37,647 --> 00:06:41,817
+The other day,
+I got my first A-minus ever on a test.
+
+134
+00:06:41,818 --> 00:06:42,902
+No biggie.
+
+135
+00:06:43,528 --> 00:06:47,197
+Uh-oh, am I allowed to do that? [chuckles]
+Will I lose more points?
+
+136
+00:06:47,198 --> 00:06:48,907
+Does anyone have tape?
+
+137
+00:06:48,908 --> 00:06:54,663
+Lisa is very good at her job
+of driving around and around.
+
+138
+00:06:54,664 --> 00:06:57,791
+Her unshakable demeanor
+has everyone asking,
+
+139
+00:06:57,792 --> 00:07:00,752
+"Where did this fearless phenom
+come from?"
+
+140
+00:07:00,753 --> 00:07:03,588
+Is she the scion
+of a Greek shipping magnate?
+
+141
+00:07:03,589 --> 00:07:06,091
+Or the scion of a Dutch shipping magnate?
+
+142
+00:07:06,092 --> 00:07:10,679
+Just what nationality of magnate
+is she the scion of?
+
+143
+00:07:10,680 --> 00:07:14,933
+The truth is, she's from
+an obscure racing backwater called,
+
+144
+00:07:14,934 --> 00:07:18,687
+and I hope I'm pronouncing
+this correctly, America.
+
+145
+00:07:18,688 --> 00:07:23,650
+Her mother is a housewife with
+no family fortune or rich dead husband.
+
+146
+00:07:23,651 --> 00:07:29,406
+Her pathetic existence peppered only
+with the mildest of victories.
+
+147
+00:07:29,407 --> 00:07:30,615
+Found it!
+
+148
+00:07:30,616 --> 00:07:33,118
+A life squandered.
+
+149
+00:07:33,119 --> 00:07:39,249
+Lisa's father... a bald, simpering,
+morbidly-obese drain on society...
+
+150
+00:07:39,250 --> 00:07:44,880
+has been sentenced to community service
+for a reckless driving conviction.
+
+151
+00:07:44,881 --> 00:07:46,882
+Am I going to look okay in this show?
+
+152
+00:07:46,883 --> 00:07:48,426
+I don't see how.
+
+153
+00:07:49,010 --> 00:07:50,010
+- [grunts]
+- [cheering]
+
+154
+00:07:50,011 --> 00:07:51,386
+Candy!
+
+155
+00:07:51,387 --> 00:07:52,471
+D'oh!
+
+156
+00:07:52,472 --> 00:07:54,639
+And despite her Dollar Store upbringing,
+
+157
+00:07:54,640 --> 00:07:58,477
+Lisa Simpson stands poised
+for international glory
+
+158
+00:07:58,478 --> 00:08:01,771
+in this fall's KF-1 karting season,
+
+159
+00:08:01,772 --> 00:08:06,568
+which coincidentally will take place
+in her hometown of Springfield.
+
+160
+00:08:06,569 --> 00:08:09,821
+We are happy to welcome
+these wealthy child racers
+
+161
+00:08:09,822 --> 00:08:12,240
+and their smoking-hot trophy moms.
+
+162
+00:08:12,241 --> 00:08:13,742
+- [audience member] Oh, yes!
+- [cheering]
+
+163
+00:08:13,743 --> 00:08:17,537
+European racing teams
+have descended upon Springfield
+
+164
+00:08:17,538 --> 00:08:23,251
+and, as always,
+the crew to beat is Italy's Team Dooshé.
+
+165
+00:08:23,252 --> 00:08:26,505
+<i>Their charismatic star is Paolo Paoletti,</i>
+
+166
+00:08:26,506 --> 00:08:30,592
+<i>son of tracksuit mogul,
+Fila Fendi Paoletti.</i>
+
+167
+00:08:30,593 --> 00:08:34,429
+{\an8}<i>In the number seven
+Children's Strength Tylenol kart.</i>
+
+168
+00:08:34,430 --> 00:08:39,684
+America is such
+a wonderfully disgusting country.
+
+169
+00:08:39,685 --> 00:08:42,938
+All the guns and the "bill-hillies,"
+
+170
+00:08:42,939 --> 00:08:49,152
+and all the television shows
+about Chicago, the fire, the police,
+
+171
+00:08:49,153 --> 00:08:53,406
+the man-bear who makes the beef sandwich.
+
+172
+00:08:53,407 --> 00:08:56,493
+Oh, Paolo love! Boof!
+
+173
+00:08:56,494 --> 00:08:59,246
+In a setback
+to their jet-setting lifestyles,
+
+174
+00:08:59,247 --> 00:09:04,292
+Paolo and the other European go-karters
+must attend public school
+
+175
+00:09:04,293 --> 00:09:08,380
+under the watchful eye of broken,
+faceless bureaucrats.
+
+176
+00:09:08,381 --> 00:09:09,798
+I have a face.
+
+177
+00:09:09,799 --> 00:09:13,218
+Even though these kids are impossibly
+wealthy, I think they'll fit right in.
+
+178
+00:09:13,219 --> 00:09:14,344
+They didn't.
+
+179
+00:09:14,345 --> 00:09:16,680
+How do you know? It hasn't happened yet.
+
+180
+00:09:16,681 --> 00:09:18,891
+But then it did.
+
+181
+00:09:19,475 --> 00:09:24,146
+Hey, I ask for <i>vitello alla caper</i>.
+What is this?
+
+182
+00:09:24,939 --> 00:09:26,231
+Beanie Weenies.
+
+183
+00:09:26,232 --> 00:09:30,652
+[sobs] Why do you hate my mouth, huh?
+
+184
+00:09:30,653 --> 00:09:33,072
+Why? [sobbing]
+
+185
+00:09:34,073 --> 00:09:36,992
+[Bart] <i>Look at that sad foreign kid.</i>
+
+186
+00:09:36,993 --> 00:09:41,997
+<i>He just needs a regular American
+to reach out and take advantage of him.</i>
+
+187
+00:09:41,998 --> 00:09:43,540
+Is there some problem here?
+
+188
+00:09:43,541 --> 00:09:48,086
+This rectangle lady
+is trying to poison Paolo!
+
+189
+00:09:48,087 --> 00:09:49,921
+Dry your eyes, Pinocchio.
+
+190
+00:09:49,922 --> 00:09:52,882
+I'm the guy that can
+make stuff happen around here.
+
+191
+00:09:52,883 --> 00:09:55,176
+It just might cost you a little.
+
+192
+00:09:55,177 --> 00:09:56,344
+Whatever it takes.
+
+193
+00:09:56,345 --> 00:10:00,683
+I give you one of each color.
+Purple, blue, green, purple again.
+
+194
+00:10:02,184 --> 00:10:03,435
+Mmm.
+
+195
+00:10:03,436 --> 00:10:04,978
+[speaking Italian]
+
+196
+00:10:04,979 --> 00:10:08,858
+Finally, somebody around here
+with a no accent!
+
+197
+00:10:10,484 --> 00:10:13,570
+Bartolomeo,
+you make Paolo so happy. [sobs]
+
+198
+00:10:13,571 --> 00:10:16,072
+You are Team Dooshé now.
+
+199
+00:10:16,073 --> 00:10:19,034
+I make it rain on you!
+
+200
+00:10:19,035 --> 00:10:20,703
+Boof! Boof! Boo-Boof! Boo-Boof!
+
+201
+00:10:22,121 --> 00:10:26,041
+[announcer] <i>Gentlekids,
+start your two-stroke engines.</i>
+
+202
+00:10:26,042 --> 00:10:27,417
+{\an8}I can't believe it.
+
+203
+00:10:27,418 --> 00:10:30,837
+{\an8}My girl's first
+international go-kart race.
+
+204
+00:10:30,838 --> 00:10:32,380
+{\an8}Did you put on sunblock?
+
+205
+00:10:32,381 --> 00:10:34,174
+{\an8}I'm in a fireproof suit.
+
+206
+00:10:34,175 --> 00:10:38,303
+{\an8}Oh, your father's here!
+He's finished with his community service.
+
+207
+00:10:38,304 --> 00:10:40,472
+He can finally watch me race!
+
+208
+00:10:40,473 --> 00:10:43,475
+I wouldn't miss seeing
+my little Danica Patrick
+
+209
+00:10:43,476 --> 00:10:47,228
+for all the Jolly Ranchers
+in the piñata. [laughs]
+
+210
+00:10:47,229 --> 00:10:49,065
+{\an8}The kids never check the legs.
+
+211
+00:10:54,028 --> 00:10:58,740
+Now, honey, I know they're going fast,
+but I'm sure Lisa's safe.
+
+212
+00:10:58,741 --> 00:11:01,159
+There's nothing to worry about.
+
+213
+00:11:01,160 --> 00:11:02,370
+Oh, I'm not worried.
+
+214
+00:11:02,912 --> 00:11:05,163
+Come on. You gotta be a little worried.
+
+215
+00:11:05,164 --> 00:11:07,832
+Nope. I've seen Lisa race a dozen times.
+
+216
+00:11:07,833 --> 00:11:10,752
+She's really good, and she's safe.
+
+217
+00:11:10,753 --> 00:11:13,546
+But-But you're
+the family's designated worrier.
+
+218
+00:11:13,547 --> 00:11:16,508
+If you're not worried,
+that means there's a worry vacuum
+
+219
+00:11:16,509 --> 00:11:19,928
+that I have to fill,
+and vacuuming is also your job.
+
+220
+00:11:19,929 --> 00:11:21,680
+[tires squeal]
+
+221
+00:11:21,681 --> 00:11:23,765
+Oh, my God. Look how fast she's going.
+
+222
+00:11:23,766 --> 00:11:25,975
+I'm not concerned in the least.
+
+223
+00:11:25,976 --> 00:11:28,520
+Then me am concerned in the most.
+
+224
+00:11:28,521 --> 00:11:30,188
+I need the stress yarn.
+
+225
+00:11:30,189 --> 00:11:32,440
+Relax, Homie. She's winning.
+
+226
+00:11:32,441 --> 00:11:35,276
+{\an8}Which means she's going faster
+than everybody else.
+
+227
+00:11:35,277 --> 00:11:36,820
+What am I even knitting?
+
+228
+00:11:36,821 --> 00:11:38,698
+Oh, it's golf club covers.
+
+229
+00:11:43,703 --> 00:11:45,663
+{\an8}[whoops]
+
+230
+00:11:46,580 --> 00:11:47,623
+{\an8}Boof!
+
+231
+00:11:49,375 --> 00:11:52,086
+Time for your bedtime sweet dream routine.
+
+232
+00:11:54,505 --> 00:11:56,339
+Here's your night-terror teddies,
+
+233
+00:11:56,340 --> 00:11:59,719
+and I'll set the night-light
+to "boogeyman banisher."
+
+234
+00:12:00,886 --> 00:12:02,303
+[chuckles]
+
+235
+00:12:02,304 --> 00:12:04,222
+Dad, I don't need all that.
+
+236
+00:12:04,223 --> 00:12:08,643
+I don't have anxiety anymore,
+and I have you to thank for it.
+
+237
+00:12:08,644 --> 00:12:10,186
+- Me?
+- Yes.
+
+238
+00:12:10,187 --> 00:12:15,650
+Your unhinged driving made me face
+my fears and get into go-kart racing.
+
+239
+00:12:15,651 --> 00:12:17,361
+This is on you.
+
+240
+00:12:18,154 --> 00:12:19,904
+[whimpering]
+
+241
+00:12:19,905 --> 00:12:22,908
+[grunts, whimpering] My fault. All on me.
+
+242
+00:12:24,660 --> 00:12:27,162
+[Italian accent] It's me, Lisa-Mario.
+
+243
+00:12:27,163 --> 00:12:29,165
+[beeping]
+
+244
+00:12:33,669 --> 00:12:34,669
+Whoo-hoo!
+
+245
+00:12:34,670 --> 00:12:38,673
+Thanks to my papa, I'm risking my life!
+
+246
+00:12:38,674 --> 00:12:41,677
+And I'm a dream version of Milhouse.
+
+247
+00:12:42,261 --> 00:12:43,679
+[screams]
+
+248
+00:12:45,347 --> 00:12:47,640
+[Italian accent] It's me, Wario.
+
+249
+00:12:47,641 --> 00:12:51,186
+My bad parenting has led to your doom.
+
+250
+00:12:51,187 --> 00:12:52,520
+[cackles]
+
+251
+00:12:52,521 --> 00:12:54,981
+Trauma bomb! Wah!
+
+252
+00:12:54,982 --> 00:12:56,524
+[screams]
+
+253
+00:12:56,525 --> 00:12:57,734
+It's me, Wario.
+
+254
+00:12:57,735 --> 00:12:59,527
+It's all my fault. Wah!
+
+255
+00:12:59,528 --> 00:13:01,946
+[disco music playing]
+
+256
+00:13:01,947 --> 00:13:04,282
+So, Paolo, you liking this vibe?
+
+257
+00:13:04,283 --> 00:13:05,450
+Not enough bass?
+
+258
+00:13:05,451 --> 00:13:06,826
+Too much bass?
+
+259
+00:13:06,827 --> 00:13:08,746
+Less bass is gonna cost.
+
+260
+00:13:11,874 --> 00:13:14,167
+Ketchup bottle service?
+
+261
+00:13:14,168 --> 00:13:18,797
+You make it just like Milan,
+except here everyone is fat and ugly.
+
+262
+00:13:18,798 --> 00:13:20,548
+Bartolucci, I love you.
+
+263
+00:13:20,549 --> 00:13:21,884
+Here is money.
+
+264
+00:13:22,384 --> 00:13:24,886
+Excuse me, Signor Spaghetti.
+
+265
+00:13:24,887 --> 00:13:26,346
+There's somebody at the door.
+
+266
+00:13:26,347 --> 00:13:30,058
+He's not on the list,
+and he claims to be the principal?
+
+267
+00:13:30,059 --> 00:13:31,392
+I am the principal.
+
+268
+00:13:31,393 --> 00:13:34,480
+Bart Simpson, I need to see you
+in my office, which this is.
+
+269
+00:13:35,064 --> 00:13:39,734
+Bartissimo, this polyester-tie man,
+he make me sad.
+
+270
+00:13:39,735 --> 00:13:41,402
+Leave this to me.
+
+271
+00:13:41,403 --> 00:13:44,197
+Seymour, why don't you
+take the afternoon off?
+
+272
+00:13:44,198 --> 00:13:46,741
+Here, get your mother's tires rotated.
+
+273
+00:13:46,742 --> 00:13:49,829
+That better not be a euphemism, young man.
+
+274
+00:13:50,371 --> 00:13:54,290
+Principal Skinner, I need some help
+with the obituary for the class hamster.
+
+275
+00:13:54,291 --> 00:13:57,794
+Is the correct wording "died by suicide,"
+or "of suicide"?
+
+276
+00:13:57,795 --> 00:13:59,087
+[groans]
+
+277
+00:13:59,088 --> 00:14:02,924
+Oh, look, everyone. It's my archrival.
+
+278
+00:14:02,925 --> 00:14:05,426
+Oh, enjoy your one win.
+
+279
+00:14:05,427 --> 00:14:07,846
+You are only a flash in the pan.
+
+280
+00:14:07,847 --> 00:14:10,765
+I am the breaded veal in the pan.
+
+281
+00:14:10,766 --> 00:14:13,977
+Paolo will be atop the podium again.
+
+282
+00:14:13,978 --> 00:14:16,522
+I'm sure you will.
+You're a terrific driver.
+
+283
+00:14:17,773 --> 00:14:19,440
+Oh, see how she mocks me?
+
+284
+00:14:19,441 --> 00:14:21,818
+Bart, I hate her and her whole family.
+
+285
+00:14:21,819 --> 00:14:25,321
+Say cruel things about this girl
+so I may agree with them.
+
+286
+00:14:25,322 --> 00:14:27,156
+Well, I've never met her before,
+
+287
+00:14:27,157 --> 00:14:30,285
+but I can tell by her vibe
+that she's an animal-kissing,
+
+288
+00:14:30,286 --> 00:14:33,746
+Wikipedia-editing middle child
+who burps broccoli and farts tofu
+
+289
+00:14:33,747 --> 00:14:36,792
+and won't do her brother's homework
+even for Euros.
+
+290
+00:14:38,377 --> 00:14:43,381
+And yet, this girl you
+have no connection to, she beats me.
+
+291
+00:14:43,382 --> 00:14:47,343
+My thumb is raw
+from all of the doing this.
+
+292
+00:14:47,344 --> 00:14:48,888
+[grunts]
+
+293
+00:14:50,431 --> 00:14:51,639
+{\an8}That's boof.
+
+294
+00:14:51,640 --> 00:14:53,057
+[horn honks]
+
+295
+00:14:53,058 --> 00:14:54,143
+Coming, Mom.
+
+296
+00:14:55,561 --> 00:14:56,895
+I can't let you go.
+
+297
+00:14:56,896 --> 00:14:58,730
+Racing is too dangerous.
+
+298
+00:14:58,731 --> 00:15:00,481
+Dad, it's fine.
+
+299
+00:15:00,482 --> 00:15:02,775
+But I had a dream last night
+that I was Wario,
+
+300
+00:15:02,776 --> 00:15:05,737
+and I bombed you off
+of Rainbow Road into oblivion.
+
+301
+00:15:05,738 --> 00:15:11,076
+I'm not in danger just because you dreamed
+a bunch of crazy stuff from <i>Mario Kart</i>.
+
+302
+00:15:11,577 --> 00:15:12,869
+What's <i>Mario Kart</i>?
+
+303
+00:15:12,870 --> 00:15:15,371
+I am going to the race.
+
+304
+00:15:15,372 --> 00:15:17,498
+It's my job to keep you safe.
+
+305
+00:15:17,499 --> 00:15:21,210
+You never cared about that
+when you were driving like a maniac.
+
+306
+00:15:21,211 --> 00:15:25,214
+Well, through some miracle of therapy,
+I'm in the driver's seat now,
+
+307
+00:15:25,215 --> 00:15:26,799
+and I'm enjoying myself.
+
+308
+00:15:26,800 --> 00:15:30,595
+And that's when you choose
+to care about my safety?
+
+309
+00:15:30,596 --> 00:15:32,347
+You've summed up things perfectly.
+
+310
+00:15:32,348 --> 00:15:33,765
+So, you'll stay home?
+
+311
+00:15:33,766 --> 00:15:36,101
+No, I'm in control.
+
+312
+00:15:39,104 --> 00:15:42,482
+Marge, stop her.
+I've never been more worried.
+
+313
+00:15:42,483 --> 00:15:44,651
+Well, I've never been more relaxed.
+
+314
+00:15:44,652 --> 00:15:46,194
+Hey, Mom. Can I drive?
+
+315
+00:15:46,195 --> 00:15:47,863
+Sure. Give it a shot.
+
+316
+00:15:48,989 --> 00:15:51,200
+No!
+
+317
+00:15:53,327 --> 00:15:55,329
+[upbeat music playing]
+
+318
+00:15:55,871 --> 00:15:56,871
+[announcer] <i>Today,</i>
+
+319
+00:15:56,872 --> 00:16:01,876
+<i>the KF-1 karting season culminates
+in a two-mile loop through Springfield,</i>
+
+320
+00:16:01,877 --> 00:16:06,923
+<i>a sad ruin once home to a thriving
+nipple tassel manufacturing industry.</i>
+
+321
+00:16:06,924 --> 00:16:09,676
+Stupid Dad worried about my safety.
+
+322
+00:16:09,677 --> 00:16:12,553
+{\an8}Remember the time he forgot me
+at a Renaissance Faire?
+
+323
+00:16:12,554 --> 00:16:15,014
+{\an8}I had to get a ride home
+from the Turkey Leg Wench.
+
+324
+00:16:15,015 --> 00:16:18,476
+{\an8}Oh, honey, your dad's not used
+to being the one who's nervous.
+
+325
+00:16:18,477 --> 00:16:21,145
+{\an8}He just wants what's best for himself.
+
+326
+00:16:21,146 --> 00:16:22,772
+Thanks for flying out, Bippe.
+
+327
+00:16:22,773 --> 00:16:26,109
+I know Paolo cannot race
+without his secret weapon.
+
+328
+00:16:26,110 --> 00:16:27,361
+[speaking Italian]
+
+329
+00:16:35,244 --> 00:16:39,455
+{\an8}Aw, Bart. You remembered
+that Paolo likes gelato,
+
+330
+00:16:39,456 --> 00:16:44,794
+{\an8}after I told you over and over
+that I like gelato.
+
+331
+00:16:44,795 --> 00:16:49,215
+{\an8}You are my <i>fratello</i>
+from another <i>mamma mia</i>.
+
+332
+00:16:49,216 --> 00:16:52,176
+{\an8}Oh, you must be Bart's new Italian friend.
+
+333
+00:16:52,177 --> 00:16:53,928
+{\an8}Well, good luck in the race.
+
+334
+00:16:53,929 --> 00:16:56,556
+{\an8}You're gonna need it
+to beat Bart's sister.
+
+335
+00:16:56,557 --> 00:16:57,932
+[gasps]
+
+336
+00:16:57,933 --> 00:17:03,855
+Bart Simpson.
+You are the brother of Lisa Simpson?
+
+337
+00:17:03,856 --> 00:17:05,231
+Uh... [stammers]
+
+338
+00:17:05,232 --> 00:17:07,358
+Well, uh, only by blood.
+
+339
+00:17:07,359 --> 00:17:17,036
+[speaking Italian]
+
+340
+00:17:20,289 --> 00:17:21,790
+[both arguing in Italian]
+
+341
+00:17:25,335 --> 00:17:26,419
+[Bart] ..."Euro Trash"...
+
+342
+00:17:26,420 --> 00:17:28,005
+[both arguing in Italian]
+
+343
+00:17:35,179 --> 00:17:37,598
+Monday, Tuesday, Thursday, Wednesday!
+
+344
+00:17:39,433 --> 00:17:43,770
+Bart, you break my heart
+like snap the breadstick.
+
+345
+00:17:43,771 --> 00:17:44,980
+Boof.
+
+346
+00:17:46,648 --> 00:17:49,234
+- [tires squeal]
+- [groans, grunts]
+
+347
+00:17:50,402 --> 00:17:52,028
+You're not watching the race?
+
+348
+00:17:52,029 --> 00:17:53,863
+I'm too worried about Lisa.
+
+349
+00:17:53,864 --> 00:17:55,156
+My only daughter...
+
+350
+00:17:55,157 --> 00:17:56,240
+Uh, there's Maggie.
+
+351
+00:17:56,241 --> 00:17:59,077
+...is rocketing around
+on a flaming death-mobile!
+
+352
+00:17:59,078 --> 00:18:01,829
+Why does no one else care
+about Lisa's safety?
+
+353
+00:18:01,830 --> 00:18:03,414
+She's fine. See?
+
+354
+00:18:03,415 --> 00:18:04,874
+[announcer] <i>From the pole position,</i>
+
+355
+00:18:04,875 --> 00:18:07,752
+<i>Lisa Simpson
+immediately takes the initiative.</i>
+
+356
+00:18:07,753 --> 00:18:11,214
+What's "initiative"? Why does she have it?
+Is it safe?
+
+357
+00:18:11,215 --> 00:18:12,381
+[phone beeps]
+
+358
+00:18:12,382 --> 00:18:14,008
+Stupid Team Dooshé.
+
+359
+00:18:14,009 --> 00:18:17,096
+Those Euro jerks forgot
+to remove me from their text thread.
+
+360
+00:18:18,764 --> 00:18:20,306
+{\an8}"Sabotaggio"?
+
+361
+00:18:20,307 --> 00:18:21,641
+Sabotaggio?
+
+362
+00:18:21,642 --> 00:18:24,185
+Ooh. Is that some kind
+of delicious, spiced ham?
+
+363
+00:18:24,186 --> 00:18:26,771
+It means they sabotaged Lisa's kart!
+
+364
+00:18:26,772 --> 00:18:28,773
+Oh, God. I knew she was in danger.
+
+365
+00:18:28,774 --> 00:18:32,944
+My overreacting is now just...
+[gasps] ...reacting.
+
+366
+00:18:32,945 --> 00:18:35,905
+[announcer] <i>It's the final lap
+at the Springfield Little Grand Prix,</i>
+
+367
+00:18:35,906 --> 00:18:38,825
+<i>and the karts are tighter
+than a royal corgi's collar</i>
+
+368
+00:18:38,826 --> 00:18:40,910
+<i>as they head into Lard Lad Turn!</i>
+
+369
+00:18:40,911 --> 00:18:42,954
+<i>Perfetto</i>, Team Dooshé.
+
+370
+00:18:42,955 --> 00:18:45,666
+You loosened all the bolts
+on Lisa's kart. Boof.
+
+371
+00:18:49,837 --> 00:18:51,421
+{\an8}[announcer] <i>We have contact!</i>
+
+372
+00:18:53,549 --> 00:18:56,385
+In the storm, I am the calm at the center.
+
+373
+00:18:59,763 --> 00:19:03,142
+{\an8}Why is her wheel not falling off?
+
+374
+00:19:03,725 --> 00:19:04,725
+[screams]
+
+375
+00:19:04,726 --> 00:19:05,811
+[squealing]
+
+376
+00:19:06,520 --> 00:19:07,895
+[speaking Italian]
+
+377
+00:19:07,896 --> 00:19:11,315
+{\an8}- Okay. Missing a wheel. No brakes.
+- [squealing]
+
+378
+00:19:11,316 --> 00:19:13,651
+- Still in control.
+- [metal clanks]
+
+379
+00:19:13,652 --> 00:19:17,446
+Okay. Now I'm not in control,
+but still calm.
+
+380
+00:19:17,447 --> 00:19:20,449
+Wow. I have a great therapist.
+
+381
+00:19:20,450 --> 00:19:22,286
+She's gonna die!
+
+382
+00:19:26,415 --> 00:19:29,668
+Marge, I learned my lesson.
+I was right! Lisa's not safe!
+
+383
+00:19:30,711 --> 00:19:32,379
+[shrieks, speaking Italian]
+
+384
+00:19:39,970 --> 00:19:40,970
+Dad!
+
+385
+00:19:40,971 --> 00:19:42,054
+Don't worry, sweetie.
+
+386
+00:19:42,055 --> 00:19:45,057
+I'm gonna get you out of this mess
+the way I got you into this mess.
+
+387
+00:19:45,058 --> 00:19:47,936
+By driving like a maniac!
+
+388
+00:19:50,898 --> 00:19:52,106
+Stay behind me!
+
+389
+00:19:52,107 --> 00:19:54,442
+[brakes squealing]
+
+390
+00:19:54,443 --> 00:19:56,903
+{\an8}Aw, you're brake checking me.
+
+391
+00:19:56,904 --> 00:20:00,240
+But now I'm brake checking with love.
+
+392
+00:20:03,702 --> 00:20:08,247
+{\an8}[screams] I lose! This sport is <i>stupido</i>.
+
+393
+00:20:08,248 --> 00:20:14,837
+{\an8}And now I fade away to Ibiza,
+to a quiet life as a beach deejay.
+
+394
+00:20:14,838 --> 00:20:15,964
+{\an8}Boof.
+
+395
+00:20:18,800 --> 00:20:22,386
+Dad, thank you. You've made me feel safe.
+
+396
+00:20:22,387 --> 00:20:25,224
+And I always will.
+
+397
+00:21:30,122 --> 00:21:31,123
+Shh!
+

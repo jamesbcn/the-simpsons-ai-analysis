@@ -1,0 +1,2048 @@
+1
+00:00:03,044 --> 00:00:06,264
+{\an8}<i>CHOIR: ♪ The Simpsons ♪</i>
+
+2
+00:00:06,339 --> 00:00:09,929
+<i>♪ Rock-a-bye baby ♪</i>
+
+3
+00:00:10,010 --> 00:00:12,930
+<i>♪ In the treetop ♪</i>
+
+4
+00:00:13,013 --> 00:00:15,603
+<i>♪ When the wind blows ♪</i>
+
+5
+00:00:15,682 --> 00:00:18,812
+<i>♪ The cradle will rock ♪</i>
+
+6
+00:00:18,893 --> 00:00:21,813
+<i>♪ When the bough breaks ♪</i>
+
+7
+00:00:21,896 --> 00:00:24,936
+<i>♪ The cradle will fall ♪</i>
+
+8
+00:00:25,025 --> 00:00:29,065
+<i>♪ And down will come baby ♪</i>
+
+9
+00:00:29,154 --> 00:00:32,204
+<i>♪ Cradle and all ♪</i>
+
+10
+00:00:33,700 --> 00:00:35,990
+Sweet dreams.
+
+11
+00:00:37,037 --> 00:00:38,117
+(light switch clicks)
+
+12
+00:00:39,789 --> 00:00:41,709
+{\an8}<i>♪ The whole Fox Network ♪</i>
+
+13
+00:00:41,791 --> 00:00:43,791
+{\an8}<i>♪ Was in a hot, dense state ♪</i>
+
+14
+00:00:43,877 --> 00:00:46,047
+{\an8}<i>♪ Then nearly 14 billion years ago ♪</i>
+
+15
+00:00:46,129 --> 00:00:48,089
+{\an8}<i>♪ They began a TV show ♪</i>
+
+16
+00:00:48,173 --> 00:00:49,633
+{\an8}<i>♪ Then Bart tried to sell his soul ♪</i>
+
+17
+00:00:49,716 --> 00:00:52,676
+{\an8}<i>♪ Lisa turned to vegetables,</i>
+<i>Grampa started fighting bulls ♪</i>
+
+18
+00:00:52,761 --> 00:00:54,931
+{\an8}<i>-♪ Springfield built a wall ♪</i>
+<i>-♪ The Who played on the top ♪</i>
+
+19
+00:00:55,013 --> 00:00:58,063
+{\an8}<i>♪ Carl, Lenny, Barney, Moe,</i>
+<i>and a fat bald guy who hollers "d'oh" ♪</i>
+
+20
+00:00:58,141 --> 00:01:01,351
+{\an8}<i>♪ It all started with</i>
+<i>The Simpsons, d'oh ♪</i>
+
+21
+00:01:08,109 --> 00:01:09,779
+<i>-♪ I'm just a gigolo ♪</i>
+<i>-♪ Gigolo ♪</i>
+
+22
+00:01:09,861 --> 00:01:11,741
+<i>-♪ And everywhere I go ♪</i>
+<i>-♪ Gigolo ♪</i>
+
+23
+00:01:11,821 --> 00:01:13,361
+<i>-♪ People know the part ♪</i>
+<i>-♪ Gigolo, gigolo ♪</i>
+
+24
+00:01:13,448 --> 00:01:16,028
+<i>-♪ I'm playing ♪</i>
+<i>-♪ Gigolo, gigolo, gigolo ♪</i>
+
+25
+00:01:16,117 --> 00:01:18,157
+{\an8}<i>-♪ Paid for every dance... ♪</i>
+<i>-♪ Gigolo... ♪</i>
+
+26
+00:01:18,244 --> 00:01:19,704
+{\an8}Showtime.
+
+27
+00:01:19,788 --> 00:01:23,998
+<i>-♪ Ooh, what they're sayin' ♪</i>
+<i>-♪ Gigolo, gigolo, gigolo... ♪</i>
+
+28
+00:01:24,084 --> 00:01:25,504
+{\an8}Your tea, Nana.
+
+29
+00:01:25,585 --> 00:01:27,995
+{\an8}-(laughs)
+-Sweet darling boy.
+
+30
+00:01:28,088 --> 00:01:29,548
+{\an8}<i>BART: I know what you're thinking.</i>
+
+31
+00:01:29,631 --> 00:01:31,221
+{\an8}<i>This must be some kind of prank.</i>
+
+32
+00:01:31,299 --> 00:01:33,929
+{\an8}<i>Is there a laxative in the punch bowl?</i>
+
+33
+00:01:34,010 --> 00:01:36,760
+{\an8}<i>Well, there is,</i>
+<i>but their doctors prescribed that.</i>
+
+34
+00:01:36,846 --> 00:01:39,516
+{\an8}<i>I've changed. I've become pinchable.</i>
+
+35
+00:01:39,599 --> 00:01:40,729
+{\an8}<i>You look confused.</i>
+
+36
+00:01:40,809 --> 00:01:43,229
+{\an8}<i>Why don't I start from the beginning?</i>
+
+37
+00:01:44,437 --> 00:01:47,397
+{\an8}<i>♪ Grandpa, Grandma, we love you ♪</i>
+
+38
+00:01:47,482 --> 00:01:50,322
+{\an8}<i>♪ We will show what school can do ♪</i>
+
+39
+00:01:50,401 --> 00:01:53,401
+{\an8}<i>♪ We cleaned our desk,</i>
+<i>we learned this song ♪</i>
+
+40
+00:01:53,488 --> 00:01:56,318
+{\an8}<i>♪ Teachers beat us when you're gone ♪</i>
+
+41
+00:01:56,407 --> 00:01:59,657
+{\an8}<i>♪ Grandma, Grandpa, you're the best ♪</i>
+
+42
+00:01:59,744 --> 00:02:02,714
+{\an8}<i>♪ Now you can be laid to rest ♪</i>
+
+43
+00:02:02,789 --> 00:02:05,879
+{\an8}Simpson. Those lyrics
+are unapproved and not that funny.
+
+44
+00:02:05,959 --> 00:02:07,919
+{\an8}-Come with me.
+-Hey, Skinner.
+
+45
+00:02:08,002 --> 00:02:10,592
+{\an8}Sure, you're tough enough
+to punish a little boy,
+
+46
+00:02:10,672 --> 00:02:13,422
+{\an8}but what about a Marine Corps veteran?
+
+47
+00:02:13,508 --> 00:02:15,758
+{\an8}Oh.
+
+48
+00:02:15,844 --> 00:02:17,644
+{\an8}Mm-hmm.
+
+49
+00:02:17,720 --> 00:02:20,770
+{\an8}Okay, Seymour.
+Note to my mom or detention?
+
+50
+00:02:20,849 --> 00:02:24,349
+{\an8}Which of your two lame weapons
+are you gonna unleash on me?
+
+51
+00:02:24,435 --> 00:02:25,895
+{\an8}I have other weapons.
+
+52
+00:02:25,979 --> 00:02:27,729
+{\an8}<i>(thinking) I have no other weapons.</i>
+
+53
+00:02:27,814 --> 00:02:30,234
+{\an8}Seymour, walk me to the bus stop.
+
+54
+00:02:30,316 --> 00:02:31,646
+{\an8}Mother, what are you doing here?
+
+55
+00:02:31,734 --> 00:02:33,704
+{\an8}I wanted to make sure you remembered
+
+56
+00:02:33,778 --> 00:02:35,658
+{\an8}that I think your job is stupid.
+
+57
+00:02:41,870 --> 00:02:43,830
+{\an8}Simpson, I thought of your punishment.
+
+58
+00:02:43,913 --> 00:02:45,963
+{\an8}Bart here will walk you to the bus stop.
+
+59
+00:02:46,040 --> 00:02:48,540
+{\an8}That'll kill two birds with one stone.
+
+60
+00:02:48,626 --> 00:02:51,376
+{\an8}First time a worm ever killed a bird.
+
+61
+00:02:51,462 --> 00:02:52,922
+{\an8}(Bart laughs)
+
+62
+00:02:53,006 --> 00:02:54,916
+<i>LENNY: Okay, Lenny, don't be nervous.</i>
+
+63
+00:02:55,008 --> 00:02:57,838
+This is the big one.
+
+64
+00:02:57,927 --> 00:03:00,177
+<i>(screeching)</i>
+
+65
+00:03:00,263 --> 00:03:01,813
+Gotcha! Where am I?
+
+66
+00:03:01,890 --> 00:03:04,060
+(scoffs) You walked in the core.
+
+67
+00:03:04,142 --> 00:03:06,232
+We better seal this thing up tight.
+
+68
+00:03:10,356 --> 00:03:11,766
+{\an8}(meows)
+
+69
+00:03:11,858 --> 00:03:14,358
+{\an8}I'm playing Peekimon Get, see?
+
+70
+00:03:14,444 --> 00:03:17,114
+{\an8}-That's a wild Rotata.
+<i>-(screeches)</i>
+
+71
+00:03:17,197 --> 00:03:20,447
+{\an8}That has got to be
+the stupidest game I've ever heard of.
+
+72
+00:03:20,533 --> 00:03:22,493
+{\an8}Oh, yeah, you're right.
+It's really a kids' game.
+
+73
+00:03:22,577 --> 00:03:24,997
+{\an8}-And it's silly for me to...
+-Quiet, I'm playing it.
+
+74
+00:03:26,623 --> 00:03:29,173
+{\an8}-(whistle blows)
+-Quitting time.
+
+75
+00:03:29,250 --> 00:03:31,040
+{\an8}Three-day weekend.
+
+76
+00:03:33,338 --> 00:03:35,008
+(Homer yelping in panic)
+
+77
+00:03:35,840 --> 00:03:37,010
+Haw haw!
+
+78
+00:03:37,091 --> 00:03:38,761
+{\an8}<i>♪ Bart's holding hands ♪</i>
+
+79
+00:03:38,843 --> 00:03:40,603
+{\an8}<i>♪ With an old lady ♪</i>
+
+80
+00:03:40,678 --> 00:03:42,758
+{\an8}<i>♪ Who seems kind of sweet ♪</i>
+
+81
+00:03:42,847 --> 00:03:45,137
+{\an8}<i>♪ And my grandmas are gone ♪</i>
+
+82
+00:03:45,225 --> 00:03:49,015
+{\an8}<i>♪ One's in jail, and one's in dirt jail ♪</i>
+
+83
+00:03:49,103 --> 00:03:50,983
+{\an8}Back in a flash, Grandmama.
+
+84
+00:03:51,064 --> 00:03:54,614
+{\an8}Try not to win any beauty pageants
+while I'm gone.
+
+85
+00:03:54,692 --> 00:03:57,202
+{\an8}Oh. (laughs)
+
+86
+00:03:57,278 --> 00:03:59,198
+{\an8}Agnes!
+
+87
+00:03:59,280 --> 00:04:02,280
+{\an8}Oh, you just missed
+my perfect little Martin.
+
+88
+00:04:02,367 --> 00:04:03,867
+{\an8}Eh, I saw him.
+
+89
+00:04:03,952 --> 00:04:06,002
+{\an8}He's beefing up, that's for sure.
+
+90
+00:04:06,079 --> 00:04:08,619
+Don't you love Grandparents' Day?
+
+91
+00:04:08,706 --> 00:04:11,536
+I get to meet all the little boys
+Martin snitches on.
+
+92
+00:04:11,626 --> 00:04:12,876
+Is that your grandson?
+
+93
+00:04:12,961 --> 00:04:15,131
+Or is this just a... a pity walk?
+
+94
+00:04:15,213 --> 00:04:17,173
+-He's not...
+-A pity walker!
+
+95
+00:04:17,257 --> 00:04:18,967
+I love my Gam-Gam.
+
+96
+00:04:19,050 --> 00:04:22,100
+Ha. You hear that? Gam-Gam.
+
+97
+00:04:22,178 --> 00:04:24,558
+-What's your pet name?
+-Gram-Gram.
+
+98
+00:04:24,639 --> 00:04:26,979
+That's the stupidest thing
+I've ever heard.
+
+99
+00:04:27,058 --> 00:04:29,808
+I can't believe Martin left you alone
+
+100
+00:04:29,894 --> 00:04:32,234
+in this cold hallway.
+
+101
+00:04:32,313 --> 00:04:34,983
+-Thanks, Peaches.
+-You're a gift to this world.
+
+102
+00:04:35,066 --> 00:04:37,816
+You deserve to be wrapped up, Gam-Gam.
+
+103
+00:04:37,902 --> 00:04:40,412
+-Gam-Gam-Gam. Gam-Gam-Gam.
+-(laughs)
+
+104
+00:04:40,488 --> 00:04:42,238
+For you, Grandmama.
+
+105
+00:04:42,323 --> 00:04:46,203
+A diorama of the sky
+from the night you were born.
+
+106
+00:04:46,286 --> 00:04:50,206
+-Give me your sweater.
+-But-But without it, I'm nippley.
+
+107
+00:04:50,290 --> 00:04:51,830
+(both laugh)
+
+108
+00:04:51,916 --> 00:04:54,376
+You hear that? Oh, no...
+
+109
+00:04:55,336 --> 00:04:56,706
+BART: Nippley.
+
+110
+00:04:58,131 --> 00:05:01,131
+I always wanted a grandson.
+
+111
+00:05:01,217 --> 00:05:05,047
+A cute little guy I could take
+to the circus and the movies.
+
+112
+00:05:05,138 --> 00:05:07,598
+Someone I could spoil rotten.
+
+113
+00:05:07,682 --> 00:05:09,432
+I'm halfway there, ma'am.
+
+114
+00:05:09,517 --> 00:05:11,597
+Well, this is my bus.
+
+115
+00:05:11,686 --> 00:05:15,106
+Goes right by the candy store, eh?
+
+116
+00:05:16,149 --> 00:05:18,899
+<i>Don't take my mother.</i>
+<i>I need her to make me French toast!</i>
+
+117
+00:05:18,985 --> 00:05:20,985
+<i>Egg yolks scare me...</i>
+
+118
+00:05:28,619 --> 00:05:30,539
+Ooh, a Rattlesnitch.
+
+119
+00:05:30,621 --> 00:05:31,871
+<i>(rattling)</i>
+
+120
+00:05:31,956 --> 00:05:35,126
+(laughing, whooping)
+
+121
+00:05:36,252 --> 00:05:37,462
+Got it.
+
+122
+00:05:37,545 --> 00:05:38,955
+-Got it.
+<i>-Lo tengo.</i>
+
+123
+00:05:39,047 --> 00:05:41,257
+Duffman has got it.
+
+124
+00:05:41,341 --> 00:05:42,761
+-Got it.
+-Got it.
+
+125
+00:05:42,842 --> 00:05:43,932
+Got it.
+
+126
+00:05:44,010 --> 00:05:44,930
+Got it!
+
+127
+00:05:45,011 --> 00:05:46,141
+Got it.
+
+128
+00:05:46,220 --> 00:05:47,640
+-Got it.
+-Got it.
+
+129
+00:05:47,722 --> 00:05:49,852
+Now that's a spicy Peekiball.
+
+130
+00:05:49,932 --> 00:05:52,102
+-Got it.
+-(gibbering)
+
+131
+00:05:52,185 --> 00:05:54,595
+And so... aw, I didn't get it.
+
+132
+00:05:54,687 --> 00:05:57,647
+Won't anyone help me?
+
+133
+00:05:57,732 --> 00:06:00,152
+Got it, and no.
+
+134
+00:06:01,569 --> 00:06:04,739
+Now, Maggie,
+there's no monster under your bed.
+
+135
+00:06:04,822 --> 00:06:06,572
+Ooh, there is one on your face.
+
+136
+00:06:06,657 --> 00:06:08,117
+<i>(screeching)</i>
+
+137
+00:06:08,201 --> 00:06:09,791
+<i>(growling)</i>
+
+138
+00:06:09,869 --> 00:06:11,409
+Oh, man, there's like a million in here.
+
+139
+00:06:11,496 --> 00:06:13,116
+Here's the phone, so you can see them.
+
+140
+00:06:13,206 --> 00:06:14,416
+Nighty night.
+
+141
+00:06:14,499 --> 00:06:16,329
+<i>(creatures growling)</i>
+
+142
+00:06:19,045 --> 00:06:21,255
+In the Gospel According to Luke, uh...
+
+143
+00:06:21,339 --> 00:06:24,089
+(sighs) If you two don't mind...
+
+144
+00:06:24,175 --> 00:06:26,795
+Look this game is, or at least was,
+
+145
+00:06:26,886 --> 00:06:28,846
+bigger than Jesus, okay?
+
+146
+00:06:28,930 --> 00:06:31,640
+Hmm, that's a pretty low bar these days.
+
+147
+00:06:33,059 --> 00:06:35,479
+Ah, Skunk-a-san.
+
+148
+00:06:35,561 --> 00:06:38,611
+Why can't I capture you?
+
+149
+00:06:38,689 --> 00:06:40,069
+(screams) It's real!
+
+150
+00:06:40,149 --> 00:06:41,359
+D'oh!
+
+151
+00:06:41,442 --> 00:06:43,692
+(gargling)
+
+152
+00:06:43,778 --> 00:06:45,818
+(moaning)
+
+153
+00:06:45,905 --> 00:06:48,235
+Sprayed by a skunk.
+
+154
+00:06:48,324 --> 00:06:50,744
+Homie, that game's too dangerous.
+
+155
+00:06:50,827 --> 00:06:52,117
+The game was fine.
+
+156
+00:06:52,203 --> 00:06:53,833
+Reality was dangerous.
+
+157
+00:06:53,913 --> 00:06:55,163
+And could you move a little to your left?
+
+158
+00:06:55,248 --> 00:06:56,918
+There's a Stumble-Bee right behind you.
+
+159
+00:06:56,999 --> 00:06:59,879
+Oh, is there any fad
+you don't take too far?
+
+160
+00:06:59,961 --> 00:07:01,301
+The aerobics ones.
+
+161
+00:07:01,379 --> 00:07:04,009
+Mom, what Dad could use is a co-player,
+
+162
+00:07:04,090 --> 00:07:05,760
+who makes sure he doesn't get hurt.
+
+163
+00:07:05,842 --> 00:07:07,592
+Because the game is good for him.
+
+164
+00:07:07,677 --> 00:07:10,347
+You can see that he's lost weight
+from the walking.
+
+165
+00:07:10,430 --> 00:07:12,680
+I'm using the factory holes on my belt.
+
+166
+00:07:12,765 --> 00:07:14,845
+Oh, wow. Wow.
+
+167
+00:07:14,934 --> 00:07:16,944
+Lisa, why are you interested?
+
+168
+00:07:17,019 --> 00:07:19,439
+Because it's the greatest game ever.
+
+169
+00:07:19,522 --> 00:07:22,282
+In this world, I can throw a ball.
+
+170
+00:07:22,358 --> 00:07:23,988
+Hmm, okay.
+
+171
+00:07:24,068 --> 00:07:25,568
+(grunts)
+
+172
+00:07:25,653 --> 00:07:28,073
+I'd prefer if you didn't
+turn your skunk bath
+
+173
+00:07:28,156 --> 00:07:29,986
+into a giant cocktail.
+
+174
+00:07:30,074 --> 00:07:34,124
+(scoffs) One damn rule
+after another around here.
+
+175
+00:07:35,246 --> 00:07:37,456
+Peekisaurus at the Kwik-E-Mart.
+
+176
+00:07:39,000 --> 00:07:40,330
+Please come in.
+
+177
+00:07:40,418 --> 00:07:42,748
+Enjoy your game
+from which I do not make a dime.
+
+178
+00:07:42,837 --> 00:07:46,547
+(laughs) I'll be darned if this little
+critter doesn't look like your god.
+
+179
+00:07:46,632 --> 00:07:50,262
+And I'll be darned if this sad wino
+doesn't look like your god.
+
+180
+00:07:50,344 --> 00:07:54,024
+Do unto Snickers as you would
+have Snickers do unto you.
+
+181
+00:07:54,098 --> 00:07:55,348
+<i>♪ ♪</i>
+
+182
+00:07:57,101 --> 00:07:58,271
+Oh.
+
+183
+00:07:58,352 --> 00:08:00,272
+Well.
+
+184
+00:08:00,354 --> 00:08:02,774
+Such good manners.
+
+185
+00:08:02,857 --> 00:08:04,727
+I went out to get you some sneakers.
+
+186
+00:08:04,817 --> 00:08:07,107
+The kind that gang members wear.
+
+187
+00:08:07,195 --> 00:08:09,275
+<i>BART: Heaven.</i>
+<i>But I couldn't help thinking,</i>
+
+188
+00:08:09,363 --> 00:08:12,783
+<i>why settle for one golden goose,</i>
+<i>when you can have a gaggle?</i>
+
+189
+00:08:12,867 --> 00:08:16,747
+Bessie, have I seen
+your grandkids in church?
+
+190
+00:08:16,829 --> 00:08:19,289
+No. I don't have any grandchildren.
+
+191
+00:08:19,373 --> 00:08:21,003
+Here's my headshot.
+
+192
+00:08:21,083 --> 00:08:22,753
+BESSIE: Oh...
+
+193
+00:08:22,835 --> 00:08:25,545
+BART: In fights with your children,
+I take your side.
+
+194
+00:08:25,630 --> 00:08:28,470
+(gasps) And what's this?
+
+195
+00:08:28,549 --> 00:08:30,799
+{\an8}I have a loose tooth.
+
+196
+00:08:30,885 --> 00:08:33,005
+{\an8}Oh!
+
+197
+00:08:33,095 --> 00:08:35,425
+(Bart chuckles)
+
+198
+00:08:35,515 --> 00:08:37,765
+<i>♪ ♪</i>
+
+199
+00:08:37,850 --> 00:08:39,770
+<i>BART: It might've felt more like a lie</i>
+
+200
+00:08:39,852 --> 00:08:41,652
+<i>if I had to say the word "grandmother."</i>
+
+201
+00:08:41,729 --> 00:08:45,569
+<i>Fortunately, my ladies</i>
+<i>like to be called anything but.</i>
+
+202
+00:08:46,943 --> 00:08:48,573
+Good morning, Momo.
+
+203
+00:08:48,653 --> 00:08:50,243
+I love you, Geema.
+
+204
+00:08:50,321 --> 00:08:51,571
+Momtom!
+
+205
+00:08:51,656 --> 00:08:52,986
+<i>Na-nee!</i>
+
+206
+00:08:53,074 --> 00:08:54,414
+<i>Ugogo!</i>
+
+207
+00:08:54,492 --> 00:08:55,872
+<i>Waipo.</i>
+
+208
+00:08:55,952 --> 00:08:58,792
+Hey, who wants a box full of firecrackers?
+
+209
+00:08:58,871 --> 00:09:01,121
+They won't light up the night like you.
+
+210
+00:09:01,207 --> 00:09:03,207
+Aw.
+
+211
+00:09:03,292 --> 00:09:05,712
+<i>BART:</i>
+<i>Man, nothing beats ladies in their 80s.</i>
+
+212
+00:09:05,795 --> 00:09:08,375
+<i>Twice my age plus 60. Perfect.</i>
+
+213
+00:09:09,966 --> 00:09:12,636
+<i>♪ ♪</i>
+
+214
+00:09:18,391 --> 00:09:20,981
+(screaming)
+
+215
+00:09:25,273 --> 00:09:26,443
+(whirring)
+
+216
+00:09:32,655 --> 00:09:34,315
+(steam whistle blows)
+
+217
+00:09:34,407 --> 00:09:36,447
+Ketchup? In my kitchen?
+
+218
+00:09:36,534 --> 00:09:37,994
+Never!
+
+219
+00:09:38,077 --> 00:09:39,657
+(laughs)
+
+220
+00:09:39,745 --> 00:09:41,405
+(whistling)
+
+221
+00:09:42,748 --> 00:09:43,868
+Bart?
+
+222
+00:09:43,958 --> 00:09:45,628
+Hey, Mom. Want a pep-o-mint drop?
+
+223
+00:09:45,710 --> 00:09:48,920
+Yes, but since when do you carry those?
+
+224
+00:09:49,005 --> 00:09:50,165
+Oh, I got it all.
+
+225
+00:09:50,256 --> 00:09:52,086
+Altoids, butterscotch candy,
+
+226
+00:09:52,174 --> 00:09:54,344
+Jelly Bellies, and Turkish delight.
+
+227
+00:09:54,427 --> 00:09:57,387
+-(phone rings)
+-Hello?
+
+228
+00:09:57,471 --> 00:09:59,021
+It's someone named Gertie.
+
+229
+00:09:59,098 --> 00:10:01,018
+Is that a girl in your class?
+
+230
+00:10:01,100 --> 00:10:02,520
+I know a lot of Gerties.
+
+231
+00:10:02,602 --> 00:10:04,352
+Did it sound like she was
+talking through her throat?
+
+232
+00:10:04,437 --> 00:10:07,227
+Uh, I'll just give you the phone.
+
+233
+00:10:07,315 --> 00:10:09,395
+<i>GERTIE (through electrolarynx):</i>
+<i>Hello, sweetie, I didn't know</i>
+
+234
+00:10:09,483 --> 00:10:12,533
+<i>if you wanted PlayStation or Xbox,</i>
+
+235
+00:10:12,612 --> 00:10:15,112
+<i>so I got both.</i>
+
+236
+00:10:17,700 --> 00:10:20,870
+Maw-maw? I ordered so many toys,
+you get free shipping.
+
+237
+00:10:20,953 --> 00:10:23,163
+Oh, so thoughtful.
+
+238
+00:10:23,247 --> 00:10:24,707
+Interested? My card.
+
+239
+00:10:24,790 --> 00:10:27,040
+Book now for Christmas.
+
+240
+00:10:27,126 --> 00:10:30,046
+<i>Bart: I was juggling 50 shades of gray.</i>
+
+241
+00:10:30,129 --> 00:10:31,549
+I've been watching you.
+
+242
+00:10:31,631 --> 00:10:33,301
+I know exactly what you're up to.
+
+243
+00:10:33,382 --> 00:10:34,972
+I'm not up to anything, lady.
+
+244
+00:10:35,051 --> 00:10:36,261
+(bell dings)
+
+245
+00:10:36,344 --> 00:10:38,184
+{\an8}<i>(through electrolarynx): This is for you.</i>
+
+246
+00:10:38,262 --> 00:10:41,392
+{\an8}<i>Thanks for coming to my brother's wake.</i>
+
+247
+00:10:41,474 --> 00:10:43,144
+{\an8}It's what I do.
+
+248
+00:10:50,775 --> 00:10:53,105
+You are a cold little customer.
+
+249
+00:10:53,194 --> 00:10:54,994
+Agreed. Now, are we done here?
+
+250
+00:10:55,071 --> 00:10:57,201
+Because I've got birthday checks
+to deposit.
+
+251
+00:10:57,281 --> 00:10:59,741
+I've got birthdays
+like Lindy's has pickles.
+
+252
+00:10:59,825 --> 00:11:02,405
+Do you even know what that means?
+Do you?
+
+253
+00:11:02,495 --> 00:11:04,745
+What is this?
+Pick-on-the-con-artist Day?
+
+254
+00:11:04,830 --> 00:11:07,290
+I'll pay you $100 to pick me up,
+
+255
+00:11:07,375 --> 00:11:09,705
+four days in a row,
+from the Sunnyday Nursing Home.
+
+256
+00:11:09,794 --> 00:11:11,844
+Sunnyday, that's on Fifth, right?
+
+257
+00:11:11,921 --> 00:11:14,341
+Yes. Ask for Phoebe Pratt.
+
+258
+00:11:14,423 --> 00:11:17,433
+Oh, my dear,
+you look like Cybil Shepherd.
+
+259
+00:11:17,510 --> 00:11:19,140
+I am Cybil Shepherd.
+
+260
+00:11:19,220 --> 00:11:22,350
+Impossible,
+Cybil Shepherd is notoriously difficult.
+
+261
+00:11:22,431 --> 00:11:23,521
+Aah!
+
+262
+00:11:23,599 --> 00:11:25,769
+Oh, my God, everyone,
+it's Cybil Shepherd!
+
+263
+00:11:34,610 --> 00:11:38,950
+So it turns out you can buy
+Peeki-creatures with real money.
+
+264
+00:11:39,031 --> 00:11:42,201
+But the fun of the game is
+catching them, not buying them.
+
+265
+00:11:42,284 --> 00:11:45,084
+Lisa, I can think of no better investment
+than invisible creatures
+
+266
+00:11:45,162 --> 00:11:47,292
+that are part of an over-hyped,
+passing fad.
+
+267
+00:11:47,373 --> 00:11:48,713
+-Please?
+-I'm in.
+
+268
+00:11:48,791 --> 00:11:52,001
+You know,
+I'm really starting to like you.
+
+269
+00:11:52,086 --> 00:11:53,546
+-Mmm.
+-Mmm.
+
+270
+00:11:54,964 --> 00:11:56,384
+I'm here for Phoebe.
+
+271
+00:11:56,465 --> 00:11:58,585
+Weren't you just here for Eunice?
+
+272
+00:11:58,676 --> 00:12:01,596
+Hey, a guy can have two grandmothers.
+Look it up.
+
+273
+00:12:02,722 --> 00:12:05,182
+All right, you've served your purpose.
+Good-bye.
+
+274
+00:12:05,266 --> 00:12:07,016
+A hundred bucks to walk you to the curb?
+
+275
+00:12:07,101 --> 00:12:09,191
+Sunnyday is a secure facility.
+
+276
+00:12:09,270 --> 00:12:12,060
+A family member must sign me out.
+
+277
+00:12:12,148 --> 00:12:14,688
+Why are you there? You seem normal.
+
+278
+00:12:14,775 --> 00:12:16,895
+Happy anniversary. Got it!
+
+279
+00:12:16,986 --> 00:12:19,856
+My family fear I'll wander off
+into some forest.
+
+280
+00:12:19,947 --> 00:12:22,737
+-So where are you going?
+-Well, that forest over there.
+
+281
+00:12:22,825 --> 00:12:24,535
+Mm, I better come with you.
+
+282
+00:12:24,618 --> 00:12:26,078
+Those woods are full of bullies.
+
+283
+00:12:26,162 --> 00:12:27,752
+So, did you get it?
+
+284
+00:12:27,830 --> 00:12:30,040
+Yep, here's the orzo.
+
+285
+00:12:30,124 --> 00:12:32,714
+You idiot, you were supposed to get ouzo.
+
+286
+00:12:32,793 --> 00:12:35,213
+Orzo is, like, thick, brown rice.
+
+287
+00:12:35,296 --> 00:12:36,706
+You're like thick, brown rice.
+
+288
+00:12:36,797 --> 00:12:37,967
+(grunting)
+
+289
+00:12:42,178 --> 00:12:43,598
+It's good stuff.
+
+290
+00:12:44,972 --> 00:12:47,142
+So, Pheebs, tell me about yourself.
+
+291
+00:12:47,224 --> 00:12:48,604
+I'm a nature photographer.
+
+292
+00:12:48,684 --> 00:12:51,314
+Wow, two things that
+won't exist in 20 years.
+
+293
+00:12:57,943 --> 00:13:00,743
+Oh, you're quite good at taking
+the piss out of someone.
+
+294
+00:13:00,821 --> 00:13:02,571
+Wait, that's okay to say?
+
+295
+00:13:02,656 --> 00:13:04,066
+Taking the piss.
+
+296
+00:13:04,158 --> 00:13:06,328
+Taking the piss.
+Taking the piss, taking the piss.
+
+297
+00:13:06,410 --> 00:13:08,000
+<i>♪ Taking the piss ♪</i>
+
+298
+00:13:08,078 --> 00:13:09,538
+Have you gotten that
+out of your system?
+
+299
+00:13:09,622 --> 00:13:11,582
+I'll get up in the middle of the night
+and say one more.
+
+300
+00:13:12,792 --> 00:13:14,292
+Poor old buck.
+
+301
+00:13:14,376 --> 00:13:17,416
+Probably the last spring
+he'll make it up the mountain.
+
+302
+00:13:17,505 --> 00:13:19,085
+Want me to throw a rock at it?
+
+303
+00:13:19,173 --> 00:13:20,593
+No!
+
+304
+00:13:20,674 --> 00:13:23,094
+He'll know when his time has come.
+
+305
+00:13:23,177 --> 00:13:24,427
+We all do.
+
+306
+00:13:25,554 --> 00:13:26,644
+(bellows)
+
+307
+00:13:26,722 --> 00:13:28,772
+Hey, I got to be me.
+
+308
+00:13:30,184 --> 00:13:31,774
+Right, it's been four days.
+
+309
+00:13:31,852 --> 00:13:33,442
+As we agreed.
+
+310
+00:13:33,521 --> 00:13:36,691
+Um, I don't feel right taking your money.
+
+311
+00:13:39,360 --> 00:13:41,360
+I bequeath this to you.
+
+312
+00:13:41,445 --> 00:13:42,945
+"Bequeath"?
+
+313
+00:13:43,030 --> 00:13:44,990
+-What does that mean?
+-Oh, look it up.
+
+314
+00:13:45,074 --> 00:13:46,784
+Good-bye, Bart.
+
+315
+00:13:48,452 --> 00:13:50,662
+(snoring)
+
+316
+00:13:50,746 --> 00:13:51,786
+Aah!
+
+317
+00:13:51,872 --> 00:13:54,792
+I'm having brunch with my little man
+and I need the bus pass.
+
+318
+00:13:54,875 --> 00:13:56,705
+Mother, you know that boy
+is a ne'er-do-well
+
+319
+00:13:56,794 --> 00:13:58,504
+and possibly a scofflaw.
+
+320
+00:13:58,587 --> 00:14:02,087
+Seymour, it's time you lived your life.
+
+321
+00:14:04,093 --> 00:14:05,933
+I will live my life.
+
+322
+00:14:06,011 --> 00:14:08,811
+And I'll start by leaving
+my hair mussed up.
+
+323
+00:14:08,889 --> 00:14:10,389
+MRS. SKINNER: And comb that hair.
+
+324
+00:14:10,474 --> 00:14:13,194
+I'll finger-comb it, is what I'll do.
+
+325
+00:14:13,269 --> 00:14:15,979
+Oh, bequeath... bequeath, bequeath.
+
+326
+00:14:16,063 --> 00:14:18,863
+I can't believe she's making me do this.
+I'm gonna look up a word.
+
+327
+00:14:18,941 --> 00:14:20,571
+How do you look up a word?
+
+328
+00:14:22,069 --> 00:14:25,069
+-I'd like to look up a word.
+-Give me your phone.
+
+329
+00:14:25,155 --> 00:14:26,775
+-What's the word?
+-"Bequeath."
+
+330
+00:14:28,909 --> 00:14:31,039
+This means something
+you give away when you die.
+
+331
+00:14:31,120 --> 00:14:33,460
+She must be sick.
+How much do I owe you?
+
+332
+00:14:33,539 --> 00:14:36,209
+Oh, no, it's... five dollars.
+
+333
+00:14:40,170 --> 00:14:42,840
+I'm here to see Phoebe,
+it's kind of a surprise.
+
+334
+00:14:42,923 --> 00:14:44,683
+But she left this morning.
+
+335
+00:14:44,758 --> 00:14:47,718
+She said you were waiting outside
+and I didn't bother to check.
+
+336
+00:14:47,803 --> 00:14:50,143
+What kind of a nursing home
+are you running here?
+
+337
+00:14:50,222 --> 00:14:52,222
+Oh, is it panic you want?
+
+338
+00:14:52,308 --> 00:14:55,018
+<i>(over P.A.):</i>
+<i>Patient missing! Patient missing!</i>
+
+339
+00:14:55,102 --> 00:14:58,232
+-What's with you, Judy?
+-He knows my name.
+
+340
+00:15:02,818 --> 00:15:04,398
+(alarm blaring)
+
+341
+00:15:04,486 --> 00:15:06,856
+Those tracks were made
+by tennis balls, Lou.
+
+342
+00:15:06,947 --> 00:15:10,617
+Get me files on Pete Sampras
+and the Williams sisters.
+
+343
+00:15:10,701 --> 00:15:13,751
+<i>BART: I realized she had me</i>
+<i>pick her up four days in a row</i>
+
+344
+00:15:13,829 --> 00:15:17,119
+<i>so the home's guard would be down</i>
+<i>and she could leave on her own.</i>
+
+345
+00:15:17,207 --> 00:15:18,827
+<i>But why?</i>
+
+346
+00:15:19,752 --> 00:15:21,882
+He'll know when his time has come.
+
+347
+00:15:21,962 --> 00:15:23,422
+We all do.
+
+348
+00:15:24,173 --> 00:15:25,933
+Can't believe I missed that.
+
+349
+00:15:26,008 --> 00:15:27,588
+Or this.
+
+350
+00:15:27,676 --> 00:15:30,506
+Don't tell anyone-- I plan to off myself.
+
+351
+00:15:30,596 --> 00:15:33,266
+<i>♪ ♪</i>
+
+352
+00:15:33,349 --> 00:15:36,809
+Okay, these Peekimon cheats
+cost us 600 bucks.
+
+353
+00:15:36,894 --> 00:15:39,154
+No one but you or I must know.
+
+354
+00:15:40,940 --> 00:15:44,280
+I'm starting to suspect
+that trophy was not real gold.
+
+355
+00:15:44,360 --> 00:15:46,150
+Can we talk about something else?
+
+356
+00:15:46,236 --> 00:15:47,776
+Absolutely.
+
+357
+00:15:47,863 --> 00:15:49,783
+After you put your fingerprints
+on this knife.
+
+358
+00:15:49,865 --> 00:15:51,985
+-Dad!
+-It's a cake knife.
+
+359
+00:15:52,076 --> 00:15:54,746
+I just had an extra piece.
+Two extra pieces.
+
+360
+00:15:54,828 --> 00:15:56,158
+Okay, two extra cakes.
+
+361
+00:15:56,246 --> 00:15:58,246
+But all cakes are pieces
+of something bigger.
+
+362
+00:15:58,332 --> 00:15:59,422
+Just touch the knife.
+
+363
+00:15:59,500 --> 00:16:02,710
+Dad, why are you making me
+hide things from Mom?
+
+364
+00:16:02,795 --> 00:16:04,955
+You're right. That's my job.
+
+365
+00:16:05,047 --> 00:16:06,717
+Well, it's my fault, too.
+
+366
+00:16:06,799 --> 00:16:08,929
+No, sweetie, no more secrets.
+
+367
+00:16:09,009 --> 00:16:10,679
+From now on we're an open book.
+
+368
+00:16:10,761 --> 00:16:12,551
+-Guys!
+-How much did you hear?
+
+369
+00:16:12,638 --> 00:16:14,518
+(whispering)
+We may have to get rid of the boy.
+
+370
+00:16:14,598 --> 00:16:15,848
+I don't know what you're talking about.
+
+371
+00:16:15,933 --> 00:16:18,443
+-I need you to look for something.
+-Forget it.
+
+372
+00:16:18,519 --> 00:16:21,859
+I learned from Peekimon
+that's a slippery slope.
+
+373
+00:16:21,939 --> 00:16:24,689
+Especially that time
+I fell down a slippery slope.
+
+374
+00:16:24,775 --> 00:16:26,395
+Look, this isn't a stupid game.
+
+375
+00:16:26,485 --> 00:16:28,605
+I'm looking for a lady
+who may be in trouble.
+
+376
+00:16:28,696 --> 00:16:30,026
+-Is it Patty?
+-No.
+
+377
+00:16:30,114 --> 00:16:31,414
+-Is it Selma?
+-No!
+
+378
+00:16:31,490 --> 00:16:32,570
+Let's roll.
+
+379
+00:16:33,993 --> 00:16:35,543
+This is where we used to go.
+
+380
+00:16:35,619 --> 00:16:37,539
+Bart, what were you up to?
+
+381
+00:16:37,621 --> 00:16:39,081
+Being the perfect grandson.
+
+382
+00:16:39,164 --> 00:16:40,464
+For our grandma?
+
+383
+00:16:40,541 --> 00:16:42,041
+No, for everybody but her.
+
+384
+00:16:42,126 --> 00:16:43,916
+Now please, we got to find Phoebe.
+
+385
+00:16:44,003 --> 00:16:46,713
+Well, we'll need the help of...
+
+386
+00:16:46,797 --> 00:16:49,507
+experienced Peekimon searchers.
+
+387
+00:16:49,591 --> 00:16:50,931
+COMIC BOOK GUY: Hmm.
+
+388
+00:16:51,010 --> 00:16:52,590
+This is who we're looking for.
+
+389
+00:16:52,678 --> 00:16:54,598
+Oh, you're no fun.
+
+390
+00:16:54,680 --> 00:16:56,390
+What's her Peeki-name?
+
+391
+00:16:56,473 --> 00:16:58,683
+Um... Dame Judi Dentures.
+
+392
+00:16:58,767 --> 00:17:00,057
+(searchers laugh)
+
+393
+00:17:00,144 --> 00:17:01,654
+And her point value?
+
+394
+00:17:01,729 --> 00:17:03,189
+I don't know, a zillion?
+
+395
+00:17:03,272 --> 00:17:04,902
+(all exclaim)
+
+396
+00:17:04,982 --> 00:17:06,532
+Okay, let's do it.
+
+397
+00:17:07,693 --> 00:17:09,363
+<i>♪ ♪</i>
+
+398
+00:17:09,445 --> 00:17:12,315
+<i>LISA: ♪ I want to be the very best ♪</i>
+
+399
+00:17:12,406 --> 00:17:14,986
+<i>♪ This is my new career ♪</i>
+
+400
+00:17:16,493 --> 00:17:18,953
+<i>HOMER:</i>
+<i>♪ And then take a long, long rest ♪</i>
+
+401
+00:17:19,038 --> 00:17:21,578
+<i>♪ And celebrate with beer ♪</i>
+
+402
+00:17:22,750 --> 00:17:25,630
+<i>LISA: ♪ I will travel across the land ♪</i>
+
+403
+00:17:25,711 --> 00:17:28,421
+<i>♪ Catching beasts who've done no crime ♪</i>
+
+404
+00:17:29,590 --> 00:17:32,300
+<i>HOMER: ♪ Playing games made in Japan ♪</i>
+
+405
+00:17:32,384 --> 00:17:34,644
+<i>♪ I love to waste my time ♪</i>
+
+406
+00:17:36,096 --> 00:17:38,886
+<i>LISA: ♪ This is fun for everyone ♪</i>
+
+407
+00:17:38,974 --> 00:17:41,444
+<i>♪ Even babies play the game ♪</i>
+
+408
+00:17:42,561 --> 00:17:45,021
+<i>♪ Maggie cannot say a word ♪</i>
+
+409
+00:17:45,105 --> 00:17:48,145
+<i>♪ But watch her stab and kill and maim ♪</i>
+
+410
+00:17:51,570 --> 00:17:52,820
+I found something.
+
+411
+00:17:52,905 --> 00:17:54,315
+-(owl hoots)
+-(bone crunches)
+
+412
+00:17:54,406 --> 00:17:55,946
+D'oh!
+
+413
+00:17:56,033 --> 00:17:57,413
+Peekimon searchers, huh?
+
+414
+00:17:57,493 --> 00:17:59,503
+Well, that's the stupidest thing
+I've ever...
+
+415
+00:17:59,578 --> 00:18:01,828
+-Found her!
+-(voice breaking) Oh, my God.
+
+416
+00:18:07,294 --> 00:18:10,424
+Hello.
+Oh, I-I seem to have fallen asleep...
+
+417
+00:18:10,506 --> 00:18:11,716
+in this forest...
+
+418
+00:18:11,799 --> 00:18:14,259
+with apparently excellent Wi-Fi.
+
+419
+00:18:14,343 --> 00:18:17,553
+Uh, yes, all the trees
+are cell phone towers.
+
+420
+00:18:17,638 --> 00:18:19,428
+What are you doing out here?
+
+421
+00:18:19,515 --> 00:18:22,805
+Oh... I'll-I'll admit
+I-I had some dark thoughts
+
+422
+00:18:22,893 --> 00:18:25,483
+and I used you to escape from the home.
+
+423
+00:18:25,562 --> 00:18:29,152
+But once I got out here by myself,
+completely free,
+
+424
+00:18:29,233 --> 00:18:31,993
+I realized there's so much to live for.
+
+425
+00:18:32,069 --> 00:18:34,399
+And... I want my camera back.
+
+426
+00:18:34,488 --> 00:18:36,868
+Can we still hike sometimes?
+
+427
+00:18:36,949 --> 00:18:40,119
+Yes, and we could go inside
+that mill house you love so much.
+
+428
+00:18:40,202 --> 00:18:42,292
+Milhouse is not a place, it's a nerd.
+
+429
+00:18:42,371 --> 00:18:44,081
+Oh, well, there you go.
+
+430
+00:18:44,164 --> 00:18:45,544
+<i>BART: So that's it.</i>
+
+431
+00:18:45,624 --> 00:18:49,294
+<i>I learned playing with women's hearts</i>
+<i>is a dangerous game.</i>
+
+432
+00:18:49,378 --> 00:18:52,008
+<i>And it's wrong to take advantage</i>
+<i>of the elderly.</i>
+
+433
+00:18:54,424 --> 00:18:55,764
+And Grampa?
+
+434
+00:18:55,843 --> 00:18:58,973
+I'm sorry I embarrassed you
+on Grandparents' Day.
+
+435
+00:18:59,054 --> 00:19:02,224
+Geez! I thought my stories were long.
+
+436
+00:19:06,645 --> 00:19:09,725
+-Homer?
+-Uh... what?
+
+437
+00:19:09,815 --> 00:19:12,315
+I know about the $600.
+
+438
+00:19:12,401 --> 00:19:14,821
+You're right, Marge.
+We spent too much.
+
+439
+00:19:14,903 --> 00:19:17,323
+Bart was a gigolo.
+What are you gonna do?
+
+440
+00:19:17,406 --> 00:19:18,776
+Be mad at the world?
+
+441
+00:19:18,866 --> 00:19:20,656
+(groans)
+Maybe you could say something
+
+442
+00:19:20,742 --> 00:19:22,202
+to make me feel better.
+
+443
+00:19:22,286 --> 00:19:23,746
+The kids are fine.
+
+444
+00:19:23,829 --> 00:19:26,329
+The game is a fad,
+and in no time at all
+
+445
+00:19:26,415 --> 00:19:28,875
+you'll be worried about something else.
+
+446
+00:19:28,959 --> 00:19:31,169
+Huh, I do feel better.
+
+447
+00:19:31,920 --> 00:19:34,920
+Hmm, you know,
+the last couple of pies I baked
+
+448
+00:19:35,007 --> 00:19:36,337
+haven't been great.
+
+449
+00:19:36,425 --> 00:19:37,965
+There you go.
+
+450
+00:19:50,856 --> 00:19:53,276
+I like your hair. Finger-combed?
+
+451
+00:19:53,358 --> 00:19:56,028
+Yes, because I decide how my hair looks.
+
+452
+00:19:56,111 --> 00:19:57,241
+MRS. SKINNER: Seymour!
+
+453
+00:19:57,321 --> 00:19:59,741
+Just wanted to tell you
+I'm here with a real man.
+
+454
+00:19:59,823 --> 00:20:02,993
+My silhouette's replacing yours
+on the stairs.
+
+455
+00:20:03,076 --> 00:20:04,656
+(Milhouse chuckles)
+
+456
+00:20:04,745 --> 00:20:06,705
+So enjoy your meal, son.
+
+457
+00:20:06,788 --> 00:20:07,998
+I'm buying dessert.
+
+458
+00:20:08,081 --> 00:20:09,791
+Oh, that's so nice.
+
+459
+00:20:09,875 --> 00:20:13,295
+-For you, not that son-snatcher.
+-(grumbles)
+
+460
+00:20:13,378 --> 00:20:15,628
+<i>♪ ♪</i>
+
+461
+00:20:22,679 --> 00:20:25,889
+{\an8}<i>LISA: ♪ I want to be the very best ♪</i>
+
+462
+00:20:25,974 --> 00:20:29,274
+{\an8}<i>♪ This is my new career ♪</i>
+
+463
+00:20:29,353 --> 00:20:32,023
+{\an8}<i>HOMER:</i>
+<i>♪ I want to give this game a rest ♪</i>
+
+464
+00:20:32,105 --> 00:20:34,855
+{\an8}<i>♪ I've been playing since last year ♪</i>
+
+465
+00:20:36,068 --> 00:20:38,988
+{\an8}<i>SEA CAPTAIN:</i>
+<i>♪ I play it on my little boat ♪</i>
+
+466
+00:20:39,071 --> 00:20:41,411
+{\an8}<i>♪ Sitting in a cove ♪</i>
+
+467
+00:20:41,490 --> 00:20:42,530
+{\an8}<i>Yar.</i>
+
+468
+00:20:42,616 --> 00:20:45,446
+{\an8}<i>OTTO: ♪ I ran my bus right off a cliff ♪</i>
+
+469
+00:20:45,535 --> 00:20:48,285
+{\an8}<i>♪ Was playing while I drove ♪</i>
+
+470
+00:20:49,248 --> 00:20:50,538
+{\an8}<i>LISA: ♪ This fad was hot ♪</i>
+
+471
+00:20:50,624 --> 00:20:52,084
+{\an8}<i>♪ And then was not ♪</i>
+
+472
+00:20:52,167 --> 00:20:55,047
+{\an8}<i>♪ These things come and go ♪</i>
+
+473
+00:20:56,088 --> 00:20:58,838
+{\an8}<i>HOMER: ♪ All I know is once again ♪</i>
+
+474
+00:20:58,924 --> 00:21:02,014
+{\an8}<i>♪ I wasted lots of dough ♪</i>
+
+475
+00:21:02,094 --> 00:21:03,894
+-(snarling, growling)
+-Shh!
+
+476
+00:21:03,971 --> 00:21:05,141
+(growls)
+
+477
+00:21:07,849 --> 00:21:09,939
+Subtitled by G. Campbell
+

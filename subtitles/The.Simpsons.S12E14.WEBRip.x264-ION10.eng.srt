@@ -1,0 +1,2157 @@
+1
+00:00:02,002 --> 00:00:02,922
+(theme music playing)
+
+2
+00:00:03,003 --> 00:00:06,593
+CHORUS: <i>♪ The Simpsons ♪</i>
+
+3
+00:00:16,933 --> 00:00:18,693
+(bell rings)
+
+4
+00:00:23,231 --> 00:00:24,981
+(whistle blows)
+
+5
+00:00:30,196 --> 00:00:31,406
+(beeping)
+
+6
+00:00:35,785 --> 00:00:39,205
+(playing the blues)
+
+7
+00:00:46,504 --> 00:00:47,884
+(tires screeching)
+
+8
+00:00:58,767 --> 00:00:59,927
+(honking horn)
+
+9
+00:01:00,894 --> 00:01:02,024
+(tires screeching)
+
+10
+00:01:04,230 --> 00:01:06,020
+D'oh!
+
+11
+00:01:06,107 --> 00:01:07,817
+(tires screeching)
+
+12
+00:01:07,901 --> 00:01:10,401
+(siren blaring)
+
+13
+00:01:10,904 --> 00:01:11,994
+(TV switches on)
+
+14
+00:01:22,290 --> 00:01:24,710
+(Olympic Theme playing)
+
+15
+00:01:26,544 --> 00:01:29,304
+{\an8}ANNOUNCER: <i>Welcome back</i>
+<i>Great Moments in Olympic History.</i>
+
+16
+00:01:29,380 --> 00:01:31,550
+<i>At the 1936 Berlin Games</i>
+
+17
+00:01:31,633 --> 00:01:33,803
+<i>Jesse Owens humiliates</i>
+<i>Adolf Hitler</i>
+
+18
+00:01:33,885 --> 00:01:36,005
+<i>by outracing his zeppelin.</i>
+
+19
+00:01:38,598 --> 00:01:40,558
+(exasperated grunt)
+
+20
+00:01:40,642 --> 00:01:42,442
+<i>1968, Mexico City,</i>
+
+21
+00:01:42,519 --> 00:01:45,439
+<i>Bob Beamon shatters the world</i>
+<i>long jump record.</i>
+
+22
+00:01:45,522 --> 00:01:47,112
+Woah, woah!
+
+23
+00:01:47,190 --> 00:01:50,360
+-(tires screech, car crashes)
+-(screams)
+
+24
+00:01:50,443 --> 00:01:52,243
+(in German) <i>Ach, du lieber!</i>
+
+25
+00:01:52,320 --> 00:01:55,370
+ANNOUNCER (in English): <i>And in 1984,</i>
+<i>Portugal's Carlos Lopez</i>
+
+26
+00:01:55,448 --> 00:01:57,618
+<i>becomes the oldest Olympic</i>
+<i>marathon winner ever</i>
+
+27
+00:01:57,700 --> 00:01:59,950
+<i>-at age 38.</i>
+-(grunts)
+
+28
+00:02:00,036 --> 00:02:03,666
+{\an8}(gasp) Thirty-eight?
+That's roughly my age!
+
+29
+00:02:03,748 --> 00:02:05,918
+{\an8}Marge, after a lot of thought
+
+30
+00:02:06,000 --> 00:02:09,420
+{\an8}I've decided to run
+the Springfield Marathon.
+
+31
+00:02:09,504 --> 00:02:12,134
+{\an8}Oh, please, you get exhausted
+
+32
+00:02:12,215 --> 00:02:14,545
+{\an8}watching the <i>Twilight Zone</i>
+marathon.
+
+33
+00:02:14,634 --> 00:02:15,644
+{\an8}(chuckles)
+
+34
+00:02:15,718 --> 00:02:17,638
+{\an8}I'm a regular Billy Crystal.
+
+35
+00:02:17,720 --> 00:02:18,760
+{\an8}You got that right.
+
+36
+00:02:18,847 --> 00:02:21,137
+{\an8}Well, Dad, I think
+running's good exercise.
+
+37
+00:02:21,224 --> 00:02:22,894
+{\an8}It adds years to your life.
+
+38
+00:02:22,976 --> 00:02:24,096
+{\an8}Stay out of this, Lisa.
+
+39
+00:02:24,686 --> 00:02:26,306
+{\an8}Marge, I've made up my mind.
+
+40
+00:02:26,396 --> 00:02:27,686
+{\an8}I'll do your job for a day
+
+41
+00:02:27,772 --> 00:02:28,772
+{\an8}and you do mine.
+
+42
+00:02:28,857 --> 00:02:31,357
+{\an8}Then we'll see
+who has it tougher.
+
+43
+00:02:31,442 --> 00:02:33,612
+{\an8}(haughty chuckle)
+
+44
+00:02:33,695 --> 00:02:34,985
+{\an8}(door slams shut)
+
+45
+00:02:37,782 --> 00:02:41,372
+{\an8}Good afternoon and welcome
+to the 97th Springfield Marathon
+
+46
+00:02:41,452 --> 00:02:43,832
+{\an8}commemorating the time
+Jebediah Springfield ran
+
+47
+00:02:43,913 --> 00:02:46,463
+{\an8}across six states to avoid
+his creditors.
+
+48
+00:02:46,541 --> 00:02:48,591
+{\an8}You got all your equipment,
+Dad?
+
+49
+00:02:48,668 --> 00:02:50,458
+{\an8}Let's see. Sweat band... check.
+
+50
+00:02:50,545 --> 00:02:54,375
+{\an8}Anti-chafing nipple tape...
+check, check and check.
+
+51
+00:02:54,465 --> 00:02:57,545
+{\an8}Attention, runners:
+on your mark, get set...
+
+52
+00:02:57,635 --> 00:03:00,675
+{\an8}Now, get out of here
+before I change my mind.
+
+53
+00:03:04,184 --> 00:03:05,524
+{\an8}I can't believe it!
+
+54
+00:03:05,602 --> 00:03:07,022
+{\an8}I'm actually
+running a marathon!
+
+55
+00:03:07,103 --> 00:03:09,153
+{\an8}Oh, I hit the wall!
+
+56
+00:03:09,230 --> 00:03:10,690
+{\an8}This is so painful!
+
+57
+00:03:10,773 --> 00:03:13,193
+{\an8}Hey, I got my second wind!
+
+58
+00:03:13,276 --> 00:03:15,106
+{\an8}D'oh! Another wall!
+
+59
+00:03:15,195 --> 00:03:16,735
+{\an8}Woo-hoo! Third wind!
+
+60
+00:03:17,655 --> 00:03:19,365
+{\an8}Faster, rickshaw driver,
+faster!
+
+61
+00:03:19,449 --> 00:03:21,779
+{\an8}Ow!
+Sir, the whip isn't helping.
+
+62
+00:03:21,868 --> 00:03:24,368
+{\an8}Silence!
+You call yourself Chinese?
+
+63
+00:03:25,121 --> 00:03:27,921
+{\an8}No one can outrun the Flash.
+
+64
+00:03:28,917 --> 00:03:32,627
+{\an8}Curses, one of my superfoes
+has set a trap for me.
+
+65
+00:03:32,712 --> 00:03:34,012
+{\an8}(grunting)
+
+66
+00:03:34,088 --> 00:03:35,628
+{\an8}(groaning and panting)
+
+67
+00:03:35,715 --> 00:03:37,835
+{\an8}Hey, Grandpa's running.
+
+68
+00:03:37,926 --> 00:03:39,426
+{\an8}That's not Grandpa.
+
+69
+00:03:39,510 --> 00:03:41,100
+{\an8}Dad's just dehydrated.
+
+70
+00:03:41,179 --> 00:03:42,889
+{\an8}(expanding squeak)
+
+71
+00:03:42,972 --> 00:03:45,642
+(groans)
+
+72
+00:03:46,643 --> 00:03:48,603
+{\an8}BROCKMAN:
+And with 500 yards to go
+
+73
+00:03:48,686 --> 00:03:51,226
+{\an8}the runners from Australia
+and Djibouti are neck and neck.
+
+74
+00:03:51,314 --> 00:03:54,864
+{\an8}Two weary warriors now burning
+with pain and exhaustion
+
+75
+00:03:54,943 --> 00:03:57,323
+{\an8}but only one will win
+the grand prize:
+
+76
+00:03:57,403 --> 00:03:59,953
+{\an8}a walking tour of Springfield.
+
+77
+00:04:00,031 --> 00:04:02,161
+{\an8}(both panting)
+
+78
+00:04:03,117 --> 00:04:05,747
+(chuckles) That tour is mine.
+
+79
+00:04:05,828 --> 00:04:06,748
+(chuckling)
+
+80
+00:04:06,829 --> 00:04:09,419
+Well, hold the phone, Dora.
+
+81
+00:04:09,499 --> 00:04:11,829
+A new challenger
+has emerged out of nowhere.
+
+82
+00:04:11,918 --> 00:04:14,128
+He's running on shear pluck,
+moxie and grit
+
+83
+00:04:14,212 --> 00:04:16,382
+all of which he'll be
+tested for after the race.
+
+84
+00:04:17,215 --> 00:04:19,215
+(Italian accent)
+Hey, I win the race.
+
+85
+00:04:19,300 --> 00:04:21,340
+Viva Italia!
+
+86
+00:04:21,427 --> 00:04:23,597
+Folks, our winner seems
+to be from Italy.
+
+87
+00:04:23,680 --> 00:04:24,720
+I love-a you all.
+
+88
+00:04:26,224 --> 00:04:28,144
+I use up all-a my English.
+
+89
+00:04:33,106 --> 00:04:34,316
+<i>Grazie, </i>Springfield.
+
+90
+00:04:34,399 --> 00:04:35,779
+-(caws)
+-(screams)
+
+91
+00:04:36,526 --> 00:04:37,566
+He's a phony!
+
+92
+00:04:37,652 --> 00:04:38,822
+Lousy cheater!
+
+93
+00:04:38,903 --> 00:04:40,993
+I demand a re-race.
+
+94
+00:04:41,072 --> 00:04:42,872
+I got a better idea.
+
+95
+00:04:42,949 --> 00:04:45,199
+Let's have a fun run
+on his trachea.
+
+96
+00:04:45,285 --> 00:04:46,235
+-Yeah.
+-Kill him!
+
+97
+00:04:46,327 --> 00:04:47,577
+Make him pay!
+
+98
+00:04:52,000 --> 00:04:53,580
+(tires screeching)
+
+99
+00:04:54,335 --> 00:04:55,455
+Get in, hurry!
+
+100
+00:04:55,545 --> 00:04:56,545
+BART: Mob... stranger?
+
+101
+00:04:56,629 --> 00:04:59,169
+Mob... stranger. Stranger.
+
+102
+00:05:00,049 --> 00:05:01,179
+(grunts)
+
+103
+00:05:01,259 --> 00:05:03,089
+(tires screeching)
+
+104
+00:05:03,177 --> 00:05:04,177
+Who are you?
+
+105
+00:05:04,262 --> 00:05:06,642
+Oh, you'll find out
+in due time.
+
+106
+00:05:06,723 --> 00:05:08,103
+Well, it says here
+
+107
+00:05:08,182 --> 00:05:09,642
+your name is L.T. Smash.
+
+108
+00:05:09,726 --> 00:05:10,886
+The time has come.
+
+109
+00:05:10,977 --> 00:05:13,187
+I'm L.T. Smash.
+
+110
+00:05:15,023 --> 00:05:17,073
+Thank you so much
+for saving our son
+
+111
+00:05:17,150 --> 00:05:18,820
+from that murderous mob.
+
+112
+00:05:18,901 --> 00:05:21,491
+Well, thank you for letting me
+chill in your crib.
+
+113
+00:05:21,571 --> 00:05:24,451
+And thank <i>you</i>
+for assuming we're hip.
+
+114
+00:05:24,532 --> 00:05:26,452
+All right.
+Now here's the 4-1-1.
+
+115
+00:05:26,534 --> 00:05:28,164
+I'm a record producer, see?
+
+116
+00:05:28,244 --> 00:05:30,044
+I'm starting a new boy band
+
+117
+00:05:30,121 --> 00:05:31,751
+and there's a place
+in it for Bart.
+
+118
+00:05:31,831 --> 00:05:32,791
+My Bart?
+
+119
+00:05:32,874 --> 00:05:35,424
+Oh, yeah. That stunt he pulled
+at the race shows me
+
+120
+00:05:35,501 --> 00:05:37,801
+he's the bad boy
+I'm looking for.
+
+121
+00:05:37,879 --> 00:05:38,919
+(chuckles)
+
+122
+00:05:39,005 --> 00:05:40,665
+Now listen to me, Smash.
+
+123
+00:05:40,757 --> 00:05:44,337
+We're not signing anything
+unless it's a contract.
+
+124
+00:05:44,427 --> 00:05:45,637
+Why do you want Bart?
+
+125
+00:05:45,720 --> 00:05:47,470
+He's not much of a singer.
+
+126
+00:05:47,555 --> 00:05:51,015
+Marge, it's not the singing
+that brings in the Sacajaweas.
+
+127
+00:05:51,100 --> 00:05:54,400
+Bart's a rebel, and that's
+what I need for my new band
+
+128
+00:05:54,479 --> 00:05:55,689
+the Party Posse.
+
+129
+00:05:55,772 --> 00:05:59,282
+Now hold on.
+I have some concerns.
+
+130
+00:05:59,359 --> 00:06:00,319
+Please, Mom,
+
+131
+00:06:00,401 --> 00:06:02,531
+my dream is to be a rock star.
+
+132
+00:06:02,612 --> 00:06:04,912
+And my dream
+is to get rid of Bart.
+
+133
+00:06:04,989 --> 00:06:07,699
+-But...
+-How many lives must you ruin?
+
+134
+00:06:07,784 --> 00:06:09,124
+Oh, OK.
+
+135
+00:06:15,458 --> 00:06:18,038
+Bart, I want you to meet
+and greet the other members
+
+136
+00:06:18,127 --> 00:06:19,047
+of the Party Posse.
+
+137
+00:06:19,128 --> 00:06:21,088
+He's smart, he's soulful,
+
+138
+00:06:21,172 --> 00:06:22,882
+he's Milhouse.
+
+139
+00:06:22,965 --> 00:06:24,215
+What up, G Money?
+
+140
+00:06:24,300 --> 00:06:26,010
+Next, he'll break your nose,
+
+141
+00:06:26,094 --> 00:06:27,554
+your glasses, and your heart,
+
+142
+00:06:27,637 --> 00:06:28,677
+Nelson.
+
+143
+00:06:28,763 --> 00:06:31,143
+{\an8}Wait, these are just guys
+from school.
+
+144
+00:06:31,224 --> 00:06:33,104
+Who's next, Ralph Wiggum?
+
+145
+00:06:33,184 --> 00:06:36,194
+Whee! I'm a pop sensation.
+
+146
+00:06:36,270 --> 00:06:38,730
+And I'm the mack daddy
+behind such groups as
+
+147
+00:06:38,815 --> 00:06:41,395
+New Kids in the Ditch
+and Boy-nudo.
+
+148
+00:06:41,484 --> 00:06:43,614
+I'm going to make you stars.
+
+149
+00:06:43,694 --> 00:06:46,034
+{\an8}Sneer, sneer.
+
+150
+00:06:46,114 --> 00:06:48,414
+{\an8}Two, three, four, and thrust,
+
+151
+00:06:48,491 --> 00:06:51,201
+{\an8}and grab yourself right there.
+
+152
+00:06:51,285 --> 00:06:52,995
+{\an8}Now let go and flirt.
+
+153
+00:06:53,079 --> 00:06:55,159
+{\an8}You call that a flirt?
+
+154
+00:06:55,248 --> 00:06:57,208
+{\an8}I'm not melting!
+
+155
+00:06:57,291 --> 00:06:59,541
+OK, your tunes are fly,
+
+156
+00:06:59,627 --> 00:07:01,337
+and your threads are dope
+
+157
+00:07:01,421 --> 00:07:03,381
+All that's left is the singing.
+
+158
+00:07:03,464 --> 00:07:05,764
+"Party Posse,
+we rule the earth.
+
+159
+00:07:05,842 --> 00:07:08,262
+{\an8}The greatest band
+since music's birth."
+
+160
+00:07:08,344 --> 00:07:10,434
+{\an8}Isn't this song
+a little boastful?
+
+161
+00:07:10,513 --> 00:07:12,773
+{\an8}No one told me
+there was gonna be boasting.
+
+162
+00:07:12,849 --> 00:07:14,059
+Just take it from the top.
+
+163
+00:07:14,142 --> 00:07:17,732
+{\an8}<i>♪ Party Posse </i>
+<i>We rule the earth ♪</i>
+
+164
+00:07:17,812 --> 00:07:20,232
+<i>♪ The greatest band</i>
+<i>since music's birth ♪</i>
+
+165
+00:07:20,773 --> 00:07:22,023
+(shudders)
+
+166
+00:07:22,108 --> 00:07:24,188
+Thank you, NASA.
+
+167
+00:07:24,277 --> 00:07:26,197
+(funky pop intro playing)
+
+168
+00:07:26,279 --> 00:07:30,529
+<i>(perfect harmony)</i>
+<i>♪ We love to sweat and we love to sing ♪</i>
+
+169
+00:07:30,616 --> 00:07:34,866
+<i>♪ We're real funky</i>
+<i>but not threatening ♪</i>
+
+170
+00:07:34,954 --> 00:07:38,294
+{\an8}<i>♪ We're the best band</i>
+<i>in the world ♪</i>
+
+171
+00:07:38,374 --> 00:07:42,094
+{\an8}<i>♪ But we'd give it all up</i>
+<i>for that special girl ♪</i>
+
+172
+00:07:42,170 --> 00:07:43,590
+<i>♪ You're my special girl ♪</i>
+
+173
+00:07:43,671 --> 00:07:49,141
+<i>♪ Special girl ♪</i>
+
+174
+00:07:49,218 --> 00:07:50,468
+(gasping and twittering)
+
+175
+00:07:50,553 --> 00:07:52,053
+<i>♪ You're my special girl ♪</i>
+
+176
+00:07:52,138 --> 00:07:55,928
+<i>♪ You... ♪</i>
+
+177
+00:07:58,811 --> 00:08:00,811
+So, from now on anything
+caught in your zipper
+
+178
+00:08:00,897 --> 00:08:03,567
+will be handled
+by the school nurse and not me.
+
+179
+00:08:03,649 --> 00:08:07,989
+And now are you adequately
+prepared to rock?
+
+180
+00:08:08,070 --> 00:08:10,110
+(all cheering)
+
+181
+00:08:10,198 --> 00:08:11,198
+{\an8}Silence!
+
+182
+00:08:12,575 --> 00:08:15,615
+Here they are, the Party Posse.
+
+183
+00:08:18,372 --> 00:08:21,292
+Hello, Springfield!
+
+184
+00:08:21,375 --> 00:08:22,745
+Now here's a song
+
+185
+00:08:22,835 --> 00:08:25,165
+that your Principal Skinner
+doesn't want us to play.
+
+186
+00:08:25,254 --> 00:08:27,094
+ALL: Boo!
+
+187
+00:08:27,173 --> 00:08:28,383
+That's not true!
+
+188
+00:08:28,466 --> 00:08:29,926
+This assembly was my idea.
+
+189
+00:08:30,009 --> 00:08:32,389
+I like your brand
+of inoffensive pop rock.
+
+190
+00:08:32,470 --> 00:08:33,470
+Screw you, man!
+
+191
+00:08:33,554 --> 00:08:35,064
+We're going to play it anyway!
+
+192
+00:08:35,139 --> 00:08:36,889
+(all cheering)
+
+193
+00:08:36,974 --> 00:08:37,934
+Mmm.
+
+194
+00:08:38,017 --> 00:08:41,187
+(pop ballad intro playing)
+
+195
+00:08:41,270 --> 00:08:47,190
+<i>♪ I saw you last night</i>
+<i>at the spelling bee ♪</i>
+
+196
+00:08:47,276 --> 00:08:52,866
+{\an8}<i>♪ I knew right then</i>
+<i>that it was L-U-V ♪</i>
+
+197
+00:08:52,949 --> 00:08:58,959
+<i>♪ I gotta spell out</i>
+<i>what you mean to me ♪</i>
+
+198
+00:08:59,914 --> 00:09:05,044
+<i>♪ 'Cause I can no longer be ♪</i>
+
+199
+00:09:07,922 --> 00:09:09,632
+<i>♪ A silent "G" ♪</i>
+
+200
+00:09:09,715 --> 00:09:12,175
+<i>♪ I've gotta spell out ♪</i>
+
+201
+00:09:12,260 --> 00:09:13,840
+<i>♪ I gotta spell out... ♪</i>
+
+202
+00:09:13,928 --> 00:09:17,268
+<i>♪ I've gotta spell out</i>
+<i>what you mean to me ♪</i>
+
+203
+00:09:17,348 --> 00:09:19,978
+Oh, man, they're going
+to be big.
+
+204
+00:09:20,059 --> 00:09:21,689
+And you stood in their way.
+
+205
+00:09:21,769 --> 00:09:22,939
+No, I didn't.
+
+206
+00:09:23,020 --> 00:09:25,570
+I even came in early
+and made orange drink.
+
+207
+00:09:25,648 --> 00:09:26,648
+Orange drink?
+
+208
+00:09:26,732 --> 00:09:28,402
+What, do you live
+with your mama?
+
+209
+00:09:28,484 --> 00:09:29,944
+She's lives with <i>me.</i>
+
+210
+00:09:30,027 --> 00:09:31,857
+{\an8}(audience cheering)
+
+211
+00:09:35,533 --> 00:09:37,413
+I can't believe it.
+They loved us.
+
+212
+00:09:37,493 --> 00:09:40,543
+I'm wearing a bathrobe
+and I'm not even sick.
+
+213
+00:09:40,621 --> 00:09:42,621
+Yo, dudes! Awesome show.
+
+214
+00:09:43,624 --> 00:09:45,594
+(gasp) It's 'N Sync!
+
+215
+00:09:45,668 --> 00:09:51,298
+(driving pop rock playing)
+
+216
+00:09:51,382 --> 00:09:52,472
+Word.
+
+217
+00:09:52,550 --> 00:09:54,010
+{\an8}What brings you to Springfield?
+
+218
+00:09:54,093 --> 00:09:56,353
+We saw your band formation
+notice in the paper.
+
+219
+00:09:56,429 --> 00:09:58,139
+{\an8}Really? You saw our BFN?
+
+220
+00:09:58,222 --> 00:10:00,472
+I can't believe
+I'm meeting Milhouse.
+
+221
+00:10:00,558 --> 00:10:01,518
+Word.
+
+222
+00:10:01,601 --> 00:10:02,641
+(grunt)
+
+223
+00:10:02,727 --> 00:10:05,267
+So, anyway, we brought you
+this wicked gift basket.
+
+224
+00:10:05,354 --> 00:10:07,274
+Stubble glitter,
+a crowd taser...
+
+225
+00:10:07,356 --> 00:10:08,356
+{\an8}"Crowd taser"?
+
+226
+00:10:08,441 --> 00:10:09,901
+Yeah, it's perfect
+
+227
+00:10:09,984 --> 00:10:11,994
+for getting through the fans
+to your limousine.
+
+228
+00:10:12,069 --> 00:10:13,899
+(grunts) Yo!
+
+229
+00:10:13,988 --> 00:10:15,658
+-(watch alarm beeps)
+-Dudes, we got to go.
+
+230
+00:10:15,740 --> 00:10:17,700
+Our clothes are getting
+a little out of date.
+
+231
+00:10:17,783 --> 00:10:19,493
+To the Bandanna Republic!
+
+232
+00:10:19,577 --> 00:10:20,487
+Word.
+
+233
+00:10:20,578 --> 00:10:24,328
+(driving pop rock playing)
+
+234
+00:10:25,583 --> 00:10:27,883
+Now we got to send them
+a basket.
+
+235
+00:10:29,295 --> 00:10:31,005
+BART: Oh, yeah,
+that's the spot.
+
+236
+00:10:31,088 --> 00:10:33,168
+(groans)
+
+237
+00:10:33,257 --> 00:10:34,467
+That is perfect.
+
+238
+00:10:34,550 --> 00:10:37,930
+Mom, can't Bart get his
+massage somewhere else?
+
+239
+00:10:38,012 --> 00:10:39,472
+Don't be selfish, Lisa.
+
+240
+00:10:39,555 --> 00:10:40,715
+Will you two shut up?
+
+241
+00:10:40,806 --> 00:10:43,386
+I'm missing
+precious VJ prattle.
+
+242
+00:10:43,476 --> 00:10:48,106
+Whoo! That was the latest ad
+for Stridex Pads, medicated.
+
+243
+00:10:48,189 --> 00:10:49,519
+OK, coming at you
+
+244
+00:10:49,607 --> 00:10:53,567
+a world-premiere video
+from P-Squared--
+
+245
+00:10:53,653 --> 00:10:56,073
+that's the Par-tay Pos-se!
+
+246
+00:10:56,155 --> 00:10:59,865
+Whoo, yeah! All right!
+
+247
+00:11:01,577 --> 00:11:02,867
+Rock! Whoo!
+
+248
+00:11:04,455 --> 00:11:09,455
+{\an8}<i>♪ Oh, say can you rock? ♪</i>
+
+249
+00:11:10,419 --> 00:11:14,339
+<i>♪ There's trouble</i>
+<i>in a far off nation ♪</i>
+
+250
+00:11:14,423 --> 00:11:18,553
+{\an8}<i>♪ Time to get in</i>
+<i>love formation ♪</i>
+
+251
+00:11:18,636 --> 00:11:22,636
+<i>♪ Your love's more deadly</i>
+<i>than Saddam ♪</i>
+
+252
+00:11:22,723 --> 00:11:27,193
+<i>♪ That's why I got</i>
+<i>to drop da bomb ♪</i>
+
+253
+00:11:31,607 --> 00:11:33,727
+Party Posse!
+
+254
+00:11:33,818 --> 00:11:36,608
+(indistinct chatter)
+
+255
+00:11:39,156 --> 00:11:43,576
+{\an8}<i>♪ Yvan eht nioj ♪</i>
+
+256
+00:11:43,661 --> 00:11:46,621
+{\an8}<i>♪ Yvan eht nioj ♪</i>
+
+257
+00:11:46,706 --> 00:11:50,666
+{\an8}<i>♪ Yvan eht nioj... nioj ♪</i>
+
+258
+00:11:50,751 --> 00:11:53,921
+<i>♪ Yvan eht nioj ♪</i>
+
+259
+00:11:54,004 --> 00:11:55,464
+You gotta love
+that crazy chorus.
+
+260
+00:11:55,548 --> 00:11:57,168
+What does it mean?
+
+261
+00:11:57,258 --> 00:11:58,588
+It doesn't mean anything.
+
+262
+00:11:58,676 --> 00:12:01,756
+It's like "Rama lama ding-dong"
+or "Give peace a chance."
+
+263
+00:12:05,057 --> 00:12:08,807
+<i>♪ This party is happening ♪</i>
+
+264
+00:12:08,894 --> 00:12:11,944
+<i>♪ It's no mirage ♪</i>
+
+265
+00:12:12,022 --> 00:12:14,982
+{\an8}<i>♪ So sing it again ♪</i>
+
+266
+00:12:15,067 --> 00:12:18,067
+{\an8}<i>♪ Yvan eht nioj ♪</i>
+
+267
+00:12:18,154 --> 00:12:20,164
+{\an8}<i>♪ Yvan eht nioj ♪</i>
+
+268
+00:12:20,239 --> 00:12:23,659
+{\an8}<i>♪ Yvan eht nioj ♪</i>
+
+269
+00:12:25,327 --> 00:12:27,247
+(indistinct chatter)
+
+270
+00:12:30,916 --> 00:12:34,456
+LISA: There's something
+weird about that video.
+
+271
+00:12:34,545 --> 00:12:36,505
+None of those girls
+has had three kids.
+
+272
+00:12:36,589 --> 00:12:38,049
+I can tell you that.
+
+273
+00:12:38,132 --> 00:12:39,762
+{\an8}No, something else.
+
+274
+00:12:47,433 --> 00:12:51,353
+{\an8}<i>♪ Yvan eht nioj ♪</i>
+
+275
+00:12:51,437 --> 00:12:54,567
+{\an8}Yvan eht nioj.
+They keep saying that.
+
+276
+00:12:54,648 --> 00:12:55,938
+Wait, what was that?
+
+277
+00:12:59,987 --> 00:13:01,357
+Uncle Sam?!
+
+278
+00:13:01,447 --> 00:13:03,027
+Let me play this backwards.
+
+279
+00:13:04,200 --> 00:13:08,370
+{\an8}<i>♪ Join the Navy ♪</i>
+
+280
+00:13:08,454 --> 00:13:09,914
+{\an8}<i>♪ Join the Navy ♪</i>
+
+281
+00:13:09,997 --> 00:13:11,077
+(gasps)
+
+282
+00:13:11,165 --> 00:13:14,495
+They're recruiting people
+with subliminal messages!
+
+283
+00:13:14,585 --> 00:13:16,045
+(honking)
+
+284
+00:13:16,962 --> 00:13:18,672
+Otto, what are you doing?
+
+285
+00:13:18,756 --> 00:13:19,836
+I don't know.
+
+286
+00:13:19,924 --> 00:13:21,974
+I just got an urge
+to join the Navy.
+
+287
+00:13:22,051 --> 00:13:24,141
+You're being brainwashed!
+
+288
+00:13:24,220 --> 00:13:25,510
+Yeah, probably.
+
+289
+00:13:25,596 --> 00:13:27,136
+Yvan eht nioj!
+
+290
+00:13:34,438 --> 00:13:36,108
+L.T., thank God you're here!
+
+291
+00:13:36,190 --> 00:13:39,610
+{\an8}The government's putting
+subliminal messages in your videos.
+
+292
+00:13:39,693 --> 00:13:41,283
+Subliminal messages?
+
+293
+00:13:41,362 --> 00:13:43,992
+Do you have any idea
+how insane that sounds?
+
+294
+00:13:45,157 --> 00:13:46,867
+Is that a Navy tattoo?
+
+295
+00:13:46,951 --> 00:13:51,121
+A Navy tattoo? Do you have any
+idea how insane that sounds?
+
+296
+00:13:55,459 --> 00:13:57,209
+(gasps)
+
+297
+00:13:58,671 --> 00:14:01,341
+<i>Lieutenant </i>Smash.
+
+298
+00:14:01,423 --> 00:14:02,553
+Yeah, that's right.
+
+299
+00:14:02,633 --> 00:14:05,763
+Lieutenant L.T. Smash.
+
+300
+00:14:07,680 --> 00:14:09,010
+A wig!
+
+301
+00:14:09,098 --> 00:14:11,178
+But... but your pant legs...
+
+302
+00:14:13,769 --> 00:14:19,069
+Oh! How could you soil the good
+name of Star Blitzzz Promotions?
+
+303
+00:14:19,149 --> 00:14:20,439
+Oh, come on, Lisa.
+
+304
+00:14:20,526 --> 00:14:22,816
+We've always used pop stars
+to recruit people...
+
+305
+00:14:22,903 --> 00:14:24,283
+going back to Elvis.
+
+306
+00:14:24,363 --> 00:14:26,203
+Then there was
+<i>Sergeant Pepper's,</i>
+
+307
+00:14:26,282 --> 00:14:28,202
+the Captain & Tennille,
+
+308
+00:14:28,284 --> 00:14:30,164
+and the Kiss army.
+
+309
+00:14:30,244 --> 00:14:32,374
+But you have recruiting ads
+on TV.
+
+310
+00:14:32,454 --> 00:14:34,464
+Why do you need
+subliminal messages?
+
+311
+00:14:34,540 --> 00:14:36,250
+It's a three-pronged attack...
+
+312
+00:14:36,333 --> 00:14:39,093
+subliminal, liminal,
+and super-liminal.
+
+313
+00:14:39,169 --> 00:14:40,209
+Super-liminal?
+
+314
+00:14:40,296 --> 00:14:41,756
+I'll show you.
+
+315
+00:14:41,839 --> 00:14:43,919
+Hey, you! Join the Navy!
+
+316
+00:14:44,008 --> 00:14:46,088
+-Uh... yeah, all right.
+-I'm in.
+
+317
+00:14:46,176 --> 00:14:47,796
+Now that you know, Lisa,
+
+318
+00:14:47,887 --> 00:14:50,967
+I'm afraid
+I can't let you leave.
+
+319
+00:14:51,473 --> 00:14:53,103
+Oh.
+
+320
+00:14:54,643 --> 00:14:58,113
+Wait a minute. Bart's band
+is brainwashing kids
+
+321
+00:14:58,188 --> 00:14:59,858
+with subliminal messages?
+
+322
+00:14:59,940 --> 00:15:01,940
+That's pretty far-fetched,
+Lisa.
+
+323
+00:15:02,026 --> 00:15:04,276
+Are you sure someone
+hasn't been bitten
+
+324
+00:15:04,361 --> 00:15:05,951
+by the jealousy bug?
+
+325
+00:15:06,030 --> 00:15:08,740
+(laughs) Here comes
+the jealousy bug!
+
+326
+00:15:08,824 --> 00:15:10,164
+{\an8}-Gonna get you!
+-Hey!
+
+327
+00:15:10,242 --> 00:15:11,452
+{\an8}-Gonna get you!
+-Hey!
+
+328
+00:15:11,535 --> 00:15:13,495
+Cut it out. You're a grown man.
+
+329
+00:15:13,579 --> 00:15:15,919
+(gasps) I want to go home now.
+
+330
+00:15:15,998 --> 00:15:17,828
+Nobody's going home.
+
+331
+00:15:17,917 --> 00:15:20,037
+We're going to see
+Bart's concert.
+
+332
+00:15:21,712 --> 00:15:23,302
+{\an8}LISA: An aircraft carrier?
+
+333
+00:15:23,380 --> 00:15:24,920
+{\an8}Oh, that's subtle.
+
+334
+00:15:25,007 --> 00:15:28,887
+{\an8}Good Afternoon and welcome
+to the USS <i>Sea Spanker </i>Naval Museum.
+
+335
+00:15:28,969 --> 00:15:30,759
+Are you ready to tear it up?
+
+336
+00:15:30,846 --> 00:15:32,306
+(audience cheering)
+
+337
+00:15:32,389 --> 00:15:34,349
+I can't hear you.
+
+338
+00:15:34,433 --> 00:15:36,643
+(loud cheering and applause)
+
+339
+00:15:36,727 --> 00:15:38,727
+Do you maggots want to see
+a show or not?
+
+340
+00:15:40,105 --> 00:15:42,815
+I mean, uh... uh...
+here they are...
+
+341
+00:15:42,900 --> 00:15:44,320
+The Party Posse!
+
+342
+00:15:44,401 --> 00:15:45,571
+(cheering)
+
+343
+00:15:45,653 --> 00:15:48,573
+(up-tempo pop playing)
+
+344
+00:15:48,656 --> 00:15:51,736
+<i>♪ Had a girl in every port ♪</i>
+
+345
+00:15:51,825 --> 00:15:55,825
+<i>♪ From here to Barcelona ♪</i>
+
+346
+00:15:57,081 --> 00:15:59,791
+<i>♪ But now I'm docked in</i>
+<i>Springfield ♪</i>
+
+347
+00:15:59,875 --> 00:16:03,915
+<i>♪ And, girl, I'm gonna</i>
+<i>phone ya ♪</i>
+
+348
+00:16:04,004 --> 00:16:05,014
+(cheering)
+
+349
+00:16:05,089 --> 00:16:08,379
+<i>♪ Stormed a lot of beaches ♪</i>
+
+350
+00:16:08,467 --> 00:16:12,507
+<i>♪ But you're the one</i>
+<i>that I missed ♪</i>
+
+351
+00:16:12,596 --> 00:16:15,016
+<i>♪ Let's get back together,</i>
+<i>girl ♪</i>
+
+352
+00:16:15,099 --> 00:16:16,849
+<i>♪ Let's reenlist ♪</i>
+
+353
+00:16:17,685 --> 00:16:19,845
+Ow! Hot! Hot! Hot!
+
+354
+00:16:21,397 --> 00:16:24,857
+<i>♪ So sign me up</i>
+<i>for a hitch of love ♪</i>
+
+355
+00:16:24,942 --> 00:16:26,782
+<i>♪ Recruit my heart ♪</i>
+
+356
+00:16:26,860 --> 00:16:30,530
+<i>♪ Four sweet years of love ♪</i>
+
+357
+00:16:30,614 --> 00:16:32,454
+{\an8}Everybody ball-walk!
+
+358
+00:16:34,493 --> 00:16:35,493
+Oh, yeah!
+
+359
+00:16:39,832 --> 00:16:41,002
+Looking good, guys.
+
+360
+00:16:41,083 --> 00:16:43,173
+And double time!
+
+361
+00:16:47,798 --> 00:16:49,508
+That's it.
+
+362
+00:16:49,591 --> 00:16:52,261
+Protect the country.
+
+363
+00:16:58,475 --> 00:17:00,435
+(growling)
+
+364
+00:17:01,270 --> 00:17:02,650
+Groovy, dudes.
+
+365
+00:17:02,730 --> 00:17:04,400
+Burn down the barbershops!
+
+366
+00:17:04,481 --> 00:17:06,361
+I hate America!
+
+367
+00:17:09,153 --> 00:17:10,653
+(grunts)
+
+368
+00:17:12,197 --> 00:17:14,867
+MAN: <i>Lieutenant!</i>
+<i>Lieutenant Smash!</i>
+
+369
+00:17:14,950 --> 00:17:16,490
+Huh? Oh, Admiral.
+
+370
+00:17:17,119 --> 00:17:18,619
+The hippie fantasy again?
+
+371
+00:17:18,704 --> 00:17:20,044
+They're getting less frequent,
+sir.
+
+372
+00:17:20,122 --> 00:17:21,542
+Excellent.
+
+373
+00:17:22,458 --> 00:17:24,538
+Well, there's no easy way
+to say this,
+
+374
+00:17:24,626 --> 00:17:27,666
+the new administration is
+shutting down Project Boy Band.
+
+375
+00:17:27,755 --> 00:17:29,045
+Shutting it down?
+
+376
+00:17:29,131 --> 00:17:31,471
+Permission to say,
+"That's crazy," sir?
+
+377
+00:17:31,550 --> 00:17:32,840
+You won't say it's crazy
+
+378
+00:17:32,926 --> 00:17:35,296
+when you see next week's
+issue of <i>Mad </i>magazine.
+
+379
+00:17:37,514 --> 00:17:39,064
+Oh, dear God.
+
+380
+00:17:39,141 --> 00:17:41,981
+{\an8}When this satirical bombshell
+hits the stands tomorrow
+
+381
+00:17:42,061 --> 00:17:44,231
+your band will have
+as much recruiting power
+
+382
+00:17:44,313 --> 00:17:45,443
+as a wax apple.
+
+383
+00:17:45,522 --> 00:17:46,572
+I don't follow, sir.
+
+384
+00:17:46,648 --> 00:17:47,858
+It's over, L.T.
+
+385
+00:17:49,234 --> 00:17:50,284
+(gasps)
+
+386
+00:17:52,488 --> 00:17:55,988
+<i>♪ Let's march all day,</i>
+<i>and clean latrines all night ♪</i>
+
+387
+00:17:57,201 --> 00:17:58,741
+<i>(off-key)</i>
+<i>♪ Don't bust me down ♪</i>
+
+388
+00:17:58,827 --> 00:18:01,577
+<i>♪ Let's re-up tonight... ♪</i>
+
+389
+00:18:01,663 --> 00:18:03,173
+-What are they doing?
+-Oh, my brain!
+
+390
+00:18:03,248 --> 00:18:05,918
+(screeching)
+<i>♪ Let's re-up tonight! ♪</i>
+
+391
+00:18:06,001 --> 00:18:07,461
+-You suck out loud!
+-Major!
+
+392
+00:18:07,544 --> 00:18:09,254
+I'm outta here!
+
+393
+00:18:11,173 --> 00:18:12,383
+You fool!
+
+394
+00:18:12,466 --> 00:18:13,756
+Look what you done!
+
+395
+00:18:13,842 --> 00:18:15,512
+Well, now it's my turn.
+
+396
+00:18:15,594 --> 00:18:16,804
+Don't do it, L.T.!
+
+397
+00:18:16,887 --> 00:18:18,347
+You leave me no choice.
+
+398
+00:18:22,684 --> 00:18:23,854
+No!
+
+399
+00:18:27,439 --> 00:18:31,069
+(whimpering) No!
+
+400
+00:18:31,819 --> 00:18:34,489
+(all screaming)
+
+401
+00:18:39,409 --> 00:18:41,789
+So, uh... what songs
+did I miss?
+
+402
+00:18:41,870 --> 00:18:43,580
+Dad, L.T.'s gone crazy.
+
+403
+00:18:43,664 --> 00:18:45,294
+(cackles)
+
+404
+00:18:45,374 --> 00:18:47,044
+Yeah, that's the look.
+
+405
+00:18:47,126 --> 00:18:48,246
+(chuckling)
+
+406
+00:18:48,335 --> 00:18:49,875
+(horn blaring)
+
+407
+00:18:51,338 --> 00:18:53,128
+Do you think he's going
+to do something dangerous?
+
+408
+00:18:53,215 --> 00:18:54,295
+How should I know?
+
+409
+00:18:54,383 --> 00:18:55,803
+Just keep loading missiles.
+
+410
+00:18:55,884 --> 00:18:57,764
+Pop music's hard work.
+
+411
+00:19:01,223 --> 00:19:03,103
+The Statue of Liberty?
+
+412
+00:19:03,183 --> 00:19:04,483
+Where are we?
+
+413
+00:19:04,560 --> 00:19:05,850
+(horn blares)
+
+414
+00:19:07,771 --> 00:19:10,521
+All right, Posse,
+that's our target.
+
+415
+00:19:12,067 --> 00:19:13,147
+(all gasping)
+
+416
+00:19:16,029 --> 00:19:18,199
+(gasps) Not <i>Mad!</i>
+
+417
+00:19:18,282 --> 00:19:19,622
+That's our nation's largest
+
+418
+00:19:19,700 --> 00:19:22,040
+mental illness-themed
+humor magazine.
+
+419
+00:19:22,119 --> 00:19:24,959
+Why don't we call it
+<i>Everybody Hates Raymond?</i>
+
+420
+00:19:25,038 --> 00:19:26,998
+(all laughing)
+
+421
+00:19:27,082 --> 00:19:28,792
+Well, we stayed up all night,
+
+422
+00:19:28,876 --> 00:19:29,956
+but it was worth it.
+
+423
+00:19:30,043 --> 00:19:32,593
+We can't let L.T. blow up <i>Mad.</i>
+
+424
+00:19:32,671 --> 00:19:35,171
+Tina Brown was just starting
+to turn it around.
+
+425
+00:19:35,257 --> 00:19:36,797
+We got to mellow him out.
+
+426
+00:19:36,884 --> 00:19:39,554
+But how? We would need
+the ultimate chill-out song.
+
+427
+00:19:39,636 --> 00:19:40,926
+And fast.
+
+428
+00:19:41,013 --> 00:19:43,313
+(pop rock playing)
+
+429
+00:19:47,102 --> 00:19:48,482
+(screeches)
+
+430
+00:19:48,562 --> 00:19:49,482
+We heard what you said.
+
+431
+00:19:49,563 --> 00:19:51,193
+Yeah. Heard it old school.
+
+432
+00:19:51,273 --> 00:19:53,283
+(gasps) It's 'N Sync!
+
+433
+00:19:53,358 --> 00:19:54,608
+Can the chitchat, Milhouse.
+
+434
+00:19:54,693 --> 00:19:56,283
+We've got just
+the song you need
+
+435
+00:19:56,361 --> 00:19:57,611
+to defuse this wack-attack.
+
+436
+00:19:57,696 --> 00:19:59,026
+Defuse it old school!
+
+437
+00:19:59,114 --> 00:20:00,124
+'Bout time.
+
+438
+00:20:02,826 --> 00:20:04,156
+Radical!
+
+439
+00:20:04,244 --> 00:20:05,414
+Awesome!
+
+440
+00:20:05,495 --> 00:20:06,575
+I can't read.
+
+441
+00:20:06,663 --> 00:20:08,213
+I can't sing without dancing.
+
+442
+00:20:08,290 --> 00:20:09,710
+Fine.
+
+443
+00:20:10,751 --> 00:20:12,841
+Thrust, spin, turn.
+
+444
+00:20:12,920 --> 00:20:14,710
+Pivot, pout, jiggy.
+
+445
+00:20:14,796 --> 00:20:16,666
+Jiggy, robot, do-si-do.
+
+446
+00:20:16,757 --> 00:20:18,467
+And close with a <i>Matrix.</i>
+
+447
+00:20:20,344 --> 00:20:21,554
+(groans)
+
+448
+00:20:21,637 --> 00:20:23,927
+Nobody pouts going
+into a jiggy.
+
+449
+00:20:24,014 --> 00:20:27,024
+-Yeah, that's stupid.
+-I want to twirl.
+
+450
+00:20:27,100 --> 00:20:28,390
+Aw, come on, guys.
+
+451
+00:20:28,477 --> 00:20:31,307
+We've only got a few minutes
+to... uh-oh.
+
+452
+00:20:38,153 --> 00:20:39,533
+Everybody OK?
+
+453
+00:20:39,613 --> 00:20:40,663
+Uh, yeah, I'm fine.
+
+454
+00:20:40,739 --> 00:20:42,819
+-Yeah, I'm fine.
+-I actually feel better.
+
+455
+00:20:44,243 --> 00:20:46,333
+(laughing)
+
+456
+00:20:46,411 --> 00:20:48,961
+Well, boys,
+the Party Posse is over
+
+457
+00:20:49,039 --> 00:20:52,169
+but at least I saved you
+from a public spoofing.
+
+458
+00:20:53,710 --> 00:20:54,880
+Aw, man!
+
+459
+00:20:54,962 --> 00:20:56,632
+We could have been
+on the cover of <i>Mad.</i>
+
+460
+00:20:56,713 --> 00:20:59,383
+They called me "Smelson."
+
+461
+00:20:59,466 --> 00:21:00,626
+(laughs)
+
+462
+00:21:00,717 --> 00:21:02,387
+(all laughing)
+
+463
+00:21:02,469 --> 00:21:03,639
+"Smelson."
+
+464
+00:21:03,720 --> 00:21:05,850
+It's funny 'cause you smell.
+
+465
+00:21:05,931 --> 00:21:07,561
+(laughing)
+
+466
+00:21:07,641 --> 00:21:08,771
+"Smelson."
+
+467
+00:21:08,850 --> 00:21:10,390
+I could have thought of that.
+
+468
+00:21:10,477 --> 00:21:12,017
+Sure you could have.
+
+469
+00:21:12,104 --> 00:21:13,484
+Off you go now.
+
+470
+00:21:17,359 --> 00:21:19,279
+You know, we've had
+a lot of fun tonight
+
+471
+00:21:19,361 --> 00:21:20,901
+at the expense
+of the U.S. Navy.
+
+472
+00:21:20,988 --> 00:21:22,488
+But they're out there every day
+
+473
+00:21:22,572 --> 00:21:23,912
+protecting us from Godzilla.
+
+474
+00:21:23,991 --> 00:21:25,411
+And don't forget pirates.
+
+475
+00:21:25,492 --> 00:21:26,412
+And jellyfish.
+
+476
+00:21:26,493 --> 00:21:29,043
+Those wack invertebrates
+will sting you old school!
+
+477
+00:21:29,121 --> 00:21:31,961
+{\an8}So check out the Navy
+for a two-or a four-year hitch.
+
+478
+00:21:32,040 --> 00:21:33,670
+We signed J.C. up yesterday.
+
+479
+00:21:33,750 --> 00:21:34,710
+What?
+
+480
+00:21:34,793 --> 00:21:37,803
+Nooo!
+
+481
+00:21:41,091 --> 00:21:44,891
+<i>♪ Join the Navy ♪</i>
+
+482
+00:21:44,970 --> 00:21:49,100
+<i>♪ Join the Navy ♪</i>
+
+483
+00:21:49,182 --> 00:21:51,772
+<i>♪ Join the Navy ♪</i>
+
+484
+00:21:55,063 --> 00:21:56,613
+It's 'N Sync!
+
+485
+00:21:56,690 --> 00:22:00,070
+(whistling theme song)
+
+486
+00:22:00,152 --> 00:22:02,532
+(all laughing)
+
+487
+00:22:02,612 --> 00:22:03,532
+D'oh!
+
+488
+00:22:03,613 --> 00:22:05,663
+I can't believe
+I'm meeting Milhouse.
+
+489
+00:22:05,741 --> 00:22:07,991
+Yeah, heard it old school!
+
+490
+00:22:09,202 --> 00:22:11,372
+No!
+
+491
+00:22:11,455 --> 00:22:12,455
+Bart was so cool.
+
+492
+00:22:13,457 --> 00:22:14,577
+-A little short.
+-He's about this tall.
+
+493
+00:22:14,666 --> 00:22:15,666
+Don't print that.
+
+494
+00:22:15,751 --> 00:22:17,791
+(whistling theme song)
+
+495
+00:22:21,923 --> 00:22:24,183
+{\an8}-Bravo!
+-Word.
+
+496
+00:22:24,259 --> 00:22:25,549
+{\an8}<i>That just sounds like something</i>
+<i>I would say.</i>
+
+497
+00:22:25,635 --> 00:22:26,635
+{\an8}<i>Shh.</i>
+
+498
+00:22:29,222 --> 00:22:30,522
+Captioned by
+Visual Data Media Services
+

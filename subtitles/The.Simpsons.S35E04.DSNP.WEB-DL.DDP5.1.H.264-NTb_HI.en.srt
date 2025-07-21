@@ -1,0 +1,1791 @@
+﻿1
+00:00:04,421 --> 00:00:05,255
+[Mr. Burns grunts]
+
+2
+00:00:05,256 --> 00:00:07,298
+I'm just gonna attach this lapel mic, sir.
+
+3
+00:00:08,341 --> 00:00:09,634
+[Mr. Burns groans]
+
+4
+00:00:10,719 --> 00:00:13,512
+{\an8}So you want me to talk about
+Persephone Odair. That's easy.
+
+5
+00:00:13,513 --> 00:00:16,682
+{\an8}She was a brilliant entrepreneur
+who wanted to save the world.
+
+6
+00:00:16,683 --> 00:00:19,310
+{\an8}How I wish that was her only shortcoming.
+
+7
+00:00:20,729 --> 00:00:24,398
+{\an8}My company, LifeBoat,
+can take an ocean of salt water
+
+8
+00:00:24,399 --> 00:00:28,444
+{\an8}and transform it into clean drinking water
+cheaply and efficiently,
+
+9
+00:00:28,445 --> 00:00:31,739
+{\an8}with a machine only the size
+of a can of oats.
+
+10
+00:00:31,740 --> 00:00:33,407
+{\an8}[audience gasps] Oats!
+
+11
+00:00:33,408 --> 00:00:36,452
+{\an8}Now, the doubters
+call this goal impossible.
+
+12
+00:00:36,453 --> 00:00:39,747
+{\an8}But I prefer to say, "I'm possible."
+
+13
+00:00:39,748 --> 00:00:41,331
+{\an8}[audience applauds]
+
+14
+00:00:41,332 --> 00:00:43,126
+{\an8}[documentary music playing]
+
+15
+00:00:46,588 --> 00:00:49,006
+{\an8}[narrator] <i>This story's about
+a little girl who had a dream.</i>
+
+16
+00:00:49,007 --> 00:00:52,009
+{\an8}<i>But it begins with another little girl
+who allowed us to use the footage</i>
+
+17
+00:00:52,010 --> 00:00:55,721
+{\an8}<i>from when she interviewed the first little
+girl who was no longer a little girl.</i>
+
+18
+00:00:55,722 --> 00:01:01,477
+<i>I'm so excited to be interviewing
+Persephone Odair, CEO of LifeBoat.</i>
+
+19
+00:01:01,478 --> 00:01:05,856
+{\an8}<i>So, Persephone, you were the most
+be-badged Girl Scout of all time,</i>
+
+20
+00:01:05,857 --> 00:01:10,277
+{\an8}<i>and then followed in the footsteps of Bill
+Gates by dropping out of Harvard early.</i>
+
+21
+00:01:10,278 --> 00:01:11,945
+{\an8}<i>The earliest ever.</i>
+
+22
+00:01:11,946 --> 00:01:14,866
+<i>Our car didn't even slow down
+on freshman move-in day.</i>
+
+23
+00:01:17,368 --> 00:01:19,078
+<i>So inspirational.</i>
+
+24
+00:01:19,079 --> 00:01:23,791
+<i>What was the aha moment that gave you
+the idea to start LifeBoat?</i>
+
+25
+00:01:23,792 --> 00:01:25,000
+{\an8}<i>Great question.</i>
+
+26
+00:01:25,001 --> 00:01:28,045
+{\an8}<i>And, Lisa, great questions are
+the jackhammers</i>
+
+27
+00:01:28,046 --> 00:01:30,714
+{\an8}<i>which demo the walls
+built by disruptophobes</i>
+
+28
+00:01:30,715 --> 00:01:33,801
+{\an8}<i>to create the open floor plan
+of innovation.</i>
+
+29
+00:01:33,802 --> 00:01:36,470
+<i>I've always thought that about questions.</i>
+
+30
+00:01:36,471 --> 00:01:39,264
+[Persephone] <i>Lisa,
+my grandfather was a World War II sailor</i>
+
+31
+00:01:39,265 --> 00:01:40,349
+<i>whose ship was torpedoed.</i>
+
+32
+00:01:40,350 --> 00:01:42,935
+<i>He was stranded on a lifeboat, Lisa.</i>
+
+33
+00:01:42,936 --> 00:01:46,647
+<i>Surrounded by water,
+but not a drop to drink.</i>
+
+34
+00:01:46,648 --> 00:01:48,524
+<i>Don't tell me he died.</i>
+
+35
+00:01:48,525 --> 00:01:54,571
+{\an8}<i>Worse. He gave up and then he died of
+quitting and super-duper dehydration.</i>
+
+36
+00:01:54,572 --> 00:01:56,365
+{\an8}<i>But I will never give up</i>
+
+37
+00:01:56,366 --> 00:01:59,827
+{\an8}<i>until I've raised enough capital
+to make LifeBoat a reality.</i>
+
+38
+00:01:59,828 --> 00:02:02,121
+{\an8}<i>So if you know any billionaires...</i>
+[chuckles]
+
+39
+00:02:02,122 --> 00:02:06,041
+{\an8}<i>Well, the only one in our town
+is Mr. Burns, and he's awful.</i>
+
+40
+00:02:06,042 --> 00:02:08,418
+{\an8}<i>Once, he clear-cut a forest</i>
+
+41
+00:02:08,419 --> 00:02:11,004
+{\an8}<i>because he thought
+a squirrel was looking at him funny.</i>
+
+42
+00:02:11,005 --> 00:02:13,924
+[dramatic music plays]
+
+43
+00:02:13,925 --> 00:02:15,968
+{\an8}<i>Montgomery Burns. Mmm.</i>
+
+44
+00:02:15,969 --> 00:02:17,929
+{\an8}<i>Interesting idea, Lisa.</i>
+
+45
+00:02:18,471 --> 00:02:20,347
+{\an8}<i>No, I didn't say it to be an idea.</i>
+
+46
+00:02:20,348 --> 00:02:21,640
+{\an8}<i>He's terrible.</i>
+
+47
+00:02:21,641 --> 00:02:24,434
+{\an8}<i>Whatever you do, don't go to him.</i>
+
+48
+00:02:24,435 --> 00:02:27,604
+{\an8}[narrator] <i>But the woman who once
+tried to clone Sheryl Sandberg</i>
+
+49
+00:02:27,605 --> 00:02:30,316
+{\an8}<i>for a school project
+would not be deterred.</i>
+
+50
+00:02:33,736 --> 00:02:37,990
+Welcome to Orlando. Quick heads-up,
+we may have to cut this panel short
+
+51
+00:02:37,991 --> 00:02:41,577
+due to our third once-in-a-million-year
+hurricane this season.
+
+52
+00:02:41,578 --> 00:02:44,246
+- [wind whistling]
+- Put this on my reel!
+
+53
+00:02:44,247 --> 00:02:45,622
+Terrible luck.
+
+54
+00:02:45,623 --> 00:02:47,207
+No fault of anyone's.
+
+55
+00:02:47,208 --> 00:02:50,502
+Mr. Burns, climate change
+has left the Earth in peril.
+
+56
+00:02:50,503 --> 00:02:55,007
+{\an8}Who sent you? John Muir?
+Friedrich Engels? Mike Doonesbury?
+
+57
+00:02:55,008 --> 00:02:59,554
+I'm getting word that this hurricane is
+meeting up with the Everglades super fire.
+
+58
+00:03:00,763 --> 00:03:03,849
+Montgomery, I'm the founder
+of a desalination company.
+
+59
+00:03:03,850 --> 00:03:09,021
+Our world is running out of water,
+and we need a hero to rescue us,
+
+60
+00:03:09,022 --> 00:03:12,191
+and I believe that
+that hero is your money.
+
+61
+00:03:12,192 --> 00:03:13,359
+[wind whistling]
+
+62
+00:03:14,777 --> 00:03:17,112
+{\an8}We sell chemicals
+that could put out that fire.
+
+63
+00:03:17,113 --> 00:03:20,157
+Granted, those chemicals
+turn alligators into Godzillas.
+
+64
+00:03:20,158 --> 00:03:23,202
+But we're working on a bomb
+that can fix that.
+
+65
+00:03:23,203 --> 00:03:25,913
+{\an8}Sorry, miss. Desalination is a snooze.
+
+66
+00:03:25,914 --> 00:03:28,458
+But I do want in on the Godzilla bomb.
+
+67
+00:03:29,792 --> 00:03:32,669
+[narrator] <i>Persephone was not shy about
+hounding Mr. Burns.</i>
+
+68
+00:03:32,670 --> 00:03:35,506
+<i>And he wasn't shy about hounding her.</i>
+
+69
+00:03:36,758 --> 00:03:38,717
+Some fish just swim with the tide.
+
+70
+00:03:38,718 --> 00:03:42,554
+I'm the kind of relentless fish
+that falls down ten times
+
+71
+00:03:42,555 --> 00:03:46,935
+before it runs up the mountain
+on ocean shoes.
+
+72
+00:03:53,107 --> 00:03:54,525
+[airplane approaching]
+
+73
+00:04:00,740 --> 00:04:03,325
+[groans] Fine. You've got five minutes.
+
+74
+00:04:03,326 --> 00:04:05,452
+Who are these goateed wastrels?
+
+75
+00:04:05,453 --> 00:04:06,578
+A documentary crew.
+
+76
+00:04:06,579 --> 00:04:10,582
+Only the most paradigm-shifting
+start-up CEOs have them.
+
+77
+00:04:10,583 --> 00:04:14,753
+Mr. Burns, I see your life
+as a beautiful business opera
+
+78
+00:04:14,754 --> 00:04:18,006
+and investing in LifeBoat
+as the climactic aria
+
+79
+00:04:18,007 --> 00:04:23,095
+{\an8}that will put you in the same pantheon
+as Getty, Vanderbilt, the Spanx lady.
+
+80
+00:04:23,096 --> 00:04:26,848
+Desalination is an expensive
+and inefficient industry
+
+81
+00:04:26,849 --> 00:04:28,517
+begging to be disrupted.
+
+82
+00:04:28,518 --> 00:04:30,686
+Success is a decision.
+
+83
+00:04:30,687 --> 00:04:33,480
+Dare to choose it, sir. Dare to.
+
+84
+00:04:33,481 --> 00:04:34,564
+Of course.
+
+85
+00:04:34,565 --> 00:04:36,775
+Like how I chose to be born rich.
+
+86
+00:04:36,776 --> 00:04:39,820
+Together we can disrupt big salt water.
+
+87
+00:04:39,821 --> 00:04:41,822
+You mean the ocean?
+
+88
+00:04:41,823 --> 00:04:42,906
+Exactly.
+
+89
+00:04:42,907 --> 00:04:45,410
+- Or should I say, excellent.
+- Excellent.
+
+90
+00:04:46,202 --> 00:04:49,579
+Not only am I pledging much of
+my personal wealth to LifeBoat,
+
+91
+00:04:49,580 --> 00:04:53,709
+but I'm giving the company Cooling Tower A
+to use as its headquarters.
+
+92
+00:04:53,710 --> 00:04:56,503
+{\an8}Cooling Tower A
+was Mr. Burns's favorite tower.
+
+93
+00:04:56,504 --> 00:04:59,257
+{\an8}He always said it held
+so many precious memories.
+
+94
+00:05:01,718 --> 00:05:05,721
+In addition, all workers in Sector 7-G
+are immediately fired...
+
+95
+00:05:05,722 --> 00:05:06,847
+Hey, that's me!
+
+96
+00:05:06,848 --> 00:05:08,140
+Screw you, pig!
+
+97
+00:05:08,141 --> 00:05:11,518
+And are rehired
+at higher tech industry salaries.
+
+98
+00:05:11,519 --> 00:05:12,894
+Bless you, pig!
+
+99
+00:05:12,895 --> 00:05:16,106
+[narrator] <i>Burns brought his wealthiest
+friends into Persephone's fold.</i>
+
+100
+00:05:16,107 --> 00:05:20,319
+When I invest, I look at
+the business's key fundamental:
+
+101
+00:05:20,320 --> 00:05:24,574
+Am I under the delusion
+that I have a shot with the CEO?
+
+102
+00:05:25,616 --> 00:05:26,617
+[chuckling]
+
+103
+00:05:27,744 --> 00:05:31,496
+[narrator] <i>Burns and Persephone were soon
+running the new company side by side,</i>
+
+104
+00:05:31,497 --> 00:05:35,000
+<i>overseeing a start-up culture
+where everyone had a creative title.</i>
+
+105
+00:05:35,001 --> 00:05:38,670
+Persephone Odair, Founder
+and Status Quo Demolitionist.
+
+106
+00:05:38,671 --> 00:05:41,423
+Montgomery Burns, Chief Change Alchemist.
+
+107
+00:05:41,424 --> 00:05:43,842
+Waylon Smithers, Purposefulness Warlock.
+
+108
+00:05:43,843 --> 00:05:46,178
+Carl Carlson, Brain Dump Magician.
+
+109
+00:05:46,179 --> 00:05:48,513
+Lenny Leonard, Storytelling Ninja.
+
+110
+00:05:48,514 --> 00:05:50,891
+Homer Simpson, "Competeticy" Rock Star.
+
+111
+00:05:50,892 --> 00:05:52,309
+[producer] Competency.
+
+112
+00:05:52,310 --> 00:05:53,685
+Say it again.
+
+113
+00:05:53,686 --> 00:05:57,022
+{\an8}If anyone can transform Burns,
+it's a visionary like Persephone.
+
+114
+00:05:57,023 --> 00:06:00,400
+{\an8}Like, if you work at LifeBoat, you have to
+use these metal drinking straws.
+
+115
+00:06:00,401 --> 00:06:03,028
+It's so easy to clean after every use.
+
+116
+00:06:03,029 --> 00:06:04,237
+[grunting]
+
+117
+00:06:04,238 --> 00:06:05,572
+I'm just... [groans]
+
+118
+00:06:05,573 --> 00:06:07,324
+Why does it have to bend?
+
+119
+00:06:07,325 --> 00:06:09,117
+Come... [grunts]
+
+120
+00:06:09,118 --> 00:06:11,703
+{\an8}<i>♪ This is my fight song ♪</i>
+
+121
+00:06:11,704 --> 00:06:14,623
+<i>♪ Take back my life song ♪</i>
+
+122
+00:06:14,624 --> 00:06:18,126
+<i>♪ Prove I'm all right song ♪</i>
+
+123
+00:06:18,127 --> 00:06:19,420
+[Mr. Burns grunting]
+
+124
+00:06:23,424 --> 00:06:25,342
+My fellow LifeBoaters!
+
+125
+00:06:25,343 --> 00:06:28,970
+I'm so excited to have you
+on this journey with me.
+
+126
+00:06:28,971 --> 00:06:33,225
+Imagine a world
+with an endless supply of drinkable water.
+
+127
+00:06:33,226 --> 00:06:40,274
+A world where every hotel towel can be
+used once and then dropped on the floor.
+
+128
+00:06:40,900 --> 00:06:42,275
+Oh, there were a lot of changes.
+
+129
+00:06:42,276 --> 00:06:46,071
+Unlike when this was a nuclear plant,
+security's super tight now,
+
+130
+00:06:46,072 --> 00:06:48,657
+and we have to sign stringent NDAs.
+
+131
+00:06:48,658 --> 00:06:51,034
+And I am bad at keeping secrets.
+
+132
+00:06:51,035 --> 00:06:54,955
+Like how I'm not supposed to talk about
+Lenny's crush on his Italian tutor.
+
+133
+00:06:54,956 --> 00:06:57,499
+Homer, <i>ti ammazzo</i>. [speaking Italian]
+
+134
+00:06:57,500 --> 00:07:00,502
+{\an8}[narrator] <i>LifeBoat was soaring,
+but no one could have predicted</i>
+
+135
+00:07:00,503 --> 00:07:03,213
+{\an8}<i>what shocking turn was in store
+for the company.</i>
+
+136
+00:07:03,214 --> 00:07:05,298
+Um. Is this one of those documentaries
+
+137
+00:07:05,299 --> 00:07:07,300
+where I'm not supposed
+to look at the camera?
+
+138
+00:07:07,301 --> 00:07:10,262
+Or is it like <i>The Office</i>,
+where I always look at it
+
+139
+00:07:10,263 --> 00:07:13,349
+and do a big take so the audience
+knows when to laugh?
+
+140
+00:07:16,227 --> 00:07:19,479
+"...in richness and wealth,
+for richer and richer,"
+
+141
+00:07:19,480 --> 00:07:23,276
+I now pronounce you husband and wife.
+
+142
+00:07:28,573 --> 00:07:29,949
+[documentary music playing]
+
+143
+00:07:31,742 --> 00:07:33,118
+I'm still pinching myself.
+
+144
+00:07:33,119 --> 00:07:38,206
+I'm married to Montgomery Burns,
+nuclear industry legend.
+
+145
+00:07:38,207 --> 00:07:41,042
+Chief s'more toaster
+at the Bohemian Grove.
+
+146
+00:07:41,043 --> 00:07:43,086
+The first man with no blood type.
+
+147
+00:07:43,087 --> 00:07:46,548
+What a joy to wake up in the morning,
+turn my head on the pillow,
+
+148
+00:07:46,549 --> 00:07:50,844
+<i>and see her bedroom door through
+the glass of my hyperbaric chamber.</i>
+
+149
+00:07:50,845 --> 00:07:54,599
+[narrator] <i>Soon, Persephone and Burns were
+the new It power couple.</i>
+
+150
+00:07:59,687 --> 00:08:04,524
+<i>And the press couldn't get enough of
+this May-last-minute-of-December romance.</i>
+
+151
+00:08:04,525 --> 00:08:08,361
+It's so refreshing to see a young person
+with the world at her feet,
+
+152
+00:08:08,362 --> 00:08:11,782
+who also sees the glory that is
+Montgomery Burns.
+
+153
+00:08:22,084 --> 00:08:23,168
+[swallows, grunts]
+
+154
+00:08:23,169 --> 00:08:26,087
+[narrator] <i>Now it was up to Persephone
+to create a working prototype</i>
+
+155
+00:08:26,088 --> 00:08:28,591
+<i>of her amazing desalination technology.</i>
+
+156
+00:08:29,175 --> 00:08:31,968
+{\an8}The water in front of you comes from
+the functional prototype
+
+157
+00:08:31,969 --> 00:08:34,596
+of the LifeBoat desalination machine.
+
+158
+00:08:34,597 --> 00:08:39,227
+So, everyone, please raise a glass
+to milestone this history-defining moment.
+
+159
+00:08:40,269 --> 00:08:41,978
+- [murmuring]
+- What's going on?
+
+160
+00:08:41,979 --> 00:08:44,439
+- Hey...
+- Oh, no, you can't drink it now. No.
+
+161
+00:08:44,440 --> 00:08:48,068
+Our competitors could steal
+the proprietary aquatech in your urine.
+
+162
+00:08:48,069 --> 00:08:50,487
+[chuckling, chattering]
+
+163
+00:08:50,488 --> 00:08:53,532
+And just in case any of
+our patented evaporated mist
+
+164
+00:08:53,533 --> 00:08:54,866
+made it into your bladders,
+
+165
+00:08:54,867 --> 00:08:57,827
+we've arranged
+to have you all catheterized.
+
+166
+00:08:57,828 --> 00:08:59,788
+- [chattering]
+- Ooh! Yeah!
+
+167
+00:08:59,789 --> 00:09:01,915
+[catheter whirring]
+
+168
+00:09:01,916 --> 00:09:04,960
+{\an8}So LifeBoat was just following
+the tech industry playbook.
+
+169
+00:09:04,961 --> 00:09:10,006
+{\an8}Fake it till you make it.
+Or as I call it "lie-PO" until you IPO.
+
+170
+00:09:10,007 --> 00:09:13,260
+{\an8}But the employees
+were already dreaming of cashing out.
+
+171
+00:09:13,261 --> 00:09:15,387
+Tech salaries are the greatest.
+
+172
+00:09:15,388 --> 00:09:19,349
+This week I gave Marge 200 stock options
+to go grocery shopping.
+
+173
+00:09:19,350 --> 00:09:20,600
+It didn't work at all.
+
+174
+00:09:20,601 --> 00:09:23,520
+I had to put all the food
+back on the shelves.
+
+175
+00:09:23,521 --> 00:09:26,606
+[narrator] <i>Meanwhile, the newly-minted
+tech workers were adapting to</i>
+
+176
+00:09:26,607 --> 00:09:28,775
+<i>a much different corporate culture.</i>
+
+177
+00:09:28,776 --> 00:09:31,361
+At the new company,
+people were so secretive,
+
+178
+00:09:31,362 --> 00:09:35,616
+they actually moved the Post-it notes
+with their passwords off their monitor.
+
+179
+00:09:38,953 --> 00:09:41,913
+[Homer]
+<i>Workers were getting fired every day.</i>
+
+180
+00:09:41,914 --> 00:09:44,709
+That tattoo is the intellectual property
+of the company.
+
+181
+00:09:47,378 --> 00:09:50,589
+The whole company got so paranoid.
+
+182
+00:09:50,590 --> 00:09:55,719
+Because of those NDAs he signed, Homer
+couldn't even tell me how his day was.
+
+183
+00:09:55,720 --> 00:09:57,971
+I can neither confirm
+nor deny I had a day.
+
+184
+00:09:57,972 --> 00:10:01,891
+Well, it was strange they wouldn't
+let me look inside the machine,
+
+185
+00:10:01,892 --> 00:10:07,063
+since my title was Chief Engineer
+of Inside the Machine. [coughs]
+
+186
+00:10:07,064 --> 00:10:08,690
+[Professor Frink]
+<i>Whenever a reporter came by,</i>
+
+187
+00:10:08,691 --> 00:10:12,153
+<i>it seemed like they were trying to
+cover something up.</i>
+
+188
+00:10:12,820 --> 00:10:16,781
+Well, still better than
+working for Zuckerberg.
+
+189
+00:10:16,782 --> 00:10:20,201
+They were hiding something,
+and it was really freaking me out.
+
+190
+00:10:20,202 --> 00:10:21,786
+So I emailed Persephone.
+
+191
+00:10:21,787 --> 00:10:24,040
+And the next day, Carl was gone.
+
+192
+00:10:32,298 --> 00:10:34,716
+[narrator] <i>Despite the red flags flying
+from this lifeboat,</i>
+
+193
+00:10:34,717 --> 00:10:36,468
+<i>there continued to be believers.</i>
+
+194
+00:10:36,469 --> 00:10:39,179
+Persephone dominates my vision board.
+
+195
+00:10:39,180 --> 00:10:44,267
+Sure, she married Mr. Burns,
+but as CEO, a woman had all the power.
+
+196
+00:10:44,268 --> 00:10:47,228
+That's what made
+the Internet trolls so mad.
+
+197
+00:10:47,229 --> 00:10:49,356
+[narrator]
+<i>All the online negativity stirred up</i>
+
+198
+00:10:49,357 --> 00:10:53,151
+<i>the finger-tented anger
+of a different kind of troll.</i>
+
+199
+00:10:53,152 --> 00:10:54,444
+Hmm.
+
+200
+00:10:54,445 --> 00:10:56,863
+<i>♪ This is my fight song ♪</i>
+
+201
+00:10:56,864 --> 00:10:59,949
+<i>♪ Take back my life song ♪</i>
+
+202
+00:10:59,950 --> 00:11:01,701
+I wanted to give my wife...
+
+203
+00:11:01,702 --> 00:11:04,204
+Wow. "Wife."
+Still getting used to saying that.
+
+204
+00:11:04,205 --> 00:11:06,831
+A little something special
+for her birthday.
+
+205
+00:11:06,832 --> 00:11:08,416
+A Twitter gift card?
+
+206
+00:11:08,417 --> 00:11:12,170
+No. I bought you Twitter.
+The whole company.
+
+207
+00:11:12,171 --> 00:11:13,296
+It was a bargain.
+
+208
+00:11:13,297 --> 00:11:14,714
+The previous owner had to sell it
+
+209
+00:11:14,715 --> 00:11:19,302
+after his self-driving Mars rocket crashed
+into the International Space Station.
+
+210
+00:11:19,303 --> 00:11:20,887
+[Persephone moans]
+
+211
+00:11:20,888 --> 00:11:24,307
+Mr. Burns, you deleted all negative tweets
+about Persephone.
+
+212
+00:11:24,308 --> 00:11:26,559
+Is that evidence
+that you're in a kind of cult
+
+213
+00:11:26,560 --> 00:11:28,895
+and won't hear any criticism
+of your leader?
+
+214
+00:11:28,896 --> 00:11:33,191
+Yes, I am in a cult.
+It's called a marriage. [laughs]
+
+215
+00:11:33,192 --> 00:11:36,027
+My wife is the head of it,
+and my job is to support her.
+
+216
+00:11:36,028 --> 00:11:38,988
+Now, maybe you're the cult leader
+in your marriage, Andrew,
+
+217
+00:11:38,989 --> 00:11:42,992
+but, uh, I know Pilar
+and I suspect she'd disagree. [laughs]
+
+218
+00:11:42,993 --> 00:11:44,744
+[both laugh]
+
+219
+00:11:44,745 --> 00:11:47,330
+[narrator] <i>But LifeBoat was rocked
+by a fresh scandal,</i>
+
+220
+00:11:47,331 --> 00:11:51,793
+{\an8}<i>when an anonymous whistleblower bravely
+came forward with damning new information.</i>
+
+221
+00:11:51,794 --> 00:11:53,837
+{\an8}[low-pitched, distorted]
+My best friend, Carl, was abducted
+
+222
+00:11:53,838 --> 00:11:57,424
+{\an8}because he was about to go public with
+a story that would destroy this company.
+
+223
+00:11:57,425 --> 00:12:01,177
+{\an8}People need to know the truth.
+The LifeBoat machine doesn't work.
+
+224
+00:12:01,178 --> 00:12:04,140
+[narrator] <i>The whistle was blown
+and the damage was done.</i>
+
+225
+00:12:11,272 --> 00:12:13,898
+Ma'am, ma'am.
+The whistleblower claims the only person
+
+226
+00:12:13,899 --> 00:12:17,110
+who has seen the inside of
+your desalination machine has disappeared.
+
+227
+00:12:17,111 --> 00:12:18,611
+Isn't that suspicious?
+
+228
+00:12:18,612 --> 00:12:20,196
+Why do you doubt a female CEO,
+
+229
+00:12:20,197 --> 00:12:23,199
+but believe the silhouette
+of a man sitting in the dark?
+
+230
+00:12:23,200 --> 00:12:26,120
+News flash, women have faces now.
+
+231
+00:12:26,620 --> 00:12:27,620
+[narrator] <i>At this moment,</i>
+
+232
+00:12:27,621 --> 00:12:30,540
+<i>allegations that
+its core technology does not work</i>
+
+233
+00:12:30,541 --> 00:12:33,126
+<i>are threatening LifeBoat's very survival.</i>
+
+234
+00:12:33,127 --> 00:12:37,172
+<i>Is this the beginning of the end
+for this once promising start-up?</i>
+
+235
+00:12:37,173 --> 00:12:40,091
+[narrator 2]
+<i>And the answer is, absolutely not.</i>
+
+236
+00:12:40,092 --> 00:12:44,471
+<i>LifeBoat will save humanity and become
+the world's most profitable company.</i>
+
+237
+00:12:44,472 --> 00:12:49,517
+<i>Join us next time for</i> LifeBoat Afloat:
+Persephone's Total Vindication.
+
+238
+00:12:49,518 --> 00:12:53,272
+{\an8}[Mr. Burns] <i>This documentary series
+is now a BurnsCo production.</i>
+
+239
+00:12:56,525 --> 00:12:59,986
+Montgomery Burns wasn't happy with
+the documentary about his wife's start-up,
+
+240
+00:12:59,987 --> 00:13:02,113
+so he bought the company that made it.
+
+241
+00:13:02,114 --> 00:13:04,449
+But that didn't stop others
+from telling the story,
+
+242
+00:13:04,450 --> 00:13:08,704
+because the business
+of business documentaries is big business.
+
+243
+00:13:10,790 --> 00:13:13,792
+We've unearthed even more
+never-before-seen footage of the Beatles.
+
+244
+00:13:13,793 --> 00:13:16,961
+Including six hours
+of them discussing drinking water.
+
+245
+00:13:16,962 --> 00:13:20,381
+The thing about water,
+you can't make tea without it.
+
+246
+00:13:20,382 --> 00:13:22,550
+What if you made tea out of coffee?
+
+247
+00:13:22,551 --> 00:13:24,636
+What if you made coffee out of tea?
+
+248
+00:13:24,637 --> 00:13:27,139
+Uh, fellas,
+maybe we should play some music.
+
+249
+00:13:28,182 --> 00:13:32,102
+Why do they call it H2O?
+I bet no reason at all.
+
+250
+00:13:32,603 --> 00:13:34,062
+[glass shatters]
+
+251
+00:13:34,063 --> 00:13:35,396
+[narrator] <i>Just weeks ago,</i>
+
+252
+00:13:35,397 --> 00:13:38,609
+<i>LifeBoat stopped payment
+on their stadium-naming rights.</i>
+
+253
+00:13:45,658 --> 00:13:47,867
+Despite the glut
+of LifeBoat documentaries,
+
+254
+00:13:47,868 --> 00:13:50,829
+the definitive version was made
+by a storyteller so compelling,
+
+255
+00:13:50,830 --> 00:13:54,415
+he made 12 hours
+on the national parks feel like 11.
+
+256
+00:13:54,416 --> 00:13:56,043
+[ambient music playing]
+
+257
+00:14:10,891 --> 00:14:13,017
+[Peter Coyote]
+<i>The mysterious whistleblower alleged that</i>
+
+258
+00:14:13,018 --> 00:14:16,396
+<i>Persephone's desalination
+machine was fraudulent.</i>
+
+259
+00:14:16,397 --> 00:14:19,190
+{\an8}[low-pitched, distorted]
+The LifeBoat machine doesn't work.
+
+260
+00:14:19,191 --> 00:14:20,650
+{\an8}[Peter Coyote] <i>Unfortunately for him,</i>
+
+261
+00:14:20,651 --> 00:14:23,611
+{\an8}<i>Mr. Burns's legal team
+had acquired the raw footage</i>
+
+262
+00:14:23,612 --> 00:14:26,823
+{\an8}<i>of the whistleblower's damning interview.</i>
+
+263
+00:14:26,824 --> 00:14:29,033
+{\an8}[low-pitched, distorted]
+The machine doesn't work.
+
+264
+00:14:29,034 --> 00:14:33,162
+{\an8}Hey! I ordered this sub toasted.
+This is only lightly toasted.
+
+265
+00:14:33,163 --> 00:14:36,499
+{\an8}[normal] Is this how you treat
+a whistleblower? Uh-oh.
+
+266
+00:14:36,500 --> 00:14:39,377
+[Peter Coyote] <i>Mr. Burns and Persephone
+now knew the identity</i>
+
+267
+00:14:39,378 --> 00:14:41,421
+<i>of the man who betrayed them.</i>
+
+268
+00:14:41,422 --> 00:14:44,507
+<i>And the hiring of lawyers
+to destroy Homer Simpson</i>
+
+269
+00:14:44,508 --> 00:14:47,468
+<i>proved to be quite the aphrodisiac.</i>
+
+270
+00:14:47,469 --> 00:14:48,720
+[no audible dialogue]
+
+271
+00:14:48,721 --> 00:14:51,222
+[Mr. Burns, Persephone moaning]
+
+272
+00:14:51,223 --> 00:14:54,350
+[Peter Coyote] <i>LifeBoat lawyers were
+relentless in trying to subpoena Homer...</i>
+
+273
+00:14:54,351 --> 00:14:57,563
+- [Homer screams]
+- <i>...and sue him for breaking his NDA.</i>
+
+274
+00:15:03,444 --> 00:15:07,113
+[Lisa] <i>My dad got an anonymous message
+saying there was something he had to see,</i>
+
+275
+00:15:07,114 --> 00:15:08,615
+<i>so I went with him.</i>
+
+276
+00:15:08,616 --> 00:15:13,369
+What I saw changed the one thing
+I thought could never be changed,
+
+277
+00:15:13,370 --> 00:15:14,538
+my mind.
+
+278
+00:15:21,670 --> 00:15:26,383
+[gasps] Carl, you sent the message.
+You've been working in the lab all along?
+
+279
+00:15:29,345 --> 00:15:33,097
+If I didn't do their dirty work,
+they'd tell the world my dark secret.
+
+280
+00:15:33,098 --> 00:15:37,018
+I've been to 700 Jimmy Buffett concerts.
+I'm a Parrot Head.
+
+281
+00:15:37,019 --> 00:15:39,687
+"Cheeseburger in Paradise"!
+
+282
+00:15:39,688 --> 00:15:41,606
+[Lisa] So, what are they making you do?
+
+283
+00:15:41,607 --> 00:15:46,027
+I'm putting something in the LifeBoat
+machines called Jab-a-tose.
+
+284
+00:15:46,028 --> 00:15:48,029
+Well, if I may Frink-splain,
+
+285
+00:15:48,030 --> 00:15:53,618
+{\an8}in 1970, a very popular diet soda
+called Jab was discontinued
+
+286
+00:15:53,619 --> 00:15:57,831
+{\an8}<i>because of the overpowering sweetness
+of its artificial flavor.</i>
+
+287
+00:15:58,874 --> 00:16:03,252
+{\an8}<i>LifeBoat bought up thousands
+of cases of unsold Jab sodas,</i>
+
+288
+00:16:03,253 --> 00:16:09,217
+{\an8}because Jab-a-tose was so strong, it could
+completely mask the taste of salt.
+
+289
+00:16:09,218 --> 00:16:10,343
+Oh, my God.
+
+290
+00:16:10,344 --> 00:16:13,137
+This machine doesn't take out the salt.
+
+291
+00:16:13,138 --> 00:16:15,515
+It masks it with sweetness.
+
+292
+00:16:15,516 --> 00:16:16,976
+That's the Jab-a-tose.
+
+293
+00:16:17,476 --> 00:16:21,688
+<i>Ocean water enters the machine
+and when it comes out, it tastes normal,</i>
+
+294
+00:16:21,689 --> 00:16:25,733
+<i>but still has more salt
+than all the glasses in Margaritaville.</i>
+
+295
+00:16:25,734 --> 00:16:26,859
+Oh, my God.
+
+296
+00:16:26,860 --> 00:16:30,698
+LifeBoat is built on a lie,
+and Persephone is a fraud!
+
+297
+00:16:31,198 --> 00:16:34,242
+But her merch is... [sniffles] ...solid.
+
+298
+00:16:34,243 --> 00:16:38,162
+[Peter Coyote] <i>Action was needed,
+and island time was running out.</i>
+
+299
+00:16:38,163 --> 00:16:39,998
+<i>The fateful demo day had arrived</i>
+
+300
+00:16:39,999 --> 00:16:44,502
+<i>for LifeBoat to finally prove its concept
+at Springfield Elementary.</i>
+
+301
+00:16:44,503 --> 00:16:48,464
+<i>The school's drinking water
+had been replaced with LifeBoat liquid:</i>
+
+302
+00:16:48,465 --> 00:16:50,925
+<i>Jab-a-tose-infused salt water.</i>
+
+303
+00:16:50,926 --> 00:16:53,594
+<i>LifeBoat employees had drunk the Kool-Aid.</i>
+
+304
+00:16:53,595 --> 00:16:56,931
+<i>And now it was being served up
+to the children.</i>
+
+305
+00:16:56,932 --> 00:17:00,018
+- [crowd cheering]
+- Mr. Burns! The LifeBoat water isn't safe.
+
+306
+00:17:00,019 --> 00:17:02,353
+It's just super sweetened ocean brine!
+
+307
+00:17:02,354 --> 00:17:07,233
+Nonsense. My wife is a beautiful genius
+who succeeds at everything she touches,
+
+308
+00:17:07,234 --> 00:17:09,736
+and everything she says
+makes perfect sense.
+
+309
+00:17:09,737 --> 00:17:13,031
+The wheel of tomorrow is an aqua circle.
+
+310
+00:17:13,032 --> 00:17:14,824
+- Let's make it rain!
+- [crowd cheers]
+
+311
+00:17:14,825 --> 00:17:16,367
+Buddy, buddy, buddy.
+
+312
+00:17:16,368 --> 00:17:20,788
+What you're feeling towards
+that lady is fresh love, not married love.
+
+313
+00:17:20,789 --> 00:17:22,081
+But we are married.
+
+314
+00:17:22,082 --> 00:17:24,917
+Yes, but the married love
+hasn't kicked in yet.
+
+315
+00:17:24,918 --> 00:17:31,257
+When it does, you'll see your spouse's
+flaws in 4K HD TV you can never turn off.
+
+316
+00:17:31,258 --> 00:17:32,842
+What are you driving at?
+
+317
+00:17:32,843 --> 00:17:36,096
+I think you need to look
+at your wife with marriage eyes.
+
+318
+00:17:36,597 --> 00:17:38,056
+Water is the original crypto.
+
+319
+00:17:38,057 --> 00:17:40,725
+Every drop is encoded
+on the biological blockchain,
+
+320
+00:17:40,726 --> 00:17:44,103
+and we are the aquanauts
+of the potable future.
+
+321
+00:17:44,104 --> 00:17:46,731
+- This is Wet 3.0!
+- [crowd cheers]
+
+322
+00:17:46,732 --> 00:17:50,902
+I don't understand a thing
+she's ever said.
+
+323
+00:17:50,903 --> 00:17:52,862
+Now you're married.
+
+324
+00:17:52,863 --> 00:17:55,032
+{\an8}And since you're seeing things clearly...
+
+325
+00:17:56,492 --> 00:17:59,243
+Oh, dear.
+Those children are going to drink poison,
+
+326
+00:17:59,244 --> 00:18:02,663
+and the bad news is
+I am going to be liable.
+
+327
+00:18:02,664 --> 00:18:04,625
+Liable!
+
+328
+00:18:07,920 --> 00:18:09,212
+[children groan]
+
+329
+00:18:09,213 --> 00:18:10,296
+[people scream]
+
+330
+00:18:10,297 --> 00:18:12,173
+[Peter Coyote]
+<i>That is what would have happened</i>
+
+331
+00:18:12,174 --> 00:18:14,802
+<i>had Homer not turned the valve off.</i>
+
+332
+00:18:17,638 --> 00:18:20,181
+<i>Sorry, we only put that
+in there for the trailer.</i>
+
+333
+00:18:20,182 --> 00:18:23,684
+<i>Do you know how hard it is to get people
+to watch a documentary</i>
+
+334
+00:18:23,685 --> 00:18:25,812
+<i>that's not about a small-town murder?</i>
+
+335
+00:18:25,813 --> 00:18:27,480
+Please, honey, come clean.
+
+336
+00:18:27,481 --> 00:18:29,941
+Your miracle invention is nothing
+but claptrap.
+
+337
+00:18:29,942 --> 00:18:33,611
+If you can just admit that,
+maybe we have a chance.
+
+338
+00:18:33,612 --> 00:18:36,949
+Babe, the underlying imaginary technology
+still works.
+
+339
+00:18:37,658 --> 00:18:43,287
+[Peter Coyote] <i>And in that moment, this
+unlikely and super gross love affair died.</i>
+
+340
+00:18:43,288 --> 00:18:47,208
+Yes, I was besotted.
+Blind to her machinations.
+
+341
+00:18:47,209 --> 00:18:48,751
+She cost me billions.
+
+342
+00:18:48,752 --> 00:18:51,170
+It wasn't that she was evil. I love evil.
+
+343
+00:18:51,171 --> 00:18:54,049
+It's that she still insists she's good.
+
+344
+00:18:55,592 --> 00:18:58,010
+[Peter Coyote]
+<i>LifeBoat had finally hit the reef,</i>
+
+345
+00:18:58,011 --> 00:19:01,472
+<i>drowning its investors and employees
+in poisoned water</i>
+
+346
+00:19:01,473 --> 00:19:03,516
+<i>and counterparty risk lawsuits.</i>
+
+347
+00:19:03,517 --> 00:19:08,020
+{\an8}<i>But to this day, Persephone has refused
+to admit any failure.</i>
+
+348
+00:19:08,021 --> 00:19:11,357
+Testing showed your desalinator
+did absolutely nothing,
+
+349
+00:19:11,358 --> 00:19:12,859
+your company is bankrupt,
+
+350
+00:19:12,860 --> 00:19:16,780
+and in the divorce, Mr. Burns
+somehow got your high school friends.
+
+351
+00:19:20,200 --> 00:19:21,534
+What happens from here?
+
+352
+00:19:21,535 --> 00:19:23,161
+Well, Christiane Amanpour, as you say,
+
+353
+00:19:23,162 --> 00:19:25,288
+things have never looked better
+for the company.
+
+354
+00:19:25,289 --> 00:19:26,581
+I didn't say that.
+
+355
+00:19:26,582 --> 00:19:28,958
+The reality is, you're in jail.
+
+356
+00:19:28,959 --> 00:19:30,042
+[gates close]
+
+357
+00:19:30,043 --> 00:19:34,715
+Christiane, have I ever told you about
+my grandfather's experience on a lifeboat?
+
+358
+00:19:35,883 --> 00:19:37,216
+Even that was a lie.
+
+359
+00:19:37,217 --> 00:19:40,469
+Her grandfather wasn't in the war,
+and he didn't die on a lifeboat.
+
+360
+00:19:40,470 --> 00:19:45,141
+He's a CPA whose hobby is fixing
+British spellings on Wikipedia.
+
+361
+00:19:45,142 --> 00:19:47,561
+[computer keys clacking]
+
+362
+00:19:50,856 --> 00:19:54,233
+[sighs] Not only did I miss out
+on once-in-a-lifetime start-up riches,
+
+363
+00:19:54,234 --> 00:19:56,903
+but I lost the most amazing woman
+I ever met.
+
+364
+00:19:56,904 --> 00:19:59,740
+I think in a few more months,
+she might have even slept with me.
+
+365
+00:20:00,240 --> 00:20:03,534
+It's great to meet you in person
+after seeing so much footage of you
+
+366
+00:20:03,535 --> 00:20:07,080
+in our documentary,
+<i>The Man Who Sold Horse Meat Sandwiches</i>.
+
+367
+00:20:09,333 --> 00:20:10,499
+Anything else to add?
+
+368
+00:20:10,500 --> 00:20:13,252
+Just this: Don't feel sorry for me.
+
+369
+00:20:13,253 --> 00:20:15,213
+Time to rebuild and reconquer.
+
+370
+00:20:15,214 --> 00:20:17,882
+If I know one thing about myself,
+
+371
+00:20:17,883 --> 00:20:21,345
+Montgomery Burns always bounces back.
+
+372
+00:20:26,808 --> 00:20:29,268
+<i>♪ This is my fight song ♪</i>
+
+373
+00:20:29,269 --> 00:20:31,145
+<i>♪ Take back my life song ♪</i>
+
+374
+00:20:31,146 --> 00:20:32,605
+[Mr. Burns sobbing]
+
+375
+00:20:32,606 --> 00:20:36,943
+<i>♪ Prove I'm all right song ♪</i>
+
+376
+00:20:36,944 --> 00:20:39,445
+<i>♪ My power's turned on ♪</i>
+
+377
+00:20:39,446 --> 00:20:43,115
+- <i>♪ Starting right now I'll be strong ♪</i>
+- <i>♪ I'll be strong ♪</i>
+
+378
+00:20:43,116 --> 00:20:44,826
+<i>♪ I'll play my fight song ♪</i>
+
+379
+00:20:47,079 --> 00:20:50,331
+{\an8}We also have over 90 hours
+of them talking about umbrellas.
+
+380
+00:20:50,332 --> 00:20:52,167
+{\an8}Maybe that could be a documentary too.
+
+381
+00:20:52,751 --> 00:20:55,253
+{\an8}I once brought an umbrella
+into the shower.
+
+382
+00:20:55,254 --> 00:20:57,588
+{\an8}- How did you get clean?
+- I didn't.
+
+383
+00:20:57,589 --> 00:20:59,841
+{\an8}But at least I didn't have
+to take off me clothes.
+
+384
+00:21:00,926 --> 00:21:03,928
+{\an8}As soon as I open my umbrella,
+it stops raining.
+
+385
+00:21:03,929 --> 00:21:05,472
+{\an8}You need a sunroof on it.
+
+386
+00:21:05,973 --> 00:21:08,517
+{\an8}What about a giant umbrella you keep
+in the trunk?
+
+387
+00:21:09,017 --> 00:21:11,520
+{\an8}Sounds like you're talking
+about an umbrellaphant.
+
+388
+00:21:12,020 --> 00:21:14,397
+{\an8}[groans] Can we get back to work?
+
+389
+00:21:14,398 --> 00:21:16,315
+{\an8}Wait, I like the sound of that.
+
+390
+00:21:16,316 --> 00:21:17,566
+{\an8}"Get Back."
+
+391
+00:21:17,567 --> 00:21:21,113
+{\an8}I saw an umbrellaphant at the circus.
+He was working for peanuts.
+
+392
+00:21:30,122 --> 00:21:31,123
+Shh!
+

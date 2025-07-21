@@ -1,0 +1,1890 @@
+1
+00:00:03,294 --> 00:00:06,214
+<i>CHOIR: ♪ The Simpsons ♪</i>
+
+2
+00:00:10,677 --> 00:00:12,257
+(exclaiming)
+
+3
+00:00:17,058 --> 00:00:19,308
+(school bell ringing)
+
+4
+00:00:21,187 --> 00:00:22,767
+(Barney belches)
+
+5
+00:00:22,856 --> 00:00:24,186
+(whistle blows)
+
+6
+00:00:24,274 --> 00:00:26,284
+(yells)
+
+7
+00:00:30,488 --> 00:00:32,068
+(beeping)
+
+8
+00:00:34,909 --> 00:00:37,909
+(playing the blues)
+
+9
+00:00:43,626 --> 00:00:45,416
+(tires screeching)
+
+10
+00:00:46,880 --> 00:00:48,010
+D'oh!
+
+11
+00:00:48,089 --> 00:00:49,299
+(tires screeching)
+
+12
+00:00:49,382 --> 00:00:50,432
+(grunts)
+
+13
+00:00:50,508 --> 00:00:52,298
+('60s themed music)
+
+14
+00:01:05,315 --> 00:01:08,565
+('70s themed music)
+
+15
+00:01:08,651 --> 00:01:10,031
+(thud)
+
+16
+00:01:12,781 --> 00:01:16,491
+('80s piano music)
+
+17
+00:01:20,455 --> 00:01:22,205
+(all yelling)
+
+18
+00:01:25,794 --> 00:01:27,884
+(sighs)
+
+19
+00:01:35,428 --> 00:01:38,468
+{\an8}And that's why I really don't
+believe there's a God.
+
+20
+00:01:38,556 --> 00:01:40,636
+{\an8}Thank you,
+and God bless America.
+
+21
+00:01:40,725 --> 00:01:43,975
+{\an8}You were only supposed to lead
+us in the Pledge of Allegiance.
+
+22
+00:01:44,062 --> 00:01:46,232
+{\an8}I'm pretty sure it was
+in there somewhere.
+
+23
+00:01:46,314 --> 00:01:50,074
+{\an8}Oh. Now, let me conclude by
+thanking Moe the bartender
+
+24
+00:01:50,151 --> 00:01:53,491
+{\an8}for hosting this meeting while
+City Hall is fumigated for bedbugs.
+
+25
+00:01:53,571 --> 00:01:54,741
+{\an8}Bedbugs?
+
+26
+00:01:54,823 --> 00:01:56,493
+{\an8}Just why is there a bed
+in City Hall?
+
+27
+00:01:56,574 --> 00:01:57,414
+{\an8}(crowd murmurs)
+
+28
+00:01:57,492 --> 00:01:59,332
+{\an8}Er, uh, meeting adjourned!
+
+29
+00:01:59,410 --> 00:02:01,250
+{\an8}<i>(record scratches)</i>
+<i>♪ All night long ♪</i>
+
+30
+00:02:01,329 --> 00:02:02,869
+{\an8}<i>♪ All night ♪</i>
+
+31
+00:02:02,956 --> 00:02:04,496
+{\an8}<i>-♪ All night ♪</i>
+<i>-♪ All night ♪</i>
+
+32
+00:02:04,582 --> 00:02:05,922
+{\an8}<i>♪ All night long ♪</i>
+
+33
+00:02:06,000 --> 00:02:07,250
+{\an8}<i>♪ All night ♪</i>
+
+34
+00:02:07,335 --> 00:02:08,915
+{\an8}<i>-♪ All night ♪</i>
+<i>-♪ All night ♪</i>
+
+35
+00:02:09,003 --> 00:02:10,173
+{\an8}<i>♪ All night long ♪</i>
+
+36
+00:02:10,255 --> 00:02:11,705
+{\an8}<i>♪ All night ♪</i>
+
+37
+00:02:11,798 --> 00:02:13,588
+{\an8}<i>-♪ All night ♪</i>
+<i>-♪ All night ♪</i>
+
+38
+00:02:13,675 --> 00:02:14,875
+{\an8}<i>♪ All night long ♪</i>
+
+39
+00:02:14,968 --> 00:02:16,588
+{\an8}<i>♪ All night ♪</i>
+
+40
+00:02:16,678 --> 00:02:18,048
+{\an8}<i>♪ Unh! ♪</i>
+
+41
+00:02:18,138 --> 00:02:20,008
+{\an8}<i>♪ Everyone you meet ♪</i>
+
+42
+00:02:20,098 --> 00:02:22,228
+{\an8}<i>♪ They're jamming</i>
+<i>in the street ♪</i>
+
+43
+00:02:22,308 --> 00:02:25,058
+{\an8}<i>-♪ All night long ♪</i>
+<i>-♪ All night ♪</i>
+
+44
+00:02:25,145 --> 00:02:26,555
+{\an8}<i>♪ Yeah, I said... ♪</i>
+
+45
+00:02:27,355 --> 00:02:28,685
+{\an8}This is so convenient!
+
+46
+00:02:28,773 --> 00:02:29,983
+{\an8}I can go straight from
+doing my civic duty
+
+47
+00:02:30,066 --> 00:02:32,436
+{\an8}to having a beer with
+my best friend Carl.
+
+48
+00:02:32,527 --> 00:02:35,277
+{\an8}And I can toss back a Duff
+Sangre de los Muertos
+
+49
+00:02:35,363 --> 00:02:37,783
+{\an8}with my best friend:
+Mexican Duffman.
+
+50
+00:02:37,866 --> 00:02:39,196
+{\an8}Ho-la!
+
+51
+00:02:39,284 --> 00:02:41,414
+{\an8}Hey, Moe,
+who's your best friend?
+
+52
+00:02:41,494 --> 00:02:42,544
+{\an8}Uh...
+
+53
+00:02:42,620 --> 00:02:45,000
+{\an8}Well, uh...
+Well, I just made friends
+
+54
+00:02:45,081 --> 00:02:49,461
+{\an8}with Pepto-Bismol on Facebook,
+and, uh... um...
+
+55
+00:02:49,544 --> 00:02:52,054
+{\an8}Hey, would you look at that?
+There's a spot on the bar.
+
+56
+00:02:52,130 --> 00:02:54,050
+{\an8}-Come on! (grunting)
+-(squeaking)
+
+57
+00:02:54,132 --> 00:02:56,092
+{\an8}You know what?
+
+58
+00:02:56,176 --> 00:02:59,046
+{\an8}I think Moe's best friend
+is really that bar rag.
+
+59
+00:02:59,137 --> 00:03:00,717
+{\an8}(laughter)
+
+60
+00:03:00,805 --> 00:03:03,675
+{\an8}That's even sadder than being
+friends with Milhouse!
+
+61
+00:03:03,766 --> 00:03:07,056
+{\an8}(chuckles)
+You know something, Bart?
+
+62
+00:03:07,145 --> 00:03:09,475
+{\an8}I'm getting tired
+of things like that.
+
+63
+00:03:09,564 --> 00:03:12,074
+{\an8}Tired of what?
+I dump on you, and you take it.
+
+64
+00:03:12,150 --> 00:03:13,860
+{\an8}That's how friendship works.
+
+65
+00:03:13,943 --> 00:03:16,743
+{\an8}Not anymore.
+Friendship over.
+
+66
+00:03:18,323 --> 00:03:19,913
+{\an8}-Taxi!
+-(door slams)
+
+67
+00:03:19,991 --> 00:03:22,291
+{\an8}What gives?
+He's not crawling back.
+
+68
+00:03:22,368 --> 00:03:27,118
+{\an8}Even a kid who wears a "Finding Nemo"
+back brace has some pride.
+
+69
+00:03:27,207 --> 00:03:30,127
+{\an8}You went too far this time, Bart.
+
+70
+00:03:30,210 --> 00:03:35,170
+{\an8}Hey, Moe! I got a job here for
+your "best friend," the bar rag.
+
+71
+00:03:35,256 --> 00:03:37,966
+{\an8}Me, too!
+(laughs)
+
+72
+00:03:38,051 --> 00:03:40,471
+{\an8}-(all laughing)
+-Oily.
+
+73
+00:03:40,553 --> 00:03:41,973
+{\an8}(growls)
+
+74
+00:03:42,055 --> 00:03:43,175
+{\an8}Great meeting, though.
+
+75
+00:03:45,225 --> 00:03:49,555
+{\an8}Yes, that's right,
+everyone laugh at the rag.
+
+76
+00:03:49,646 --> 00:03:51,056
+{\an8}But I was not always
+
+77
+00:03:51,147 --> 00:03:54,107
+{\an8}this be-stained swatch
+you see before you.
+
+78
+00:03:54,192 --> 00:03:55,822
+{\an8}Oh, no, gentles.
+
+79
+00:03:55,902 --> 00:04:00,872
+{\an8}We begin in early
+medieval France...
+
+80
+00:04:00,949 --> 00:04:05,079
+{\an8}♪ ♪
+
+81
+00:04:05,161 --> 00:04:09,331
+{\an8}<i>BAR RAG: A young peasant wife</i>
+<i>struggles to feed her family...</i>
+
+82
+00:04:09,415 --> 00:04:11,665
+{\an8}<i>Maman,</i>
+we are starving...
+
+83
+00:04:11,751 --> 00:04:14,421
+{\an8}Listen to the grumbling
+of our <i>estomacs!</i>
+
+84
+00:04:14,504 --> 00:04:16,344
+{\an8}(grumbling sounds)
+
+85
+00:04:16,422 --> 00:04:18,512
+{\an8}That's not your
+<i>estomacs!</i>
+
+86
+00:04:18,591 --> 00:04:19,931
+{\an8}It's some men speaking French!
+
+87
+00:04:20,009 --> 00:04:23,259
+{\an8}(speaking French)
+
+88
+00:04:23,346 --> 00:04:25,426
+{\an8}Now, I have work to do.
+Complain to your <i>papa.</i>
+
+89
+00:04:25,515 --> 00:04:28,175
+{\an8}<i>Papa?</i>
+He is no help at all.
+
+90
+00:04:28,268 --> 00:04:31,228
+Marguerite, I leave to fight
+in Flanders!
+
+91
+00:04:31,312 --> 00:04:33,862
+Stupid Flanders.
+
+92
+00:04:33,940 --> 00:04:37,690
+(trumpet fanfare blows)
+
+93
+00:04:37,777 --> 00:04:41,237
+All tremble before
+the duc de Springfield!
+
+94
+00:04:41,322 --> 00:04:42,412
+That's enough!
+
+95
+00:04:42,490 --> 00:04:44,160
+Madame, I would like you
+
+96
+00:04:44,242 --> 00:04:46,912
+to weave me a tapestry
+with the following images:
+
+97
+00:04:46,995 --> 00:04:48,705
+Me healing the sick.
+
+98
+00:04:48,788 --> 00:04:49,748
+Me killing the healthy.
+
+99
+00:04:49,831 --> 00:04:51,711
+Me marrying my sister.
+
+100
+00:04:51,791 --> 00:04:53,381
+A long winter
+where nothing happens.
+
+101
+00:04:53,459 --> 00:04:55,499
+Me relaxing with friends.
+
+102
+00:04:55,586 --> 00:04:56,706
+You know, the standard stuff.
+
+103
+00:04:56,796 --> 00:04:59,546
+For this, I shall pay you
+two copper coins.
+
+104
+00:04:59,632 --> 00:05:01,262
+You have 25 years
+to complete it.
+
+105
+00:05:01,342 --> 00:05:04,302
+You may have one
+15-minute <i>déjeuner.</i>
+
+106
+00:05:07,473 --> 00:05:10,893
+(bleating)
+
+107
+00:05:10,977 --> 00:05:14,187
+Oh, these innocent creatures
+are blocking my path.
+
+108
+00:05:14,272 --> 00:05:16,572
+I could walk six paces
+that way...
+
+109
+00:05:16,649 --> 00:05:19,989
+or I could
+kill them all right now!
+
+110
+00:05:20,069 --> 00:05:22,279
+I am heartily sorry
+and confess all my sins.
+
+111
+00:05:22,363 --> 00:05:23,993
+Absolved!
+
+112
+00:05:25,491 --> 00:05:26,781
+<i>-Allons-y!</i>
+-(neighs)
+
+113
+00:05:26,868 --> 00:05:28,328
+<i>BAR RAG:</i>
+<i>In their dying fury,</i>
+
+114
+00:05:28,411 --> 00:05:31,961
+<i>those beasts began</i>
+<i>expelling demon wool.</i>
+
+115
+00:05:33,374 --> 00:05:36,004
+<i>And the restless spirits</i>
+<i>of those murdered sheep</i>
+
+116
+00:05:36,085 --> 00:05:40,165
+<i>compelled Marguerite</i>
+<i>to loom ceaselessly,</i>
+
+117
+00:05:40,256 --> 00:05:43,546
+<i>even as her husband</i>
+<i>went off to fight</i>
+
+118
+00:05:43,634 --> 00:05:46,224
+<i>again and again...</i>
+
+119
+00:05:48,264 --> 00:05:51,274
+<i>and again.</i>
+
+120
+00:05:57,190 --> 00:06:00,900
+(grunting)
+
+121
+00:06:00,985 --> 00:06:02,855
+<i>BAR RAG:</i>
+<i>As the years went by,</i>
+
+122
+00:06:02,945 --> 00:06:06,195
+<i>the images she loomed</i>
+<i>were not of the Duc,</i>
+
+123
+00:06:06,282 --> 00:06:08,832
+<i>but rather depictions</i>
+<i>of the adventures</i>
+
+124
+00:06:08,910 --> 00:06:13,500
+<i>that cloth would experience</i>
+<i>over the centuries.</i>
+
+125
+00:06:13,581 --> 00:06:16,001
+Oh, and by the way...
+
+126
+00:06:16,084 --> 00:06:18,964
+that tapestry was me.
+
+127
+00:06:19,045 --> 00:06:21,085
+Right, and I was
+the Gutenberg Bible.
+
+128
+00:06:21,172 --> 00:06:23,512
+<i>Maman,</i>
+we have failed to grow.
+
+129
+00:06:23,591 --> 00:06:25,221
+We've had too little food!
+
+130
+00:06:25,301 --> 00:06:28,761
+Is it too little food
+or too much complaining?
+
+131
+00:06:28,846 --> 00:06:32,176
+<i>Maman,</i> you are overstressed.
+You need a vacation.
+
+132
+00:06:32,266 --> 00:06:34,016
+Perhaps to the
+South of France.
+
+133
+00:06:34,102 --> 00:06:36,402
+We're in the
+South of France!
+
+134
+00:06:36,479 --> 00:06:39,149
+<i>BAR RAG:</i>
+<i>One day, as rosy-fingered Dawn</i>
+
+135
+00:06:39,232 --> 00:06:42,652
+<i>wiped the morning gunk</i>
+<i>from her eyes,</i>
+
+136
+00:06:42,735 --> 00:06:46,235
+<i>the Duc came to claim</i>
+<i>his infernal drapes.</i>
+
+137
+00:06:46,322 --> 00:06:50,242
+What an age for prosthetics
+we live in.
+
+138
+00:06:52,370 --> 00:06:54,460
+Silence!
+I have reached my verdict.
+
+139
+00:06:54,539 --> 00:06:57,629
+-It's not what I expected.
+-(gasping)
+
+140
+00:06:57,708 --> 00:07:00,798
+-And yet... it's beautiful!
+-(sighing)
+
+141
+00:07:00,878 --> 00:07:02,668
+But it's also
+not what I expected.
+
+142
+00:07:02,755 --> 00:07:05,215
+Burn down their house!
+
+143
+00:07:07,051 --> 00:07:08,431
+(hoofbeat)
+
+144
+00:07:08,511 --> 00:07:11,351
+(explosion)
+
+145
+00:07:11,431 --> 00:07:13,811
+<i>BAR RAG: But Le Duc was</i>
+<i>about to be called home</i>
+
+146
+00:07:13,891 --> 00:07:18,021
+<i>to the worst kind of hell:</i>
+<i>medieval hell.</i>
+
+147
+00:07:18,688 --> 00:07:19,808
+-(neighs)
+-(yells)
+
+148
+00:07:27,113 --> 00:07:31,373
+Hey, let's show some French courage
+and beat up the corpse!
+
+149
+00:07:32,785 --> 00:07:35,825
+Come on, Ralphie,
+have a try.
+
+150
+00:07:36,998 --> 00:07:39,288
+Oh! We're submitting that
+
+151
+00:07:39,375 --> 00:07:42,545
+to <i>France's</i>
+<i>Funniest Cave Paintings.</i>
+
+152
+00:07:44,338 --> 00:07:46,918
+(humming)
+
+153
+00:07:47,008 --> 00:07:50,048
+Mm-hmm, hm.
+
+154
+00:07:50,136 --> 00:07:53,056
+<i>BAR RAG: Even for a tapestry</i>
+<i>made of demon wool,</i>
+
+155
+00:07:53,139 --> 00:07:55,019
+<i>this was hard to watch.</i>
+
+156
+00:07:55,099 --> 00:07:57,729
+<i>I was moved to a</i>
+<i>magnificent cathedral</i>
+
+157
+00:07:57,810 --> 00:07:59,350
+<i>and learned that tapestries</i>
+
+158
+00:07:59,437 --> 00:08:01,857
+<i>were the rock stars</i>
+<i>of the Middle Ages.</i>
+
+159
+00:08:01,939 --> 00:08:03,229
+(excited screaming)
+
+160
+00:08:03,316 --> 00:08:05,816
+<i>I had legions of what</i>
+<i>you now call groupies.</i>
+
+161
+00:08:05,902 --> 00:08:07,702
+<i>It felt like the good times</i>
+
+162
+00:08:07,778 --> 00:08:10,408
+<i>known as the Dark Ages</i>
+<i>would never end.</i>
+
+163
+00:08:10,490 --> 00:08:14,580
+<i>But then cruel fate knocked</i>
+<i>upon the door...</i>
+
+164
+00:08:14,660 --> 00:08:18,500
+(yelling)
+
+165
+00:08:18,581 --> 00:08:21,171
+Guys, it ain't working--
+the door's too strong.
+
+166
+00:08:21,250 --> 00:08:23,340
+(grunting)
+
+167
+00:08:23,419 --> 00:08:24,999
+(yelling)
+
+168
+00:08:26,297 --> 00:08:27,917
+Go, Vikings.
+
+169
+00:08:29,800 --> 00:08:30,890
+Ow! Stop it!
+
+170
+00:08:30,968 --> 00:08:32,848
+You just broke
+your vow of silence.
+
+171
+00:08:32,929 --> 00:08:35,219
+It wasn't a vow.
+I just didn't want to talk to you.
+
+172
+00:08:35,306 --> 00:08:36,886
+Oh!
+
+173
+00:08:36,974 --> 00:08:39,024
+This Viking stuff
+is too dangerous.
+
+174
+00:08:39,101 --> 00:08:42,441
+I'm going to become a gentleman
+art thief.
+
+175
+00:08:42,522 --> 00:08:43,442
+(yells)
+
+176
+00:08:43,523 --> 00:08:44,983
+(laughing)
+
+177
+00:08:45,066 --> 00:08:46,436
+Huh?
+
+178
+00:08:46,526 --> 00:08:48,896
+Hmm, what the...?
+(delighted chuckle)
+
+179
+00:08:48,986 --> 00:08:50,196
+(gasps)
+
+180
+00:08:50,279 --> 00:08:51,739
+Spooky.
+
+181
+00:08:52,782 --> 00:08:54,532
+Hmm... hmm.
+
+182
+00:08:54,617 --> 00:08:58,497
+<i>BAR RAG: That was the first time</i>
+<i>I knew anguish and fear.</i>
+
+183
+00:08:58,579 --> 00:09:03,169
+Nothing will ever staunch
+the pain of that memory.
+
+184
+00:09:03,251 --> 00:09:06,591
+Oh. Well, that helps.
+(belches)
+
+185
+00:09:11,175 --> 00:09:12,795
+-(rock hits window)
+-BART: Milhouse!
+
+186
+00:09:12,885 --> 00:09:14,595
+-Milhouse!
+-(sighs)
+
+187
+00:09:14,679 --> 00:09:16,259
+What do you--
+
+188
+00:09:16,347 --> 00:09:18,307
+(choking)
+
+189
+00:09:18,391 --> 00:09:19,391
+Hmm?
+
+190
+00:09:23,312 --> 00:09:25,902
+What is it, Bart?
+
+191
+00:09:25,982 --> 00:09:28,402
+Listen, um... after our fight,
+I couldn't sleep.
+
+192
+00:09:28,484 --> 00:09:30,744
+Well, I was doing fine.
+
+193
+00:09:30,820 --> 00:09:34,160
+Warm glass of milk, some choice cuts
+from <i>The Wriggles</i>
+
+194
+00:09:34,240 --> 00:09:36,120
+and I was out.
+
+195
+00:09:36,200 --> 00:09:39,160
+Come on, man. At least listen
+to what I have to say.
+
+196
+00:09:39,245 --> 00:09:40,995
+Okay...
+
+197
+00:09:41,080 --> 00:09:43,960
+Um... well...
+
+198
+00:09:44,041 --> 00:09:47,001
+this is usually the part
+where you say you're sorry.
+
+199
+00:09:47,086 --> 00:09:48,586
+Bart, I'm not your puppet.
+
+200
+00:09:48,671 --> 00:09:51,341
+I know, I made you
+into a real boy last week.
+
+201
+00:09:51,424 --> 00:09:52,804
+And I'll always be grateful.
+
+202
+00:09:52,883 --> 00:09:56,103
+But it's time you started
+treating me with respect.
+
+203
+00:09:56,887 --> 00:09:58,467
+(rocks hitting window)
+
+204
+00:09:58,556 --> 00:10:01,516
+(sighs)
+They're a tough pair, huh?
+
+205
+00:10:03,394 --> 00:10:05,024
+Kirk--
+(choking)
+
+206
+00:10:05,104 --> 00:10:07,114
+If you let me in,
+I'll give you the Heimlich.
+
+207
+00:10:07,189 --> 00:10:08,689
+Hm-mm.
+
+208
+00:10:09,692 --> 00:10:13,282
+So to recap:
+I had been unjustly torn
+
+209
+00:10:13,362 --> 00:10:15,452
+<i>from my lofty perch.</i>
+
+210
+00:10:15,531 --> 00:10:19,621
+<i>I wound up as a barter</i>
+<i>in Persia.</i>
+
+211
+00:10:19,702 --> 00:10:21,452
+You have taken our gold
+
+212
+00:10:21,537 --> 00:10:23,907
+and jewels and given us
+this faded cloth?!
+
+213
+00:10:23,998 --> 00:10:26,628
+That's right. And if anyone
+asked who swindled you,
+
+214
+00:10:26,709 --> 00:10:28,289
+it was Christians.
+
+215
+00:10:28,377 --> 00:10:31,167
+Remember that name:
+Christians.
+
+216
+00:10:31,255 --> 00:10:33,165
+(growling)
+
+217
+00:10:33,257 --> 00:10:36,137
+<i>BAR RAG: I found myself in the court</i>
+<i>of the young Persian king,</i>
+
+218
+00:10:36,218 --> 00:10:38,598
+<i>a cruel king who demanded</i>
+
+219
+00:10:38,679 --> 00:10:41,059
+<i>constant entertainment</i>
+<i>from his wives.</i>
+
+220
+00:10:41,140 --> 00:10:42,770
+♪♪
+
+221
+00:10:51,067 --> 00:10:53,737
+Eh. Throw her in
+the pit of boring wives.
+
+222
+00:10:56,572 --> 00:10:57,782
+(thud)
+
+223
+00:10:57,865 --> 00:10:59,075
+We never go out anymore.
+
+224
+00:10:59,158 --> 00:11:00,578
+Are you even
+listening to me?
+
+225
+00:11:00,660 --> 00:11:01,870
+My sister
+has a much bigger pit.
+
+226
+00:11:01,952 --> 00:11:06,082
+Dude, you've already discarded,
+like, 500 wives.
+
+227
+00:11:06,165 --> 00:11:07,825
+I think it's weird
+that you're counting.
+
+228
+00:11:07,917 --> 00:11:09,377
+Send in the next one!
+
+229
+00:11:14,507 --> 00:11:16,127
+Good evening, Your Majesty.
+
+230
+00:11:16,217 --> 00:11:19,677
+May I tell you your slippers
+are as curly as everyone says?
+
+231
+00:11:19,762 --> 00:11:21,892
+(laughing nervously)
+
+232
+00:11:21,972 --> 00:11:23,312
+Eh, pit her.
+
+233
+00:11:23,391 --> 00:11:24,641
+Wait, wait, wait!
+
+234
+00:11:24,725 --> 00:11:27,475
+I can, uh, tell you a story!
+
+235
+00:11:27,561 --> 00:11:29,111
+Cease your dragging!
+
+236
+00:11:31,148 --> 00:11:35,648
+Uh... There once was a boy
+named Ali Baba.
+
+237
+00:11:35,736 --> 00:11:38,196
+He and his elder brother Cassim
+
+238
+00:11:38,280 --> 00:11:39,620
+were the sons of a merchant
+
+239
+00:11:39,699 --> 00:11:41,619
+who traded in camels
+and spices and--
+
+240
+00:11:41,701 --> 00:11:45,411
+Okay, just a couple thoughts
+on your direction so far.
+
+241
+00:11:49,583 --> 00:11:51,463
+One day, while out for a walk,
+
+242
+00:11:51,544 --> 00:11:54,344
+Ali Baba was set upon
+by a thief.
+
+243
+00:11:54,422 --> 00:11:56,842
+-(yawning)
+-Make that two thieves!
+
+244
+00:11:56,924 --> 00:11:58,974
+-(more interested yawn)
+-A million thieves!
+
+245
+00:11:59,051 --> 00:12:00,301
+(yawning)
+Too many.
+
+246
+00:12:00,386 --> 00:12:01,466
+(sighs)
+Forty thieves.
+
+247
+00:12:01,554 --> 00:12:02,764
+(pleasant yawning)
+
+248
+00:12:02,847 --> 00:12:05,767
+<i>BAR RAG:</i>
+<i>With her inventiveness and wit,</i>
+
+249
+00:12:05,850 --> 00:12:07,600
+<i>the clever wife</i>
+<i>entertained her king</i>
+
+250
+00:12:07,685 --> 00:12:10,805
+<i>for a thousand and one nights.</i>
+
+251
+00:12:10,896 --> 00:12:15,736
+<i>And while he slept, she freed</i>
+<i>her imprisoned compatriots.</i>
+
+252
+00:12:22,992 --> 00:12:25,872
+Uh, it was cooler in the pit.
+
+253
+00:12:32,001 --> 00:12:35,881
+And that's how the camel
+got its hump. (sigh)
+
+254
+00:12:35,963 --> 00:12:37,973
+Another story!
+
+255
+00:12:38,048 --> 00:12:40,758
+(exasperated sigh)
+For once, couldn't you just take
+
+256
+00:12:40,843 --> 00:12:43,893
+a few minutes to let the
+previous story sink in?
+
+257
+00:12:43,971 --> 00:12:46,311
+You dare refuse your king?
+
+258
+00:12:46,390 --> 00:12:48,640
+Guards!
+Uh-oh.
+
+259
+00:12:56,567 --> 00:13:00,107
+<i>BAR RAG:</i>
+<i>My downward spiral continued.</i>
+
+260
+00:13:11,457 --> 00:13:14,127
+Only cowards use blindfolds.
+
+261
+00:13:14,210 --> 00:13:16,960
+(screams) I didn't know
+you were doing that!
+
+262
+00:13:19,340 --> 00:13:22,840
+<i>BAR RAG: I was unfit for even</i>
+<i>the most sordid uses.</i>
+
+263
+00:13:22,927 --> 00:13:26,307
+How's your neck, Your Lordship?
+No splinters or nuffin'?
+
+264
+00:13:26,388 --> 00:13:29,308
+I fear the ax
+less than that filthy rag.
+
+265
+00:13:29,391 --> 00:13:31,811
+You talk fancy now, but you'll
+twitch like the rest.
+
+266
+00:13:31,894 --> 00:13:33,404
+All too true, I fear.
+
+267
+00:13:33,479 --> 00:13:34,809
+Shut up!
+
+268
+00:13:34,897 --> 00:13:37,477
+Your tongue is even
+sharper than your--
+
+269
+00:13:37,566 --> 00:13:40,026
+<i>BAR RAG: But then, at my lowest ebb,</i>
+<i>a moment of hope.</i>
+
+270
+00:13:40,110 --> 00:13:43,780
+<i>I played a pivotal role</i>
+<i>in creating</i>
+
+271
+00:13:43,864 --> 00:13:45,914
+<i>one of the masterpieces</i>
+<i>of Western art.</i>
+
+272
+00:13:45,991 --> 00:13:47,791
+Michelangelo!
+
+273
+00:13:47,868 --> 00:13:49,198
+When will you be finished?
+
+274
+00:13:49,286 --> 00:13:51,906
+Hey, you want a quickie?
+You go to Raphael, baby.
+
+275
+00:13:51,997 --> 00:13:54,537
+<i>BAR RAG:</i>
+<i>The artist was never satisfied.</i>
+
+276
+00:13:56,460 --> 00:13:57,800
+How about now?
+
+277
+00:13:57,878 --> 00:13:59,338
+Nope.
+
+278
+00:14:02,508 --> 00:14:04,548
+That's perfect!
+
+279
+00:14:04,635 --> 00:14:06,095
+Now would you like to
+protect your investment
+
+280
+00:14:06,178 --> 00:14:07,428
+with a clear coat?
+
+281
+00:14:07,513 --> 00:14:10,353
+Hm, let me discuss it
+with my wife.
+
+282
+00:14:10,432 --> 00:14:13,392
+<i>BAR RAG:</i>
+<i>The masterpiece was finished</i>
+
+283
+00:14:13,477 --> 00:14:15,437
+<i>and so was the use for me.</i>
+
+284
+00:14:15,521 --> 00:14:17,361
+<i>And then...</i>
+
+285
+00:14:17,439 --> 00:14:21,029
+(pained moaning)
+
+286
+00:14:21,110 --> 00:14:24,660
+You know, Moe, it might be time
+to buy a new bar rag.
+
+287
+00:14:24,738 --> 00:14:26,868
+Yeah, yeah, sure thing.
+I'll get right on it.
+
+288
+00:14:26,949 --> 00:14:29,659
+No way I would
+abandon you, Raggie.
+
+289
+00:14:29,743 --> 00:14:32,373
+(sobs)
+You're my best friend.
+
+290
+00:14:32,454 --> 00:14:35,714
+("The Great Pumpkin Waltz"
+playing)
+
+291
+00:14:38,794 --> 00:14:41,264
+(contented sigh)
+
+292
+00:14:41,338 --> 00:14:43,588
+(music continues)
+
+293
+00:14:45,509 --> 00:14:47,929
+So, I guess you didn't eat
+that "special cheese"
+
+294
+00:14:48,012 --> 00:14:49,972
+that I gave you yesterday, huh?
+
+295
+00:14:50,055 --> 00:14:51,635
+(wry chuckle) Yeah.
+
+296
+00:15:03,736 --> 00:15:05,196
+Oh, Milhouse,
+
+297
+00:15:05,279 --> 00:15:07,529
+what do I have to do,
+besides changing in any way,
+
+298
+00:15:07,615 --> 00:15:08,985
+to get you to forgive me?
+
+299
+00:15:09,074 --> 00:15:12,544
+Gee, Bart, you seem,
+uh-- how can I put it?--
+
+300
+00:15:12,620 --> 00:15:14,330
+Milhousey.
+
+301
+00:15:14,413 --> 00:15:16,793
+Really?
+It's not that bad, is it?
+
+302
+00:15:16,874 --> 00:15:18,964
+(sighs) Bart,
+you'll never learn.
+
+303
+00:15:19,043 --> 00:15:23,463
+"Milhouse, you're the closest
+thing I have to a brother.
+
+304
+00:15:23,547 --> 00:15:26,547
+A brother with the wisdom
+of an older sister.
+
+305
+00:15:26,634 --> 00:15:30,144
+And that's why we squabble,
+'cause families always do.
+
+306
+00:15:30,220 --> 00:15:33,060
+But in the end,
+they're still a family.
+
+307
+00:15:33,140 --> 00:15:35,310
+What do you say... brother?"
+
+308
+00:15:35,392 --> 00:15:38,852
+Not bad.
+Did Lisa write that?
+
+309
+00:15:38,938 --> 00:15:41,018
+Yes, I did.
+Now I'm going to bed.
+
+310
+00:15:41,106 --> 00:15:42,266
+(sucking pacifier)
+
+311
+00:15:42,358 --> 00:15:45,858
+I want something that comes from you,
+Bart. We're done here.
+
+312
+00:15:45,945 --> 00:15:47,025
+But-but-but...
+
+313
+00:15:47,112 --> 00:15:49,872
+The glasses are off!
+
+314
+00:15:56,121 --> 00:15:58,621
+My degradation continued.
+
+315
+00:15:58,707 --> 00:16:00,707
+<i>BAR RAG:</i>
+<i>An enterprising seamstress</i>
+
+316
+00:16:00,793 --> 00:16:03,673
+<i>turned me into the flag</i>
+<i>of a fledgling nation.</i>
+
+317
+00:16:03,754 --> 00:16:07,384
+<i>Unfortunately, a nation</i>
+<i>on the wrong side of history.</i>
+
+318
+00:16:07,466 --> 00:16:10,836
+("Dixie" playing)
+
+319
+00:16:10,928 --> 00:16:13,008
+(chuckles)
+
+320
+00:16:13,097 --> 00:16:16,477
+<i>BAR RAG: Like everyone else,</i>
+<i>I was hit hard by the depression.</i>
+
+321
+00:16:16,558 --> 00:16:17,978
+(Southern accent)
+What's for dinner, Ma?
+
+322
+00:16:18,060 --> 00:16:20,100
+Rag soup!
+
+323
+00:16:22,773 --> 00:16:24,943
+(slurping, lips smacking)
+
+324
+00:16:25,025 --> 00:16:26,895
+Needs flavor.
+
+325
+00:16:29,488 --> 00:16:32,198
+Mmm, that's better!
+
+326
+00:16:34,493 --> 00:16:36,333
+<i>BAR RAG:</i>
+<i>I was part of an expedition</i>
+
+327
+00:16:36,412 --> 00:16:38,462
+<i>to the top of Mount Everest,</i>
+
+328
+00:16:38,539 --> 00:16:41,749
+<i>one that had the distinction</i>
+<i>of failing un-heroically.</i>
+
+329
+00:16:41,834 --> 00:16:44,594
+(panting)
+Oxygen...
+
+330
+00:16:44,670 --> 00:16:47,010
+I need oxygen!
+
+331
+00:16:47,089 --> 00:16:49,009
+Come on, man.
+A few more balloons
+
+332
+00:16:49,091 --> 00:16:50,091
+and this'll look
+really awesome.
+
+333
+00:16:50,175 --> 00:16:51,215
+D'oh!
+
+334
+00:16:51,301 --> 00:16:54,141
+Worst... climbing... Everest.
+
+335
+00:16:56,515 --> 00:16:58,475
+<i>BAR RAG:</i>
+<i>A yeti found me</i>
+
+336
+00:16:58,559 --> 00:17:01,309
+<i>and brought me home</i>
+<i>as a present to his son.</i>
+
+337
+00:17:01,395 --> 00:17:03,305
+Ah, ah!
+
+338
+00:17:03,397 --> 00:17:04,767
+Mmm...
+
+339
+00:17:04,857 --> 00:17:09,697
+(sighs) And now my thousand-year
+fall from grace is complete.
+
+340
+00:17:09,778 --> 00:17:13,658
+I guess I should be happy here,
+with my sad, but predictable...
+
+341
+00:17:13,741 --> 00:17:15,531
+Moe! Moe! Wake up!
+
+342
+00:17:15,617 --> 00:17:19,327
+Oh no, I don't want to find out
+what's worse than you!
+
+343
+00:17:24,752 --> 00:17:25,922
+BART:
+Milhouse!
+
+344
+00:17:26,003 --> 00:17:27,713
+I've been out here
+all night, man.
+
+345
+00:17:27,796 --> 00:17:30,006
+Just let me know what it'll take
+for you to forgive me.
+
+346
+00:17:30,090 --> 00:17:32,050
+-Can I punch you?
+-Sure.
+
+347
+00:17:32,134 --> 00:17:33,894
+Can I have someone else
+punch you?
+
+348
+00:17:33,969 --> 00:17:35,219
+Sure. What've you got?
+
+349
+00:17:35,304 --> 00:17:36,894
+Puppy Goo-Goo coming my way?
+
+350
+00:17:36,972 --> 00:17:38,182
+(snaps)
+
+351
+00:17:40,601 --> 00:17:41,981
+<i>Ay carumba!</i>
+
+352
+00:17:43,979 --> 00:17:45,689
+I'm glad it's over.
+
+353
+00:17:45,773 --> 00:17:48,323
+I wasn't comfortable
+having the upper hand.
+
+354
+00:17:48,400 --> 00:17:51,820
+From now on I'll dominate you
+in ways you don't realize.
+
+355
+00:17:51,904 --> 00:17:54,664
+That's all I ever wanted.
+
+356
+00:17:54,740 --> 00:17:55,990
+Where'd it go?
+Where'd it go?
+
+357
+00:17:56,075 --> 00:17:58,785
+Hey, Chief Wiggum!
+Can you help me find my bar rag?
+
+358
+00:17:58,869 --> 00:18:01,789
+I can't even find my car
+in the parking lot at the mall.
+
+359
+00:18:01,872 --> 00:18:05,332
+There was half a kilo of heroin
+and two suspects inside.
+
+360
+00:18:05,417 --> 00:18:07,627
+-Hey! Hey!
+-(tires squealing, gunshots)
+
+361
+00:18:07,711 --> 00:18:10,131
+Can you throw me my house key?
+Please!
+
+362
+00:18:10,214 --> 00:18:11,804
+It's got a green thingy on it!
+
+363
+00:18:11,882 --> 00:18:12,972
+-Stop!
+-(tires screech)
+
+364
+00:18:13,050 --> 00:18:14,180
+Ooh!
+
+365
+00:18:15,302 --> 00:18:16,802
+Hey, there's some
+Pringles in here.
+
+366
+00:18:16,887 --> 00:18:19,807
+-(metal tab pops)
+-(coughs) Nope. Tear gas.
+
+367
+00:18:19,890 --> 00:18:21,270
+-(coughing)
+-(tires squealing)
+
+368
+00:18:21,350 --> 00:18:24,520
+Haven't forgotten
+about your rag, Moe!
+
+369
+00:18:24,603 --> 00:18:26,863
+I'm in hell, I'm in hell,
+I'm in hell,
+
+370
+00:18:26,939 --> 00:18:29,069
+I'm in hell... (grunts)
+
+371
+00:18:33,112 --> 00:18:35,782
+(wearily)
+Perhaps one of you garments
+
+372
+00:18:35,864 --> 00:18:37,744
+would like to narrate
+for a while.
+
+373
+00:18:37,825 --> 00:18:40,115
+Men's extra large underwear?
+
+374
+00:18:40,202 --> 00:18:41,952
+I'm saving my strength.
+
+375
+00:18:42,037 --> 00:18:44,707
+He's going bike riding today.
+
+376
+00:18:44,790 --> 00:18:46,290
+(humming)
+
+377
+00:18:46,375 --> 00:18:48,745
+-(doorbell rings)
+-Come on in!
+
+378
+00:18:52,131 --> 00:18:53,801
+You've got my rag!
+But how?
+
+379
+00:18:53,882 --> 00:18:55,592
+Well, during
+the town meeting,
+
+380
+00:18:55,676 --> 00:18:57,426
+which now seems
+like years ago,
+
+381
+00:18:57,511 --> 00:18:59,641
+I forgot my purse
+at your bar.
+
+382
+00:18:59,721 --> 00:19:02,311
+<i>MARGE:</i>
+<i>And when I came back to get it,</i>
+
+383
+00:19:02,391 --> 00:19:04,811
+<i>I saw how much</i>
+<i>you love that rag.</i>
+
+384
+00:19:04,893 --> 00:19:08,193
+Num-num-num-num-num-num.
+
+385
+00:19:08,272 --> 00:19:10,732
+<i>MARGE:</i>
+<i>It seemed a little "ripe,"</i>
+
+386
+00:19:10,816 --> 00:19:13,106
+so I brought it home
+to clean it for you.
+
+387
+00:19:13,193 --> 00:19:14,153
+Thanks, Marge.
+
+388
+00:19:14,236 --> 00:19:17,066
+That rag is my only friend
+in the world.
+
+389
+00:19:17,156 --> 00:19:19,156
+Well, that's not true!
+
+390
+00:19:19,241 --> 00:19:21,491
+Everyone in this family
+is your friend.
+
+391
+00:19:21,577 --> 00:19:23,697
+Your bar is the closest
+thing this town has
+
+392
+00:19:23,787 --> 00:19:25,537
+to an Algonquin roundtable.
+
+393
+00:19:25,622 --> 00:19:28,922
+What about that Round Table Pizza
+run by that Algonquin guy?
+
+394
+00:19:29,001 --> 00:19:31,251
+Yeah, yeah,
+okay, second closest.
+
+395
+00:19:31,336 --> 00:19:34,126
+So you's all like me?
+Even you, Maestro?
+
+396
+00:19:34,214 --> 00:19:35,174
+Milhouse.
+
+397
+00:19:35,257 --> 00:19:36,717
+Yeah, I, I knew
+it was something stupid.
+
+398
+00:19:36,800 --> 00:19:39,050
+Well, thanks, everybody.
+
+399
+00:19:39,136 --> 00:19:42,056
+I... I'm always gonna
+remember today as the day
+
+400
+00:19:42,139 --> 00:19:44,769
+that I learned to open
+my heart to human beings
+
+401
+00:19:44,850 --> 00:19:46,810
+and not old pieces of cloth.
+
+402
+00:19:46,894 --> 00:19:51,614
+Ha, crazy me, thinking
+I needed a rag for a friend.
+
+403
+00:19:51,690 --> 00:19:52,980
+(chuckles)
+
+404
+00:19:56,361 --> 00:19:58,571
+So, this is how it ends.
+
+405
+00:19:58,655 --> 00:20:01,825
+The once magnificent
+tapestry tossed aside
+
+406
+00:20:01,909 --> 00:20:04,619
+yet again like a common Kleenex.
+
+407
+00:20:04,703 --> 00:20:07,123
+Good-bye, cruel...
+What the...?
+
+408
+00:20:11,668 --> 00:20:13,668
+In all my years,
+
+409
+00:20:13,754 --> 00:20:16,634
+this is a love
+like I have never felt.
+
+410
+00:20:16,715 --> 00:20:19,425
+Sweet, pure and forever.
+
+411
+00:20:19,509 --> 00:20:22,139
+(sweet melody playing)
+
+412
+00:20:26,266 --> 00:20:27,886
+(growling)
+
+413
+00:20:27,976 --> 00:20:30,596
+<i>BAR RAG: Well, all marriages</i>
+<i>have their ups and downs.</i>
+
+414
+00:21:21,697 --> 00:21:23,487
+{\an8}<i>BAR RAG:</i>
+<i>I'm in hell.</i>
+
+415
+00:21:26,618 --> 00:21:29,958
+{\an8}Subtitled by A. Vandelay
+

@@ -1,0 +1,2430 @@
+1
+00:00:03,128 --> 00:00:06,418
+{\an8}<i>♪ The Simpsons ♪</i>
+
+2
+00:00:06,506 --> 00:00:08,466
+(tires screeching)
+
+3
+00:00:09,676 --> 00:00:10,636
+D'oh!
+
+4
+00:00:10,719 --> 00:00:12,639
+-Aah!
+-(tires screech)
+
+5
+00:00:29,320 --> 00:00:32,320
+{\an8}(snoring)
+
+6
+00:00:35,618 --> 00:00:38,458
+{\an8}(snoring)
+
+7
+00:00:41,249 --> 00:00:43,169
+{\an8}(alarms blaring)
+
+8
+00:00:43,251 --> 00:00:45,881
+{\an8}WOMAN'S VOICE:
+<i>Core meltdown in 10 seconds.</i>
+
+9
+00:00:45,962 --> 00:00:48,382
+{\an8}<i>Nine, eight--</i>
+
+10
+00:00:48,465 --> 00:00:50,375
+{\an8}-(alarms stop)
+<i>-Meltdown averted. Good boy!</i>
+
+11
+00:00:50,467 --> 00:00:52,427
+{\an8}(moaning, yawning)
+
+12
+00:00:54,763 --> 00:00:58,143
+(snoring, purring)
+
+13
+00:00:58,224 --> 00:01:00,194
+(whimpering)
+
+14
+00:01:03,313 --> 00:01:04,983
+{\an8}(buzzes)
+
+15
+00:01:05,065 --> 00:01:06,435
+{\an8}MR. BURNS:
+<i>(groaning) What?</i>
+
+16
+00:01:06,524 --> 00:01:09,194
+{\an8}<i>How dare you disturb me</i>
+<i>during nap time?</i>
+
+17
+00:01:09,277 --> 00:01:12,107
+{\an8}We're from the nuclear
+regulatory commission.
+
+18
+00:01:12,197 --> 00:01:14,237
+{\an8}This is a surprise test
+of worker competence.
+
+19
+00:01:14,324 --> 00:01:15,584
+{\an8}<i>There must be</i>
+<i>some mistake.</i>
+
+20
+00:01:15,658 --> 00:01:18,078
+{\an8}We, uh-- We make
+cookies here.
+
+21
+00:01:18,161 --> 00:01:21,541
+{\an8}<i>Mr. Burns's old-fashioned</i>
+<i>good-time extra-chewy--</i>
+
+22
+00:01:21,623 --> 00:01:23,373
+{\an8}Get the ax.
+
+23
+00:01:26,503 --> 00:01:30,013
+The watchdog of public safety.
+Is there any lower form of life?
+
+24
+00:01:30,090 --> 00:01:32,510
+Don't worry, sir, I rounded up
+our less-gifted employees
+
+25
+00:01:32,592 --> 00:01:34,592
+and led them into the basement.
+
+26
+00:01:34,677 --> 00:01:36,597
+-(dripping)
+-(mouse squeaking)
+
+27
+00:01:36,679 --> 00:01:39,309
+Duh, Homer,
+why are we down here?
+
+28
+00:01:39,390 --> 00:01:41,350
+Oh, geez!
+I told ya, Bernie--
+
+29
+00:01:41,434 --> 00:01:43,444
+to guard the bee!
+
+30
+00:01:43,520 --> 00:01:46,520
+-But why?
+-Oh, you guys are pathetic.
+
+31
+00:01:46,606 --> 00:01:49,896
+No wonder Smithers
+made me head bee guy.
+
+32
+00:01:51,778 --> 00:01:55,118
+-Uh, it's gettin' away.
+-Oh, we did bad!
+
+33
+00:01:55,198 --> 00:01:56,448
+-(buzzing)
+-Hey! Uhh! Oh!
+
+34
+00:01:56,533 --> 00:01:57,993
+Hey! Come back!
+
+35
+00:01:58,076 --> 00:02:00,576
+Is there
+a Homer Simpson present?
+
+36
+00:02:00,662 --> 00:02:02,622
+Oh, I'm afraid
+he couldn't "bee" here.
+
+37
+00:02:02,705 --> 00:02:04,705
+(both chuckling)
+
+38
+00:02:04,791 --> 00:02:06,711
+Oh, yes,
+he's in Geneva,
+
+39
+00:02:06,793 --> 00:02:08,713
+chairing a conference
+on nuclear fission.
+
+40
+00:02:08,795 --> 00:02:10,335
+(mutters)
+Yes, that should stick.
+
+41
+00:02:11,714 --> 00:02:14,054
+D'oh!
+The bee bit my bottom!
+
+42
+00:02:14,134 --> 00:02:15,804
+Now my bottom's big!
+
+43
+00:02:15,885 --> 00:02:17,345
+-(sighs)
+-Homer, this is
+
+44
+00:02:17,428 --> 00:02:19,308
+an exact replica of
+your workstation.
+
+45
+00:02:19,389 --> 00:02:21,059
+Hmm?
+
+46
+00:02:21,141 --> 00:02:24,391
+Now we're going to simulate a
+power surge in core sector 8.
+
+47
+00:02:24,477 --> 00:02:26,187
+What the hell
+are you talking about?
+
+48
+00:02:28,022 --> 00:02:29,152
+What do I do?
+
+49
+00:02:29,232 --> 00:02:31,112
+What do I do?
+(sobbing)
+
+50
+00:02:31,192 --> 00:02:33,902
+In the name of God,
+you've gotta tell me!
+
+51
+00:02:33,987 --> 00:02:35,277
+MAN: Relax.
+It's just a simulator.
+
+52
+00:02:35,363 --> 00:02:36,573
+Nothing can go wrong.
+
+53
+00:02:36,656 --> 00:02:38,066
+Just poke blindly
+at the controls
+
+54
+00:02:38,158 --> 00:02:39,078
+until they let you go.
+
+55
+00:02:41,953 --> 00:02:44,543
+-(rumbling)
+-(both exclaiming)
+
+56
+00:02:44,622 --> 00:02:47,132
+Oh, no. No!
+This can't be happening!
+
+57
+00:02:47,208 --> 00:02:49,668
+(screaming)
+
+58
+00:02:49,752 --> 00:02:52,092
+(gasps)
+
+59
+00:02:54,966 --> 00:02:57,546
+For the love of God, sir!
+There are two seats!
+
+60
+00:02:57,635 --> 00:02:59,255
+I like to
+put my feet up.
+
+61
+00:03:01,723 --> 00:03:02,933
+(engine sputtering)
+
+62
+00:03:03,016 --> 00:03:06,556
+(Mr. Burns groaning)
+
+63
+00:03:10,857 --> 00:03:14,317
+(roaring)
+
+64
+00:03:14,402 --> 00:03:17,032
+Must destroy mankind.
+
+65
+00:03:17,113 --> 00:03:18,073
+(beeping)
+
+66
+00:03:18,156 --> 00:03:20,366
+Ooh! Lunchtime.
+(blubbering)
+
+67
+00:03:22,243 --> 00:03:25,043
+We're still not sure
+how he caused the meltdown.
+
+68
+00:03:25,121 --> 00:03:27,121
+There wasn't any
+nuclear material in the truck!
+
+69
+00:03:27,207 --> 00:03:28,997
+Very well.
+It's time for your bribe.
+
+70
+00:03:29,083 --> 00:03:31,423
+Now, you can either have
+the washer and dryer
+
+71
+00:03:31,502 --> 00:03:32,962
+where the lovely Smithers
+is standing,
+
+72
+00:03:33,046 --> 00:03:36,666
+or you can trade it all in
+for what's in this box.
+
+73
+00:03:36,758 --> 00:03:38,218
+The box.
+The box!
+
+74
+00:03:38,301 --> 00:03:40,181
+Look, Burns,
+this is a big problem.
+
+75
+00:03:40,261 --> 00:03:42,141
+You just can't throw money at it
+and make it go away.
+
+76
+00:03:42,222 --> 00:03:43,972
+Gentlemen, I've decided
+
+77
+00:03:44,057 --> 00:03:45,557
+there will be
+no investigation.
+
+78
+00:03:45,642 --> 00:03:47,192
+Now, if you'll excuse me,
+I'll go away.
+
+79
+00:03:47,268 --> 00:03:49,688
+You're in big trouble, Burns.
+Homer Simpson's job
+
+80
+00:03:49,771 --> 00:03:52,151
+requires college training
+in nuclear physics.
+
+81
+00:03:52,232 --> 00:03:54,862
+Now, you get your man
+up to speed,
+
+82
+00:03:54,943 --> 00:03:55,943
+or we'll be forced
+to take legal action.
+
+83
+00:03:56,027 --> 00:03:57,857
+Is that so?
+
+84
+00:03:57,946 --> 00:04:00,486
+Well, I have the feeling
+you'll be...
+
+85
+00:04:00,573 --> 00:04:02,033
+dropping the charges.
+
+86
+00:04:03,743 --> 00:04:05,373
+-Oh.
+-The painters moved your desk, sir.
+
+87
+00:04:05,453 --> 00:04:06,913
+Oh, yes.
+
+88
+00:04:06,996 --> 00:04:08,866
+(doorbell rings)
+
+89
+00:04:10,333 --> 00:04:12,173
+-(screams)
+-Hello, Simpson.
+
+90
+00:04:12,252 --> 00:04:13,382
+My lawyers and I were in
+the neighborhood
+
+91
+00:04:13,461 --> 00:04:15,171
+and thought we'd stop by.
+
+92
+00:04:15,255 --> 00:04:18,505
+Would you like to come in for
+tea and marshmallow squares?
+
+93
+00:04:18,591 --> 00:04:20,721
+(murmuring)
+
+94
+00:04:20,802 --> 00:04:22,222
+Yes, he would.
+
+95
+00:04:22,303 --> 00:04:24,223
+So you want me
+to go to college?
+
+96
+00:04:24,305 --> 00:04:25,385
+College?
+
+97
+00:04:25,473 --> 00:04:27,683
+-Ha! Barber or clown?
+-Bart!
+
+98
+00:04:27,767 --> 00:04:30,687
+Remember, your job and
+the future of your family
+
+99
+00:04:30,770 --> 00:04:32,190
+hinges on your
+successful completion
+
+100
+00:04:32,272 --> 00:04:33,232
+of Nuclear Physics 101.
+
+101
+00:04:33,314 --> 00:04:35,904
+Oh, and one more thing.
+
+102
+00:04:35,984 --> 00:04:38,244
+You must find
+the jade monkey
+
+103
+00:04:38,319 --> 00:04:40,859
+before the next full moon.
+
+104
+00:04:40,947 --> 00:04:42,867
+Actually, sir,
+we found the jade monkey.
+
+105
+00:04:42,949 --> 00:04:44,739
+It was in
+your glove compartment.
+
+106
+00:04:44,826 --> 00:04:45,826
+And the road maps
+and ice scraper?
+
+107
+00:04:45,910 --> 00:04:47,080
+They were in there too, sir.
+
+108
+00:04:47,161 --> 00:04:49,211
+Excellent!
+
+109
+00:04:49,289 --> 00:04:51,249
+It's all
+falling into place.
+
+110
+00:04:51,332 --> 00:04:53,632
+I think this is
+a great opportunity.
+
+111
+00:04:53,710 --> 00:04:54,960
+You could learn so much.
+
+112
+00:04:55,044 --> 00:04:56,134
+Maybe you're right.
+
+113
+00:04:56,212 --> 00:04:58,132
+I did always want
+to go to college.
+
+114
+00:04:58,214 --> 00:05:00,974
+But fate stood in the way.
+
+115
+00:05:03,177 --> 00:05:05,967
+Homer, sign this application
+and you're a shoo-in.
+
+116
+00:05:06,055 --> 00:05:08,095
+-(panting)
+-(laughing)
+
+117
+00:05:08,182 --> 00:05:09,812
+That dog
+has somebody's ham!
+
+118
+00:05:09,892 --> 00:05:10,982
+This I gotta see!
+
+119
+00:05:11,060 --> 00:05:12,560
+(door opens)
+
+120
+00:05:12,645 --> 00:05:13,855
+(growling)
+
+121
+00:05:13,938 --> 00:05:16,108
+Give me that ham,
+you stupid dog!
+
+122
+00:05:16,190 --> 00:05:18,530
+-(grunting, yelling)
+-(sighs)
+
+123
+00:05:23,364 --> 00:05:24,874
+(groans)
+
+124
+00:05:24,949 --> 00:05:27,329
+{\an8}Dad, don't let these
+application essays throw you.
+
+125
+00:05:27,410 --> 00:05:29,700
+{\an8}Let's see: "List your three
+favorite books
+
+126
+00:05:29,787 --> 00:05:31,497
+{\an8}and how they've
+influenced your life."
+
+127
+00:05:31,581 --> 00:05:32,751
+-Is TV Guide a book?
+-No.
+
+128
+00:05:32,832 --> 00:05:34,082
+-Son of Sniglet?
+-No.
+
+129
+00:05:34,167 --> 00:05:35,917
+-Katherine Hepburn's "Me"?
+-No!
+
+130
+00:05:36,002 --> 00:05:37,672
+Ohh! I suck!
+
+131
+00:05:37,754 --> 00:05:40,764
+It was the most I ever threw up,
+
+132
+00:05:40,840 --> 00:05:42,800
+and it changed my life forever.
+
+133
+00:05:42,884 --> 00:05:44,724
+You the man, Homer!
+
+134
+00:05:44,802 --> 00:05:47,562
+Thanks, boy.
+Now for the crowning touch.
+
+135
+00:05:50,391 --> 00:05:51,681
+I don't know, Dad.
+
+136
+00:05:51,768 --> 00:05:53,018
+Don't you have
+a better picture?
+
+137
+00:05:53,102 --> 00:05:54,732
+Relax. A photo
+can't make any difference.
+
+138
+00:05:57,398 --> 00:05:59,068
+-He looks crazy.
+-Agreed.
+
+139
+00:05:59,150 --> 00:06:01,490
+Reading his essay would
+only waste valuable seconds.
+
+140
+00:06:01,569 --> 00:06:03,949
+ANNOUNCER (on TV): <i>Finally,</i>
+<i>the great taste of Worcestershire sauce</i>
+
+141
+00:06:04,030 --> 00:06:05,950
+<i>in a soft drink!</i>
+
+142
+00:06:06,032 --> 00:06:08,082
+MAN: <i>Ahh! Steaky!</i>
+
+143
+00:06:08,159 --> 00:06:09,489
+Sorry, son, but there's
+a program about campus life
+
+144
+00:06:09,577 --> 00:06:11,327
+that I really should watch.
+
+145
+00:06:11,412 --> 00:06:14,172
+ANNOUNCER: <i>We now return to</i>
+<i>"School of Hard Knockers,"</i>
+
+146
+00:06:14,248 --> 00:06:15,788
+<i>starring Corey Masterson.</i>
+
+147
+00:06:15,875 --> 00:06:17,785
+<i>Dean Bitterman,</i>
+
+148
+00:06:17,877 --> 00:06:20,667
+<i>I hope nothing unsavory</i>
+<i>happens during my visit.</i>
+
+149
+00:06:20,755 --> 00:06:23,085
+<i>As you know, I am</i>
+<i>the president of the United States.</i>
+
+150
+00:06:23,174 --> 00:06:24,634
+<i>Oh, don't worry.</i>
+
+151
+00:06:24,717 --> 00:06:26,297
+<i>I've expelled</i>
+<i>those rowdy members</i>
+
+152
+00:06:26,386 --> 00:06:28,346
+<i>of Chug-a-Lug House.</i>
+
+153
+00:06:28,429 --> 00:06:31,309
+Oh, I hate
+that lousy dean.
+
+154
+00:06:33,434 --> 00:06:35,854
+<i>Your bra bomb better work,</i>
+<i>Nerdlinger.</i>
+
+155
+00:06:35,937 --> 00:06:37,767
+<i>-Mm-kay!</i>
+<i>-(explosion)</i>
+
+156
+00:06:39,357 --> 00:06:41,107
+<i>(gasps)</i>
+
+157
+00:06:41,192 --> 00:06:43,112
+<i>Cory!</i>
+
+158
+00:06:43,194 --> 00:06:45,244
+<i>(chuckles)</i>
+<i>Don't worry, Mr. President.</i>
+
+159
+00:06:45,321 --> 00:06:48,121
+<i>I-- Mr. President!</i>
+
+160
+00:06:48,199 --> 00:06:49,829
+<i>Lighten up,</i>
+<i>Bitterman!</i>
+
+161
+00:06:49,909 --> 00:06:51,239
+<i>That youngster will make</i>
+
+162
+00:06:51,327 --> 00:06:53,117
+<i>a perfect addition</i>
+<i>to my cabinet.</i>
+
+163
+00:06:53,204 --> 00:06:56,124
+<i>Secretary of</i>
+<i>partying down!</i>
+
+164
+00:06:56,207 --> 00:06:59,537
+<i>(angry growling)</i>
+
+165
+00:06:59,627 --> 00:07:01,917
+Yes!
+Take that, Bitterman!
+
+166
+00:07:02,004 --> 00:07:03,424
+Homie,
+here are the responses
+
+167
+00:07:03,506 --> 00:07:05,086
+from the colleges
+you applied to.
+
+168
+00:07:06,926 --> 00:07:08,006
+D'oh!
+
+169
+00:07:08,094 --> 00:07:10,014
+D'oh! D'oh!
+
+170
+00:07:10,096 --> 00:07:13,096
+Whoo-hoo! A flyer
+for a hardware store!
+
+171
+00:07:13,182 --> 00:07:15,772
+-D'oh!
+-Well, Pop, what are you gonna do?
+
+172
+00:07:15,852 --> 00:07:19,942
+Something I should have done
+a long time ago.
+
+173
+00:07:21,983 --> 00:07:24,783
+-You don't know, do you?
+-No, ma'am.
+
+174
+00:07:24,861 --> 00:07:26,741
+Don't worry, Simpson.
+
+175
+00:07:26,821 --> 00:07:29,661
+It just so happens
+I have a chair
+
+176
+00:07:29,740 --> 00:07:30,660
+at Springfield University.
+
+177
+00:07:32,201 --> 00:07:34,501
+(growling)
+
+178
+00:07:34,579 --> 00:07:37,369
+I'm sorry, Mr. Burns,
+but I must object.
+
+179
+00:07:37,457 --> 00:07:38,617
+This Simpson
+is not qualified.
+
+180
+00:07:38,708 --> 00:07:39,668
+(all murmuring agreement)
+
+181
+00:07:39,750 --> 00:07:41,250
+-(growling)
+-I see.
+
+182
+00:07:41,335 --> 00:07:43,045
+Well, you know, fellas,
+
+183
+00:07:43,129 --> 00:07:44,759
+I look at the admissions board
+a lot like a baseball team.
+
+184
+00:07:44,839 --> 00:07:46,669
+You all like baseball,
+don't you?
+
+185
+00:07:46,757 --> 00:07:48,927
+(all murmuring agreement)
+
+186
+00:07:49,010 --> 00:07:51,100
+Yes, well, to have
+a successful baseball club
+
+187
+00:07:51,179 --> 00:07:52,929
+you need teamwork.
+
+188
+00:07:53,014 --> 00:07:54,854
+Not some hot-dog
+admissions officer
+
+189
+00:07:54,932 --> 00:07:56,352
+playing by his own rules!
+
+190
+00:07:56,434 --> 00:07:58,944
+(grunting)
+
+191
+00:08:00,438 --> 00:08:02,148
+Excuse me.
+What are you doing?
+
+192
+00:08:02,231 --> 00:08:04,281
+(grunting)
+
+193
+00:08:04,358 --> 00:08:06,688
+I'm giving you
+the beating of your life!
+
+194
+00:08:06,777 --> 00:08:08,777
+Look, if--
+Stop that.
+
+195
+00:08:08,863 --> 00:08:10,823
+If you wanted him that badly,
+why didn't you just say so?
+
+196
+00:08:10,907 --> 00:08:12,657
+(yells)
+
+197
+00:08:12,742 --> 00:08:16,332
+Smithers, dismember the corpse
+and send his widow a corsage.
+
+198
+00:08:16,412 --> 00:08:18,962
+Whoo-hoo!
+I'm a college man!
+
+199
+00:08:19,040 --> 00:08:22,290
+I won't need
+my high school diploma anymore!
+
+200
+00:08:22,376 --> 00:08:25,506
+<i>♪ I am so smart,</i>
+<i>I am so smart ♪</i>
+
+201
+00:08:25,588 --> 00:08:28,878
+<i>♪ I am so smart,</i>
+<i>I am so smart ♪</i>
+
+202
+00:08:28,966 --> 00:08:31,926
+<i>♪ S-m-r-t</i>
+<i>I mean, s-m-a-r-r-t ♪♪</i>
+
+203
+00:08:40,603 --> 00:08:42,233
+My first day of college.
+
+204
+00:08:42,313 --> 00:08:44,363
+I wish my father
+was alive to see this.
+
+205
+00:08:44,440 --> 00:08:46,690
+-Hey!
+-How long have you been back there?
+
+206
+00:08:46,776 --> 00:08:47,856
+Three days.
+
+207
+00:08:50,571 --> 00:08:53,491
+Nerd!
+
+208
+00:08:53,574 --> 00:08:55,494
+Homer,
+that isn't very nice.
+
+209
+00:08:55,576 --> 00:08:57,496
+Marge,
+try to understand.
+
+210
+00:08:57,578 --> 00:08:59,828
+There are two kinds
+of college students:
+
+211
+00:08:59,914 --> 00:09:01,504
+jocks and nerds.
+
+212
+00:09:01,582 --> 00:09:05,132
+As a jock, it is my duty
+to give nerds a hard time.
+
+213
+00:09:05,211 --> 00:09:06,341
+Hey, pal!
+
+214
+00:09:06,420 --> 00:09:08,010
+Did you get a load
+of the nerd?
+
+215
+00:09:08,089 --> 00:09:09,339
+Pardon me?
+
+216
+00:09:09,423 --> 00:09:12,223
+<i>♪♪ (rock)</i>
+
+217
+00:09:19,600 --> 00:09:21,270
+(chuckling)
+
+218
+00:09:21,352 --> 00:09:23,812
+I'll be a campus hero.
+
+219
+00:09:26,649 --> 00:09:28,109
+(spits)
+
+220
+00:09:28,192 --> 00:09:29,992
+Attention, everyone.
+The punch has been spiked!
+
+221
+00:09:30,069 --> 00:09:31,529
+(all gasping)
+
+222
+00:09:31,612 --> 00:09:33,532
+Don't worry.
+Your parents have been called
+
+223
+00:09:33,614 --> 00:09:34,744
+and will be here
+to pick you up shortly!
+
+224
+00:09:34,824 --> 00:09:36,334
+ALL: Yay!
+
+225
+00:09:36,409 --> 00:09:39,579
+Marge, someone squeezed all
+the life out of these kids.
+
+226
+00:09:39,662 --> 00:09:42,252
+And unless movies and TV
+have lied to me,
+
+227
+00:09:42,331 --> 00:09:45,171
+it's a crusty,
+bitter, old dean.
+
+228
+00:09:45,251 --> 00:09:47,131
+Hi there. Hello,
+I'm Dean Peterson,
+
+229
+00:09:47,211 --> 00:09:48,171
+but you can call me Bobby.
+
+230
+00:09:48,254 --> 00:09:49,924
+I just want you to know,
+
+231
+00:09:50,006 --> 00:09:52,426
+if you ever feel stressed out
+from studying or whatever,
+
+232
+00:09:52,508 --> 00:09:54,388
+I'm always up
+for some hacky sack.
+
+233
+00:09:54,468 --> 00:09:57,218
+Or if you just want to
+come by and jam,
+
+234
+00:09:57,305 --> 00:09:59,385
+I used to be the bass
+player for the Pretenders.
+
+235
+00:09:59,473 --> 00:10:01,353
+<i>♪♪ (fast riff)</i>
+
+236
+00:10:01,434 --> 00:10:03,984
+Boy, I can't wait to take
+some of the starch
+
+237
+00:10:04,061 --> 00:10:05,151
+out of that stuffed shirt.
+
+238
+00:10:07,106 --> 00:10:11,106
+Good morning and welcome
+to Nuclear Physics 101.
+
+239
+00:10:11,193 --> 00:10:15,163
+I see a lot of new faces,
+but you know the old saying--
+
+240
+00:10:15,239 --> 00:10:18,529
+"Out with the old,
+in with the nucleus."
+
+241
+00:10:18,618 --> 00:10:19,868
+(laughing)
+
+242
+00:10:19,952 --> 00:10:22,042
+Now we'll begin by--
+Oops.
+
+243
+00:10:22,121 --> 00:10:24,001
+(laughing loudly)
+
+244
+00:10:26,584 --> 00:10:29,094
+Ah, did you see
+that jerk?
+
+245
+00:10:29,170 --> 00:10:31,420
+(laughing)
+
+246
+00:10:31,505 --> 00:10:33,505
+Dropped his notes!
+
+247
+00:10:33,591 --> 00:10:36,431
+(laughing more loudly)
+
+248
+00:10:38,512 --> 00:10:40,892
+Now, if anyone
+would like to stay,
+
+249
+00:10:40,973 --> 00:10:42,683
+I'm going to hold
+a comprehensive review session
+
+250
+00:10:42,767 --> 00:10:43,727
+after every class.
+
+251
+00:10:43,809 --> 00:10:45,599
+-Do we have to?
+-No.
+
+252
+00:10:45,686 --> 00:10:49,146
+Then kiss my curvy butt
+good-bye.
+
+253
+00:10:51,901 --> 00:10:54,531
+-(giggling)
+-(squirrels chittering)
+
+254
+00:10:54,612 --> 00:10:56,412
+Whoo-hoo!
+
+255
+00:10:58,658 --> 00:11:01,158
+<i>♪♪ ("Louie, Louie")</i>
+
+256
+00:11:01,243 --> 00:11:03,753
+Homer, we have
+a perfectly good bookcase.
+
+257
+00:11:03,829 --> 00:11:06,419
+Yeah, but this is what
+they're doing on campus.
+
+258
+00:11:06,499 --> 00:11:08,289
+Besides, it isn't costing us.
+
+259
+00:11:08,376 --> 00:11:10,286
+I swiped the cinder blocks
+from a construction site.
+
+260
+00:11:11,796 --> 00:11:14,086
+Sir, six cinder blocks
+are missing.
+
+261
+00:11:14,173 --> 00:11:15,553
+There'll be
+no hospital then.
+
+262
+00:11:15,633 --> 00:11:17,473
+I'll tell the children.
+
+263
+00:11:17,551 --> 00:11:20,681
+This proton accelerator
+destabilizes the atom
+
+264
+00:11:20,763 --> 00:11:23,273
+in this chamber here,
+then propels it--
+
+265
+00:11:23,349 --> 00:11:25,769
+HOMER: Uh, excuse me,
+Professor Brainiac,
+
+266
+00:11:25,851 --> 00:11:29,111
+but I worked in
+a nuclear power plant for 10 years,
+
+267
+00:11:29,188 --> 00:11:32,648
+and, uh, I think I know
+how a proton accelerator works.
+
+268
+00:11:32,733 --> 00:11:34,613
+Well, please come down
+and show us.
+
+269
+00:11:34,694 --> 00:11:36,824
+All right. I will.
+
+270
+00:11:36,904 --> 00:11:38,664
+(screaming)
+
+271
+00:11:40,741 --> 00:11:43,411
+-In there, guys.
+-BOTH: Thanks, Homer.
+
+272
+00:11:43,494 --> 00:11:45,664
+Homer, no one blames you
+for the accident.
+
+273
+00:11:45,746 --> 00:11:48,036
+We simply feel
+you might benefit with
+
+274
+00:11:48,124 --> 00:11:49,134
+a little outside tutoring.
+
+275
+00:11:49,208 --> 00:11:51,208
+I researched
+these names myself.
+
+276
+00:11:51,293 --> 00:11:53,803
+Yeah, you won this round,
+Dean,
+
+277
+00:11:53,879 --> 00:11:56,089
+but the war isn't over.
+
+278
+00:11:57,425 --> 00:11:59,425
+-(phone rings)
+-Hello.
+
+279
+00:11:59,510 --> 00:12:01,760
+HOMER: <i>Hello, Dean.</i>
+<i>You're a stupid-head!</i>
+
+280
+00:12:01,846 --> 00:12:03,676
+-Homer, is that you?
+-(yelps)
+
+281
+00:12:09,103 --> 00:12:10,943
+Hiya, gang.
+
+282
+00:12:11,021 --> 00:12:13,271
+Intruder alert.
+Intruder alert.
+
+283
+00:12:13,357 --> 00:12:14,607
+Stop the humanoid.
+
+284
+00:12:14,692 --> 00:12:16,572
+(chortling)
+
+285
+00:12:16,652 --> 00:12:18,612
+Look, I'm supposed to
+get a physics tutor.
+
+286
+00:12:18,696 --> 00:12:20,316
+Well, you've come to
+the right place, then.
+
+287
+00:12:20,406 --> 00:12:22,116
+If there's one thing we know,
+it is science.
+
+288
+00:12:22,199 --> 00:12:23,619
+And math.
+
+289
+00:12:23,701 --> 00:12:25,911
+And the words to every
+Monty Python routine.
+
+290
+00:12:25,995 --> 00:12:28,995
+ALL: We are the knights
+who say "Ni!"
+
+291
+00:12:29,081 --> 00:12:31,631
+NERDS: Ni! Ni! Ni!
+(giggling)
+
+292
+00:12:31,709 --> 00:12:33,589
+(chuckles)
+Ni.
+
+293
+00:12:33,669 --> 00:12:36,259
+We played
+Dungeons & Dragons
+
+294
+00:12:36,338 --> 00:12:37,718
+for three hours.
+
+295
+00:12:37,798 --> 00:12:39,548
+Then I was slain
+by an elf.
+
+296
+00:12:39,633 --> 00:12:42,393
+Listen to yourself, man.
+You're hangin' with nerds.
+
+297
+00:12:42,470 --> 00:12:44,600
+-You take that back!
+-Homer, please.
+
+298
+00:12:44,680 --> 00:12:47,560
+These boys sound very nice,
+but they're clearly nerds.
+
+299
+00:12:47,641 --> 00:12:49,641
+Really? But nerds
+are my mortal enemy.
+
+300
+00:12:49,727 --> 00:12:51,437
+Dad, nerds are nothing to fear.
+
+301
+00:12:51,520 --> 00:12:53,770
+In fact, they've done some
+pretty memorable things.
+
+302
+00:12:53,856 --> 00:12:55,476
+Some nerds of note include
+
+303
+00:12:55,566 --> 00:12:57,646
+popcorn magnate
+Orville Redenbacher,
+
+304
+00:12:57,735 --> 00:12:59,445
+rock star David Byrne,
+
+305
+00:12:59,528 --> 00:13:01,568
+and supreme court justice
+David Souter.
+
+306
+00:13:01,655 --> 00:13:03,775
+(gasps)
+Oh, not Souter!
+
+307
+00:13:03,866 --> 00:13:05,906
+Oh, no!
+
+308
+00:13:07,620 --> 00:13:09,370
+Come on, Mr. Simpson.
+You'll never pass this course
+
+309
+00:13:09,455 --> 00:13:11,785
+if you don't know
+the periodic table.
+
+310
+00:13:11,874 --> 00:13:13,834
+-I'll write it on my hand.
+-Oh!
+
+311
+00:13:13,918 --> 00:13:16,958
+Including all known
+lanthanides and actinides?
+
+312
+00:13:17,046 --> 00:13:19,876
+-(chuckling) Good luck.
+-(all chuckling)
+
+313
+00:13:19,965 --> 00:13:22,175
+Come on, guys.
+
+314
+00:13:22,259 --> 00:13:25,349
+Look at yourselves!
+All you do is study.
+
+315
+00:13:25,429 --> 00:13:26,719
+I'm gonna show you
+
+316
+00:13:26,806 --> 00:13:28,766
+the true meaning
+of college.
+
+317
+00:13:28,849 --> 00:13:31,809
+We're gonna go out
+and par-ty!
+
+318
+00:13:31,894 --> 00:13:32,984
+Wait a minute.
+I'll put on my snow pants.
+
+319
+00:13:33,062 --> 00:13:34,652
+-Me too.
+-Me too.
+
+320
+00:13:34,730 --> 00:13:37,480
+Ah, the college road trip.
+
+321
+00:13:37,566 --> 00:13:39,936
+What better way to spread
+beer-fueled mayhem?
+
+322
+00:13:40,027 --> 00:13:41,147
+If you're going for a ride,
+
+323
+00:13:41,237 --> 00:13:42,947
+I'd like you to take
+Bart and Lisa.
+
+324
+00:13:43,030 --> 00:13:46,910
+But, Marge, we're college guys,
+and we're up to no good.
+
+325
+00:13:46,992 --> 00:13:49,622
+Mr. Simpson, Gary spilled
+his ear medicine.
+
+326
+00:13:51,789 --> 00:13:53,959
+Oh, those baby ducks
+were so cute.
+
+327
+00:13:54,041 --> 00:13:56,671
+I can't believe they let us
+walk right up and feed them.
+
+328
+00:13:56,752 --> 00:13:59,462
+-I need to go to the bathroom.
+-We stopped five minutes ago.
+
+329
+00:13:59,547 --> 00:14:00,667
+Yeah, but someone
+knocked on the door,
+
+330
+00:14:00,756 --> 00:14:01,716
+and I couldn't go.
+
+331
+00:14:01,799 --> 00:14:03,379
+I'm telling you.
+
+332
+00:14:03,467 --> 00:14:06,967
+A big, crazy prank is just
+what the doctor ordered.
+
+333
+00:14:07,054 --> 00:14:09,774
+(giggling)
+The dean will go nuts.
+
+334
+00:14:09,849 --> 00:14:11,639
+(gasps)
+I got it!
+
+335
+00:14:11,725 --> 00:14:15,345
+We wait by his mailbox,
+and when he comes outside,
+
+336
+00:14:15,437 --> 00:14:18,357
+we roll him up in a carpet
+and throw him off a bridge!
+
+337
+00:14:18,440 --> 00:14:21,990
+(laughing)
+
+338
+00:14:22,069 --> 00:14:26,529
+-(scraping sound)
+-(all groaning)
+
+339
+00:14:26,615 --> 00:14:29,615
+So it's a prank
+you're looking for, is it?
+
+340
+00:14:29,702 --> 00:14:31,702
+I'll give you your prank.
+
+341
+00:14:31,787 --> 00:14:33,747
+The only other college
+in 50 miles
+
+342
+00:14:33,831 --> 00:14:34,831
+is Springfield A&M,
+
+343
+00:14:34,915 --> 00:14:36,995
+so they're
+our best target.
+
+344
+00:14:37,084 --> 00:14:38,504
+Those bastards.
+
+345
+00:14:38,586 --> 00:14:40,586
+Meet Sir Oinkcelot,
+
+346
+00:14:40,671 --> 00:14:43,011
+the beloved mascot
+of Springfield A&M.
+
+347
+00:14:43,090 --> 00:14:46,180
+Here he is presiding
+over last year's homecoming.
+
+348
+00:14:46,260 --> 00:14:47,890
+Here he is conferring
+an honorary degree
+
+349
+00:14:47,970 --> 00:14:49,310
+on Richard Nixon.
+
+350
+00:14:49,388 --> 00:14:51,518
+And here he is rolling
+in his own filth.
+
+351
+00:14:51,599 --> 00:14:55,849
+Gentlemen, I propose
+we kidnap Sir Oinkcelot.
+
+352
+00:14:55,936 --> 00:14:57,396
+And then we roll him up
+in a carpet
+
+353
+00:14:57,479 --> 00:14:59,649
+and throw him
+off a bridge!
+
+354
+00:14:59,732 --> 00:15:02,572
+(laughing)
+What?
+
+355
+00:15:08,991 --> 00:15:10,491
+-(squeals)
+-Look,
+
+356
+00:15:10,576 --> 00:15:11,786
+you pull
+its tail straight,
+
+357
+00:15:11,869 --> 00:15:13,869
+and it curls
+right back up again.
+
+358
+00:15:13,954 --> 00:15:16,794
+Curly, straight.
+Curly, straight.
+
+359
+00:15:16,874 --> 00:15:17,884
+{\an8}Curly, straight.
+Curly, straight.
+
+360
+00:15:17,958 --> 00:15:19,748
+{\an8}(squealing)
+
+361
+00:15:19,835 --> 00:15:22,295
+Mr. Simpson, I don't think
+he likes that.
+
+362
+00:15:22,379 --> 00:15:26,429
+(giggles) Of course he does.
+He's a cute little piggy.
+
+363
+00:15:26,508 --> 00:15:29,468
+Curly, straight.
+Curly, straight. Ow!
+
+364
+00:15:29,553 --> 00:15:32,683
+-Why, you little--
+-Mr. Simpson, stop!
+
+365
+00:15:32,765 --> 00:15:34,845
+-It's a defenseless animal!
+-(screams)
+
+366
+00:15:34,934 --> 00:15:36,694
+(groaning, snorting)
+
+367
+00:15:36,769 --> 00:15:39,309
+Hey, the pig's
+acting kinda funny.
+
+368
+00:15:39,396 --> 00:15:41,516
+He and Mr. Simpson split
+a case of malt liquor.
+
+369
+00:15:41,607 --> 00:15:44,107
+Guys, he's really sick.
+
+370
+00:15:44,193 --> 00:15:47,953
+Hello! That sounds like
+a pig fainting.
+
+371
+00:15:48,030 --> 00:15:50,070
+(squealing)
+
+372
+00:15:53,035 --> 00:15:54,945
+I'm sorry, boys.
+
+373
+00:15:55,037 --> 00:15:56,657
+I-I've never expelled
+anyone before,
+
+374
+00:15:56,747 --> 00:15:59,247
+but that pig
+had some powerful friends.
+
+375
+00:15:59,333 --> 00:16:02,003
+Oh, you'll pay.
+Don't think you won't pay!
+
+376
+00:16:05,589 --> 00:16:06,879
+Guys, believe me.
+
+377
+00:16:06,966 --> 00:16:08,756
+I didn't mean
+to get you expelled.
+
+378
+00:16:08,842 --> 00:16:10,392
+Oh, don't worry, Mr. Simpson.
+
+379
+00:16:10,469 --> 00:16:12,179
+We can take care
+of ourselves.
+
+380
+00:16:13,639 --> 00:16:15,559
+Uh, wallet inspector.
+
+381
+00:16:15,641 --> 00:16:16,931
+Oh, here you go.
+
+382
+00:16:17,017 --> 00:16:18,227
+I believe that's all
+in order.
+
+383
+00:16:18,310 --> 00:16:20,560
+I can't believe
+that worked!
+
+384
+00:16:20,646 --> 00:16:24,776
+Hey! That's not
+the wallet inspector.
+
+385
+00:16:29,863 --> 00:16:32,993
+-(humming)
+-(groans)
+
+386
+00:16:33,075 --> 00:16:35,325
+Marge, they don't have
+anywhere to stay.
+
+387
+00:16:35,411 --> 00:16:36,501
+And they're geniuses.
+
+388
+00:16:36,578 --> 00:16:37,998
+They'll solve
+all our problems.
+
+389
+00:16:38,080 --> 00:16:40,040
+They'll elevate us
+to the status
+
+390
+00:16:40,124 --> 00:16:41,584
+of kings on earth!
+
+391
+00:16:41,667 --> 00:16:43,877
+Mr. Simpson,
+we all have nosebleeds.
+
+392
+00:16:43,961 --> 00:16:45,711
+Oh, for the love of--
+
+393
+00:16:48,173 --> 00:16:50,803
+-(loud beeping)
+-(groans)
+
+394
+00:16:50,884 --> 00:16:53,894
+What's wrong with this phone?
+It's making crazy noises.
+
+395
+00:16:53,971 --> 00:16:56,891
+Those crazy noises
+are computer signals.
+
+396
+00:16:56,974 --> 00:16:59,144
+Yeah, some guys at M.I.T. are
+sending us reasons why
+
+397
+00:16:59,226 --> 00:17:01,806
+Captain Picard
+is better than Captain Kirk.
+
+398
+00:17:01,895 --> 00:17:04,565
+Ha! They're out
+of their minds.
+
+399
+00:17:04,648 --> 00:17:05,978
+(groans)
+
+400
+00:17:08,068 --> 00:17:09,698
+Oh, I heard about this.
+
+401
+00:17:09,778 --> 00:17:12,658
+This is the one where Scratchy
+finally gets Itchy.
+
+402
+00:17:12,740 --> 00:17:13,950
+Wow!
+
+403
+00:17:26,420 --> 00:17:28,130
+<i>(cackling)</i>
+
+404
+00:17:31,133 --> 00:17:33,643
+<i>(whistles)</i>
+
+405
+00:17:39,892 --> 00:17:43,192
+My purpose in life
+is to witness this moment.
+
+406
+00:17:46,690 --> 00:17:48,030
+(screaming)
+
+407
+00:17:48,108 --> 00:17:49,738
+We need the outlet
+for our rock tumbler.
+
+408
+00:17:49,818 --> 00:17:51,198
+BOTH:
+Plug it in! Plug it in!
+
+409
+00:17:51,278 --> 00:17:53,108
+What, the rock tumbler
+or the TV?
+
+410
+00:17:53,197 --> 00:17:54,777
+BOTH: The TV! The TV!
+
+411
+00:17:56,408 --> 00:17:59,238
+<i>-♪ ...show ♪</i>
+<i>-(cheering)</i>
+
+412
+00:17:59,328 --> 00:18:01,958
+<i>Wow! They'll never</i>
+<i>let us show that again,</i>
+
+413
+00:18:02,039 --> 00:18:04,039
+<i>not in a million years!</i>
+
+414
+00:18:04,124 --> 00:18:05,794
+<i>(chortling)</i>
+
+415
+00:18:05,876 --> 00:18:07,796
+(screaming)
+
+416
+00:18:07,878 --> 00:18:11,628
+Dad, start digging
+some nerd holes.
+
+417
+00:18:11,715 --> 00:18:14,425
+It's bad enough they put their
+retainers in the dishwasher.
+
+418
+00:18:14,510 --> 00:18:15,930
+Can't we do something?
+
+419
+00:18:16,011 --> 00:18:18,641
+Look, I'm sure we can
+work something out
+
+420
+00:18:18,722 --> 00:18:20,932
+where we can all live
+in harmony. Right, Marge?
+
+421
+00:18:21,016 --> 00:18:23,226
+No, I want those geeks
+out of my house.
+
+422
+00:18:23,310 --> 00:18:25,940
+You really think you can
+get us back into college?
+
+423
+00:18:26,021 --> 00:18:27,311
+Absolutely.
+
+424
+00:18:27,397 --> 00:18:30,317
+Now, the only antidote
+to a zany scheme
+
+425
+00:18:30,400 --> 00:18:32,190
+is an even zanier scheme!
+
+426
+00:18:32,277 --> 00:18:34,107
+Why does it
+have to be zany?
+
+427
+00:18:34,196 --> 00:18:36,196
+(gasps)
+I've got it!
+
+428
+00:18:36,281 --> 00:18:37,571
+We're gonna fix it
+
+429
+00:18:37,658 --> 00:18:40,078
+so you guys save
+the dean's life.
+
+430
+00:18:40,160 --> 00:18:43,040
+-(engine revving)
+-Perfect.
+
+431
+00:18:44,373 --> 00:18:46,543
+(tires screeching)
+
+432
+00:18:46,625 --> 00:18:48,875
+(whistling)
+
+433
+00:18:48,961 --> 00:18:50,551
+Okay, guys.
+
+434
+00:18:50,629 --> 00:18:53,089
+We push him out of the way
+in exactly three seconds.
+
+435
+00:18:53,173 --> 00:18:55,093
+Should we correct
+for wind resistance?
+
+436
+00:18:55,175 --> 00:18:57,585
+Hmm, possibly.
+What do you think?
+
+437
+00:18:57,678 --> 00:18:59,848
+-(thudding)
+-Oh, my.
+
+438
+00:18:59,930 --> 00:19:03,600
+Well, Dean, I'm really sorry
+for the running-you-over prank.
+
+439
+00:19:03,684 --> 00:19:05,104
+Prank?
+
+440
+00:19:05,185 --> 00:19:07,185
+And all those other pranks
+were my idea too.
+
+441
+00:19:07,271 --> 00:19:09,941
+I'm the one
+who should be expelled.
+
+442
+00:19:10,023 --> 00:19:11,533
+{\an8}Well, I'm touched
+by your honesty.
+
+443
+00:19:11,608 --> 00:19:13,068
+{\an8}And who knows--
+
+444
+00:19:13,152 --> 00:19:15,612
+{\an8}perhaps I've been a bit
+of an ogre myself.
+
+445
+00:19:15,696 --> 00:19:17,606
+{\an8}-Yes, you have.
+-How's this?
+
+446
+00:19:17,698 --> 00:19:19,778
+{\an8}I'll re-admit your friends,
+
+447
+00:19:19,867 --> 00:19:22,117
+{\an8}and we'll forget this whole
+silly incident ever occurred.
+
+448
+00:19:22,202 --> 00:19:24,832
+Oh, Dean.
+This is what your new hip
+
+449
+00:19:24,913 --> 00:19:25,963
+is going to look like.
+
+450
+00:19:26,039 --> 00:19:27,329
+(nervous chuckling)
+
+451
+00:19:27,416 --> 00:19:29,876
+You're gonna have to
+go easy on it.
+
+452
+00:19:29,960 --> 00:19:33,170
+Oh, it's good to be back
+after all these weeks.
+
+453
+00:19:33,255 --> 00:19:35,125
+Better check our
+answering machine, huh?
+
+454
+00:19:35,215 --> 00:19:38,635
+WOMAN'S VOICE: <i>Number of</i>
+<i>messages received: zero.</i>
+
+455
+00:19:38,719 --> 00:19:40,179
+(all sighing)
+
+456
+00:19:40,262 --> 00:19:42,472
+We really want to
+thank you, Mr. Simpson.
+
+457
+00:19:42,556 --> 00:19:44,556
+Ah, no problem, guys.
+
+458
+00:19:44,641 --> 00:19:47,271
+The important thing
+is that we wrapped up
+
+459
+00:19:47,352 --> 00:19:49,902
+all the loose ends.
+
+460
+00:19:49,980 --> 00:19:51,650
+So, in conclusion,
+
+461
+00:19:51,732 --> 00:19:54,152
+good luck on tomorrow's
+big final exam.
+
+462
+00:19:54,234 --> 00:19:56,154
+Exam? Oh!
+
+463
+00:19:56,236 --> 00:19:57,856
+This is just like one
+of those bad dreams!
+
+464
+00:19:57,946 --> 00:19:59,156
+(screams)
+
+465
+00:19:59,239 --> 00:20:02,239
+What are you gonna do,
+Mr. Simpson?
+
+466
+00:20:02,326 --> 00:20:04,446
+Actually, I've been
+working on a plan.
+
+467
+00:20:04,536 --> 00:20:07,246
+During the exam,
+I'll hide under some coats,
+
+468
+00:20:07,331 --> 00:20:09,831
+and hope that somehow
+everything will work out.
+
+469
+00:20:09,917 --> 00:20:11,287
+Or with our help,
+
+470
+00:20:11,376 --> 00:20:15,086
+you can cram like you've
+never crammed before!
+
+471
+00:20:15,172 --> 00:20:16,382
+Whatever.
+Either way is good.
+
+472
+00:20:26,266 --> 00:20:27,266
+(grunts)
+
+473
+00:20:31,313 --> 00:20:33,403
+Whoo-hoo!
+
+474
+00:20:37,444 --> 00:20:39,994
+Oh, man. I can't believe
+you failed.
+
+475
+00:20:40,072 --> 00:20:42,032
+Oh, I'm gonna lose my job
+
+476
+00:20:42,115 --> 00:20:44,825
+just 'cause I'm
+dangerously unqualified!
+
+477
+00:20:44,910 --> 00:20:46,660
+Mr. Simpson,
+there is a way.
+
+478
+00:20:46,745 --> 00:20:47,995
+We could, well,
+
+479
+00:20:48,080 --> 00:20:49,790
+use a computer
+to change your grade.
+
+480
+00:20:49,873 --> 00:20:51,923
+(gasps)
+Computers can do that?
+
+481
+00:20:52,000 --> 00:20:55,300
+Oh, yes. The only problem is
+the moral dilemma it raises,
+
+482
+00:20:55,379 --> 00:20:56,879
+-which requires--
+-(kissing)
+
+483
+00:20:56,964 --> 00:20:59,304
+Oh, I love--
+Moral whuzzah?
+
+484
+00:20:59,383 --> 00:21:02,473
+An A-plus!
+How did you do it?
+
+485
+00:21:02,552 --> 00:21:05,182
+Oh, let's just say
+I had help from
+
+486
+00:21:05,264 --> 00:21:07,314
+a little magic box.
+
+487
+00:21:07,391 --> 00:21:08,681
+You changed your grade
+with a computer?
+
+488
+00:21:08,767 --> 00:21:09,727
+D'oh!
+
+489
+00:21:09,810 --> 00:21:11,060
+Way to go, Dad!
+
+490
+00:21:11,144 --> 00:21:12,444
+Look, the important thing
+
+491
+00:21:12,521 --> 00:21:14,771
+is that
+we all learned a lesson.
+
+492
+00:21:14,856 --> 00:21:17,146
+These guys learned
+the richness and variety
+
+493
+00:21:17,234 --> 00:21:19,324
+of the world outside college.
+
+494
+00:21:19,403 --> 00:21:20,743
+-No, we didn't.
+-Oh.
+
+495
+00:21:20,821 --> 00:21:23,911
+Then I learned
+the real value of college
+
+496
+00:21:23,991 --> 00:21:25,871
+is to study and work hard.
+
+497
+00:21:25,951 --> 00:21:27,121
+No, you didn't.
+
+498
+00:21:27,202 --> 00:21:29,332
+You only passed
+your course by cheating,
+
+499
+00:21:29,413 --> 00:21:30,713
+which you always taught us
+was wrong.
+
+500
+00:21:30,789 --> 00:21:33,539
+-Hmm. True.
+-And I learned that
+
+501
+00:21:33,625 --> 00:21:35,625
+in order for you to set
+a good example for your son,
+
+502
+00:21:35,711 --> 00:21:38,261
+you're gonna take that course
+over again without cheating.
+
+503
+00:21:38,338 --> 00:21:39,758
+Oh, Marge!
+
+504
+00:21:39,840 --> 00:21:42,130
+You're worse than
+that crusty old dean.
+
+505
+00:21:42,217 --> 00:21:43,837
+(sighs)
+
+506
+00:21:43,927 --> 00:21:45,967
+Well, I guess it's back
+to college for me.
+
+507
+00:21:46,054 --> 00:21:49,314
+And that means it's time to--
+What did I teach you guys?
+
+508
+00:21:49,391 --> 00:21:51,561
+NERDS: Par-ty down?
+
+509
+00:21:51,643 --> 00:21:53,403
+Yes!
+
+510
+00:21:53,478 --> 00:21:56,768
+{\an8}<i>♪♪ (rock)</i>
+
+511
+00:21:56,857 --> 00:22:00,937
+{\an8}<i>♪ Louie, Louie,</i>
+<i>oh, no ♪</i>
+
+512
+00:22:01,028 --> 00:22:03,028
+{\an8}<i>♪ We gotta go ♪</i>
+
+513
+00:22:03,113 --> 00:22:06,583
+{\an8}<i>♪ Yeah, yeah, yeah, yeah</i>
+<i>I said, Louie, Louie ♪</i>
+
+514
+00:22:06,658 --> 00:22:10,368
+{\an8}<i>♪ Oh, baby</i>
+<i>we gotta go ♪</i>
+
+515
+00:22:12,247 --> 00:22:16,787
+{\an8}<i>♪ A fine little girl</i>
+<i>waits for me ♪</i>
+
+516
+00:22:16,877 --> 00:22:20,877
+{\an8}<i>♪ Catch a ship</i>
+<i>across the sea ♪</i>
+
+517
+00:22:20,964 --> 00:22:24,014
+{\an8}<i>♪ Sail that ship about</i>
+<i>all alone ♪</i>
+
+518
+00:22:24,092 --> 00:22:27,892
+{\an8}<i>♪ We never think how</i>
+<i>I'll make it home ♪</i>
+
+519
+00:22:27,971 --> 00:22:31,641
+{\an8}<i>♪ Oh, Louie, Louie,</i>
+<i>oh, no, no, no ♪</i>
+
+520
+00:22:31,725 --> 00:22:33,685
+{\an8}<i>♪ We gotta go ♪</i>
+
+521
+00:22:33,769 --> 00:22:38,359
+{\an8}<i>♪ Oh, no,</i>
+<i>said Louie, Louie ♪</i>
+
+522
+00:22:38,440 --> 00:22:41,230
+{\an8}<i>♪ Oh, baby,</i>
+<i>say that we gotta go ♪</i>
+
+523
+00:22:44,196 --> 00:22:45,606
+Shh!
+
+524
+00:22:48,658 --> 00:22:51,538
+<i>CAPTIONS ENHANCED BY</i>
+<i>ROUNDABOUT ENTERTAINMENT INC.</i>
+

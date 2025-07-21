@@ -1,0 +1,1837 @@
+1
+00:00:02,419 --> 00:00:04,669
+("Hark! The Herald Angels Sing"
+instrumental playing)
+
+2
+00:00:09,175 --> 00:00:11,085
+-(dogs barking)
+-(sleigh bells jingling)
+
+3
+00:00:11,177 --> 00:00:12,137
+(grunts)
+
+4
+00:00:14,347 --> 00:00:16,347
+-(music stops)
+-Smithers, release the Christmas hounds.
+
+5
+00:00:16,433 --> 00:00:18,353
+-(barking)
+-(screaming)
+
+6
+00:00:18,435 --> 00:00:20,475
+(growling, barking)
+
+7
+00:00:20,562 --> 00:00:23,232
+("Hark! The Herald Angels Sing"
+resumes playing)
+
+8
+00:00:27,944 --> 00:00:30,114
+{\an8}<i>SINGERS:</i>
+<i>♪ All is not well, on this Noel ♪</i>
+
+9
+00:00:30,196 --> 00:00:32,656
+{\an8}<i>♪ It's looking grim for Reverend Tim ♪</i>
+
+10
+00:00:32,741 --> 00:00:34,781
+{\an8}<i>HELEN:</i>
+<i>♪ This should be his very busy season ♪</i>
+
+11
+00:00:34,868 --> 00:00:37,118
+{\an8}<i>SIDESHOW MEL: ♪ No one's coming,</i>
+<i>tell me what's the reason ♪</i>
+
+12
+00:00:37,203 --> 00:00:38,333
+{\an8}-(snoring)
+<i>-SINGERS: ♪ What will he do? ♪</i>
+
+13
+00:00:38,413 --> 00:00:39,373
+{\an8}<i>♪ Pull up a pew ♪</i>
+
+14
+00:00:39,456 --> 00:00:41,706
+{\an8}<i>(singing quiets)</i>
+<i>♪ As we bid adieu, look for Disco Stu ♪</i>
+
+15
+00:00:46,421 --> 00:00:49,381
+{\an8}Usually, the Fourth Sunday of Advent
+is packed.
+
+16
+00:00:49,466 --> 00:00:51,716
+{\an8}I hope the reverend
+isn't losing his touch.
+
+17
+00:00:51,801 --> 00:00:54,221
+{\an8}Comparing the Three Wise Men
+to the Beastie Boys
+
+18
+00:00:54,304 --> 00:00:56,604
+{\an8}seemed more desperate than hip.
+I'm serious.
+
+19
+00:00:59,225 --> 00:01:02,435
+{\an8}(groans)
+Even Milhouse could've made that.
+
+20
+00:01:02,520 --> 00:01:03,650
+{\an8}What is it, Helen?
+
+21
+00:01:03,730 --> 00:01:05,860
+{\an8}Uh, well, Tim,
+just thought you should know,
+
+22
+00:01:05,940 --> 00:01:08,650
+{\an8}a very special fan club
+is waiting to talk to you.
+
+23
+00:01:08,735 --> 00:01:10,855
+{\an8}Mm!
+
+24
+00:01:11,613 --> 00:01:13,913
+{\an8}A semi-circle? What gives?
+
+25
+00:01:14,949 --> 00:01:16,619
+{\an8}Ned? Agnes?
+
+26
+00:01:16,701 --> 00:01:18,661
+{\an8}Mel? The Parson?
+
+27
+00:01:18,745 --> 00:01:20,325
+{\an8}That's right, your boss.
+
+28
+00:01:20,413 --> 00:01:23,713
+{\an8}And I'd like to introduce you
+to my boss, the Patriarch.
+
+29
+00:01:23,792 --> 00:01:27,052
+{\an8}Actually, Parson,
+we all have the same boss.
+
+30
+00:01:27,128 --> 00:01:29,088
+{\an8}The Metropolitan.
+
+31
+00:01:29,172 --> 00:01:32,432
+{\an8}And it is his will
+that we come together here for...
+
+32
+00:01:32,509 --> 00:01:35,349
+{\an8}a divine intervention.
+
+33
+00:01:35,428 --> 00:01:37,178
+{\an8}Look, since when is it a crime
+
+34
+00:01:37,263 --> 00:01:39,473
+{\an8}to mix Pinot Noir and Vicodin?
+
+35
+00:01:39,557 --> 00:01:43,647
+{\an8}Oh, we don't care if you wreck your liver
+with Sancerre and acetaminophen.
+
+36
+00:01:43,728 --> 00:01:47,858
+{\an8}You can pop pain pills
+like cran-raisins for all we care.
+
+37
+00:01:47,941 --> 00:01:51,191
+{\an8}We're here 'cause you're not
+packing the p-p-p-pews.
+
+38
+00:01:51,277 --> 00:01:55,157
+{\an8}The church is emptier than a syrup bottle
+after a pancake breakfast.
+
+39
+00:01:55,240 --> 00:01:57,740
+{\an8}Oh, people have reasons to miss mass.
+
+40
+00:01:57,826 --> 00:01:59,076
+{\an8}There's flu going around.
+
+41
+00:01:59,160 --> 00:02:00,750
+{\an8}The new Jeeps are in at the dealership.
+
+42
+00:02:00,829 --> 00:02:03,869
+{\an8}Lot of new features,
+the big screen up front, where...
+
+43
+00:02:03,957 --> 00:02:05,747
+{\an8}It's not just attendance, Reverend.
+
+44
+00:02:05,834 --> 00:02:08,554
+It's that sometimes when you speak,
+my mind wanders,
+
+45
+00:02:08,628 --> 00:02:11,878
+to, uh, non-religious areas.
+
+46
+00:02:14,384 --> 00:02:16,644
+Timothy, admit it. You're in a slump.
+
+47
+00:02:16,719 --> 00:02:20,469
+How many souls have you personally
+converted to our faith this year?
+
+48
+00:02:20,557 --> 00:02:21,887
+Negative six.
+
+49
+00:02:21,975 --> 00:02:24,305
+You have some converting to do.
+
+50
+00:02:24,394 --> 00:02:26,604
+(groaning)
+
+51
+00:02:26,688 --> 00:02:28,858
+I haven't been heard from!
+
+52
+00:02:28,940 --> 00:02:30,570
+And what do you have to say?
+
+53
+00:02:30,650 --> 00:02:33,700
+Nothing! Just pointing it out.
+
+54
+00:02:33,778 --> 00:02:35,948
+Okay, I can do this.
+
+55
+00:02:36,030 --> 00:02:37,410
+I'm a good man.
+
+56
+00:02:37,490 --> 00:02:41,040
+And Springfield is nothing
+if not a good Christian community.
+
+57
+00:02:41,119 --> 00:02:42,869
+♪ ♪
+
+58
+00:02:45,957 --> 00:02:47,877
+(cries out)
+
+59
+00:02:47,959 --> 00:02:49,209
+(laughing)
+
+60
+00:02:49,294 --> 00:02:51,594
+(grumbles)
+I'm worried about this festival.
+
+61
+00:02:51,671 --> 00:02:54,221
+It's like something you'd see
+in a college town.
+
+62
+00:02:54,299 --> 00:02:57,139
+Come on, Mom,
+get with the pagan agenda.
+
+63
+00:02:57,218 --> 00:03:00,098
+Ha. This doggy likes me.
+
+64
+00:03:00,180 --> 00:03:03,430
+Don't worry, Ralphie,
+I'll shoot you off of there.
+
+65
+00:03:03,516 --> 00:03:04,386
+Uh-oh.
+
+66
+00:03:04,475 --> 00:03:07,645
+Come on, guys, let's go check out
+this year's feature attraction--
+
+67
+00:03:07,729 --> 00:03:09,939
+the Strandbeest.
+
+68
+00:03:10,023 --> 00:03:12,073
+Powered by the wind!
+
+69
+00:03:12,150 --> 00:03:16,150
+Wow.
+Uh... is this science, or garbage?
+
+70
+00:03:16,237 --> 00:03:18,067
+-Dutch art.
+-Ooh!
+
+71
+00:03:18,156 --> 00:03:20,366
+And I'll bet
+it's environmentally conscious.
+
+72
+00:03:20,450 --> 00:03:21,830
+No. It is not.
+
+73
+00:03:21,910 --> 00:03:24,950
+{\an8}(onlookers murmuring)
+
+74
+00:03:25,038 --> 00:03:26,828
+Whoa. It's alive!
+
+75
+00:03:26,915 --> 00:03:28,875
+{\an8}(excited murmuring)
+
+76
+00:03:30,585 --> 00:03:32,795
+Hmm. The wind is picking up slightly.
+
+77
+00:03:32,879 --> 00:03:34,129
+This is a disaster!
+
+78
+00:03:34,214 --> 00:03:36,424
+The Beest is built for
+the polite breezes of Europe.
+
+79
+00:03:36,507 --> 00:03:38,887
+(panicked shouting)
+
+80
+00:03:38,968 --> 00:03:41,348
+-Save me, Odin. (grunts)
+-(screaming)
+
+81
+00:03:41,429 --> 00:03:43,639
+Look, Dad, I can skate backwards!
+
+82
+00:03:43,723 --> 00:03:47,523
+Great, Sophie!
+Just watch out for Strandbeests!
+
+83
+00:03:47,602 --> 00:03:49,152
+(laughter)
+
+84
+00:03:49,229 --> 00:03:50,439
+(shocked gasps)
+
+85
+00:03:50,521 --> 00:03:51,561
+(screaming)
+
+86
+00:03:51,648 --> 00:03:53,518
+{\an8}(stammering grunts)
+
+87
+00:03:53,608 --> 00:03:55,318
+{\an8}(grunting)
+
+88
+00:03:55,401 --> 00:03:57,491
+{\an8}(screams)
+
+89
+00:03:57,570 --> 00:03:59,070
+(grunting)
+
+90
+00:03:59,155 --> 00:04:01,155
+What the... (grunting)
+
+91
+00:04:03,826 --> 00:04:05,196
+Okay, I got to warn ya.
+
+92
+00:04:05,286 --> 00:04:07,496
+Regular morphine
+doesn't work on me anymore.
+
+93
+00:04:07,580 --> 00:04:10,500
+Call this number
+and they'll send the stuff I need.
+
+94
+00:04:10,583 --> 00:04:12,843
+It'll say "for elephants,"
+but ignore that.
+
+95
+00:04:12,919 --> 00:04:14,169
+(groans)
+
+96
+00:04:14,254 --> 00:04:15,844
+Sorry about this, Sophie.
+
+97
+00:04:15,922 --> 00:04:18,172
+Couldn't have come at a worse time.
+
+98
+00:04:18,258 --> 00:04:21,468
+I only get one week of custody,
+once a year.
+
+99
+00:04:21,552 --> 00:04:22,932
+It's okay, Dad.
+
+100
+00:04:23,012 --> 00:04:25,562
+We'll get to know each other
+in this semi-private room.
+
+101
+00:04:25,640 --> 00:04:27,730
+Oh, I'll give you
+all the privacy you need.
+
+102
+00:04:27,809 --> 00:04:29,809
+-Ah...
+-(flat lines)
+
+103
+00:04:31,771 --> 00:04:34,151
+-(screams) Harold?
+-Private room!
+
+104
+00:04:35,275 --> 00:04:36,935
+Mm-hmm.
+
+105
+00:04:38,736 --> 00:04:42,526
+Uh... so, uh,
+how's your act coming along?
+
+106
+00:04:42,615 --> 00:04:44,325
+I'm not in show business.
+
+107
+00:04:44,409 --> 00:04:46,369
+What kind of a screwed-up kid are you?
+
+108
+00:04:46,452 --> 00:04:48,542
+I'm not screwed up. I get good grades.
+
+109
+00:04:48,621 --> 00:04:50,871
+-I play the French horn.
+-Good, good.
+
+110
+00:04:50,957 --> 00:04:52,827
+You know,
+it's funny when someone's playing it
+
+111
+00:04:52,917 --> 00:04:54,457
+and their pants fall down.
+
+112
+00:04:54,544 --> 00:04:56,594
+-(chuckles)
+-I haven't had that happen.
+
+113
+00:04:56,671 --> 00:04:58,051
+Well, don't feel bad.
+
+114
+00:04:58,131 --> 00:05:00,051
+It's actually a pretty complicated rig.
+
+115
+00:05:00,133 --> 00:05:02,143
+The whole megillah is a big tzimmes.
+
+116
+00:05:02,218 --> 00:05:04,258
+Tzimmes? Megillah?
+
+117
+00:05:04,345 --> 00:05:05,425
+It's Yiddish.
+
+118
+00:05:05,513 --> 00:05:07,893
+The language of our <i>fakakta </i>people.
+
+119
+00:05:07,974 --> 00:05:10,064
+Mom raised me Christian.
+
+120
+00:05:10,143 --> 00:05:12,063
+A Christian?
+
+121
+00:05:12,145 --> 00:05:14,555
+(groans)
+That <i>farbissina </i>shiksa.
+
+122
+00:05:14,647 --> 00:05:18,527
+How can you ignore the sacred traditions
+of the Jewish people?
+
+123
+00:05:18,609 --> 00:05:21,899
+Krusty, here's your bacon, lobster,
+and tref sandwich.
+
+124
+00:05:21,988 --> 00:05:24,698
+Hey, it was supposed to come
+with a side of camel.
+
+125
+00:05:24,782 --> 00:05:26,122
+Extra cloven.
+
+126
+00:05:26,200 --> 00:05:29,080
+Dad, you don't have to be
+sort of funny with me.
+
+127
+00:05:29,162 --> 00:05:32,792
+The thing is,
+I want to celebrate this time with you.
+
+128
+00:05:32,874 --> 00:05:34,794
+Sweetie, I know you're reaching out.
+
+129
+00:05:34,876 --> 00:05:38,046
+But to me, Christmas is just another day.
+
+130
+00:05:38,129 --> 00:05:41,669
+I usually curl up
+with a good bookmaker, and...
+
+131
+00:05:42,342 --> 00:05:44,972
+Well...
+
+132
+00:05:45,053 --> 00:05:48,473
+Why don't the two of you
+spend Christmas with us?
+
+133
+00:05:48,556 --> 00:05:50,016
+Our home isn't fancy,
+
+134
+00:05:50,099 --> 00:05:53,269
+but we'd love to set a place
+for two more.
+
+135
+00:05:53,353 --> 00:05:55,523
+Marge, we accept.
+
+136
+00:05:55,605 --> 00:05:58,105
+-Can we bring anything?
+-Just yourself.
+
+137
+00:05:58,191 --> 00:05:59,481
+That'll cost you.
+
+138
+00:06:00,902 --> 00:06:02,612
+(singsongy) Oh, Maggie.
+
+139
+00:06:02,695 --> 00:06:04,485
+Guess who just came down the chimney?
+
+140
+00:06:04,572 --> 00:06:06,452
+A magical holiday friend,
+
+141
+00:06:06,532 --> 00:06:09,162
+straight from the North Pole.
+
+142
+00:06:09,243 --> 00:06:12,253
+He's called the Gnome In Your Home,
+and he works for Santa,
+
+143
+00:06:12,330 --> 00:06:14,790
+by watching you all the time.
+
+144
+00:06:15,833 --> 00:06:17,963
+According to a book sold separately,
+
+145
+00:06:18,044 --> 00:06:20,764
+the Gnome In Your Home
+doesn't need food or sleep.
+
+146
+00:06:20,838 --> 00:06:23,588
+He lives for just one thing--
+
+147
+00:06:23,674 --> 00:06:26,554
+to tell Santa if you're bad or good.
+
+148
+00:06:26,636 --> 00:06:27,756
+(sucking pacifier rapidly)
+
+149
+00:06:27,845 --> 00:06:31,845
+He's gonna live here on your shelf,
+and he never shuts his eyes.
+
+150
+00:06:31,933 --> 00:06:33,143
+Isn't that cute?
+
+151
+00:06:33,226 --> 00:06:37,476
+You'd better be good,
+or he'll nibble your wittle fingers!
+
+152
+00:06:37,563 --> 00:06:39,483
+(sucking pacifier rapidly)
+
+153
+00:06:39,565 --> 00:06:41,565
+(playing "O Tannenbaum" on piano)
+
+154
+00:06:48,074 --> 00:06:50,704
+-(doorbell rings)
+-Oh, boy, Krusty's here!
+
+155
+00:06:52,412 --> 00:06:54,662
+A very merry Christmas,
+
+156
+00:06:54,747 --> 00:06:57,327
+from the bottom of my heart.
+
+157
+00:06:57,417 --> 00:06:59,287
+(calling) Did you get the shot?
+
+158
+00:06:59,377 --> 00:07:01,337
+How did it play? Was I too sincere?
+
+159
+00:07:01,421 --> 00:07:04,471
+-Perfect, Mr. K!
+-Start laying dolly track.
+
+160
+00:07:04,549 --> 00:07:05,839
+{\an8}("Jingle Bells" playing)
+
+161
+00:07:06,592 --> 00:07:07,762
+{\an8}(doorbell rings)
+
+162
+00:07:08,803 --> 00:07:10,513
+{\an8}Come on, damn it!
+
+163
+00:07:10,596 --> 00:07:14,176
+{\an8}Christmas is about one thing--
+being with family.
+
+164
+00:07:14,267 --> 00:07:17,017
+{\an8}Sophie, come sit on Daddy's lap.
+
+165
+00:07:17,103 --> 00:07:18,863
+I don't want to be on camera.
+
+166
+00:07:18,938 --> 00:07:21,518
+Fine, we'll just
+motion-capture her in later.
+
+167
+00:07:22,733 --> 00:07:25,243
+{\an8}(screeching)
+
+168
+00:07:27,155 --> 00:07:29,485
+{\an8}Aw, that's my girl.
+
+169
+00:07:29,574 --> 00:07:32,744
+{\an8}Oh, what a beautiful gingerbread house.
+
+170
+00:07:32,827 --> 00:07:34,367
+{\an8}Wish I could make one.
+
+171
+00:07:34,454 --> 00:07:38,294
+{\an8}And I can!
+On a multi-function Minolta printer.
+
+172
+00:07:38,374 --> 00:07:40,384
+{\an8}Print, scan, copy,
+
+173
+00:07:40,460 --> 00:07:43,420
+{\an8}let Minolta do your Xeroxing!
+
+174
+00:07:43,504 --> 00:07:47,054
+{\an8}"...when what to my wondering
+eyes did appear..."
+
+175
+00:07:47,133 --> 00:07:49,053
+{\an8}To hear me read the rest of this poem,
+
+176
+00:07:49,135 --> 00:07:51,385
+{\an8}dial 1-900-OLD-POEM.
+
+177
+00:07:51,471 --> 00:07:53,061
+{\an8}$9.95 per call.
+
+178
+00:07:53,139 --> 00:07:55,559
+{\an8}All I wanted was to spend
+the holidays with you
+
+179
+00:07:55,641 --> 00:07:57,731
+{\an8}so we could learn more about each other.
+
+180
+00:07:57,810 --> 00:07:59,600
+{\an8}Well, I learned!
+
+181
+00:07:59,687 --> 00:08:00,937
+{\an8}Get out!
+
+182
+00:08:01,022 --> 00:08:03,902
+{\an8}-(crying)
+-What? Seriously?
+
+183
+00:08:03,983 --> 00:08:06,443
+{\an8}You really want me to go?
+
+184
+00:08:06,527 --> 00:08:08,277
+{\an8}Yes.
+
+185
+00:08:08,362 --> 00:08:09,992
+{\an8}Right now.
+
+186
+00:08:12,325 --> 00:08:14,575
+(doorbell rings)
+
+187
+00:08:14,660 --> 00:08:17,080
+Uh, can we get some room tone?
+
+188
+00:08:17,163 --> 00:08:19,293
+Just 20 seconds.
+
+189
+00:08:31,844 --> 00:08:34,684
+Oh, Sophie! Please, forgive me.
+
+190
+00:08:34,764 --> 00:08:36,274
+I canceled the show.
+
+191
+00:08:36,349 --> 00:08:38,599
+I'm pulling up duct tape myself,
+
+192
+00:08:38,684 --> 00:08:41,274
+like a caveman!
+
+193
+00:08:41,354 --> 00:08:43,944
+SOPHIE:
+(crying) Just leave me alone.
+
+194
+00:08:44,023 --> 00:08:46,653
+(groaning)
+
+195
+00:08:47,818 --> 00:08:50,068
+{\an8}If the Word of God isn't enough,
+
+196
+00:08:50,154 --> 00:08:52,994
+{\an8}I also have some rubber jar openers.
+
+197
+00:08:53,074 --> 00:08:56,164
+(groans) I've been directing
+Christmas pageants for 30 years.
+
+198
+00:08:56,244 --> 00:08:58,664
+There's no way there's a God.
+
+199
+00:08:58,746 --> 00:09:02,286
+Forget it. Our nonsense is
+so much better than your nonsense.
+
+200
+00:09:02,375 --> 00:09:04,625
+Look at this guy!
+He can be a Pixar hero.
+
+201
+00:09:04,710 --> 00:09:05,750
+Look at him!
+
+202
+00:09:05,836 --> 00:09:09,916
+No, maybe I'm just not cut out
+for the God game.
+
+203
+00:09:10,007 --> 00:09:12,297
+Maybe I could teach S.A.T. Prep.
+
+204
+00:09:12,385 --> 00:09:15,845
+At least there are answers
+in the back of that book.
+
+205
+00:09:17,765 --> 00:09:20,095
+(grunts)
+
+206
+00:09:20,184 --> 00:09:23,814
+(cries) What kind of poison
+do you serve to a guy
+
+207
+00:09:23,896 --> 00:09:26,186
+whose daughter hates his guts?
+
+208
+00:09:26,274 --> 00:09:29,194
+Yeah. Try a Duff Numb.
+No flavor, just alcohol.
+
+209
+00:09:29,277 --> 00:09:30,697
+(gulps)
+
+210
+00:09:30,778 --> 00:09:33,988
+I need something that makes me
+feel better in my heart.
+
+211
+00:09:34,073 --> 00:09:35,663
+Like firing a writer.
+
+212
+00:09:35,741 --> 00:09:37,871
+Especially one who just bought a house.
+
+213
+00:09:37,952 --> 00:09:39,162
+Mm...
+
+214
+00:09:39,245 --> 00:09:40,575
+(cash register dings)
+
+215
+00:09:40,663 --> 00:09:43,963
+My son, I'm here to guide you
+to the most powerful man
+
+216
+00:09:44,041 --> 00:09:46,501
+in this world, or any other.
+
+217
+00:09:46,586 --> 00:09:48,336
+J.J. Abrams?
+
+218
+00:09:48,421 --> 00:09:50,171
+No. Jesus.
+
+219
+00:09:50,256 --> 00:09:53,506
+He is reaching his arms out to you.
+
+220
+00:09:54,594 --> 00:09:57,514
+Oh, my God. I can see him.
+
+221
+00:09:57,597 --> 00:09:59,427
+I am a Christian!
+
+222
+00:09:59,515 --> 00:10:02,265
+(angelic voices singing)
+
+223
+00:10:02,351 --> 00:10:04,061
+(stun gun crackling)
+
+224
+00:10:04,145 --> 00:10:06,185
+Uh, Chief, I think you got him.
+
+225
+00:10:06,272 --> 00:10:07,822
+Yeah, it's Christmas. (chuckles)
+
+226
+00:10:07,898 --> 00:10:10,858
+Just bang his head on the car door
+and we'll call it a day.
+
+227
+00:10:10,943 --> 00:10:12,363
+Merry Christmas.
+
+228
+00:10:12,445 --> 00:10:14,445
+Good night, sweet Maggie. Mwah.
+
+229
+00:10:15,489 --> 00:10:18,199
+Why are you huddling over there?
+The gnome can't see you.
+
+230
+00:10:18,284 --> 00:10:20,204
+I'll move your crib closer.
+
+231
+00:10:20,286 --> 00:10:22,286
+(grunting)
+
+232
+00:10:23,456 --> 00:10:25,536
+There.
+
+233
+00:10:27,126 --> 00:10:29,126
+(clock ticking)
+
+234
+00:10:32,423 --> 00:10:34,433
+Oh, sorry, I forgot your nightlight.
+
+235
+00:10:36,385 --> 00:10:38,715
+(in baby voice)
+The gnome can't nibble your fingers
+
+236
+00:10:38,804 --> 00:10:40,394
+if he can't see them.
+
+237
+00:10:40,473 --> 00:10:42,813
+<i>(Psycho </i>type violin stings)
+
+238
+00:10:45,061 --> 00:10:47,401
+Hey, Maggie.
+I thought I'd try the violin.
+
+239
+00:10:47,480 --> 00:10:49,570
+<i>(Psycho </i>type violin stings)
+
+240
+00:10:51,150 --> 00:10:52,490
+(wind whistling)
+
+241
+00:10:53,903 --> 00:10:55,823
+(object falls)
+
+242
+00:10:57,490 --> 00:10:59,740
+(wind whistling)
+
+243
+00:11:01,494 --> 00:11:03,504
+(terrified sucking)
+
+244
+00:11:05,831 --> 00:11:08,081
+I've got a tummy ache.
+
+245
+00:11:08,167 --> 00:11:11,667
+Maybe I ate too much before bedtime.
+
+246
+00:11:17,134 --> 00:11:19,894
+Have you been a bad baby?
+
+247
+00:11:19,970 --> 00:11:22,770
+Oh. Don't lie to me...
+
+248
+00:11:22,848 --> 00:11:25,888
+or Christmas morning will never come!
+
+249
+00:11:25,976 --> 00:11:28,016
+(cackles evilly)
+
+250
+00:11:29,689 --> 00:11:31,609
+("Jingle Bells" slowly plays
+in minor key)
+
+251
+00:11:36,946 --> 00:11:39,946
+(laughs)
+
+252
+00:11:40,032 --> 00:11:42,032
+(yells)
+
+253
+00:11:43,703 --> 00:11:45,293
+Oh, don't worry, Maggie.
+
+254
+00:11:45,371 --> 00:11:48,121
+He can't beat
+the super team of Santa,
+
+255
+00:11:48,207 --> 00:11:51,127
+Jack Frost, the Abominable Snowman,
+
+256
+00:11:51,210 --> 00:11:53,300
+and Wayne Gretzky.
+
+257
+00:11:53,379 --> 00:11:54,799
+He's got a gun.
+
+258
+00:12:15,401 --> 00:12:17,741
+Merry Christmas, Maggie!
+
+259
+00:12:21,073 --> 00:12:23,533
+Was Maggie a good little girl?
+
+260
+00:12:23,617 --> 00:12:25,367
+She was?!
+
+261
+00:12:25,453 --> 00:12:29,003
+Well, you did such a good job, Mr. Gnome,
+
+262
+00:12:29,081 --> 00:12:32,501
+that we're gonna leave you here
+all year round.
+
+263
+00:12:39,633 --> 00:12:42,343
+{\an8}("Joy to the World" instrumental playing)
+
+264
+00:12:44,638 --> 00:12:46,178
+"...which they also did
+and sent to the elders
+
+265
+00:12:46,265 --> 00:12:47,725
+by the hands of Barnabas and Saul."
+
+266
+00:12:47,808 --> 00:12:49,518
+Now, I'd like to introduce
+
+267
+00:12:49,602 --> 00:12:52,152
+our newest brother in faith--
+
+268
+00:12:52,229 --> 00:12:54,059
+Krusty the Christian.
+
+269
+00:12:54,148 --> 00:12:57,568
+<i>♪ Amazing grace ♪</i>
+
+270
+00:12:57,651 --> 00:13:00,991
+<i>♪ How sweet the sound ♪</i>
+
+271
+00:13:01,071 --> 00:13:04,331
+<i>♪ That saved a putz ♪</i>
+
+272
+00:13:04,408 --> 00:13:06,988
+<i>♪ Like me ♪</i>
+
+273
+00:13:07,077 --> 00:13:11,167
+<i>KRUSTY (thinking): Aw, I remember</i>
+<i>the day she came into my life.</i>
+
+274
+00:13:14,835 --> 00:13:18,005
+Oh, here's a present for Maggie.
+
+275
+00:13:20,466 --> 00:13:23,086
+And the good news is,
+Spycraft Toys
+
+276
+00:13:23,177 --> 00:13:24,927
+makes other invasive dolls--
+
+277
+00:13:25,012 --> 00:13:27,312
+Narc In The Park,
+Bear Who's Always There,
+
+278
+00:13:27,389 --> 00:13:28,889
+and Snoop While You Poop.
+
+279
+00:13:28,974 --> 00:13:31,814
+Won't that be fun? So much fun.
+(slurps)
+
+280
+00:13:37,399 --> 00:13:40,319
+Oh, now, sweetie,
+that's a present for your mother.
+
+281
+00:13:40,402 --> 00:13:43,112
+{\an8}(chuckles)
+Another Christmas in the bag.
+
+282
+00:13:43,197 --> 00:13:45,157
+{\an8}I love my juicer.
+
+283
+00:13:47,159 --> 00:13:50,079
+{\an8}And don't worry, Marge, I'm adding fruit.
+
+284
+00:13:52,623 --> 00:13:56,503
+{\an8}You know, I might have
+one more present for you.
+
+285
+00:13:58,462 --> 00:14:01,132
+(chuckles excitedly)
+
+286
+00:14:02,132 --> 00:14:03,382
+(both scream)
+
+287
+00:14:03,467 --> 00:14:04,757
+(scared stammering)
+
+288
+00:14:04,844 --> 00:14:06,894
+What is it? What is it?!
+
+289
+00:14:07,805 --> 00:14:09,425
+HOMER: What the...
+
+290
+00:14:09,515 --> 00:14:10,555
+(panting)
+
+291
+00:14:15,437 --> 00:14:16,687
+(drumroll)
+
+292
+00:14:16,772 --> 00:14:21,282
+<i>Welcome to the Krusty the Clown</i>
+<i>Sober Contemplation Hour.</i>
+
+293
+00:14:21,360 --> 00:14:24,200
+-(cymbals crash)
+-Pray, pray, kids.
+
+294
+00:14:24,280 --> 00:14:26,780
+We've got a very uplifting show today.
+
+295
+00:14:26,866 --> 00:14:27,986
+He is risen.
+
+296
+00:14:28,075 --> 00:14:29,655
+And now please silently reflect
+
+297
+00:14:29,743 --> 00:14:33,753
+upon the wholesome new teachings
+of Itchy and Scratchy.
+
+298
+00:14:33,831 --> 00:14:35,621
+{\an8}<i>♪ They pray, they pray ♪</i>
+
+299
+00:14:35,708 --> 00:14:37,668
+{\an8}<i>♪ They pray and they don't slay ♪</i>
+
+300
+00:14:37,751 --> 00:14:40,091
+{\an8}<i>♪ Pray, pray, pray, they found a way ♪</i>
+
+301
+00:14:40,170 --> 00:14:43,170
+<i>♪ The pious mouse and cat ♪</i>
+
+302
+00:14:48,888 --> 00:14:52,138
+{\an8}"They shall beat their swords
+into plowshares."
+
+303
+00:14:52,224 --> 00:14:55,144
+{\an8}I think it's about time
+we put on some clothes.
+
+304
+00:14:55,227 --> 00:14:57,147
+(both grunting)
+
+305
+00:14:57,229 --> 00:14:59,769
+And then this happened.
+
+306
+00:14:59,857 --> 00:15:02,527
+Wow, Dad, you wrecked your entire show
+
+307
+00:15:02,610 --> 00:15:04,320
+just to prove you love me.
+
+308
+00:15:04,403 --> 00:15:05,653
+Wait a minute, wait a minute.
+
+309
+00:15:05,738 --> 00:15:07,198
+Here comes a cream pie.
+
+310
+00:15:07,281 --> 00:15:09,871
+(pennywhistle plays)
+
+311
+00:15:09,950 --> 00:15:12,540
+-(Krusty chuckles softly)
+-(Bart groans)
+
+312
+00:15:15,623 --> 00:15:19,503
+Coming up next,
+we've got some hilarious comedians.
+
+313
+00:15:19,585 --> 00:15:20,625
+Finally.
+
+314
+00:15:20,711 --> 00:15:24,011
+Andrew Nice Clay,
+Larry the Fable Guy,
+
+315
+00:15:24,089 --> 00:15:26,219
+and Joe Piscopalian.
+
+316
+00:15:26,300 --> 00:15:29,680
+Oh, if he was gonna convert,
+why didn't he pick a funny religion?
+
+317
+00:15:29,762 --> 00:15:32,012
+Like Zoroastrianism.
+
+318
+00:15:32,097 --> 00:15:34,057
+Their top god is named Mazda.
+
+319
+00:15:34,141 --> 00:15:36,891
+-Tell me that's not hilarious.
+-(groans)
+
+320
+00:15:36,977 --> 00:15:40,107
+And now the moment
+you've been waiting for...
+
+321
+00:15:40,189 --> 00:15:43,859
+The nature of the universe
+is we are forced to wait for every moment.
+
+322
+00:15:43,943 --> 00:15:46,243
+-As Mazda teaches us...
+-Shh!
+
+323
+00:15:46,320 --> 00:15:48,360
+My daughter will play the French horn
+
+324
+00:15:48,447 --> 00:15:51,277
+and no one's pants will drop.
+
+325
+00:15:52,618 --> 00:15:54,498
+(plays upbeat melody)
+
+326
+00:15:56,330 --> 00:15:58,670
+I guess this will just be for me.
+
+327
+00:16:02,503 --> 00:16:04,763
+Well, look at you,
+all cool and collected.
+
+328
+00:16:04,838 --> 00:16:07,628
+Oh, well, even the Lord rested on Sunday.
+
+329
+00:16:07,716 --> 00:16:10,716
+But Krusty's not ours
+till he's b-b-b-baptized.
+
+330
+00:16:10,803 --> 00:16:14,893
+You have to get his soul
+and his bank router number on autopay.
+
+331
+00:16:14,974 --> 00:16:17,734
+Oh, he wanted to do it
+the old-fashioned way,
+
+332
+00:16:17,810 --> 00:16:20,600
+in the river with Miss Teenage Nevada,
+
+333
+00:16:20,688 --> 00:16:22,058
+but the river's frozen.
+
+334
+00:16:22,147 --> 00:16:23,857
+I have to wait until the ice melts.
+
+335
+00:16:23,941 --> 00:16:26,741
+Mm-mm-mm.
+I had you pegged for a closer, Tim.
+
+336
+00:16:26,819 --> 00:16:29,909
+You know, Ogdenville
+is looking for a prison chaplain.
+
+337
+00:16:29,989 --> 00:16:33,659
+The last one, well,
+he got a very cool tattoo...
+
+338
+00:16:33,742 --> 00:16:36,162
+that he didn't ask for.
+
+339
+00:16:36,245 --> 00:16:37,115
+-(Helen gasps)
+-(glass shatters)
+
+340
+00:16:37,204 --> 00:16:39,004
+(mouse squeaks)
+
+341
+00:16:39,081 --> 00:16:41,081
+<i>♪ Gather with the saints ♪</i>
+
+342
+00:16:41,166 --> 00:16:43,836
+<i>♪ At the river ♪</i>
+
+343
+00:16:43,919 --> 00:16:49,259
+<i>♪ That flows by the throne of God ♪</i>
+
+344
+00:16:49,341 --> 00:16:52,011
+<i>(squeaky-voice)</i>
+<i>♪ Throne of God ♪</i>
+
+345
+00:16:53,554 --> 00:16:57,144
+Will the baptismal candidate
+please approach?
+
+346
+00:16:57,224 --> 00:16:59,484
+{\an8}-(laughing)
+-(grunting)
+
+347
+00:16:59,560 --> 00:17:02,270
+{\an8}You're sure you want to do this, Dad?
+Seems kind of meshugana.
+
+348
+00:17:02,354 --> 00:17:04,614
+{\an8}I want to be a total Christian
+for you, babe,
+
+349
+00:17:04,690 --> 00:17:07,320
+{\an8}so I'm gonna shpritz my tuchis...
+
+350
+00:17:07,401 --> 00:17:08,941
+{\an8}Be careful of the current.
+
+351
+00:17:09,028 --> 00:17:11,528
+{\an8}Don't worry,
+I haven't been current in years.
+
+352
+00:17:11,613 --> 00:17:14,493
+{\an8}-(laughs boisterously, groans)
+-(laughter)
+
+353
+00:17:16,160 --> 00:17:18,080
+(laughter continues)
+
+354
+00:17:21,999 --> 00:17:24,289
+Huh? Huh? Oh.
+
+355
+00:17:24,376 --> 00:17:28,506
+Oh, great, my death is
+a hacky parody of <i>Frozen.</i>
+
+356
+00:17:29,715 --> 00:17:32,295
+Dad? But who's the moose?
+
+357
+00:17:32,384 --> 00:17:33,974
+I'm your first agent.
+
+358
+00:17:34,053 --> 00:17:36,643
+Oh, this is the most we've ever spoken.
+
+359
+00:17:36,722 --> 00:17:39,182
+-(cell phone rings)
+-(groans)
+
+360
+00:17:39,266 --> 00:17:40,596
+I must be dead.
+
+361
+00:17:40,684 --> 00:17:41,984
+You're not dead yet.
+
+362
+00:17:42,061 --> 00:17:43,981
+Listen, I should know, because I am.
+
+363
+00:17:44,063 --> 00:17:46,323
+And life was no picnic,
+but let me tell you,
+
+364
+00:17:46,398 --> 00:17:47,978
+death is no picnic, either.
+
+365
+00:17:48,067 --> 00:17:50,687
+Your biggest mistake
+is expecting picnics.
+
+366
+00:17:50,778 --> 00:17:51,858
+Dad!
+
+367
+00:17:51,945 --> 00:17:55,025
+Oh, I suppose you're not happy
+that I'm converting.
+
+368
+00:17:55,115 --> 00:17:58,365
+Herschel, your heart just stopped,
+so I'll make this very quick.
+
+369
+00:17:58,452 --> 00:18:01,332
+There's no one religion
+that makes you a good father.
+
+370
+00:18:01,413 --> 00:18:03,503
+All you got to do
+is think of your children
+
+371
+00:18:03,582 --> 00:18:05,332
+before yourself, that's all...
+
+372
+00:18:05,417 --> 00:18:08,167
+except with those oxygen masks
+that you get on the planes.
+
+373
+00:18:08,253 --> 00:18:09,843
+There it's vice-a-versa.
+
+374
+00:18:09,922 --> 00:18:11,592
+Well, I guess you would know.
+
+375
+00:18:11,673 --> 00:18:14,683
+You're a rabbi
+who's seen the face of God.
+
+376
+00:18:14,760 --> 00:18:17,010
+Actually, I'm a hallucination
+caused by cell death
+
+377
+00:18:17,096 --> 00:18:18,506
+in your suffocating brain.
+
+378
+00:18:18,597 --> 00:18:21,847
+Also, I saw you texting
+during my funeral.
+
+379
+00:18:21,934 --> 00:18:24,444
+-For shame!
+-(cries out)
+
+380
+00:18:25,521 --> 00:18:28,021
+Oh, reel him in.
+You've caught a drowning man!
+
+381
+00:18:28,107 --> 00:18:29,477
+Slow down.
+
+382
+00:18:29,566 --> 00:18:31,316
+First I'm gonna play him a little.
+
+383
+00:18:35,948 --> 00:18:38,778
+"I shall be a fisher of men."
+
+384
+00:18:42,621 --> 00:18:45,211
+(ice breaking)
+
+385
+00:18:45,290 --> 00:18:48,040
+I'm alive! Oh, ho!
+
+386
+00:18:48,127 --> 00:18:49,997
+Don't tell my ex-wife.
+
+387
+00:18:51,046 --> 00:18:53,046
+(whooping and cheering)
+
+388
+00:18:53,132 --> 00:18:55,552
+Lovejoy is a hero!
+
+389
+00:18:55,634 --> 00:18:58,724
+Finally, something I can explain!
+
+390
+00:18:58,804 --> 00:19:00,974
+{\an8}<i>SINGERS: ♪ All ended well</i>
+<i>except for Sideshow Mel ♪</i>
+
+391
+00:19:01,056 --> 00:19:03,096
+<i>♪ This Jewish clown, he didn't drown ♪</i>
+
+392
+00:19:03,183 --> 00:19:05,393
+<i>♪ Reconciled with his daughter ♪</i>
+
+393
+00:19:05,477 --> 00:19:07,767
+<i>♪ When he got out of the water ♪</i>
+
+394
+00:19:07,855 --> 00:19:09,975
+<i>♪ Here's the good news,</i>
+<i>butts in the pews ♪</i>
+
+395
+00:19:10,065 --> 00:19:12,065
+<i>♪ Watch Homer snooze</i>
+<i>as he still chews ♪</i>
+
+396
+00:19:12,151 --> 00:19:15,071
+{\an8}<i>♪ Our show is almost done,</i>
+<i>Maggie didn't stop ♪</i>
+
+397
+00:19:15,154 --> 00:19:17,824
+{\an8}<i>♪ At one ♪</i>
+
+398
+00:19:23,453 --> 00:19:25,413
+Sorry about Krusty,
+
+399
+00:19:25,497 --> 00:19:27,917
+but he's still on Team Hanukkah.
+
+400
+00:19:28,000 --> 00:19:30,590
+Um, I hate to win on a technicality,
+
+401
+00:19:30,669 --> 00:19:32,919
+but he was under the water.
+
+402
+00:19:33,005 --> 00:19:34,915
+That's a baptism.
+
+403
+00:19:35,007 --> 00:19:36,927
+Maybe we should ask Mazda?
+
+404
+00:19:37,009 --> 00:19:39,299
+I'm not going to ask him anything,
+he's drunk.
+
+405
+00:19:39,386 --> 00:19:41,926
+(slurring) Oh, and like you're not!
+
+406
+00:19:42,014 --> 00:19:43,854
+(slurping)
+
+407
+00:19:50,105 --> 00:19:51,435
+♪ ♪
+
+408
+00:19:51,523 --> 00:19:53,943
+<i>♪ Just hear those sleigh bells jingling ♪</i>
+
+409
+00:19:54,026 --> 00:19:56,606
+<i>♪ Ring-ting-tingling along ♪</i>
+
+410
+00:19:56,695 --> 00:19:58,605
+<i>♪ Let's sing a jolly holiday ♪</i>
+
+411
+00:19:58,697 --> 00:20:01,987
+<i>♪ Non-denominational song ♪</i>
+
+412
+00:20:02,075 --> 00:20:04,825
+<i>♪ Being pulled through the snow</i>
+<i>to a wintertime feast ♪</i>
+
+413
+00:20:04,912 --> 00:20:07,292
+<i>♪ By a PVC beast ♪</i>
+
+414
+00:20:07,372 --> 00:20:10,962
+<i>♪ My website traffic just increased ♪</i>
+
+415
+00:20:11,043 --> 00:20:12,963
+<i>♪ Best get you home to your mother ♪</i>
+
+416
+00:20:13,045 --> 00:20:15,755
+<i>♪ Or she'll call a lawyer or two ♪</i>
+
+417
+00:20:15,839 --> 00:20:19,219
+<i>♪ There's nothing better</i>
+<i>than spending alternate weekends ♪</i>
+
+418
+00:20:19,301 --> 00:20:21,971
+<i>♪ With you ♪</i>
+
+419
+00:20:22,054 --> 00:20:24,064
+(theme music playing)
+
+420
+00:21:02,094 --> 00:21:03,934
+-(crowd murmuring)
+-Shh!
+
+421
+00:21:04,012 --> 00:21:06,522
+<i>(squeaky-voice)</i>
+<i>♪ Throne of God ♪</i>
+
+422
+00:21:07,015 --> 00:21:09,935
+Subtitled by A. Vandelay
+

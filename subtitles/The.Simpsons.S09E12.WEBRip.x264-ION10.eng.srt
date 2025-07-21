@@ -1,0 +1,1827 @@
+1
+00:00:02,961 --> 00:00:06,131
+CHORUS: <i>♪ The Simpsons ♪</i>
+
+2
+00:00:06,214 --> 00:00:07,224
+(tires screeching)
+
+3
+00:00:07,298 --> 00:00:08,928
+(theme music playing)
+
+4
+00:00:09,467 --> 00:00:11,217
+D'oh! (screams)
+
+5
+00:00:11,302 --> 00:00:12,472
+(tires screeching)
+
+6
+00:00:14,014 --> 00:00:16,024
+Marge, stop this crazy thing!
+
+7
+00:00:27,360 --> 00:00:30,610
+{\an8}We got the popcorn.
+Did you get <i>Waiting to Exhale?</i>
+
+8
+00:00:30,697 --> 00:00:33,487
+{\an8}Well, they put us on the <i>Waiting to Exhale</i>
+waiting list,
+
+9
+00:00:33,575 --> 00:00:35,285
+{\an8}but they said don't hold your breath.
+
+10
+00:00:36,036 --> 00:00:37,366
+{\an8}Did you get <i>Emma? </i>Did you get <i>Emma?</i>
+
+11
+00:00:37,454 --> 00:00:39,504
+{\an8}-Did ya, did ya, did ya, huh?
+-Whoa, whoa.
+
+12
+00:00:39,581 --> 00:00:43,501
+{\an8}Calm down, little lady.
+Take it easy. Take it easy.
+
+13
+00:00:43,585 --> 00:00:46,375
+{\an8}-(chuckles) No.
+-What did you get?
+
+14
+00:00:46,463 --> 00:00:49,173
+{\an8}Something very close,
+exactly along those lines.
+
+15
+00:00:49,591 --> 00:00:53,141
+{\an8}A Clint Eastwood, Lee Marvin
+shoot-'em-up Western!
+
+16
+00:00:53,219 --> 00:00:54,599
+{\an8}(both groaning)
+
+17
+00:00:54,679 --> 00:00:58,179
+{\an8}So prepare yourself for the bloody mayhem
+and unholy carnage
+
+18
+00:00:58,266 --> 00:01:00,806
+{\an8}of Joshua Logan's <i>Paint Your Wagon.</i>
+
+19
+00:01:00,894 --> 00:01:02,694
+{\an8}With blood, I bet.
+
+20
+00:01:02,771 --> 00:01:04,811
+{\an8}(both laughing)
+
+21
+00:01:08,109 --> 00:01:09,649
+{\an8}(whinnies)
+
+22
+00:01:13,740 --> 00:01:14,700
+{\an8}Hey!
+
+23
+00:01:15,950 --> 00:01:19,450
+{\an8}That's a pretty sorry-looking
+wagon you got there, mister.
+
+24
+00:01:21,706 --> 00:01:25,086
+{\an8}I reckon it could use a coat of paint.
+
+25
+00:01:25,752 --> 00:01:27,712
+Well, what are we waiting for?
+
+26
+00:01:28,171 --> 00:01:29,961
+(hoedown music playing)
+
+27
+00:01:32,008 --> 00:01:33,968
+<i>♪ Gonna paint our wagon ♪</i>
+
+28
+00:01:34,052 --> 00:01:36,052
+<i>♪ Gonna paint it good ♪</i>
+
+29
+00:01:36,137 --> 00:01:37,927
+<i>♪ We ain't braggin' ♪</i>
+
+30
+00:01:38,014 --> 00:01:39,934
+<i>♪ We're gonna coat that wood ♪</i>
+
+31
+00:01:40,016 --> 00:01:41,936
+<i>♪ They're gonna paint that wagon ♪</i>
+
+32
+00:01:42,018 --> 00:01:43,978
+<i>♪ They're gonna paint it good ♪</i>
+
+33
+00:01:44,062 --> 00:01:45,812
+<i>♪ They ain't braggin' ♪</i>
+
+34
+00:01:45,897 --> 00:01:47,607
+<i>♪ They're gonna coat that wood ♪</i>
+
+35
+00:01:47,690 --> 00:01:49,110
+(shrieks) They're singing!
+
+36
+00:01:49,192 --> 00:01:51,032
+They're singing, Marge.
+
+37
+00:01:51,111 --> 00:01:52,861
+Why aren't they killing each other?
+
+38
+00:01:52,946 --> 00:01:54,566
+{\an8}Yeah, their guns are right there.
+
+39
+00:01:54,656 --> 00:01:57,526
+Wait, wait, wait. Here comes Lee Marvin.
+
+40
+00:01:57,617 --> 00:02:00,907
+Thank God. He's always drunk and violent.
+
+41
+00:02:02,163 --> 00:02:06,133
+Uh, what the hell is going on in my town?
+
+42
+00:02:06,209 --> 00:02:08,169
+We're just painting this wagon.
+
+43
+00:02:08,253 --> 00:02:10,383
+{\an8}You got a problem with that?
+
+44
+00:02:10,463 --> 00:02:13,633
+{\an8}As a matter of fact, I do.
+
+45
+00:02:14,592 --> 00:02:16,052
+You missed a spot.
+
+46
+00:02:16,136 --> 00:02:19,596
+Well, grab a brush and join in.
+
+47
+00:02:20,014 --> 00:02:21,644
+(hoedown music starts again)
+
+48
+00:02:23,852 --> 00:02:25,732
+<i>♪ Gonna paint your wagon ♪</i>
+
+49
+00:02:25,812 --> 00:02:27,732
+<i>♪ Gonna paint it fine ♪</i>
+
+50
+00:02:27,814 --> 00:02:29,824
+<i>♪ Gonna use oil-based paint ♪</i>
+
+51
+00:02:29,899 --> 00:02:31,899
+<i>♪ 'Cause the wood is pine ♪</i>
+
+52
+00:02:31,985 --> 00:02:34,195
+<i>♪ Ponderosa pine ♪</i>
+
+53
+00:02:34,279 --> 00:02:36,279
+<i>♪ Ooh-ooh ♪</i>
+
+54
+00:02:36,364 --> 00:02:37,914
+-MAN: <i>Yeehaw!</i>
+-MARGE: Mmm.
+
+55
+00:02:37,991 --> 00:02:41,871
+Who knew that Lee Marvin
+could do such marvelous splits?
+
+56
+00:02:41,953 --> 00:02:43,253
+{\an8}He's dreamy.
+
+57
+00:02:47,000 --> 00:02:50,090
+Oh, why did they have to screw up
+a perfectly serviceable wagon story
+
+58
+00:02:50,170 --> 00:02:51,920
+with all that fruity singing?
+
+59
+00:02:52,005 --> 00:02:53,715
+I thought it was toe-tapping fun.
+
+60
+00:02:53,798 --> 00:02:57,338
+Singing is the lowest form
+of communication.
+
+61
+00:02:57,427 --> 00:02:59,427
+Homer, you sing all the time.
+
+62
+00:02:59,512 --> 00:03:01,222
+{\an8}No, I don't. I hate to rhyme.
+
+63
+00:03:01,306 --> 00:03:03,766
+<i>♪ You like musicals, don't you, Dad? ♪</i>
+
+64
+00:03:03,850 --> 00:03:06,270
+<i>♪ No, I don't I think they're bad ♪</i>
+
+65
+00:03:06,352 --> 00:03:09,312
+<i>♪ They're fake and phony</i>
+<i>and totally wrong ♪</i>
+
+66
+00:03:09,397 --> 00:03:12,897
+{\an8}<i>♪ Wake up, Dad, you're singing a song ♪</i>
+
+67
+00:03:12,984 --> 00:03:16,154
+{\an8}<i>♪ I wouldn't, I couldn't</i>
+<i>I hate that stuff ♪</i>
+
+68
+00:03:16,237 --> 00:03:18,987
+<i>♪ Now, Homer, listen, I've had enough ♪</i>
+
+69
+00:03:19,073 --> 00:03:20,833
+<i>♪ In our family videos ♪</i>
+
+70
+00:03:20,909 --> 00:03:22,409
+<i>♪ We have plainly seen ♪</i>
+
+71
+00:03:22,493 --> 00:03:27,293
+<i>♪ You're a singing, dancing</i>
+<i>entertainment machine ♪</i>
+
+72
+00:03:31,544 --> 00:03:33,964
+And a one, and a two, and a three.
+
+73
+00:03:34,047 --> 00:03:35,297
+<i>♪ Ba-bom, bom, bom ♪</i>
+
+74
+00:03:35,381 --> 00:03:38,801
+<i>♪ Baby on board ♪</i>
+
+75
+00:03:38,885 --> 00:03:41,795
+<i>♪ How I've adored ♪</i>
+
+76
+00:03:41,888 --> 00:03:43,308
+<i>♪ That sign ♪</i>
+
+77
+00:03:43,389 --> 00:03:44,969
+<i>♪ On my car's ♪</i>
+
+78
+00:03:45,058 --> 00:03:46,638
+<i>♪ Windowpane... ♪</i>
+
+79
+00:03:46,726 --> 00:03:49,476
+Hello! Human Fly here.
+
+80
+00:03:49,562 --> 00:03:53,652
+Come on! I stayed up all night
+dyeing my underwear.
+
+81
+00:03:53,733 --> 00:03:57,653
+Extra, extra! Be Sharps sing on rooftop!
+
+82
+00:03:57,737 --> 00:03:59,067
+What? Give me one of those!
+
+83
+00:03:59,656 --> 00:04:02,656
+Wait a minute. There's nothing
+in here about the Be Sharps!
+
+84
+00:04:02,742 --> 00:04:05,162
+-Come back here!
+-PAPERBOY: Ha-ha!
+
+85
+00:04:05,245 --> 00:04:08,995
+(Be Sharps continue singing)
+
+86
+00:04:09,082 --> 00:04:11,502
+-It's been done.
+-(tires screech)
+
+87
+00:04:11,584 --> 00:04:14,464
+<i>♪ That window sign can't be ignored... ♪</i>
+
+88
+00:04:14,545 --> 00:04:19,085
+-Pretty, huh, Chief?
+-It sure is, Lou. It sure is.
+
+89
+00:04:19,676 --> 00:04:20,836
+Get the tear gas.
+
+90
+00:04:20,927 --> 00:04:23,347
+<i>♪ A trip to paradise ♪</i>
+
+91
+00:04:23,721 --> 00:04:26,561
+<i>♪ With my baby ♪</i>
+
+92
+00:04:27,308 --> 00:04:30,848
+<i>♪ On board ♪</i>
+
+93
+00:04:30,937 --> 00:04:32,557
+(applause, cheering)
+
+94
+00:04:32,981 --> 00:04:35,651
+{\an8}(glass smashing)
+
+95
+00:04:35,733 --> 00:04:38,323
+{\an8}Dad, we can't let this happen
+to Belle. Do something.
+
+96
+00:04:38,403 --> 00:04:39,493
+{\an8}Don't you worry, Son.
+
+97
+00:04:41,114 --> 00:04:43,624
+My friends! Stop!
+
+98
+00:04:45,076 --> 00:04:47,196
+We <i>could </i>tear it down,
+
+99
+00:04:47,287 --> 00:04:50,457
+but we'd be tearing down
+a part of ourselves.
+
+100
+00:04:52,208 --> 00:04:55,038
+<i>♪ You could close down Moe's ♪</i>
+
+101
+00:04:55,128 --> 00:04:57,508
+<i>♪ Or the Kwik-E-Mart ♪</i>
+
+102
+00:04:57,588 --> 00:05:01,048
+<i>♪ And nobody would care ♪</i>
+
+103
+00:05:01,134 --> 00:05:05,474
+<i>♪ But the heart and soul</i>
+<i>of Springfield's in ♪</i>
+
+104
+00:05:05,555 --> 00:05:08,975
+<i>♪ Our maison derriere ♪</i>
+
+105
+00:05:12,562 --> 00:05:16,322
+(jazz rhythm)
+
+106
+00:05:16,399 --> 00:05:17,979
+<i>♪ We're the sauce on your steak ♪</i>
+
+107
+00:05:18,067 --> 00:05:20,317
+<i>♪ We're the cheese in your cake ♪</i>
+
+108
+00:05:20,903 --> 00:05:24,323
+<i>♪ We put the "spring" in Springfield ♪</i>
+
+109
+00:05:24,407 --> 00:05:26,827
+<i>♪ We're the lace on the nightgown ♪</i>
+
+110
+00:05:26,909 --> 00:05:28,829
+<i>♪ The point after touchdown ♪</i>
+
+111
+00:05:28,911 --> 00:05:32,831
+<i>♪ Yes, we put the "spring"</i>
+<i>in Springfield ♪</i>
+
+112
+00:05:32,915 --> 00:05:34,745
+<i>♪ We're that little extra spice ♪</i>
+
+113
+00:05:34,834 --> 00:05:37,004
+<i>♪ That makes existence extra nice ♪</i>
+
+114
+00:05:37,086 --> 00:05:41,336
+<i>♪ A giddy little thrill</i>
+<i>at a reasonable price ♪</i>
+
+115
+00:05:41,424 --> 00:05:43,344
+<i>♪ Our only major quarrel's ♪</i>
+
+116
+00:05:43,426 --> 00:05:45,636
+<i>♪ With your total lack of morals ♪</i>
+
+117
+00:05:45,720 --> 00:05:47,560
+<i>♪ Our skimpy costumes ain't so bad ♪</i>
+
+118
+00:05:47,638 --> 00:05:50,098
+<i>♪ They seem to entertain your dad ♪</i>
+
+119
+00:05:53,936 --> 00:05:55,516
+<i>♪ The gin in your martini ♪</i>
+
+120
+00:05:55,605 --> 00:05:57,815
+<i>♪ The clams on your linguine ♪</i>
+
+121
+00:05:57,899 --> 00:05:59,189
+<i>♪ Yes, we keep the... ♪</i>
+
+122
+00:05:59,275 --> 00:06:00,185
+(boing)
+
+123
+00:06:00,276 --> 00:06:02,026
+<i>♪ In Springfield ♪</i>
+
+124
+00:06:02,111 --> 00:06:04,361
+<i>♪ We remember our first visit ♪</i>
+
+125
+00:06:04,447 --> 00:06:06,277
+<i>♪ The service was exquisite ♪</i>
+
+126
+00:06:06,366 --> 00:06:08,526
+<i>♪ Why, Joseph, I had no idea ♪</i>
+
+127
+00:06:08,618 --> 00:06:10,698
+<i>♪ Come on, now, you were working here ♪</i>
+
+128
+00:06:10,787 --> 00:06:12,657
+<i>♪ Without it we'd have had no fun ♪</i>
+
+129
+00:06:12,747 --> 00:06:14,867
+<i>♪ Since march of 1961 ♪</i>
+
+130
+00:06:14,957 --> 00:06:16,957
+{\an8}<i>♪ To shut them down now would be twisted ♪</i>
+
+131
+00:06:17,043 --> 00:06:21,843
+<i>♪ We just heard this place existed ♪</i>
+
+132
+00:06:24,717 --> 00:06:26,387
+(brass band modulates up)
+
+133
+00:06:26,469 --> 00:06:29,219
+<i>♪ We're the highlights in your hairdo ♪</i>
+
+134
+00:06:29,305 --> 00:06:31,305
+<i>♪ The extra arms on Vishnu ♪</i>
+
+135
+00:06:31,391 --> 00:06:33,941
+<i>♪ So don't take the... ♪</i>
+
+136
+00:06:34,018 --> 00:06:35,348
+(springs)
+
+137
+00:06:35,436 --> 00:06:38,396
+<i>♪ We won't take the... ♪</i>
+
+138
+00:06:38,481 --> 00:06:39,771
+(penny whistle blows)
+
+139
+00:06:40,233 --> 00:06:43,073
+<i>♪ Yes, let's keep the... ♪</i>
+
+140
+00:06:44,487 --> 00:06:48,447
+<i>♪ In Springfield ♪</i>
+
+141
+00:06:52,161 --> 00:06:54,541
+{\an8}-(horn honks)
+-(belches)
+
+142
+00:06:56,666 --> 00:06:58,246
+{\an8}<i>♪ Mom was right ♪</i>
+
+143
+00:06:58,334 --> 00:07:00,174
+{\an8}<i>♪ Your singing's a sin ♪</i>
+
+144
+00:07:00,253 --> 00:07:02,633
+<i>♪ You're as Les Miserab-les ♪</i>
+
+145
+00:07:02,713 --> 00:07:04,553
+<i>♪ As Lee Mar-vin... ♪</i>
+
+146
+00:07:04,632 --> 00:07:06,472
+(gagging)
+
+147
+00:07:07,093 --> 00:07:08,763
+<i>♪ Sure, your dad's singing ♪</i>
+
+148
+00:07:08,845 --> 00:07:10,845
+<i>♪ Could make your hair curl ♪</i>
+
+149
+00:07:10,930 --> 00:07:12,640
+<i>♪ But you, too, Bart ♪</i>
+
+150
+00:07:12,723 --> 00:07:15,353
+<i>♪ Have sung and danced like a girl ♪</i>
+
+151
+00:07:15,435 --> 00:07:16,515
+Eep.
+
+152
+00:07:18,521 --> 00:07:20,731
+(both yelling, whooping)
+
+153
+00:07:20,815 --> 00:07:23,855
+-(squeaking)
+-(gasps) it's so thick!
+
+154
+00:07:24,610 --> 00:07:25,450
+(inhaling deeply)
+
+155
+00:07:27,447 --> 00:07:31,027
+(coughing) Your turn, Bart.
+
+156
+00:07:31,909 --> 00:07:33,119
+(sucking)
+
+157
+00:07:33,953 --> 00:07:36,873
+{\an8}(coughs) Whoa! That's good squishy.
+
+158
+00:07:36,956 --> 00:07:39,286
+{\an8}(groaning)
+
+159
+00:07:39,375 --> 00:07:42,375
+{\an8}What's it like, Bart? Bart? Bart?
+
+160
+00:07:42,462 --> 00:07:44,922
+{\an8}-(babbling gibberish)
+-Give me that!
+
+161
+00:07:45,006 --> 00:07:45,966
+(slurps)
+
+162
+00:07:47,049 --> 00:07:49,509
+(moans, yelps)
+
+163
+00:07:49,594 --> 00:07:52,644
+{\an8}OK. We're young, rich and full of sugar.
+What'll we do?
+
+164
+00:07:52,722 --> 00:07:55,892
+Let's go crazy Broadway-style!
+
+165
+00:07:56,476 --> 00:07:58,306
+BOTH: Yeah!
+
+166
+00:07:58,394 --> 00:08:01,154
+<i>♪ Springfield, Springfield,</i>
+<i>it's a hell of a town ♪</i>
+
+167
+00:08:01,230 --> 00:08:03,820
+<i>♪ The schoolyard's up,</i>
+<i>and the shopping mall's down ♪</i>
+
+168
+00:08:03,900 --> 00:08:06,400
+<i>♪ The stray dogs go to the animal pound ♪</i>
+
+169
+00:08:06,486 --> 00:08:08,066
+<i>♪ Springfield, Springfield ♪</i>
+
+170
+00:08:08,154 --> 00:08:09,164
+<i>♪ Springfield, Springfield ♪</i>
+
+171
+00:08:09,238 --> 00:08:10,948
+<i>♪ New York, New York ♪</i>
+
+172
+00:08:11,032 --> 00:08:14,492
+-New York is thataway, man.
+-Thanks, kid.
+
+173
+00:08:15,077 --> 00:08:18,997
+<i>♪ It's a helluva town ♪</i>
+
+174
+00:08:20,208 --> 00:08:24,418
+{\an8}-(show music continues)
+-Whoa. Wow.
+
+175
+00:08:35,848 --> 00:08:37,768
+(spitting)
+
+176
+00:08:37,850 --> 00:08:40,770
+-(cats yowling, hissing)
+-Huh? Huh?
+
+177
+00:08:47,985 --> 00:08:50,195
+Mmm! Free goo.
+
+178
+00:08:57,203 --> 00:08:59,913
+{\an8}MILHOUSE: Hey! Don't Bogart that squishy!
+
+179
+00:08:59,997 --> 00:09:04,247
+(gulping) I don't know where
+you magic pixies came from,
+
+180
+00:09:04,335 --> 00:09:06,625
+but I like your pixie drink.
+
+181
+00:09:08,506 --> 00:09:11,966
+{\an8}-(music continues)
+-(laughing)
+
+182
+00:09:16,013 --> 00:09:17,813
+(groaning)
+
+183
+00:09:17,890 --> 00:09:19,810
+Oh, my head.
+
+184
+00:09:20,226 --> 00:09:22,346
+{\an8}<i>♪ That was pretty bad, Bart ♪</i>
+
+185
+00:09:22,436 --> 00:09:24,556
+{\an8}<i>♪ But it could've been worse ♪</i>
+
+186
+00:09:24,647 --> 00:09:28,937
+{\an8}<i>♪ You could have been carrying</i>
+<i>a sequined purse ♪</i>
+
+187
+00:09:29,485 --> 00:09:31,355
+<i>♪ I hate to dance ♪</i>
+
+188
+00:09:31,445 --> 00:09:33,775
+<i>♪ And prance and sing ♪</i>
+
+189
+00:09:34,198 --> 00:09:38,698
+<i>♪ That's really more of a Milhouse thing ♪</i>
+
+190
+00:09:38,786 --> 00:09:40,616
+<i>♪ I think you move ♪</i>
+
+191
+00:09:40,997 --> 00:09:43,037
+<i>♪ Like a young Baryshnikov ♪</i>
+
+192
+00:09:43,124 --> 00:09:44,334
+<i>♪ Nobody move ♪</i>
+
+193
+00:09:44,417 --> 00:09:45,327
+(gun cocking)
+
+194
+00:09:45,418 --> 00:09:48,588
+<i>♪ Or I'll blow your heads off ♪</i>
+
+195
+00:09:49,130 --> 00:09:53,300
+<i>♪ Ooh-ooh ♪</i>
+
+196
+00:09:53,384 --> 00:09:56,894
+<i>♪ Ooh-uh-yech! ♪</i>
+
+197
+00:10:02,768 --> 00:10:07,518
+<i>♪ It's a desperate criminal</i>
+<i>on the run from the law ♪</i>
+
+198
+00:10:07,607 --> 00:10:09,817
+<i>♪ Please spare my children ♪</i>
+
+199
+00:10:09,900 --> 00:10:11,990
+{\an8}<i>♪ And their damp-trousered pa ♪</i>
+
+200
+00:10:12,612 --> 00:10:17,202
+<i>♪ A singing family,</i>
+<i>it's worse than I feared ♪</i>
+
+201
+00:10:17,283 --> 00:10:21,873
+<i>♪ For hostage purposes,</i>
+<i>you're just too weird ♪</i>
+
+202
+00:10:22,622 --> 00:10:23,622
+<i>♪ Bye! ♪</i>
+
+203
+00:10:24,749 --> 00:10:27,919
+<i>♪ See? All this singing scared him away ♪</i>
+
+204
+00:10:28,002 --> 00:10:31,632
+<i>♪ If we just talked like normal</i>
+<i>he'd probably stay ♪</i>
+
+205
+00:10:31,714 --> 00:10:35,514
+<i>♪ Many people in this town</i>
+<i>sing like we do ♪</i>
+
+206
+00:10:35,593 --> 00:10:41,353
+<i>♪ There's Mr. Burns,</i>
+<i>there's Krusty and even Apu ♪</i>
+
+207
+00:10:42,642 --> 00:10:46,982
+Whether igloo, hut or lean-to
+or a geodesic dome,
+
+208
+00:10:47,063 --> 00:10:51,113
+there's no structure have been to which
+I'd rather call my home.
+
+209
+00:10:51,192 --> 00:10:52,782
+Hello. (yelps)
+
+210
+00:10:53,402 --> 00:10:54,782
+<i>♪ When I first arrived ♪</i>
+
+211
+00:10:54,862 --> 00:10:56,112
+<i>♪ You were all such jerks ♪</i>
+
+212
+00:10:56,197 --> 00:10:59,407
+<i>♪ But now I've come to love your quirks ♪</i>
+
+213
+00:10:59,492 --> 00:11:01,412
+<i>♪ Maggie with her eyes so bright ♪</i>
+
+214
+00:11:01,494 --> 00:11:03,754
+{\an8}<i>♪ Marge with hair by Frank Lloyd Wright ♪</i>
+
+215
+00:11:03,829 --> 00:11:05,869
+<i>♪ Lisa can philosophize ♪</i>
+
+216
+00:11:05,956 --> 00:11:07,876
+<i>♪ Bart's adept at spinning lies ♪</i>
+
+217
+00:11:07,958 --> 00:11:09,998
+<i>♪ Homer's a delightful fella ♪</i>
+
+218
+00:11:10,086 --> 00:11:12,296
+<i>♪ Sorry 'bout the salmonella ♪</i>
+
+219
+00:11:12,380 --> 00:11:13,710
+(chuckles) That's OK.
+
+220
+00:11:13,798 --> 00:11:14,878
+(screaming)
+
+221
+00:11:14,965 --> 00:11:16,755
+<i>♪ Who needs the Kwik-E-Mart? ♪</i>
+
+222
+00:11:16,842 --> 00:11:18,682
+{\an8}<i>♪ Now here's the tricky part ♪</i>
+
+223
+00:11:19,136 --> 00:11:22,176
+<i>♪ Oh, won't you rhyme with me? ♪</i>
+
+224
+00:11:23,683 --> 00:11:25,233
+<i>♪ Who needs the Kwik-E-Mart? ♪</i>
+
+225
+00:11:25,309 --> 00:11:27,309
+<i>♪ Their floors are Stick-E-Mart ♪</i>
+
+226
+00:11:27,395 --> 00:11:29,805
+<i>♪ They make that Sick-E-Mart ♪</i>
+
+227
+00:11:29,897 --> 00:11:31,567
+<i>♪ Let's hurl a Brick-E-Mart ♪</i>
+
+228
+00:11:31,649 --> 00:11:33,689
+{\an8}<i>♪ The Kwik-E-Mart is real-- ♪</i>
+
+229
+00:11:33,776 --> 00:11:34,646
+{\an8}D'oh!
+
+230
+00:11:35,611 --> 00:11:39,121
+<i>♪ Who needs the Kwik-E-Mart? ♪</i>
+
+231
+00:11:39,532 --> 00:11:43,042
+<i>-♪ Not me! ♪</i>
+-♪ Forget the Kwik-E-Mart ♪
+
+232
+00:11:43,119 --> 00:11:45,199
+<i>♪ Good-bye to Kwik-E-Mart ♪</i>
+
+233
+00:11:45,287 --> 00:11:47,497
+<i>♪ Who needs the Kwik-E-Mart? ♪</i>
+
+234
+00:11:47,581 --> 00:11:48,791
+<i>♪ Not me ♪</i>
+
+235
+00:11:53,504 --> 00:11:56,804
+(sighs) Everything really
+wrapped up nicely.
+
+236
+00:11:56,882 --> 00:11:58,722
+Hmm. Much quicker than usual.
+
+237
+00:11:58,801 --> 00:12:01,721
+I guess we've learned that happiness is
+wherever you find it.
+
+238
+00:12:01,804 --> 00:12:05,474
+And we've all found happiness,
+every one of us.
+
+239
+00:12:06,726 --> 00:12:09,016
+-(Apu crying)
+-(TV clicks on)
+
+240
+00:12:11,480 --> 00:12:12,480
+Hey, what's that sound?
+
+241
+00:12:12,565 --> 00:12:14,105
+(crying)
+
+242
+00:12:16,152 --> 00:12:19,532
+<i>♪ Who needs the Kwik-E-Mart? ♪</i>
+
+243
+00:12:20,239 --> 00:12:25,289
+<i>♪ I do ♪</i>
+
+244
+00:12:25,369 --> 00:12:29,829
+Hey, he's not happy at all!
+He lied to us through song!
+
+245
+00:12:29,915 --> 00:12:31,995
+I hate when people do that!
+
+246
+00:12:32,752 --> 00:12:34,462
+-(drum roll)
+-ANNOUNCER: <i>Live from Springfield,</i>
+
+247
+00:12:34,545 --> 00:12:36,375
+<i>the entertainment capital of this state,</i>
+
+248
+00:12:36,464 --> 00:12:38,384
+<i>the </i>Krusty Komeback Special!
+
+249
+00:12:38,466 --> 00:12:40,586
+(soft piano music playing)
+
+250
+00:12:41,969 --> 00:12:43,469
+<i>♪ Send in ♪</i>
+
+251
+00:12:44,805 --> 00:12:47,015
+<i>♪ The clowns ♪</i>
+
+252
+00:12:48,559 --> 00:12:53,019
+<i>♪ Those daffy, laughy clowns ♪</i>
+
+253
+00:12:54,106 --> 00:12:58,146
+{\an8}<i>♪ Send in those soulful and doleful ♪</i>
+
+254
+00:12:58,235 --> 00:13:03,815
+{\an8}<i>♪ Schmaltz-by-the-bowlful clowns ♪</i>
+
+255
+00:13:06,160 --> 00:13:09,910
+<i>♪ Send in the clowns ♪</i>
+
+256
+00:13:09,997 --> 00:13:12,117
+(sobbing)
+
+257
+00:13:12,917 --> 00:13:18,837
+<i>♪ They're already here ♪</i>
+
+258
+00:13:22,802 --> 00:13:25,352
+(applause)
+
+259
+00:13:28,349 --> 00:13:30,889
+-I love you, Krusty.
+-Quiet!
+
+260
+00:13:33,521 --> 00:13:35,941
+Maybe we were wrong
+about Burns on this one.
+
+261
+00:13:38,692 --> 00:13:41,072
+Are you sure you want
+to go through with this, sir?
+
+262
+00:13:41,153 --> 00:13:43,953
+You do have a very full wardrobe as it is.
+
+263
+00:13:44,031 --> 00:13:48,991
+Yes. But not completely full. For you see-
+
+264
+00:13:49,078 --> 00:13:52,208
+<i>♪ Some men hunt for sport ♪</i>
+
+265
+00:13:52,289 --> 00:13:54,789
+<i>♪ Others hunt for food ♪</i>
+
+266
+00:13:54,875 --> 00:13:59,505
+<i>♪ The only thing I'm hunting for ♪</i>
+
+267
+00:14:00,464 --> 00:14:05,804
+<i>♪ Is an outfit that looks good ♪</i>
+
+268
+00:14:09,348 --> 00:14:12,058
+<i>♪ See my ♪</i>
+
+269
+00:14:12,142 --> 00:14:15,562
+<i>♪ Vest, see my vest</i>
+<i>made from real Gorilla chest ♪</i>
+
+270
+00:14:15,646 --> 00:14:16,726
+<i>♪ Feel this sweater ♪</i>
+
+271
+00:14:16,814 --> 00:14:19,534
+<i>♪ There's no better</i>
+<i>than authentic Irish setter ♪</i>
+
+272
+00:14:19,608 --> 00:14:21,358
+<i>♪ See this hat, 'twas my cat ♪</i>
+
+273
+00:14:21,443 --> 00:14:23,703
+<i>♪ My evening wear, vampire bat ♪</i>
+
+274
+00:14:23,779 --> 00:14:25,239
+<i>♪ These white slippers ♪</i>
+
+275
+00:14:25,322 --> 00:14:27,622
+<i>♪ Are albino African endangered rhino ♪</i>
+
+276
+00:14:27,700 --> 00:14:29,580
+<i>♪ Grizzly bear underwear ♪</i>
+
+277
+00:14:29,660 --> 00:14:31,620
+<i>♪ Turtles' necks, I've got my share ♪</i>
+
+278
+00:14:31,704 --> 00:14:35,504
+<i>♪ Beret of poodle</i>
+<i>on my noodle it shall rest ♪</i>
+
+279
+00:14:35,583 --> 00:14:37,593
+<i>♪ Try my red robin suit ♪</i>
+
+280
+00:14:37,668 --> 00:14:39,668
+<i>♪ It comes one breast or two ♪</i>
+
+281
+00:14:40,004 --> 00:14:41,844
+<i>♪ See my vest, see my vest ♪</i>
+
+282
+00:14:41,922 --> 00:14:43,722
+<i>♪ See my vest ♪</i>
+
+283
+00:14:46,844 --> 00:14:49,474
+<i>♪ Like my ♪</i>
+
+284
+00:14:49,555 --> 00:14:52,385
+<i>♪ Loafers, former gophers ♪</i>
+
+285
+00:14:52,474 --> 00:14:54,894
+<i>♪ It was that or skin my chauffeurs ♪</i>
+
+286
+00:14:54,977 --> 00:14:57,937
+<i>♪ But a greyhound fur tuxedo</i>
+<i>would be best ♪</i>
+
+287
+00:14:58,022 --> 00:15:00,022
+<i>♪ So let's prepare these dogs ♪</i>
+
+288
+00:15:00,107 --> 00:15:01,607
+<i>♪ Kill two for matching clogs ♪</i>
+
+289
+00:15:01,692 --> 00:15:03,282
+{\an8}<i>♪ See my vest ♪</i>
+
+290
+00:15:03,360 --> 00:15:04,740
+{\an8}<i>♪ See my vest ♪</i>
+
+291
+00:15:05,154 --> 00:15:11,164
+<i>♪ Oh, please, won't you see my vest? ♪</i>
+
+292
+00:15:12,328 --> 00:15:15,038
+-I really like the vest.
+-I gathered, yeah.
+
+293
+00:15:15,122 --> 00:15:17,252
+We gotta get the dogs out of there!
+
+294
+00:15:18,292 --> 00:15:22,002
+{\an8}<i>♪ Because he was singing,</i>
+<i>we overheard his plan ♪</i>
+
+295
+00:15:22,087 --> 00:15:25,547
+{\an8}<i>♪ And could save those dogs</i>
+<i>from that mean old man ♪</i>
+
+296
+00:15:25,633 --> 00:15:29,393
+<i>♪ It still wasn't worth</i>
+<i>Burns' song and dance ♪</i>
+
+297
+00:15:29,887 --> 00:15:34,177
+<i>♪ I'm back, so resume wetting your pants ♪</i>
+
+298
+00:15:34,266 --> 00:15:35,266
+OK.
+
+299
+00:15:35,351 --> 00:15:36,641
+<i>♪ Because of you all ♪</i>
+
+300
+00:15:36,727 --> 00:15:38,807
+<i>♪ I got a tune in my head ♪</i>
+
+301
+00:15:38,896 --> 00:15:43,066
+<i>♪ And the only way to stop it</i>
+<i>is to make you all dead ♪</i>
+
+302
+00:15:43,943 --> 00:15:46,243
+Oh, I knew I should have shut that window.
+
+303
+00:15:52,826 --> 00:15:54,746
+<i>♪ Say your prayers ♪</i>
+
+304
+00:15:54,828 --> 00:15:57,748
+<i>♪ And then it's ka-blammo ♪</i>
+
+305
+00:15:57,831 --> 00:15:59,921
+(clicking)
+
+306
+00:16:02,670 --> 00:16:04,800
+<i>♪ Uh-oh, I'll be back ♪</i>
+
+307
+00:16:04,880 --> 00:16:07,510
+<i>♪ When I get some ammo ♪</i>
+
+308
+00:16:07,591 --> 00:16:08,881
+Bye.
+
+309
+00:16:09,510 --> 00:16:13,060
+<i>♪ Even the criminals</i>
+<i>are beginning to croon ♪</i>
+
+310
+00:16:13,138 --> 00:16:16,558
+<i>♪ Homie, this whole town runs on a tune ♪</i>
+
+311
+00:16:17,768 --> 00:16:21,728
+<i>♪ Our churches, our clubs,</i>
+<i>our government, too ♪</i>
+
+312
+00:16:21,814 --> 00:16:25,484
+<i>♪ Springfield swings like a pendulum do! ♪</i>
+
+313
+00:16:28,654 --> 00:16:32,244
+<i>♪ We can't even get</i>
+<i>any local laws passed ♪</i>
+
+314
+00:16:32,324 --> 00:16:35,794
+<i>♪ Without everyone singing ♪</i>
+
+315
+00:16:35,869 --> 00:16:41,419
+<i>♪ Like a big Broadway cast ♪</i>
+
+316
+00:16:43,627 --> 00:16:47,167
+Very well. We will now hear
+suggestions for the, uh,
+
+317
+00:16:47,256 --> 00:16:49,166
+disbursement of the, uh,
+two million dollars.
+
+318
+00:16:49,258 --> 00:16:50,838
+Don't you mean three million dollars?
+
+319
+00:16:52,219 --> 00:16:54,139
+Of course. How silly of me.
+
+320
+00:16:54,221 --> 00:16:55,431
+(whistles)
+
+321
+00:16:55,514 --> 00:16:56,894
+You know, a town with money
+
+322
+00:16:56,974 --> 00:16:59,484
+is a little like the mule
+with a spinning wheel.
+
+323
+00:16:59,560 --> 00:17:02,940
+No one knows how he got it,
+and danged if he knows how to use it.
+
+324
+00:17:03,022 --> 00:17:06,782
+{\an8}-(laughter)
+-(chuckles) Mule.
+
+325
+00:17:06,859 --> 00:17:09,859
+The name's Lanley, Lyle Lanley.
+
+326
+00:17:09,945 --> 00:17:13,195
+And I come before you good people tonight
+with an idea.
+
+327
+00:17:13,282 --> 00:17:16,702
+Probably the greatest--
+Ah, it's not for you.
+
+328
+00:17:16,785 --> 00:17:19,455
+It's more of a Shelbyville idea.
+
+329
+00:17:19,955 --> 00:17:21,495
+MAYOR DIAMOND: Now wait just a minute.
+
+330
+00:17:21,582 --> 00:17:23,882
+We're twice as smart
+as the people of Shelbyville.
+
+331
+00:17:23,959 --> 00:17:26,209
+Just tell us your idea,
+and we'll vote for it.
+
+332
+00:17:26,295 --> 00:17:29,085
+All right. I tell you what I'll do.
+
+333
+00:17:29,173 --> 00:17:30,673
+I'll show you my idea.
+
+334
+00:17:31,425 --> 00:17:36,385
+-I give you the Springfield monorail!
+-(all gasping)
+
+335
+00:17:36,472 --> 00:17:40,432
+I've sold monorails to Brockway,
+Ogdenville and North Haverbrook,
+
+336
+00:17:40,517 --> 00:17:42,897
+{\an8}and by gum, it put them on the map!
+
+337
+00:17:43,479 --> 00:17:45,899
+{\an8}Well, sir, there's nothing on Earth
+like a genuine, bona fide,
+
+338
+00:17:45,981 --> 00:17:48,151
+electrified, six-car monorail.
+
+339
+00:17:48,233 --> 00:17:50,073
+-What'd I say?
+-Monorail!
+
+340
+00:17:50,152 --> 00:17:51,702
+-What's it called?
+-Monorail!
+
+341
+00:17:51,779 --> 00:17:56,449
+-That's right, monorail!
+-ALL: Monorail. Monorail. Monorail.
+
+342
+00:17:56,533 --> 00:17:58,493
+<i>♪ I hear those things are awfully loud ♪</i>
+
+343
+00:17:58,577 --> 00:18:00,537
+<i>♪ It glides as softly as a cloud ♪</i>
+
+344
+00:18:00,621 --> 00:18:02,711
+<i>♪ Is there a chance</i>
+<i>the track could bend? ♪</i>
+
+345
+00:18:02,790 --> 00:18:04,710
+<i>♪ Not on your life, my Hindu friend ♪</i>
+
+346
+00:18:04,792 --> 00:18:06,632
+<i>♪ What about us brain-dead slobs? ♪</i>
+
+347
+00:18:06,710 --> 00:18:08,750
+<i>♪ You'll be given cushy jobs ♪</i>
+
+348
+00:18:08,837 --> 00:18:10,797
+<i>♪ Were you sent here by the devil? ♪</i>
+
+349
+00:18:10,881 --> 00:18:12,631
+<i>♪ No, good sir, I'm on the level ♪</i>
+
+350
+00:18:12,716 --> 00:18:14,716
+<i>♪ The ring came off my pudding can ♪</i>
+
+351
+00:18:14,802 --> 00:18:16,222
+<i>♪ Take my penknife, my good man ♪</i>
+
+352
+00:18:16,303 --> 00:18:18,513
+<i>♪ I swear it's Springfield's only choice ♪</i>
+
+353
+00:18:18,597 --> 00:18:20,717
+<i>♪ Throw up your hands</i>
+<i>and raise your voice ♪</i>
+
+354
+00:18:20,808 --> 00:18:21,848
+ALL: <i>♪ Monorail! ♪</i>
+
+355
+00:18:21,934 --> 00:18:22,814
+<i>♪ What's it called? ♪</i>
+
+356
+00:18:22,893 --> 00:18:23,893
+<i>♪ Monorail! ♪</i>
+
+357
+00:18:23,977 --> 00:18:24,897
+<i>♪ Once again ♪</i>
+
+358
+00:18:24,978 --> 00:18:27,478
+<i>♪ Monorail! ♪</i>
+
+359
+00:18:28,816 --> 00:18:31,236
+<i>♪ But main street's still</i>
+<i>all cracked and broken ♪</i>
+
+360
+00:18:31,318 --> 00:18:32,818
+<i>♪ Sorry, Mom, the mob has spoken ♪</i>
+
+361
+00:18:32,903 --> 00:18:34,493
+<i>♪ Monorail ♪</i>
+
+362
+00:18:35,072 --> 00:18:36,992
+<i>♪ Monorail ♪</i>
+
+363
+00:18:37,074 --> 00:18:39,744
+<i>♪ Monorail ♪</i>
+
+364
+00:18:39,827 --> 00:18:40,907
+Monorail!
+
+365
+00:18:41,453 --> 00:18:43,293
+Mono-- D'oh!
+
+366
+00:18:46,375 --> 00:18:49,285
+{\an8}Hymns here! I got hymns here!
+Get 'em while they're holy!
+
+367
+00:18:49,378 --> 00:18:53,298
+{\an8}Fresh from God's brain to your mouth!
+(sinister chuckle)
+
+368
+00:18:53,382 --> 00:18:56,642
+And now please rise for our opening hymn,
+
+369
+00:18:56,718 --> 00:18:59,758
+{\an8}uh, "In the Garden of Eden"
+
+370
+00:18:59,847 --> 00:19:02,887
+{\an8}by I. Ron Butterfly.
+
+371
+00:19:02,975 --> 00:19:05,975
+(playing to the tune of
+"In-A-Gadda-Da-Vida")
+
+372
+00:19:10,691 --> 00:19:14,151
+<i>♪ in the garden of Eden, honey ♪</i>
+
+373
+00:19:14,236 --> 00:19:17,486
+<i>♪ Don't you know that I love you ♪</i>
+
+374
+00:19:17,573 --> 00:19:21,543
+<i>♪ In the garden of Eden, baby ♪</i>
+
+375
+00:19:21,618 --> 00:19:25,328
+<i>♪ Don't you know</i>
+<i>that I'll always be true ♪</i>
+
+376
+00:19:25,414 --> 00:19:28,044
+-(organ continues)
+-(sinister chuckle)
+
+377
+00:19:30,878 --> 00:19:34,378
+Hey, Marge, remember
+when we used to make out to this hymn?
+
+378
+00:19:34,464 --> 00:19:37,344
+-(giggles) shh! shh! shh!
+-(chuckling)
+
+379
+00:19:43,557 --> 00:19:46,767
+<i>♪ Oh, won't you come with me ♪</i>
+
+380
+00:19:46,852 --> 00:19:50,562
+{\an8}<i>♪ And take my hand? ♪</i>
+
+381
+00:19:50,939 --> 00:19:54,899
+Wait a minute. This sounds
+like rock and/or roll.
+
+382
+00:20:11,960 --> 00:20:14,170
+<i>♪ Who controls the British crown? ♪</i>
+
+383
+00:20:14,254 --> 00:20:16,304
+<i>♪ Who keeps the metric system down? ♪</i>
+
+384
+00:20:16,381 --> 00:20:18,341
+<i>♪ We do ♪</i>
+
+385
+00:20:18,425 --> 00:20:20,255
+<i>♪ We do ♪</i>
+
+386
+00:20:20,344 --> 00:20:22,604
+<i>♪ Who leaves Atlantis off the maps? ♪</i>
+
+387
+00:20:22,679 --> 00:20:24,509
+<i>♪ Who keeps the Martians under wraps? ♪</i>
+
+388
+00:20:24,598 --> 00:20:26,348
+<i>♪ We do ♪</i>
+
+389
+00:20:26,433 --> 00:20:28,443
+<i>♪ We do ♪</i>
+
+390
+00:20:28,852 --> 00:20:32,942
+<i>♪ Who holds back the electric car? ♪</i>
+
+391
+00:20:33,023 --> 00:20:35,613
+<i>♪ Who makes Steve Guttenberg ♪</i>
+
+392
+00:20:35,692 --> 00:20:37,192
+<i>♪ A star? ♪</i>
+
+393
+00:20:37,277 --> 00:20:39,107
+<i>♪ We do ♪</i>
+
+394
+00:20:39,196 --> 00:20:41,446
+<i>♪ We do ♪</i>
+
+395
+00:20:41,531 --> 00:20:43,621
+<i>♪ Who robs cave fish of their sight? ♪</i>
+
+396
+00:20:43,700 --> 00:20:45,620
+<i>♪ Who rigs every Oscar night? ♪</i>
+
+397
+00:20:45,702 --> 00:20:48,542
+<i>♪ We do ♪</i>
+
+398
+00:20:48,997 --> 00:20:52,537
+<i>♪ We do! ♪</i>
+
+399
+00:20:54,628 --> 00:20:57,968
+<i>♪ All right, Marge ♪</i>
+
+400
+00:20:58,048 --> 00:21:02,428
+<i>♪ You've convinced me there are</i>
+<i>more terrible things ♪</i>
+
+401
+00:21:02,511 --> 00:21:07,101
+<i>♪ Than musical comedies</i>
+<i>where everyone sings ♪</i>
+
+402
+00:21:08,350 --> 00:21:10,440
+{\an8}<i>♪ There is something worse ♪</i>
+
+403
+00:21:10,519 --> 00:21:12,769
+{\an8}<i>♪ And it really does blow ♪</i>
+
+404
+00:21:12,854 --> 00:21:15,824
+{\an8}<i>♪ When a long-running series ♪</i>
+
+405
+00:21:16,525 --> 00:21:21,905
+<i>♪ Does a cheesy clip show ♪</i>
+
+406
+00:21:23,073 --> 00:21:25,243
+<i>♪ I'm back to commit ♪</i>
+
+407
+00:21:26,285 --> 00:21:28,035
+<i>♪ Felonious assault ♪</i>
+
+408
+00:21:28,120 --> 00:21:31,290
+<i>♪ Because your infernal singing ♪</i>
+
+409
+00:21:31,373 --> 00:21:33,383
+<i>♪ Just would not halt ♪</i>
+
+410
+00:21:33,709 --> 00:21:36,039
+-Actually, we're done.
+-Done, done.
+
+411
+00:21:36,128 --> 00:21:38,918
+-And not a moment too soon.
+-Oh, OK then.
+
+412
+00:21:39,006 --> 00:21:41,676
+Well, then I got
+no beef with you. (grunts)
+
+413
+00:21:42,217 --> 00:21:45,967
+-OK, who wants dinner?
+-(all clamoring)
+
+414
+00:21:46,054 --> 00:21:47,724
+Well, let's get eating.
+
+415
+00:21:47,806 --> 00:21:50,056
+-(humming)
+-(gunshots)
+
+416
+00:21:50,142 --> 00:21:53,602
+All right, all right. Sorry.
+
+417
+00:21:59,860 --> 00:22:02,320
+(theme music playing)
+
+418
+00:22:07,951 --> 00:22:09,241
+-(gunshots)
+-(theme music stops playing)
+
+419
+00:22:09,328 --> 00:22:13,708
+SNAKE: Yo! I told you
+<i>to stop the music, dudes. I'm serious!</i>
+
+420
+00:22:14,166 --> 00:22:15,706
+(crickets chirping)
+
+421
+00:22:17,461 --> 00:22:19,711
+(theme music resumes)
+
+422
+00:22:23,675 --> 00:22:25,795
+SNAKE: Oh, oh, oh!
+<i>You're so not listening!</i>
+
+423
+00:22:25,886 --> 00:22:27,546
+-(gunshots)
+-(music stops)
+
+424
+00:22:28,472 --> 00:22:30,602
+(crickets chirping)
+
+425
+00:22:30,682 --> 00:22:32,772
+(theme music resumes softly)
+
+426
+00:22:35,228 --> 00:22:36,308
+SNAKE: <i>OK, I hear that.</i>
+
+427
+00:22:36,730 --> 00:22:39,110
+- <i>I hear that, dudes!</i>
+-(gunshot)
+
+428
+00:22:39,858 --> 00:22:41,688
+-(mellow instrumental)
+-(gunshot)
+
+429
+00:22:41,777 --> 00:22:44,277
+SNAKE: <i>You too, Gracie music dude! Guh!</i>
+
+430
+00:22:44,780 --> 00:22:46,780
+{\an8}Captioned by Visual Data Media Services
+
