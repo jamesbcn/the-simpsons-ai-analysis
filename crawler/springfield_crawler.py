@@ -18,24 +18,15 @@ class SimpsonsSpider(scrapy.Spider):
     
     def parse_springfield(self, response):
         
-        springfield_name = response.css('span.mw-page-title-main::text').extract()[0]
-        springfield_name = springfield_name.strip()
+        location_name = response.css('span.mw-page-title-main::text').extract()[0]
+        location_name = location_name.strip()
 
         div_selector = response.css('div.page-content')[0]
         div_html = div_selector.extract()
 
         soup = BeautifulSoup(div_html).find('div')
 
-        # if soup.find('div',{'id':'quiz_module_desktop_placement_styles'}):
-        #     soup.find('div',{'id':'quiz_module_desktop_placement_styles'}).decompose()
-        
-        # if soup.find('h2',{'id':'quiz_module_destkop_header_styles'}):
-        #     soup.find('h2',{'id':'quiz_module_destkop_header_styles'}).decompose()
-        
-        # if soup.find('a',{'id':'quiz_module_desktop_link_styles'}):
-        #     soup.find('a',{'id':'quiz_module_desktop_link_styles'}).decompose()
-
-        springfield_type=""
+        location_type=""
 
         if soup.find('aside'):
             aside= soup.find('aside')
@@ -43,17 +34,17 @@ class SimpsonsSpider(scrapy.Spider):
                 if cell.find('h3'):
                     cell_name = cell.find('h3').text.strip()
                     if cell_name=='Use':
-                        springfield_type = cell.find('div').text.strip()
+                        location_type = cell.find('div').text.strip()
 
             soup.find('aside').decompose()
 
-        springfield_description = soup.text
-        springfield_description = springfield_description.split('Trivia')[0].strip()
+        location_description = soup.text
+        location_description = location_description.split('Trivia')[0].strip()
 
 
         yield dict(   
-                    springfield_name= springfield_name,
-                    springfield_type = springfield_type,
-                    springfield_description=springfield_description
+                    location_name= location_name,
+                    location_type = location_type,
+                    location_description=location_description
 
                 )
