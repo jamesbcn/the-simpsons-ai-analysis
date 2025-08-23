@@ -1,3 +1,6 @@
+*.pyc
+*.ipynb_checkpoints
+.env
+*__pycache__/
 venv/
 locations.jsonl
-crawler/__pycache__
