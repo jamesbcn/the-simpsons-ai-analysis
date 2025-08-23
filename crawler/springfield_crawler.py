@@ -1,6 +1,10 @@
 import scrapy
 from bs4 import BeautifulSoup
 
+
+# This spider will scrape Springfield locations from the Simpsons Fandom wiki.
+# To run this spider, you need to have Scrapy installed and run the command: scrapy runspider crawler/springfield_crawler.py -o data/springfield_locations.json
+
 class SimpsonsSpider(scrapy.Spider):
     name = 'spingfieldspider'
     start_urls = ['https://simpsons.fandom.com/wiki/Category:Springfield']
@@ -48,3 +52,4 @@ class SimpsonsSpider(scrapy.Spider):
                     location_description=location_description
 
                 )
+        

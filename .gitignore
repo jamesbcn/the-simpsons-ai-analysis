@@ -1,2 +1,3 @@
 venv/
 locations.jsonl
+crawler/__pycache__
