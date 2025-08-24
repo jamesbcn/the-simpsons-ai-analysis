@@ -1,0 +1,444 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script>function neighbourhoodHighlight(params) {
+  // console.log("in nieghbourhoodhighlight");
+  allNodes = nodes.get({ returnType: "Object" });
+  // originalNodes = JSON.parse(JSON.stringify(allNodes));
+  // if something is selected:
+  if (params.nodes.length > 0) {
+    highlightActive = true;
+    var i, j;
+    var selectedNode = params.nodes[0];
+    var degrees = 2;
+
+    // mark all nodes as hard to read.
+    for (let nodeId in allNodes) {
+      // nodeColors[nodeId] = allNodes[nodeId].color;
+      allNodes[nodeId].color = "rgba(200,200,200,0.5)";
+      if (allNodes[nodeId].hiddenLabel === undefined) {
+        allNodes[nodeId].hiddenLabel = allNodes[nodeId].label;
+        allNodes[nodeId].label = undefined;
+      }
+    }
+    var connectedNodes = network.getConnectedNodes(selectedNode);
+    var allConnectedNodes = [];
+
+    // get the second degree nodes
+    for (i = 1; i < degrees; i++) {
+      for (j = 0; j < connectedNodes.length; j++) {
+        allConnectedNodes = allConnectedNodes.concat(
+          network.getConnectedNodes(connectedNodes[j])
+        );
+      }
+    }
+
+    // all second degree nodes get a different color and their label back
+    for (i = 0; i < allConnectedNodes.length; i++) {
+      // allNodes[allConnectedNodes[i]].color = "pink";
+      allNodes[allConnectedNodes[i]].color = "rgba(150,150,150,0.75)";
+      if (allNodes[allConnectedNodes[i]].hiddenLabel !== undefined) {
+        allNodes[allConnectedNodes[i]].label =
+          allNodes[allConnectedNodes[i]].hiddenLabel;
+        allNodes[allConnectedNodes[i]].hiddenLabel = undefined;
+      }
+    }
+
+    // all first degree nodes get their own color and their label back
+    for (i = 0; i < connectedNodes.length; i++) {
+      // allNodes[connectedNodes[i]].color = undefined;
+      allNodes[connectedNodes[i]].color = nodeColors[connectedNodes[i]];
+      if (allNodes[connectedNodes[i]].hiddenLabel !== undefined) {
+        allNodes[connectedNodes[i]].label =
+          allNodes[connectedNodes[i]].hiddenLabel;
+        allNodes[connectedNodes[i]].hiddenLabel = undefined;
+      }
+    }
+
+    // the main node gets its own color and its label back.
+    // allNodes[selectedNode].color = undefined;
+    allNodes[selectedNode].color = nodeColors[selectedNode];
+    if (allNodes[selectedNode].hiddenLabel !== undefined) {
+      allNodes[selectedNode].label = allNodes[selectedNode].hiddenLabel;
+      allNodes[selectedNode].hiddenLabel = undefined;
+    }
+  } else if (highlightActive === true) {
+    // console.log("highlightActive was true");
+    // reset all nodes
+    for (let nodeId in allNodes) {
+      // allNodes[nodeId].color = "purple";
+      allNodes[nodeId].color = nodeColors[nodeId];
+      // delete allNodes[nodeId].color;
+      if (allNodes[nodeId].hiddenLabel !== undefined) {
+        allNodes[nodeId].label = allNodes[nodeId].hiddenLabel;
+        allNodes[nodeId].hiddenLabel = undefined;
+      }
+    }
+    highlightActive = false;
+  }
+
+  // transform the object into an array
+  var updateArray = [];
+  if (params.nodes.length > 0) {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        // console.log(allNodes[nodeId]);
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  } else {
+    // console.log("Nothing was selected");
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        // console.log(allNodes[nodeId]);
+        // allNodes[nodeId].color = {};
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  }
+}
+
+function filterHighlight(params) {
+  allNodes = nodes.get({ returnType: "Object" });
+  // if something is selected:
+  if (params.nodes.length > 0) {
+    filterActive = true;
+    let selectedNodes = params.nodes;
+
+    // hiding all nodes and saving the label
+    for (let nodeId in allNodes) {
+      allNodes[nodeId].hidden = true;
+      if (allNodes[nodeId].savedLabel === undefined) {
+        allNodes[nodeId].savedLabel = allNodes[nodeId].label;
+        allNodes[nodeId].label = undefined;
+      }
+    }
+
+    for (let i=0; i < selectedNodes.length; i++) {
+      allNodes[selectedNodes[i]].hidden = false;
+      if (allNodes[selectedNodes[i]].savedLabel !== undefined) {
+        allNodes[selectedNodes[i]].label = allNodes[selectedNodes[i]].savedLabel;
+        allNodes[selectedNodes[i]].savedLabel = undefined;
+      }
+    }
+
+  } else if (filterActive === true) {
+    // reset all nodes
+    for (let nodeId in allNodes) {
+      allNodes[nodeId].hidden = false;
+      if (allNodes[nodeId].savedLabel !== undefined) {
+        allNodes[nodeId].label = allNodes[nodeId].savedLabel;
+        allNodes[nodeId].savedLabel = undefined;
+      }
+    }
+    filterActive = false;
+  }
+
+  // transform the object into an array
+  var updateArray = [];
+  if (params.nodes.length > 0) {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  } else {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  }
+}
+
+function selectNode(nodes) {
+  network.selectNodes(nodes);
+  neighbourhoodHighlight({ nodes: nodes });
+  return nodes;
+}
+
+function selectNodes(nodes) {
+  network.selectNodes(nodes);
+  filterHighlight({nodes: nodes});
+  return nodes;
+}
+
+function highlightFilter(filter) {
+  let selectedNodes = []
+  let selectedProp = filter['property']
+  if (filter['item'] === 'node') {
+    let allNodes = nodes.get({ returnType: "Object" });
+    for (let nodeId in allNodes) {
+      if (allNodes[nodeId][selectedProp] && filter['value'].includes((allNodes[nodeId][selectedProp]).toString())) {
+        selectedNodes.push(nodeId)
+      }
+    }
+  }
+  else if (filter['item'] === 'edge'){
+    let allEdges = edges.get({returnType: 'object'});
+    // check if the selected property exists for selected edge and select the nodes connected to the edge
+    for (let edge in allEdges) {
+      if (allEdges[edge][selectedProp] && filter['value'].includes((allEdges[edge][selectedProp]).toString())) {
+        selectedNodes.push(allEdges[edge]['from'])
+        selectedNodes.push(allEdges[edge]['to'])
+      }
+    }
+  }
+  selectNodes(selectedNodes)
+}</script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+            
+            
+            
+            
+            
+
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 1000px;
+                 height: 700px;
+                 background-color: #222222;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+             #loadingBar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width: 1000px;
+                 height: 700px;
+                 background-color:rgba(200,200,200,0.8);
+                 -webkit-transition: all 0.5s ease;
+                 -moz-transition: all 0.5s ease;
+                 -ms-transition: all 0.5s ease;
+                 -o-transition: all 0.5s ease;
+                 transition: all 0.5s ease;
+                 opacity:1;
+             }
+
+             #bar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width:20px;
+                 height:20px;
+                 margin:auto auto auto auto;
+                 border-radius:11px;
+                 border:2px solid rgba(30,30,30,0.05);
+                 background: rgb(0, 173, 246); /* Old browsers */
+                 box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+             }
+
+             #border {
+                 position:absolute;
+                 top:10px;
+                 left:10px;
+                 width:500px;
+                 height:23px;
+                 margin:auto auto auto auto;
+                 box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+                 border-radius:10px;
+             }
+
+             #text {
+                 position:absolute;
+                 top:8px;
+                 left:530px;
+                 width:30px;
+                 height:50px;
+                 margin:auto auto auto auto;
+                 font-size:22px;
+                 color: #000000;
+             }
+
+             div.outerBorder {
+                 position:relative;
+                 top:400px;
+                 width:600px;
+                 height:44px;
+                 margin:auto auto auto auto;
+                 border:8px solid rgba(0,0,0,0.1);
+                 background: rgb(252,252,252); /* Old browsers */
+                 background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+                 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+                 background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+                 background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+                 background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+                 background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+                 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+                 border-radius:72px;
+                 box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+             }
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+            <div id="loadingBar">
+              <div class="outerBorder">
+                <div id="text">0%</div>
+                <div id="border">
+                  <div id="bar"></div>
+                </div>
+              </div>
+            </div>
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "font": {"color": "white"}, "id": "Homer", "label": "Homer", "shape": "dot", "size": 34}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Vance", "label": "Vance", "shape": "dot", "size": 6}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Lenny", "label": "Lenny", "shape": "dot", "size": 6}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Marge", "label": "Marge", "shape": "dot", "size": 18}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Lisa", "label": "Lisa", "shape": "dot", "size": 23}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Bart", "label": "Bart", "shape": "dot", "size": 18}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "LISA", "label": "LISA", "shape": "dot", "size": 5}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Doreen", "label": "Doreen", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Marjorie", "label": "Marjorie", "shape": "dot", "size": 6}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "-", "label": "-", "shape": "dot", "size": 8}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Debbie", "label": "Debbie", "shape": "dot", "size": 6}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Ned", "label": "Ned", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Mmm", "label": "Mmm", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Bashir", "label": "Bashir", "shape": "dot", "size": 5}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Ruthie", "label": "Ruthie", "shape": "dot", "size": 4}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "MARGE", "label": "MARGE", "shape": "dot", "size": 5}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "COOK", "label": "COOK", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Fonzie", "label": "Fonzie", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Alberto", "label": "Alberto", "shape": "dot", "size": 5}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Juliet", "label": "Juliet", "shape": "dot", "size": 9}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Dennis", "label": "Dennis", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Simpson", "label": "Simpson", "shape": "dot", "size": 9}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jim", "label": "Jim", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "John", "label": "John", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Mom", "label": "Mom", "shape": "dot", "size": 5}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Flanders", "label": "Flanders", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Sylvia", "label": "Sylvia", "shape": "dot", "size": 4}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Dondalinger", "label": "Dondalinger", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Boo", "label": "Boo", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Carl", "label": "Carl", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Albert", "label": "Albert", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Alfred", "label": "Alfred", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Apu", "label": "Apu", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Avast", "label": "Avast", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Derek", "label": "Derek", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Homie", "label": "Homie", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Gail", "label": "Gail", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "God", "label": "God", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "HOMER", "label": "HOMER", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Maude", "label": "Maude", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Smithers", "label": "Smithers", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "caramba", "label": "caramba", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jackie", "label": "Jackie", "shape": "dot", "size": 4}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jacob", "label": "Jacob", "shape": "dot", "size": 11}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Teddy", "label": "Teddy", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "S", "label": "S", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Moe", "label": "Moe", "shape": "dot", "size": 4}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Mobs", "label": "Mobs", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Grady", "label": "Grady", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "McCain", "label": "McCain", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Bouvier", "label": "Bouvier", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Muk", "label": "Muk", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Isaac", "label": "Isaac", "shape": "dot", "size": 12}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jazzgal62", "label": "Jazzgal62", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Lipizzaner", "label": "Lipizzaner", "shape": "dot", "size": 8}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Martin", "label": "Martin", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Milhouse", "label": "Milhouse", "shape": "dot", "size": 4}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Granny", "label": "Granny", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Duff", "label": "Duff", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Denis", "label": "Denis", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Dad", "label": "Dad", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Kearney", "label": "Kearney", "shape": "dot", "size": 4}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Midge", "label": "Midge", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Wirakocha", "label": "Wirakocha", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Edna", "label": "Edna", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Seymour", "label": "Seymour", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jimbo", "label": "Jimbo", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Abraham", "label": "Abraham", "shape": "dot", "size": 12}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Josh", "label": "Josh", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Valedictoria", "label": "Valedictoria", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Helvetica", "label": "Helvetica", "shape": "dot", "size": 4}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Equalia", "label": "Equalia", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Leary", "label": "Leary", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Fayed", "label": "Fayed", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jordan", "label": "Jordan", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Patty", "label": "Patty", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Tom", "label": "Tom", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "The", "label": "The", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Halt", "label": "Halt", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Obama", "label": "Obama", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Olaf", "label": "Olaf", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "a", "label": "a", "shape": "dot", "size": 5}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Maya", "label": "Maya", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Myfriendsaregay", "label": "Myfriendsaregay", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Normousbutt", "label": "Normousbutt", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Burns", "label": "Burns", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Dolph", "label": "Dolph", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Homeroni", "label": "Homeroni", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Darth", "label": "Darth", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Judah", "label": "Judah", "shape": "dot", "size": 7}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "David", "label": "David", "shape": "dot", "size": 5}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jesus", "label": "Jesus", "shape": "dot", "size": 4}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Matthew", "label": "Matthew", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Perez", "label": "Perez", "shape": "dot", "size": 4}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Tamar", "label": "Tamar", "shape": "dot", "size": 4}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Zarah", "label": "Zarah", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Mark", "label": "Mark", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Kennedy", "label": "Kennedy", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "AGNES", "label": "AGNES", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Batman", "label": "Batman", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Bruce", "label": "Bruce", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Sweetheart", "label": "Sweetheart", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Loser", "label": "Loser", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Quenley", "label": "Quenley", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Simon", "label": "Simon", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "BART", "label": "BART", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Chester", "label": "Chester", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Devon", "label": "Devon", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Mariah", "label": "Mariah", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Bill", "label": "Bill", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Marty", "label": "Marty", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Duffman", "label": "Duffman", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Paul", "label": "Paul", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Poochie", "label": "Poochie", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Carls", "label": "Carls", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Lennys", "label": "Lennys", "shape": "dot", "size": 1}]);
+                  edges = new vis.DataSet([{"from": "Homer", "to": "Vance", "value": 27, "width": 1}, {"from": "Homer", "to": "Lenny", "value": 25, "width": 1}, {"from": "Homer", "to": "Marge", "value": 21, "width": 1}, {"from": "Homer", "to": "Lisa", "value": 18, "width": 1}, {"from": "Homer", "to": "Bart", "value": 11, "width": 1}, {"from": "Homer", "to": "LISA", "value": 9, "width": 1}, {"from": "Homer", "to": "Doreen", "value": 8, "width": 1}, {"from": "Homer", "to": "Marjorie", "value": 6, "width": 1}, {"from": "Homer", "to": "-", "value": 6, "width": 1}, {"from": "Homer", "to": "Debbie", "value": 6, "width": 1}, {"from": "Homer", "to": "Ned", "value": 6, "width": 1}, {"from": "Homer", "to": "Mmm", "value": 6, "width": 1}, {"from": "Homer", "to": "Bashir", "value": 5, "width": 1}, {"from": "Homer", "to": "Ruthie", "value": 5, "width": 1}, {"from": "Homer", "to": "MARGE", "value": 5, "width": 1}, {"from": "Homer", "to": "COOK", "value": 5, "width": 1}, {"from": "Homer", "to": "Fonzie", "value": 5, "width": 1}, {"from": "Homer", "to": "Alberto", "value": 4, "width": 1}, {"from": "Homer", "to": "Juliet", "value": 4, "width": 1}, {"from": "Homer", "to": "Dennis", "value": 4, "width": 1}, {"from": "Homer", "to": "Simpson", "value": 4, "width": 1}, {"from": "Homer", "to": "Jim", "value": 3, "width": 1}, {"from": "Homer", "to": "John", "value": 3, "width": 1}, {"from": "Homer", "to": "Mom", "value": 3, "width": 1}, {"from": "Homer", "to": "Flanders", "value": 3, "width": 1}, {"from": "Homer", "to": "Sylvia", "value": 3, "width": 1}, {"from": "Homer", "to": "Dondalinger", "value": 3, "width": 1}, {"from": "Homer", "to": "Boo", "value": 3, "width": 1}, {"from": "Homer", "to": "Carl", "value": 3, "width": 1}, {"from": "Homer", "to": "Albert", "value": 2, "width": 1}, {"from": "Homer", "to": "Alfred", "value": 2, "width": 1}, {"from": "Homer", "to": "Apu", "value": 2, "width": 1}, {"from": "Homer", "to": "Avast", "value": 2, "width": 1}, {"from": "Homer", "to": "Derek", "value": 2, "width": 1}, {"from": "Vance", "to": "LISA", "value": 7, "width": 1}, {"from": "Vance", "to": "Homie", "value": 3, "width": 1}, {"from": "Vance", "to": "Lenny", "value": 3, "width": 1}, {"from": "Vance", "to": "Fonzie", "value": 3, "width": 1}, {"from": "Vance", "to": "Gail", "value": 3, "width": 1}, {"from": "Lenny", "to": "Bart", "value": 6, "width": 1}, {"from": "Lenny", "to": "Doreen", "value": 4, "width": 1}, {"from": "Lenny", "to": "God", "value": 4, "width": 1}, {"from": "Lenny", "to": "Dennis", "value": 2, "width": 1}, {"from": "Marge", "to": "Lisa", "value": 13, "width": 1}, {"from": "Marge", "to": "Bart", "value": 10, "width": 1}, {"from": "Marge", "to": "Mmm", "value": 10, "width": 1}, {"from": "Marge", "to": "Sylvia", "value": 9, "width": 1}, {"from": "Marge", "to": "HOMER", "value": 7, "width": 1}, {"from": "Marge", "to": "Alberto", "value": 6, "width": 1}, {"from": "Marge", "to": "Ned", "value": 5, "width": 1}, {"from": "Marge", "to": "Flanders", "value": 5, "width": 1}, {"from": "Marge", "to": "Marjorie", "value": 4, "width": 1}, {"from": "Marge", "to": "Maude", "value": 4, "width": 1}, {"from": "Marge", "to": "Debbie", "value": 4, "width": 1}, {"from": "Marge", "to": "Homie", "value": 3, "width": 1}, {"from": "Marge", "to": "Smithers", "value": 3, "width": 1}, {"from": "Marge", "to": "caramba", "value": 3, "width": 1}, {"from": "Marge", "to": "Dondalinger", "value": 2, "width": 1}, {"from": "Marge", "to": "Jackie", "value": 2, "width": 1}, {"from": "Marge", "to": "Jacob", "value": 2, "width": 1}, {"from": "Lisa", "to": "Bart", "value": 15, "width": 1}, {"from": "Lisa", "to": "-", "value": 14, "width": 1}, {"from": "Lisa", "to": "Juliet", "value": 12, "width": 1}, {"from": "Lisa", "to": "Simpson", "value": 11, "width": 1}, {"from": "Lisa", "to": "Teddy", "value": 9, "width": 1}, {"from": "Lisa", "to": "S", "value": 8, "width": 1}, {"from": "Lisa", "to": "Moe", "value": 6, "width": 1}, {"from": "Lisa", "to": "Mobs", "value": 6, "width": 1}, {"from": "Lisa", "to": "Grady", "value": 6, "width": 1}, {"from": "Lisa", "to": "McCain", "value": 5, "width": 1}, {"from": "Lisa", "to": "Jackie", "value": 5, "width": 1}, {"from": "Lisa", "to": "Bouvier", "value": 5, "width": 1}, {"from": "Lisa", "to": "Muk", "value": 4, "width": 1}, {"from": "Lisa", "to": "Isaac", "value": 4, "width": 1}, {"from": "Lisa", "to": "Jazzgal62", "value": 3, "width": 1}, {"from": "Lisa", "to": "John", "value": 3, "width": 1}, {"from": "Lisa", "to": "Lipizzaner", "value": 3, "width": 1}, {"from": "Lisa", "to": "Martin", "value": 3, "width": 1}, {"from": "Lisa", "to": "Milhouse", "value": 3, "width": 1}, {"from": "Lisa", "to": "Granny", "value": 2, "width": 1}, {"from": "Lisa", "to": "Duff", "value": 2, "width": 1}, {"from": "Bart", "to": "Juliet", "value": 11, "width": 1}, {"from": "Bart", "to": "Denis", "value": 10, "width": 1}, {"from": "Bart", "to": "Simpson", "value": 8, "width": 1}, {"from": "Bart", "to": "Bashir", "value": 7, "width": 1}, {"from": "Bart", "to": "MARGE", "value": 7, "width": 1}, {"from": "Bart", "to": "caramba", "value": 7, "width": 1}, {"from": "Bart", "to": "Mom", "value": 6, "width": 1}, {"from": "Bart", "to": "God", "value": 5, "width": 1}, {"from": "Bart", "to": "Milhouse", "value": 5, "width": 1}, {"from": "Bart", "to": "LISA", "value": 4, "width": 1}, {"from": "Bart", "to": "Dad", "value": 3, "width": 1}, {"from": "Bart", "to": "Kearney", "value": 3, "width": 1}, {"from": "Bart", "to": "Midge", "value": 3, "width": 1}, {"from": "Bart", "to": "Wirakocha", "value": 3, "width": 1}, {"from": "-", "to": "Muk", "value": 6, "width": 1}, {"from": "-", "to": "Edna", "value": 2, "width": 1}, {"from": "-", "to": "Grady", "value": 2, "width": 1}, {"from": "-", "to": "Marjorie", "value": 2, "width": 1}, {"from": "-", "to": "Ruthie", "value": 2, "width": 1}, {"from": "-", "to": "Seymour", "value": 2, "width": 1}, {"from": "Kearney", "to": "Simpson", "value": 12, "width": 1}, {"from": "Kearney", "to": "Moe", "value": 5, "width": 1}, {"from": "Kearney", "to": "Jimbo", "value": 4, "width": 1}, {"from": "Simpson", "to": "Jimbo", "value": 4, "width": 1}, {"from": "Simpson", "to": "Abraham", "value": 2, "width": 1}, {"from": "Simpson", "to": "Bouvier", "value": 2, "width": 1}, {"from": "Simpson", "to": "Isaac", "value": 2, "width": 1}, {"from": "Simpson", "to": "Jacob", "value": 2, "width": 1}, {"from": "Juliet", "to": "John", "value": 5, "width": 1}, {"from": "Juliet", "to": "Josh", "value": 3, "width": 1}, {"from": "Juliet", "to": "LISA", "value": 3, "width": 1}, {"from": "Juliet", "to": "Valedictoria", "value": 3, "width": 1}, {"from": "Juliet", "to": "Helvetica", "value": 3, "width": 1}, {"from": "Juliet", "to": "Equalia", "value": 3, "width": 1}, {"from": "Denis", "to": "Leary", "value": 4, "width": 1}, {"from": "Denis", "to": "Derek", "value": 3, "width": 1}, {"from": "Sylvia", "to": "Marjorie", "value": 6, "width": 1}, {"from": "Sylvia", "to": "Alberto", "value": 4, "width": 1}, {"from": "LISA", "to": "Debbie", "value": 3, "width": 1}, {"from": "Bashir", "to": "Carl", "value": 3, "width": 1}, {"from": "Bashir", "to": "Fayed", "value": 3, "width": 1}, {"from": "Bashir", "to": "Jordan", "value": 3, "width": 1}, {"from": "HOMER", "to": "Patty", "value": 2, "width": 1}, {"from": "MARGE", "to": "Abraham", "value": 2, "width": 1}, {"from": "MARGE", "to": "Isaac", "value": 2, "width": 1}, {"from": "MARGE", "to": "Jacob", "value": 2, "width": 1}, {"from": "Milhouse", "to": "Tom", "value": 7, "width": 1}, {"from": "Milhouse", "to": "The", "value": 3, "width": 1}, {"from": "Tom", "to": "Halt", "value": 5, "width": 1}, {"from": "Tom", "to": "The", "value": 3, "width": 1}, {"from": "McCain", "to": "Obama", "value": 6, "width": 1}, {"from": "Mom", "to": "Dad", "value": 4, "width": 1}, {"from": "Mom", "to": "Lipizzaner", "value": 3, "width": 1}, {"from": "Mom", "to": "Debbie", "value": 3, "width": 1}, {"from": "Marjorie", "to": "Ruthie", "value": 4, "width": 1}, {"from": "Marjorie", "to": "Alberto", "value": 3, "width": 1}, {"from": "Olaf", "to": "a", "value": 6, "width": 1}, {"from": "Olaf", "to": "Maya", "value": 3, "width": 1}, {"from": "a", "to": "Maya", "value": 6, "width": 1}, {"from": "a", "to": "Myfriendsaregay", "value": 3, "width": 1}, {"from": "a", "to": "Normousbutt", "value": 3, "width": 1}, {"from": "a", "to": "Debbie", "value": 3, "width": 1}, {"from": "Maya", "to": "Normousbutt", "value": 3, "width": 1}, {"from": "Debbie", "to": "Dad", "value": 3, "width": 1}, {"from": "Muk", "to": "Burns", "value": 3, "width": 1}, {"from": "Moe", "to": "Jimbo", "value": 4, "width": 1}, {"from": "Moe", "to": "Dolph", "value": 4, "width": 1}, {"from": "Alberto", "to": "Ruthie", "value": 2, "width": 1}, {"from": "Helvetica", "to": "Valedictoria", "value": 5, "width": 1}, {"from": "Helvetica", "to": "Homeroni", "value": 3, "width": 1}, {"from": "Helvetica", "to": "Darth", "value": 2, "width": 1}, {"from": "Jacob", "to": "Judah", "value": 5, "width": 1}, {"from": "Jacob", "to": "Isaac", "value": 5, "width": 1}, {"from": "Jacob", "to": "Abraham", "value": 4, "width": 1}, {"from": "Jacob", "to": "David", "value": 2, "width": 1}, {"from": "Jacob", "to": "Jesus", "value": 2, "width": 1}, {"from": "Jacob", "to": "Matthew", "value": 2, "width": 1}, {"from": "Jacob", "to": "Perez", "value": 2, "width": 1}, {"from": "Jacob", "to": "Tamar", "value": 2, "width": 1}, {"from": "Judah", "to": "Isaac", "value": 4, "width": 1}, {"from": "Judah", "to": "Abraham", "value": 4, "width": 1}, {"from": "Judah", "to": "Perez", "value": 3, "width": 1}, {"from": "Judah", "to": "Tamar", "value": 3, "width": 1}, {"from": "Judah", "to": "Zarah", "value": 3, "width": 1}, {"from": "Judah", "to": "David", "value": 2, "width": 1}, {"from": "Mark", "to": "Smithers", "value": 5, "width": 1}, {"from": "Jackie", "to": "Bouvier", "value": 3, "width": 1}, {"from": "Jackie", "to": "Kennedy", "value": 2, "width": 1}, {"from": "Abraham", "to": "Isaac", "value": 5, "width": 1}, {"from": "Abraham", "to": "David", "value": 3, "width": 1}, {"from": "Abraham", "to": "Jesus", "value": 3, "width": 1}, {"from": "Abraham", "to": "Homie", "value": 2, "width": 1}, {"from": "Abraham", "to": "Matthew", "value": 2, "width": 1}, {"from": "Abraham", "to": "Perez", "value": 2, "width": 1}, {"from": "Abraham", "to": "Tamar", "value": 2, "width": 1}, {"from": "Abraham", "to": "Zarah", "value": 2, "width": 1}, {"from": "Isaac", "to": "David", "value": 2, "width": 1}, {"from": "Isaac", "to": "Jesus", "value": 2, "width": 1}, {"from": "Isaac", "to": "Matthew", "value": 2, "width": 1}, {"from": "Isaac", "to": "Perez", "value": 2, "width": 1}, {"from": "Isaac", "to": "Tamar", "value": 2, "width": 1}, {"from": "Isaac", "to": "Zarah", "value": 2, "width": 1}, {"from": "Edna", "to": "Seymour", "value": 4, "width": 1}, {"from": "Seymour", "to": "AGNES", "value": 3, "width": 1}, {"from": "Batman", "to": "Bruce", "value": 3, "width": 1}, {"from": "Batman", "to": "Alfred", "value": 3, "width": 1}, {"from": "Batman", "to": "Sweetheart", "value": 2, "width": 1}, {"from": "David", "to": "Jesus", "value": 2, "width": 1}, {"from": "Lipizzaner", "to": "Loser", "value": 3, "width": 1}, {"from": "Lipizzaner", "to": "Quenley", "value": 3, "width": 1}, {"from": "Lipizzaner", "to": "Simon", "value": 3, "width": 1}, {"from": "Lipizzaner", "to": "BART", "value": 3, "width": 1}, {"from": "Lipizzaner", "to": "Chester", "value": 3, "width": 1}, {"from": "Lipizzaner", "to": "Devon", "value": 3, "width": 1}, {"from": "Derek", "to": "Mariah", "value": 2, "width": 1}, {"from": "Bill", "to": "Marty", "value": 2, "width": 1}, {"from": "Duffman", "to": "Paul", "value": 2, "width": 1}, {"from": "Duffman", "to": "Poochie", "value": 2, "width": 1}, {"from": "Carls", "to": "Lennys", "value": 2, "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+                      network.on("stabilizationProgress", function(params) {
+                          document.getElementById('loadingBar').removeAttribute("style");
+                          var maxWidth = 496;
+                          var minWidth = 20;
+                          var widthFactor = params.iterations/params.total;
+                          var width = Math.max(minWidth,maxWidth * widthFactor);
+                          document.getElementById('bar').style.width = width + 'px';
+                          document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+                      });
+                      network.once("stabilizationIterationsDone", function() {
+                          document.getElementById('text').innerHTML = '100%';
+                          document.getElementById('bar').style.width = '496px';
+                          document.getElementById('loadingBar').style.opacity = 0;
+                          // really clean the dom element
+                          setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+                      });
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
