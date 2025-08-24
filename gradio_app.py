@@ -1,6 +1,6 @@
 import gradio as gr
 from theme_classifier import ThemeClassifier
-# from character_network import NamedEntityRecognizer, CharacterNetworkGenerator
+from character_network import NamedEntityRecognizer, CharacterNetworkGenerator
 # from text_classification import JutsuClassifier
 # from character_chatbot import CharacterChatBot
 # import os
@@ -31,15 +31,15 @@ def get_themes(theme_list_str,subtitles_path,save_path):
 
     return output_chart
 
-# def get_character_network(subtitles_path,ner_path):
-#     ner = NamedEntityRecognizer()
-#     ner_df = ner.get_ners(subtitles_path,ner_path)
+def get_character_network(subtitles_path,ner_path):
+    ner = NamedEntityRecognizer()
+    ner_df = ner.get_ners(subtitles_path,ner_path)
 
-#     character_network_generator = CharacterNetworkGenerator()
-#     relationship_df = character_network_generator.generate_character_network(ner_df)
-#     html = character_network_generator.draw_network_graph(relationship_df)
+    character_network_generator = CharacterNetworkGenerator()
+    relationship_df = character_network_generator.generate_character_network(ner_df)
+    html = character_network_generator.draw_network_graph(relationship_df)
 
-#     return html
+    return html
 
 # def classify_text(text_classifcation_model,text_classifcation_data_path,text_to_classify):
 #     jutsu_classifier = JutsuClassifier(model_path = text_classifcation_model,
@@ -72,23 +72,23 @@ def main():
                         plot = gr.BarPlot()
                     with gr.Column():
                         theme_list = gr.Textbox(label="Themes", value="Friendship, Stupidity, Ignorance, Family, Cult, Love, Betrayal, Revenge, Justice, Sacrifice, Courage, Loyalty, Greed, Power, Corruption, Redemption, Identity, Belonging, Freedom, Conformity, Rebellion, Hope")
-                        subtitles_path = gr.Textbox(label="Subtitles or Script Path", value="C:/wamp64/www/the-simpsons-ai-analysis/data/subtitles")
-                        save_path = gr.Textbox(label="Save Path", value="C:/wamp64/www/the-simpsons-ai-analysis/stubs/theme_classifier_output.csv")
+                        subtitles_path = gr.Textbox(label="Subtitles or Script Path")
+                        save_path = gr.Textbox(label="Save Path")
                         get_themes_button =gr.Button("Get Themes")
                         get_themes_button.click(get_themes, inputs=[theme_list,subtitles_path,save_path], outputs=[plot])
 
-        # # Character Network Section
-        # with gr.Row():
-        #     with gr.Column():
-        #         gr.HTML("<h1>Character Network (NERs and Graphs)</h1>")
-        #         with gr.Row():
-        #             with gr.Column():
-        #                 network_html = gr.HTML()
-        #             with gr.Column():
-        #                 subtitles_path = gr.Textbox(label="Subtutles or Script Path")
-        #                 ner_path = gr.Textbox(label="NERs save path")
-        #                 get_network_graph_button = gr.Button("Get Character Network")
-        #                 get_network_graph_button.click(get_character_network, inputs=[subtitles_path,ner_path], outputs=[network_html])
+        # Character Network Section
+        with gr.Row():
+            with gr.Column():
+                gr.HTML("<h1>Character Network (NERs and Graphs)</h1>")
+                with gr.Row():
+                    with gr.Column():
+                        network_html = gr.HTML()
+                    with gr.Column():
+                        subtitles_path = gr.Textbox(label="Subtitles or Script Path")
+                        ner_path = gr.Textbox(label="NERs save path")
+                        get_network_graph_button = gr.Button("Get Character Network")
+                        get_network_graph_button.click(get_character_network, inputs=[subtitles_path,ner_path], outputs=[network_html])
 
         # # Text Classification with LLMs
         # with gr.Row():
