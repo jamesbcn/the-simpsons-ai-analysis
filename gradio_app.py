@@ -71,7 +71,7 @@ def main():
                     with gr.Column():
                         plot = gr.BarPlot()
                     with gr.Column():
-                        theme_list = gr.Textbox(label="Themes", value="Friendship, Stupidity, Ignorance, Family, Cult, Love, Betrayal, Revenge, Justice, Sacrifice, Courage, Loyalty, Greed, Power, Corruption, Redemption, Identity, Belonging, Freedom, Conformity, Rebellion, Hope")
+                        theme_list = gr.Textbox(label="Themes", value="Love, Family, Betrayal, Revenge, Justice, Sacrifice, Courage, Loyalty, Identity, Freedom, Hope")
                         subtitles_path = gr.Textbox(label="Subtitles or Script Path")
                         save_path = gr.Textbox(label="Save Path")
                         get_themes_button =gr.Button("Get Themes")
