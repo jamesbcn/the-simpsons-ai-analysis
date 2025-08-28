@@ -47,7 +47,7 @@ class NamedEntityRecognizer:
 
         # load dataset 
         df = load_subtitles_dataset(dataset_path)
-        df = df.sample(n=250, random_state=42).reset_index(drop=True)
+        df = df.sample(n=200, random_state=42).reset_index(drop=True)
 
         # Run Inference
         df['ners'] = df['script'].apply(self.get_ners_inference)
